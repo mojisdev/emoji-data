@@ -1,0 +1,62 @@
+name: detect new releases
+
+on:
+  workflow_dispatch:
+    inputs:
+      dry-run:
+        type: boolean
+        description: Run the workflow without creating a pull request
+        required: false
+        default: false
+
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4.2.2
+
+      - uses: oven-sh/setup-bun@v2.0.1
+        with:
+          bun-version: latest
+
+      - name: install dependencies
+        run: bun install
+
+      - name: check latest release
+        run: bun run check:release
+
+      - name: detect changes for `emojis.lock`
+        id: has-lock-changes
+        run: |
+          git diff --exit-code --name-only emojis.lock
+          echo "has-lock-changes=${?}" >> $GITHUB_OUTPUT
+
+      - name: create pull request
+        uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
+        if: ${{ github.event.inputs.dry-run != 'true' }}
+        with:
+          commit-message: "feat: new emoji release"
+          title: "feat: new emoji release"
+          body: |
+            I found a new emoji release 🎉.
+
+            I don't know what they changed, but I'm sure it's awesome 🤖.
+
+            > [!IMPORTANT]
+            > When you merge this PR, i will trigger a action to build the new emoji release.
+
+            I will be waiting for your approval 👋.
+
+            This is an automated PR to update the emoji releases.
+          branch: new-emoji-release
+          add-paths: emojis.lock
+          base: main
+          committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
+          reviewers: luxass
+
+
