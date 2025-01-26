@@ -27,17 +27,21 @@ jobs:
       - name: get new releases
         id: new-releases
         run: |
-          # get versions from emojis.lock before and after the PR
-          BEFORE_PR=$(git show HEAD^:emojis.lock | jq -r '.versions | keys[]')
+          # get the commit before the merge
+          PREV_COMMIT=$(git rev-parse HEAD^)
 
-          # get versions from emojis.lock after the PR
-          AFTER_PR=$(cat emojis.lock | jq -r '.versions | keys[]')
+          # retrieve emojis.lock from the previous commit
+          git show $PREV_COMMIT:emojis.lock > previous_emojis.lock
 
-          # get the diff between the two versions
+          # compare versions
+          BEFORE_PR=$(jq -r '.versions | keys[]' previous_emojis.lock)
+          AFTER_PR=$(jq -r '.versions | keys[]' emojis.lock)
+
+          # get the diff between versions
           DIFF=$(comm -13 <(echo "$BEFORE_PR") <(echo "$AFTER_PR"))
 
           echo "DIFF: $DIFF"
-          echo "DIFF=$(echo $DIFF | jq -R -s -c 'split("\n")' | jq -c -r '.[]')" >> $GITHUB_OUTPUT
+          echo "DIFF=$(echo "$DIFF" | jq -R -s -c 'split("\n")' | jq -c -r '.[]')" >> $GITHUB_OUTPUT
 
       - name: build emoji release
         run: bun run build:emoji
