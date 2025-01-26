@@ -38,10 +38,8 @@ jobs:
           BEFORE_PR=$(jq -r '.versions | keys[]' previous_emojis.lock)
           AFTER_PR=$(jq -r '.versions | keys[]' emojis.lock)
 
-          # get the diff between versions
-          DIFF=$(comm -13 <(echo "$BEFORE_PR") <(echo "$AFTER_PR"))
+          DIFF=$(diff -u <(echo "$BEFORE_VERSIONS") <(echo "$AFTER_VERSIONS") | grep '^+' | cut -d+ -f2 | grep -v '^$')
 
-          echo "DIFF: $DIFF"
           echo "DIFF=$(echo "$DIFF" | jq -R -s -c 'split("\n")' | jq -c -r '.[]')" >> $GITHUB_OUTPUT
 
       - name: build emoji release
