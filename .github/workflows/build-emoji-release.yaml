@@ -28,20 +28,20 @@ jobs:
       - name: get new releases
         id: new-releases
         run: |
-          # get the commit before the merge
           PREV_COMMIT=$(git rev-parse HEAD^)
 
-          # retrieve emojis.lock from the previous commit
           git show $PREV_COMMIT:emojis.lock > previous_emojis.lock
 
-          # compare versions
-          BEFORE_PR=$(jq -r '.versions | keys[]' previous_emojis.lock)
-          AFTER_PR=$(jq -r '.versions | keys[]' emojis.lock)
+          DIFF=$(jq -n \
+            --slurpfile before previous_emojis.lock \
+            --slurpfile after emojis.lock \
+            '($before[0].versions | map(tostring)) as $oldVersions |
+             ($after[0].versions | map(tostring)) as $newVersions |
+             $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[]')
 
-          DIFF=$(echo "$AFTER_VERSIONS" | grep -vFx "$BEFORE_VERSIONS")
           echo "DIFF_VERSIONS=$DIFF" >> $GITHUB_OUTPUT
 
       - name: build emoji release
         env:
-          NEW_VERSIONS: ${{ steps.new-releases.outputs.DIFF }}
-        run: bun run build:emoji $NEW_VERSIONS
+          NEW_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
+        run: bun run build:emoji $NEW_VERSIONS || true
