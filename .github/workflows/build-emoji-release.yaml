@@ -8,14 +8,10 @@ on:
 jobs:
   build-emoji-release:
     # Only run if the PR was merged and originated from the 'new-emoji-release' branch
-    if: >
-      github.event.pull_request.merged == true &&
-      github.event.pull_request.head.ref == 'new-emoji-release'
-
+    if: ${{ github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'new-emoji-release' }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
-
     steps:
       - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
         with:
