@@ -13,9 +13,12 @@ on:
     - cron: "0 0 * * *"
 
 jobs:
-  build:
+  detect-new-releases:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
+    permissions:
+      contents: write
+      pull-requests: write
     steps:
       - uses: actions/checkout@v4.2.2
 
