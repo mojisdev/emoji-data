@@ -16,7 +16,7 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "generate": "bun run ./scripts/generate.ts",
+    "build:emoji": "bun run ./scripts/build-emoji.ts",
     "check:release": "bun run ./scripts/check-release.ts"
   },
   "devDependencies": {

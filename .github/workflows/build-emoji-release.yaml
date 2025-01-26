@@ -1,0 +1,47 @@
+name: Build Emoji Release
+
+on:
+  pull_request:
+    types:
+      - closed
+
+jobs:
+  build-emoji-release:
+    # Only run if the PR was merged and originated from the 'new-emoji-release' branch
+    if: >
+      github.event.pull_request.merged == true &&
+      github.event.pull_request.head.ref == 'new-emoji-release'
+
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+
+      - uses: oven-sh/setup-bun@4bc047ad259df6fc24a6c9b0f9a0cb08cf17fbe5 # v2.0.1
+        with:
+          bun-version: latest
+
+      - name: install dependencies
+        run: bun install
+
+      - name: get new releases
+        id: new-releases
+        run: |
+          # get versions from emojis.lock before and after the PR
+          BEFORE_PR=$(git show HEAD^:emojis.lock | jq -r '.versions | keys[]')
+
+          # get versions from emojis.lock after the PR
+          AFTER_PR=$(cat emojis.lock | jq -r '.versions | keys[]')
+
+          # get the diff between the two versions
+          DIFF=$(comm -13 <(echo "$BEFORE_PR") <(echo "$AFTER_PR"))
+
+          echo "DIFF: $DIFF"
+          echo "DIFF=$(echo $DIFF | jq -R -s -c 'split("\n")' | jq -c -r '.[]')" >> $GITHUB_OUTPUT
+
+      - name: build emoji release
+        run: bun run build:emoji
