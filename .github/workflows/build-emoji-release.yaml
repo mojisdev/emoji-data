@@ -45,4 +45,6 @@ jobs:
           echo "DIFF=$(echo "$DIFF" | jq -R -s -c 'split("\n")' | jq -c -r '.[]')" >> $GITHUB_OUTPUT
 
       - name: build emoji release
-        run: bun run build:emoji
+        env:
+          NEW_VERSIONS: ${{ steps.new-releases.outputs.DIFF }}
+        run: bun run build:emoji $NEW_VERSIONS
