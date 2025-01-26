@@ -37,7 +37,8 @@ jobs:
             --slurpfile after emojis.lock \
             '($before[0].versions | map(tostring)) as $oldVersions |
              ($after[0].versions | map(tostring)) as $newVersions |
-             $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[]')
+             $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[] |
+             select(.)' | tr '\n' ' ')
 
           echo "DIFF_VERSIONS=$DIFF" >> $GITHUB_OUTPUT
 
