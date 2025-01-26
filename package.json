@@ -1,0 +1,28 @@
+{
+  "name": "emoji-data",
+  "type": "module",
+  "private": true,
+  "author": {
+    "name": "Lucas Nørgård",
+    "email": "lucasnrgaard@gmail.com",
+    "url": "https://luxass.dev"
+  },
+  "packageManager": "bun@1.2.0",
+  "license": "MIT",
+  "homepage": "https://github.com/mojisdev/emoji-data",
+  "repository": "https://github.com/mojisdev/emoji-data",
+  "bugs": {
+    "url": "https://github.com/mojisdev/emoji-data/issues"
+  },
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@luxass/eslint-config": "^4.15.0",
+    "@types/bun": "^1.2.0",
+    "@types/node": "^22.10.10",
+    "eslint": "^9.19.0",
+    "eslint-plugin-format": "^1.0.1",
+    "typescript": "^5.7.3"
+  }
+}
