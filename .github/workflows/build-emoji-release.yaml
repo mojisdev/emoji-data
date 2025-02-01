@@ -69,7 +69,7 @@ jobs:
           AUTO_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
         run: |
           # use manual versions if provided, otherwise fallback to auto-detected versions
-          FINAL_VERSIONS="${MANUAL_VERSIONS:-$AUTO_VERSIONS}"
+          FINAL_VERSIONS="${VERSIONS:-$AUTO_VERSIONS}"
 
           echo "using versions: $FINAL_VERSIONS"
           echo "FINAL_VERSIONS=$FINAL_VERSIONS" >> $GITHUB_OUTPUT
