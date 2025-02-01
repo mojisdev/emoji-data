@@ -19,7 +19,11 @@ on:
     types:
       - closed
     branches:
-      - new-emoji-release
+      # this will limit the github actions a bit.
+      - main
+    paths:
+      - emojis.lock
+      - unicode/**
 
 permissions: {}
 
