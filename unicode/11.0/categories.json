@@ -1,0 +1,34 @@
+[
+  {
+    "name": "Smileys & People",
+    "slug": "smileys-people"
+  },
+  {
+    "name": "Animals & Nature",
+    "slug": "animals-nature"
+  },
+  {
+    "name": "Food & Drink",
+    "slug": "food-drink"
+  },
+  {
+    "name": "Travel & Places",
+    "slug": "travel-places"
+  },
+  {
+    "name": "Activities",
+    "slug": "activities"
+  },
+  {
+    "name": "Objects",
+    "slug": "objects"
+  },
+  {
+    "name": "Symbols",
+    "slug": "symbols"
+  },
+  {
+    "name": "Flags",
+    "slug": "flags"
+  }
+]
