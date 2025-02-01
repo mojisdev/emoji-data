@@ -68,8 +68,10 @@ jobs:
           VERSIONS: ${{ github.event.inputs.versions }}
           AUTO_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
         run: |
+          SEPARATED_VERSIONS=$(echo $VERSIONS | tr ',' ' ')
+
           # use manual versions if provided, otherwise fallback to auto-detected versions
-          FINAL_VERSIONS="${VERSIONS:-$AUTO_VERSIONS}"
+          FINAL_VERSIONS="${SEPARATED_VERSIONS:-$AUTO_VERSIONS}"
 
           echo "using versions: $FINAL_VERSIONS"
           echo "FINAL_VERSIONS=$FINAL_VERSIONS" >> $GITHUB_OUTPUT
