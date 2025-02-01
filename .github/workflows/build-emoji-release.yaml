@@ -18,6 +18,8 @@ on:
   pull_request:
     types:
       - closed
+    branches:
+      - new-emoji-release
 
 permissions: {}
 
