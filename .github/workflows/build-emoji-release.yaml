@@ -85,7 +85,7 @@ jobs:
 
             This is an automated PR to update the emoji data.
           branch: update-emojis
-          add-paths: unicode/*
+          add-paths: unicode/*,emojis.lock
           base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
