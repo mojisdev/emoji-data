@@ -9,14 +9,22 @@ on:
         required: false
         default: false
 
+      versions:
+        type: string
+        description: The versions to build the emoji release for
+        required: true
+        default: ''
+
   pull_request:
     types:
       - closed
 
+permissions: {}
+
 jobs:
   build-emoji-release:
-    # only run if the PR was merged and originated from the 'new-emoji-release' branch
-    if: ${{ github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'new-emoji-release' }}
+    # only run if the pr was merged and originated from the 'new-emoji-release' branch or manually triggered
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'new-emoji-release') }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -36,6 +44,7 @@ jobs:
 
       - name: get new releases
         id: new-releases
+        if: github.event_name != 'workflow_dispatch'
         run: |
           PREV_COMMIT=$(git rev-parse HEAD^)
 
@@ -51,10 +60,23 @@ jobs:
 
           echo "DIFF_VERSIONS=$DIFF" >> $GITHUB_OUTPUT
 
+      - name: determine emoji versions
+        id: emoji-versions
+        env:
+          VERSIONS: ${{ github.event.inputs.versions }}
+          AUTO_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
+        run: |
+          # use manual versions if provided, otherwise fallback to auto-detected versions
+          FINAL_VERSIONS="${MANUAL_VERSIONS:-$AUTO_VERSIONS}"
+
+          echo "using versions: $FINAL_VERSIONS"
+          echo "FINAL_VERSIONS=$FINAL_VERSIONS" >> $GITHUB_OUTPUT
+
+
       - name: build emoji release
         env:
-          NEW_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
-        run: bun run build:emoji $NEW_VERSIONS || true
+          FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
+        run: bun run build:emoji $FINAL_VERSIONS || true
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
