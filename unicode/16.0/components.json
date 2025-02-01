@@ -1,0 +1,47 @@
+{
+  "light-skin-tone": {
+    "name": "light skin tone",
+    "slug": "light-skin-tone",
+    "emoji": "🏻"
+  },
+  "medium-light-skin-tone": {
+    "name": "medium-light skin tone",
+    "slug": "medium-light-skin-tone",
+    "emoji": "🏼"
+  },
+  "medium-skin-tone": {
+    "name": "medium skin tone",
+    "slug": "medium-skin-tone",
+    "emoji": "🏽"
+  },
+  "medium-dark-skin-tone": {
+    "name": "medium-dark skin tone",
+    "slug": "medium-dark-skin-tone",
+    "emoji": "🏾"
+  },
+  "dark-skin-tone": {
+    "name": "dark skin tone",
+    "slug": "dark-skin-tone",
+    "emoji": "🏿"
+  },
+  "red-hair": {
+    "name": "red hair",
+    "slug": "red-hair",
+    "emoji": "🦰"
+  },
+  "curly-hair": {
+    "name": "curly hair",
+    "slug": "curly-hair",
+    "emoji": "🦱"
+  },
+  "white-hair": {
+    "name": "white hair",
+    "slug": "white-hair",
+    "emoji": "🦳"
+  },
+  "bald": {
+    "name": "bald",
+    "slug": "bald",
+    "emoji": "🦲"
+  }
+}
