@@ -27,3 +27,11 @@ export async function writeLockfile(lockfile: EmojiLockfile): Promise<void> {
 export async function hasLockfile(): Promise<boolean> {
   return Bun.file("emojis.lock").exists();
 }
+
+export function slugify(val: string): string {
+  return val.normalize("NFD")
+    .replace(/[\u0300-\u036F]/g, "")
+    .replace(/\(.+\)/g, "")
+    .trim()
+    .replace(/[\W_]+/g, "-").toLowerCase();
+}

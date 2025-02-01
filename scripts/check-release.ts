@@ -2,7 +2,7 @@ import process from "node:process";
 import { yellow } from "farver/fast";
 import { JSDOM } from "jsdom";
 import semver from "semver";
-import { readLockfile, writeLockfile } from "./utils";
+import { readLockfile, writeLockfile } from "./_utils";
 
 const EMOJI_BASE_URL = "https://www.unicode.org/Public/emoji/";
 
