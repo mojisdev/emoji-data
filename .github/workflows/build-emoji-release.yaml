@@ -13,7 +13,7 @@ on:
         type: string
         description: The versions to build the emoji release for
         required: true
-        default: ''
+        default: ""
 
   pull_request:
     types:
@@ -23,7 +23,7 @@ on:
       - main
     paths:
       - emojis.lock
-      - unicode/**
+      - data/**
 
 permissions: {}
 
@@ -59,8 +59,8 @@ jobs:
           DIFF=$(jq -n \
             --slurpfile before previous_emojis.lock \
             --slurpfile after emojis.lock \
-            '($before[0].versions | map(tostring)) as $oldVersions |
-             ($after[0].versions | map(tostring)) as $newVersions |
+            '($before[0].versions | map(.emoji_version) | map(tostring)) as $oldVersions |
+             ($after[0].versions | map(.emoji_version) | map(tostring)) as $newVersions |
              $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[] |
              select(.)' | tr '\n' ' ')
 
@@ -80,11 +80,15 @@ jobs:
           echo "using versions: $FINAL_VERSIONS"
           echo "FINAL_VERSIONS=$FINAL_VERSIONS" >> $GITHUB_OUTPUT
 
-
-      - name: build emoji release
+      - name: generate groups
         env:
           FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
-        run: bun run build:emoji $FINAL_VERSIONS || true
+        run: bunx @mojis/cli generate:groups $FINAL_VERSIONS || true
+
+      - name: generate emojis
+        env:
+          FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
+        run: bunx @mojis/cli generate:groups $FINAL_VERSIONS || true
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
@@ -97,7 +101,6 @@ jobs:
             echo "changes detected in emojis.lock"
             echo "has-lock-changes=true" >> $GITHUB_OUTPUT
           fi
-
 
       - name: create pull request
         uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
@@ -114,9 +117,8 @@ jobs:
 
             This is an automated PR to update the emoji data.
           branch: update-emojis
-          add-paths: unicode/*,emojis.lock
+          add-paths: data/*,emojis.lock
           base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           reviewers: luxass
-
