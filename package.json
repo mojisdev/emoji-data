@@ -15,23 +15,14 @@
     "url": "https://github.com/mojisdev/emoji-data/issues"
   },
   "scripts": {
-    "lint": "eslint .",
-    "build:emoji": "bun run ./scripts/build-emoji.ts",
-    "check:release": "bun run ./scripts/check-release.ts"
+    "lint": "eslint ."
   },
   "devDependencies": {
     "@luxass/eslint-config": "^4.15.0",
     "@types/bun": "^1.2.0",
-    "@types/jsdom": "^21.1.7",
     "@types/node": "^22.10.10",
-    "@types/semver": "^7.5.8",
     "eslint": "^9.19.0",
     "eslint-plugin-format": "^1.0.1",
-    "farver": "^0.4.0",
-    "htmlparser2": "^10.0.0",
-    "jsdom": "^26.0.0",
-    "semver": "^7.6.3",
-    "typescript": "^5.7.3",
-    "valibot": "^1.0.0-beta.14"
+    "typescript": "^5.7.3"
   }
 }

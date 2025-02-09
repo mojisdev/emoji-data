@@ -34,7 +34,7 @@ jobs:
         run: bun install
 
       - name: check latest release
-        run: bun run check:release
+        run: bunx @mojis/cli versions --write-lockfile
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
