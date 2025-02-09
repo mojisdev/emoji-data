@@ -88,7 +88,7 @@ jobs:
       - name: generate emojis
         env:
           FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
-        run: bunx @mojis/cli generate:groups $FINAL_VERSIONS || true
+        run: bunx @mojis/cli generate:emoji $FINAL_VERSIONS || true
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
