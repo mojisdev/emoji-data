@@ -1,0 +1,399 @@
+{
+  "1F44F": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏 clapping hands",
+    "hexcodes": [
+      "1F44F"
+    ]
+  },
+  "1F44F-1F3FB": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏🏻 clapping hands: light skin tone",
+    "hexcodes": [
+      "1F44F",
+      "1F3FB"
+    ]
+  },
+  "1F44F-1F3FC": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏🏼 clapping hands: medium-light skin tone",
+    "hexcodes": [
+      "1F44F",
+      "1F3FC"
+    ]
+  },
+  "1F44F-1F3FD": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏🏽 clapping hands: medium skin tone",
+    "hexcodes": [
+      "1F44F",
+      "1F3FD"
+    ]
+  },
+  "1F44F-1F3FE": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏🏾 clapping hands: medium-dark skin tone",
+    "hexcodes": [
+      "1F44F",
+      "1F3FE"
+    ]
+  },
+  "1F44F-1F3FF": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👏🏿 clapping hands: dark skin tone",
+    "hexcodes": [
+      "1F44F",
+      "1F3FF"
+    ]
+  },
+  "1F64C": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌 raising hands",
+    "hexcodes": [
+      "1F64C"
+    ]
+  },
+  "1F64C-1F3FB": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌🏻 raising hands: light skin tone",
+    "hexcodes": [
+      "1F64C",
+      "1F3FB"
+    ]
+  },
+  "1F64C-1F3FC": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌🏼 raising hands: medium-light skin tone",
+    "hexcodes": [
+      "1F64C",
+      "1F3FC"
+    ]
+  },
+  "1F64C-1F3FD": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌🏽 raising hands: medium skin tone",
+    "hexcodes": [
+      "1F64C",
+      "1F3FD"
+    ]
+  },
+  "1F64C-1F3FE": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌🏾 raising hands: medium-dark skin tone",
+    "hexcodes": [
+      "1F64C",
+      "1F3FE"
+    ]
+  },
+  "1F64C-1F3FF": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙌🏿 raising hands: dark skin tone",
+    "hexcodes": [
+      "1F64C",
+      "1F3FF"
+    ]
+  },
+  "1F450": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐 open hands",
+    "hexcodes": [
+      "1F450"
+    ]
+  },
+  "1F450-1F3FB": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐🏻 open hands: light skin tone",
+    "hexcodes": [
+      "1F450",
+      "1F3FB"
+    ]
+  },
+  "1F450-1F3FC": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐🏼 open hands: medium-light skin tone",
+    "hexcodes": [
+      "1F450",
+      "1F3FC"
+    ]
+  },
+  "1F450-1F3FD": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐🏽 open hands: medium skin tone",
+    "hexcodes": [
+      "1F450",
+      "1F3FD"
+    ]
+  },
+  "1F450-1F3FE": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐🏾 open hands: medium-dark skin tone",
+    "hexcodes": [
+      "1F450",
+      "1F3FE"
+    ]
+  },
+  "1F450-1F3FF": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👐🏿 open hands: dark skin tone",
+    "hexcodes": [
+      "1F450",
+      "1F3FF"
+    ]
+  },
+  "1F932": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲 palms up together",
+    "hexcodes": [
+      "1F932"
+    ]
+  },
+  "1F932-1F3FB": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲🏻 palms up together: light skin tone",
+    "hexcodes": [
+      "1F932",
+      "1F3FB"
+    ]
+  },
+  "1F932-1F3FC": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲🏼 palms up together: medium-light skin tone",
+    "hexcodes": [
+      "1F932",
+      "1F3FC"
+    ]
+  },
+  "1F932-1F3FD": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲🏽 palms up together: medium skin tone",
+    "hexcodes": [
+      "1F932",
+      "1F3FD"
+    ]
+  },
+  "1F932-1F3FE": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲🏾 palms up together: medium-dark skin tone",
+    "hexcodes": [
+      "1F932",
+      "1F3FE"
+    ]
+  },
+  "1F932-1F3FF": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤲🏿 palms up together: dark skin tone",
+    "hexcodes": [
+      "1F932",
+      "1F3FF"
+    ]
+  },
+  "1F91D": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤝 handshake",
+    "hexcodes": [
+      "1F91D"
+    ]
+  },
+  "1F64F": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏 folded hands",
+    "hexcodes": [
+      "1F64F"
+    ]
+  },
+  "1F64F-1F3FB": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏🏻 folded hands: light skin tone",
+    "hexcodes": [
+      "1F64F",
+      "1F3FB"
+    ]
+  },
+  "1F64F-1F3FC": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏🏼 folded hands: medium-light skin tone",
+    "hexcodes": [
+      "1F64F",
+      "1F3FC"
+    ]
+  },
+  "1F64F-1F3FD": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏🏽 folded hands: medium skin tone",
+    "hexcodes": [
+      "1F64F",
+      "1F3FD"
+    ]
+  },
+  "1F64F-1F3FE": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏🏾 folded hands: medium-dark skin tone",
+    "hexcodes": [
+      "1F64F",
+      "1F3FE"
+    ]
+  },
+  "1F64F-1F3FF": {
+    "group": "people-body",
+    "subgroup": "hands",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙏🏿 folded hands: dark skin tone",
+    "hexcodes": [
+      "1F64F",
+      "1F3FF"
+    ]
+  }
+}

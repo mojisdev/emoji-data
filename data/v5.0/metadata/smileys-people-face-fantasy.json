@@ -1,0 +1,147 @@
+{
+  "2620": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☠ skull and crossbones",
+    "hexcodes": [
+      "2620"
+    ]
+  },
+  "1F608": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😈 smiling face with horns",
+    "hexcodes": [
+      "1F608"
+    ]
+  },
+  "1F47F": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👿 angry face with horns",
+    "hexcodes": [
+      "1F47F"
+    ]
+  },
+  "1F479": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👹 ogre",
+    "hexcodes": [
+      "1F479"
+    ]
+  },
+  "1F47A": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👺 goblin",
+    "hexcodes": [
+      "1F47A"
+    ]
+  },
+  "1F480": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💀 skull",
+    "hexcodes": [
+      "1F480"
+    ]
+  },
+  "2620-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☠️ skull and crossbones",
+    "hexcodes": [
+      "2620",
+      "FE0F"
+    ]
+  },
+  "1F47B": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👻 ghost",
+    "hexcodes": [
+      "1F47B"
+    ]
+  },
+  "1F47D": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👽 alien",
+    "hexcodes": [
+      "1F47D"
+    ]
+  },
+  "1F47E": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👾 alien monster",
+    "hexcodes": [
+      "1F47E"
+    ]
+  },
+  "1F916": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤖 robot face",
+    "hexcodes": [
+      "1F916"
+    ]
+  },
+  "1F4A9": {
+    "group": "smileys-people",
+    "subgroup": "face-fantasy",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💩 pile of poo",
+    "hexcodes": [
+      "1F4A9"
+    ]
+  }
+}

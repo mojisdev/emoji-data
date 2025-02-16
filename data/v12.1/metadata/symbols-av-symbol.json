@@ -1,0 +1,407 @@
+{
+  "1F500": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "shuffle tracks button",
+    "emoji": "🔀",
+    "hexcodes": [
+      "1F500"
+    ]
+  },
+  "1F501": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "repeat button",
+    "emoji": "🔁",
+    "hexcodes": [
+      "1F501"
+    ]
+  },
+  "1F502": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "repeat single button",
+    "emoji": "🔂",
+    "hexcodes": [
+      "1F502"
+    ]
+  },
+  "25B6-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "play button",
+    "emoji": "▶️",
+    "hexcodes": [
+      "25B6",
+      "FE0F"
+    ]
+  },
+  "25B6": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "play button",
+    "emoji": "▶",
+    "hexcodes": [
+      "25B6"
+    ]
+  },
+  "23E9": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fast-forward button",
+    "emoji": "⏩",
+    "hexcodes": [
+      "23E9"
+    ]
+  },
+  "23ED-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "next track button",
+    "emoji": "⏭️",
+    "hexcodes": [
+      "23ED",
+      "FE0F"
+    ]
+  },
+  "23ED": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "next track button",
+    "emoji": "⏭",
+    "hexcodes": [
+      "23ED"
+    ]
+  },
+  "23EF-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "play or pause button",
+    "emoji": "⏯️",
+    "hexcodes": [
+      "23EF",
+      "FE0F"
+    ]
+  },
+  "23EF": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "play or pause button",
+    "emoji": "⏯",
+    "hexcodes": [
+      "23EF"
+    ]
+  },
+  "25C0-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "reverse button",
+    "emoji": "◀️",
+    "hexcodes": [
+      "25C0",
+      "FE0F"
+    ]
+  },
+  "25C0": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "reverse button",
+    "emoji": "◀",
+    "hexcodes": [
+      "25C0"
+    ]
+  },
+  "23EA": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fast reverse button",
+    "emoji": "⏪",
+    "hexcodes": [
+      "23EA"
+    ]
+  },
+  "23EE-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "last track button",
+    "emoji": "⏮️",
+    "hexcodes": [
+      "23EE",
+      "FE0F"
+    ]
+  },
+  "23EE": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "last track button",
+    "emoji": "⏮",
+    "hexcodes": [
+      "23EE"
+    ]
+  },
+  "1F53C": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "upwards button",
+    "emoji": "🔼",
+    "hexcodes": [
+      "1F53C"
+    ]
+  },
+  "23EB": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fast up button",
+    "emoji": "⏫",
+    "hexcodes": [
+      "23EB"
+    ]
+  },
+  "1F53D": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "downwards button",
+    "emoji": "🔽",
+    "hexcodes": [
+      "1F53D"
+    ]
+  },
+  "23EC": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fast down button",
+    "emoji": "⏬",
+    "hexcodes": [
+      "23EC"
+    ]
+  },
+  "23F8-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "pause button",
+    "emoji": "⏸️",
+    "hexcodes": [
+      "23F8",
+      "FE0F"
+    ]
+  },
+  "23F8": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "pause button",
+    "emoji": "⏸",
+    "hexcodes": [
+      "23F8"
+    ]
+  },
+  "23F9-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "stop button",
+    "emoji": "⏹️",
+    "hexcodes": [
+      "23F9",
+      "FE0F"
+    ]
+  },
+  "23F9": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "stop button",
+    "emoji": "⏹",
+    "hexcodes": [
+      "23F9"
+    ]
+  },
+  "23FA-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "record button",
+    "emoji": "⏺️",
+    "hexcodes": [
+      "23FA",
+      "FE0F"
+    ]
+  },
+  "23FA": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "record button",
+    "emoji": "⏺",
+    "hexcodes": [
+      "23FA"
+    ]
+  },
+  "23CF-FE0F": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eject button",
+    "emoji": "⏏️",
+    "hexcodes": [
+      "23CF",
+      "FE0F"
+    ]
+  },
+  "23CF": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eject button",
+    "emoji": "⏏",
+    "hexcodes": [
+      "23CF"
+    ]
+  },
+  "1F3A6": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cinema",
+    "emoji": "🎦",
+    "hexcodes": [
+      "1F3A6"
+    ]
+  },
+  "1F505": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dim button",
+    "emoji": "🔅",
+    "hexcodes": [
+      "1F505"
+    ]
+  },
+  "1F506": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "bright button",
+    "emoji": "🔆",
+    "hexcodes": [
+      "1F506"
+    ]
+  },
+  "1F4F6": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "antenna bars",
+    "emoji": "📶",
+    "hexcodes": [
+      "1F4F6"
+    ]
+  },
+  "1F4F3": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "vibration mode",
+    "emoji": "📳",
+    "hexcodes": [
+      "1F4F3"
+    ]
+  },
+  "1F4F4": {
+    "group": "symbols",
+    "subgroup": "av-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "mobile phone off",
+    "emoji": "📴",
+    "hexcodes": [
+      "1F4F4"
+    ]
+  }
+}

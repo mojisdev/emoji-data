@@ -1,0 +1,135 @@
+{
+  "1F490": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💐 bouquet",
+    "hexcodes": [
+      "1F490"
+    ]
+  },
+  "1F338": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌸 cherry blossom",
+    "hexcodes": [
+      "1F338"
+    ]
+  },
+  "1F4AE": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💮 white flower",
+    "hexcodes": [
+      "1F4AE"
+    ]
+  },
+  "1F3F5-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏵️ rosette",
+    "hexcodes": [
+      "1F3F5",
+      "FE0F"
+    ]
+  },
+  "1F3F5": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏵 rosette",
+    "hexcodes": [
+      "1F3F5"
+    ]
+  },
+  "1F339": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌹 rose",
+    "hexcodes": [
+      "1F339"
+    ]
+  },
+  "1F940": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥀 wilted flower",
+    "hexcodes": [
+      "1F940"
+    ]
+  },
+  "1F33A": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌺 hibiscus",
+    "hexcodes": [
+      "1F33A"
+    ]
+  },
+  "1F33B": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌻 sunflower",
+    "hexcodes": [
+      "1F33B"
+    ]
+  },
+  "1F33C": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌼 blossom",
+    "hexcodes": [
+      "1F33C"
+    ]
+  },
+  "1F337": {
+    "group": "animals-nature",
+    "subgroup": "plant-flower",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌷 tulip",
+    "hexcodes": [
+      "1F337"
+    ]
+  }
+}

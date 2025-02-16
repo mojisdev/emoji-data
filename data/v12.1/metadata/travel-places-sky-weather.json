@@ -1,0 +1,800 @@
+{
+  "2600": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun",
+    "emoji": "☀",
+    "hexcodes": [
+      "2600"
+    ]
+  },
+  "2601": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud",
+    "emoji": "☁",
+    "hexcodes": [
+      "2601"
+    ]
+  },
+  "2602": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "umbrella",
+    "emoji": "☂",
+    "hexcodes": [
+      "2602"
+    ]
+  },
+  "2603": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snowman",
+    "emoji": "☃",
+    "hexcodes": [
+      "2603"
+    ]
+  },
+  "2604": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "comet",
+    "emoji": "☄",
+    "hexcodes": [
+      "2604"
+    ]
+  },
+  "2614": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "umbrella with rain drops",
+    "emoji": "☔",
+    "hexcodes": [
+      "2614"
+    ]
+  },
+  "2744": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snowflake",
+    "emoji": "❄",
+    "hexcodes": [
+      "2744"
+    ]
+  },
+  "1F311": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "new moon",
+    "emoji": "🌑",
+    "hexcodes": [
+      "1F311"
+    ]
+  },
+  "1F312": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "waxing crescent moon",
+    "emoji": "🌒",
+    "hexcodes": [
+      "1F312"
+    ]
+  },
+  "1F313": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "first quarter moon",
+    "emoji": "🌓",
+    "hexcodes": [
+      "1F313"
+    ]
+  },
+  "1F314": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "waxing gibbous moon",
+    "emoji": "🌔",
+    "hexcodes": [
+      "1F314"
+    ]
+  },
+  "1F315": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "full moon",
+    "emoji": "🌕",
+    "hexcodes": [
+      "1F315"
+    ]
+  },
+  "1F316": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "waning gibbous moon",
+    "emoji": "🌖",
+    "hexcodes": [
+      "1F316"
+    ]
+  },
+  "1F317": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "last quarter moon",
+    "emoji": "🌗",
+    "hexcodes": [
+      "1F317"
+    ]
+  },
+  "1F318": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "waning crescent moon",
+    "emoji": "🌘",
+    "hexcodes": [
+      "1F318"
+    ]
+  },
+  "1F319": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "crescent moon",
+    "emoji": "🌙",
+    "hexcodes": [
+      "1F319"
+    ]
+  },
+  "1F31A": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "new moon face",
+    "emoji": "🌚",
+    "hexcodes": [
+      "1F31A"
+    ]
+  },
+  "1F31B": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "first quarter moon face",
+    "emoji": "🌛",
+    "hexcodes": [
+      "1F31B"
+    ]
+  },
+  "1F31C": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "last quarter moon face",
+    "emoji": "🌜",
+    "hexcodes": [
+      "1F31C"
+    ]
+  },
+  "1F321-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "thermometer",
+    "emoji": "🌡️",
+    "hexcodes": [
+      "1F321",
+      "FE0F"
+    ]
+  },
+  "1F321": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "thermometer",
+    "emoji": "🌡",
+    "hexcodes": [
+      "1F321"
+    ]
+  },
+  "2600-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun",
+    "emoji": "☀️",
+    "hexcodes": [
+      "2600",
+      "FE0F"
+    ]
+  },
+  "1F31D": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "full moon face",
+    "emoji": "🌝",
+    "hexcodes": [
+      "1F31D"
+    ]
+  },
+  "1F31E": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun with face",
+    "emoji": "🌞",
+    "hexcodes": [
+      "1F31E"
+    ]
+  },
+  "1FA90": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.1",
+    "unicodeVersion": "12.1",
+    "description": "ringed planet",
+    "emoji": "🪐",
+    "hexcodes": [
+      "1FA90"
+    ]
+  },
+  "2B50": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "star",
+    "emoji": "⭐",
+    "hexcodes": [
+      "2B50"
+    ]
+  },
+  "1F31F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "glowing star",
+    "emoji": "🌟",
+    "hexcodes": [
+      "1F31F"
+    ]
+  },
+  "1F320": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "shooting star",
+    "emoji": "🌠",
+    "hexcodes": [
+      "1F320"
+    ]
+  },
+  "1F30C": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "milky way",
+    "emoji": "🌌",
+    "hexcodes": [
+      "1F30C"
+    ]
+  },
+  "2601-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud",
+    "emoji": "☁️",
+    "hexcodes": [
+      "2601",
+      "FE0F"
+    ]
+  },
+  "26C5": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind cloud",
+    "emoji": "⛅",
+    "hexcodes": [
+      "26C5"
+    ]
+  },
+  "26C8-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with lightning and rain",
+    "emoji": "⛈️",
+    "hexcodes": [
+      "26C8",
+      "FE0F"
+    ]
+  },
+  "26C8": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with lightning and rain",
+    "emoji": "⛈",
+    "hexcodes": [
+      "26C8"
+    ]
+  },
+  "1F324-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind small cloud",
+    "emoji": "🌤️",
+    "hexcodes": [
+      "1F324",
+      "FE0F"
+    ]
+  },
+  "1F324": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind small cloud",
+    "emoji": "🌤",
+    "hexcodes": [
+      "1F324"
+    ]
+  },
+  "1F325-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind large cloud",
+    "emoji": "🌥️",
+    "hexcodes": [
+      "1F325",
+      "FE0F"
+    ]
+  },
+  "1F325": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind large cloud",
+    "emoji": "🌥",
+    "hexcodes": [
+      "1F325"
+    ]
+  },
+  "1F326-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind rain cloud",
+    "emoji": "🌦️",
+    "hexcodes": [
+      "1F326",
+      "FE0F"
+    ]
+  },
+  "1F326": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sun behind rain cloud",
+    "emoji": "🌦",
+    "hexcodes": [
+      "1F326"
+    ]
+  },
+  "1F327-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with rain",
+    "emoji": "🌧️",
+    "hexcodes": [
+      "1F327",
+      "FE0F"
+    ]
+  },
+  "1F327": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with rain",
+    "emoji": "🌧",
+    "hexcodes": [
+      "1F327"
+    ]
+  },
+  "1F328-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with snow",
+    "emoji": "🌨️",
+    "hexcodes": [
+      "1F328",
+      "FE0F"
+    ]
+  },
+  "1F328": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with snow",
+    "emoji": "🌨",
+    "hexcodes": [
+      "1F328"
+    ]
+  },
+  "1F329-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with lightning",
+    "emoji": "🌩️",
+    "hexcodes": [
+      "1F329",
+      "FE0F"
+    ]
+  },
+  "1F329": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cloud with lightning",
+    "emoji": "🌩",
+    "hexcodes": [
+      "1F329"
+    ]
+  },
+  "1F32A-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "tornado",
+    "emoji": "🌪️",
+    "hexcodes": [
+      "1F32A",
+      "FE0F"
+    ]
+  },
+  "1F32A": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "tornado",
+    "emoji": "🌪",
+    "hexcodes": [
+      "1F32A"
+    ]
+  },
+  "1F32B-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fog",
+    "emoji": "🌫️",
+    "hexcodes": [
+      "1F32B",
+      "FE0F"
+    ]
+  },
+  "1F32B": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fog",
+    "emoji": "🌫",
+    "hexcodes": [
+      "1F32B"
+    ]
+  },
+  "1F32C-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "wind face",
+    "emoji": "🌬️",
+    "hexcodes": [
+      "1F32C",
+      "FE0F"
+    ]
+  },
+  "1F32C": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "wind face",
+    "emoji": "🌬",
+    "hexcodes": [
+      "1F32C"
+    ]
+  },
+  "1F300": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cyclone",
+    "emoji": "🌀",
+    "hexcodes": [
+      "1F300"
+    ]
+  },
+  "1F308": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "rainbow",
+    "emoji": "🌈",
+    "hexcodes": [
+      "1F308"
+    ]
+  },
+  "1F302": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "closed umbrella",
+    "emoji": "🌂",
+    "hexcodes": [
+      "1F302"
+    ]
+  },
+  "2602-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "umbrella",
+    "emoji": "☂️",
+    "hexcodes": [
+      "2602",
+      "FE0F"
+    ]
+  },
+  "26F1-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "umbrella on ground",
+    "emoji": "⛱️",
+    "hexcodes": [
+      "26F1",
+      "FE0F"
+    ]
+  },
+  "26F1": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "umbrella on ground",
+    "emoji": "⛱",
+    "hexcodes": [
+      "26F1"
+    ]
+  },
+  "26A1": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "high voltage",
+    "emoji": "⚡",
+    "hexcodes": [
+      "26A1"
+    ]
+  },
+  "2744-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snowflake",
+    "emoji": "❄️",
+    "hexcodes": [
+      "2744",
+      "FE0F"
+    ]
+  },
+  "2603-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snowman",
+    "emoji": "☃️",
+    "hexcodes": [
+      "2603",
+      "FE0F"
+    ]
+  },
+  "26C4": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snowman without snow",
+    "emoji": "⛄",
+    "hexcodes": [
+      "26C4"
+    ]
+  },
+  "2604-FE0F": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "comet",
+    "emoji": "☄️",
+    "hexcodes": [
+      "2604",
+      "FE0F"
+    ]
+  },
+  "1F525": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fire",
+    "emoji": "🔥",
+    "hexcodes": [
+      "1F525"
+    ]
+  },
+  "1F4A7": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "droplet",
+    "emoji": "💧",
+    "hexcodes": [
+      "1F4A7"
+    ]
+  },
+  "1F30A": {
+    "group": "travel-places",
+    "subgroup": "sky-weather",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "water wave",
+    "emoji": "🌊",
+    "hexcodes": [
+      "1F30A"
+    ]
+  }
+}

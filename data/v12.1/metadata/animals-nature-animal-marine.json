@@ -1,0 +1,110 @@
+{
+  "1F433": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spouting whale",
+    "emoji": "🐳",
+    "hexcodes": [
+      "1F433"
+    ]
+  },
+  "1F40B": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "whale",
+    "emoji": "🐋",
+    "hexcodes": [
+      "1F40B"
+    ]
+  },
+  "1F42C": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dolphin",
+    "emoji": "🐬",
+    "hexcodes": [
+      "1F42C"
+    ]
+  },
+  "1F41F": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fish",
+    "emoji": "🐟",
+    "hexcodes": [
+      "1F41F"
+    ]
+  },
+  "1F420": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "tropical fish",
+    "emoji": "🐠",
+    "hexcodes": [
+      "1F420"
+    ]
+  },
+  "1F421": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "blowfish",
+    "emoji": "🐡",
+    "hexcodes": [
+      "1F421"
+    ]
+  },
+  "1F988": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "shark",
+    "emoji": "🦈",
+    "hexcodes": [
+      "1F988"
+    ]
+  },
+  "1F419": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "octopus",
+    "emoji": "🐙",
+    "hexcodes": [
+      "1F419"
+    ]
+  },
+  "1F41A": {
+    "group": "animals-nature",
+    "subgroup": "animal-marine",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spiral shell",
+    "emoji": "🐚",
+    "hexcodes": [
+      "1F41A"
+    ]
+  }
+}

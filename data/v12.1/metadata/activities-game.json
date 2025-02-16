@@ -1,0 +1,320 @@
+{
+  "2660": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spade suit",
+    "emoji": "♠",
+    "hexcodes": [
+      "2660"
+    ]
+  },
+  "2663": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "club suit",
+    "emoji": "♣",
+    "hexcodes": [
+      "2663"
+    ]
+  },
+  "2665": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "heart suit",
+    "emoji": "♥",
+    "hexcodes": [
+      "2665"
+    ]
+  },
+  "2666": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "diamond suit",
+    "emoji": "♦",
+    "hexcodes": [
+      "2666"
+    ]
+  },
+  "1F3AF": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "direct hit",
+    "emoji": "🎯",
+    "hexcodes": [
+      "1F3AF"
+    ]
+  },
+  "1FA80": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.1",
+    "unicodeVersion": "12.1",
+    "description": "yo-yo",
+    "emoji": "🪀",
+    "hexcodes": [
+      "1FA80"
+    ]
+  },
+  "1FA81": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.1",
+    "unicodeVersion": "12.1",
+    "description": "kite",
+    "emoji": "🪁",
+    "hexcodes": [
+      "1FA81"
+    ]
+  },
+  "1F3B1": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "pool 8 ball",
+    "emoji": "🎱",
+    "hexcodes": [
+      "1F3B1"
+    ]
+  },
+  "1F52E": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "crystal ball",
+    "emoji": "🔮",
+    "hexcodes": [
+      "1F52E"
+    ]
+  },
+  "1F9FF": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "nazar amulet",
+    "emoji": "🧿",
+    "hexcodes": [
+      "1F9FF"
+    ]
+  },
+  "1F3AE": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "video game",
+    "emoji": "🎮",
+    "hexcodes": [
+      "1F3AE"
+    ]
+  },
+  "1F579-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "joystick",
+    "emoji": "🕹️",
+    "hexcodes": [
+      "1F579",
+      "FE0F"
+    ]
+  },
+  "1F579": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "joystick",
+    "emoji": "🕹",
+    "hexcodes": [
+      "1F579"
+    ]
+  },
+  "1F3B0": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "slot machine",
+    "emoji": "🎰",
+    "hexcodes": [
+      "1F3B0"
+    ]
+  },
+  "1F3B2": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "game die",
+    "emoji": "🎲",
+    "hexcodes": [
+      "1F3B2"
+    ]
+  },
+  "1F9E9": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "puzzle piece",
+    "emoji": "🧩",
+    "hexcodes": [
+      "1F9E9"
+    ]
+  },
+  "1F9F8": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "teddy bear",
+    "emoji": "🧸",
+    "hexcodes": [
+      "1F9F8"
+    ]
+  },
+  "2660-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spade suit",
+    "emoji": "♠️",
+    "hexcodes": [
+      "2660",
+      "FE0F"
+    ]
+  },
+  "2665-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "heart suit",
+    "emoji": "♥️",
+    "hexcodes": [
+      "2665",
+      "FE0F"
+    ]
+  },
+  "2666-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "diamond suit",
+    "emoji": "♦️",
+    "hexcodes": [
+      "2666",
+      "FE0F"
+    ]
+  },
+  "2663-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "club suit",
+    "emoji": "♣️",
+    "hexcodes": [
+      "2663",
+      "FE0F"
+    ]
+  },
+  "265F-FE0F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "chess pawn",
+    "emoji": "♟️",
+    "hexcodes": [
+      "265F",
+      "FE0F"
+    ]
+  },
+  "265F": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "unqualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "chess pawn",
+    "emoji": "♟",
+    "hexcodes": [
+      "265F"
+    ]
+  },
+  "1F0CF": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "joker",
+    "emoji": "🃏",
+    "hexcodes": [
+      "1F0CF"
+    ]
+  },
+  "1F004": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "mahjong red dragon",
+    "emoji": "🀄",
+    "hexcodes": [
+      "1F004"
+    ]
+  },
+  "1F3B4": {
+    "group": "activities",
+    "subgroup": "game",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "flower playing cards",
+    "emoji": "🎴",
+    "hexcodes": [
+      "1F3B4"
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "1F4A9": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💩 pile of poo",
+    "hexcodes": [
+      "1F4A9"
+    ]
+  },
+  "1F921": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤡 clown face",
+    "hexcodes": [
+      "1F921"
+    ]
+  },
+  "1F479": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👹 ogre",
+    "hexcodes": [
+      "1F479"
+    ]
+  },
+  "1F47A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👺 goblin",
+    "hexcodes": [
+      "1F47A"
+    ]
+  },
+  "1F47B": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👻 ghost",
+    "hexcodes": [
+      "1F47B"
+    ]
+  },
+  "1F47D": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👽 alien",
+    "hexcodes": [
+      "1F47D"
+    ]
+  },
+  "1F47E": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👾 alien monster",
+    "hexcodes": [
+      "1F47E"
+    ]
+  },
+  "1F916": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤖 robot",
+    "hexcodes": [
+      "1F916"
+    ]
+  }
+}

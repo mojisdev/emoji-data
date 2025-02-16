@@ -1,0 +1,77 @@
+{
+  "2640": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "unqualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "female sign",
+    "emoji": "♀",
+    "hexcodes": [
+      "2640"
+    ]
+  },
+  "2642": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "unqualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "male sign",
+    "emoji": "♂",
+    "hexcodes": [
+      "2642"
+    ]
+  },
+  "2640-FE0F": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "female sign",
+    "emoji": "♀️",
+    "hexcodes": [
+      "2640",
+      "FE0F"
+    ]
+  },
+  "2642-FE0F": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "male sign",
+    "emoji": "♂️",
+    "hexcodes": [
+      "2642",
+      "FE0F"
+    ]
+  },
+  "26A7-FE0F": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender symbol",
+    "emoji": "⚧️",
+    "hexcodes": [
+      "26A7",
+      "FE0F"
+    ]
+  },
+  "26A7": {
+    "group": "symbols",
+    "subgroup": "gender",
+    "qualifier": "unqualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender symbol",
+    "emoji": "⚧",
+    "hexcodes": [
+      "26A7"
+    ]
+  }
+}

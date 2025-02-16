@@ -1,0 +1,201 @@
+{
+  "1F3D4-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏔️ snow-capped mountain",
+    "hexcodes": [
+      "1F3D4",
+      "FE0F"
+    ]
+  },
+  "1F3D4": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏔 snow-capped mountain",
+    "hexcodes": [
+      "1F3D4"
+    ]
+  },
+  "26F0-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛰️ mountain",
+    "hexcodes": [
+      "26F0",
+      "FE0F"
+    ]
+  },
+  "26F0": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛰ mountain",
+    "hexcodes": [
+      "26F0"
+    ]
+  },
+  "1F30B": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌋 volcano",
+    "hexcodes": [
+      "1F30B"
+    ]
+  },
+  "1F5FB": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗻 mount fuji",
+    "hexcodes": [
+      "1F5FB"
+    ]
+  },
+  "1F3D5-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏕️ camping",
+    "hexcodes": [
+      "1F3D5",
+      "FE0F"
+    ]
+  },
+  "1F3D5": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏕 camping",
+    "hexcodes": [
+      "1F3D5"
+    ]
+  },
+  "1F3D6-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏖️ beach with umbrella",
+    "hexcodes": [
+      "1F3D6",
+      "FE0F"
+    ]
+  },
+  "1F3D6": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏖 beach with umbrella",
+    "hexcodes": [
+      "1F3D6"
+    ]
+  },
+  "1F3DC-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏜️ desert",
+    "hexcodes": [
+      "1F3DC",
+      "FE0F"
+    ]
+  },
+  "1F3DC": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏜 desert",
+    "hexcodes": [
+      "1F3DC"
+    ]
+  },
+  "1F3DD-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏝️ desert island",
+    "hexcodes": [
+      "1F3DD",
+      "FE0F"
+    ]
+  },
+  "1F3DD": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏝 desert island",
+    "hexcodes": [
+      "1F3DD"
+    ]
+  },
+  "1F3DE-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏞️ national park",
+    "hexcodes": [
+      "1F3DE",
+      "FE0F"
+    ]
+  },
+  "1F3DE": {
+    "group": "travel-places",
+    "subgroup": "place-geographic",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏞 national park",
+    "hexcodes": [
+      "1F3DE"
+    ]
+  }
+}

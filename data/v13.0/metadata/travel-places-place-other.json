@@ -1,0 +1,220 @@
+{
+  "2668": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hot springs",
+    "emoji": "♨",
+    "hexcodes": [
+      "2668"
+    ]
+  },
+  "26F2": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fountain",
+    "emoji": "⛲",
+    "hexcodes": [
+      "26F2"
+    ]
+  },
+  "26FA": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "tent",
+    "emoji": "⛺",
+    "hexcodes": [
+      "26FA"
+    ]
+  },
+  "1F301": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "foggy",
+    "emoji": "🌁",
+    "hexcodes": [
+      "1F301"
+    ]
+  },
+  "1F303": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "night with stars",
+    "emoji": "🌃",
+    "hexcodes": [
+      "1F303"
+    ]
+  },
+  "1F3D9-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "cityscape",
+    "emoji": "🏙️",
+    "hexcodes": [
+      "1F3D9",
+      "FE0F"
+    ]
+  },
+  "1F3D9": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "cityscape",
+    "emoji": "🏙",
+    "hexcodes": [
+      "1F3D9"
+    ]
+  },
+  "1F304": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sunrise over mountains",
+    "emoji": "🌄",
+    "hexcodes": [
+      "1F304"
+    ]
+  },
+  "1F305": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sunrise",
+    "emoji": "🌅",
+    "hexcodes": [
+      "1F305"
+    ]
+  },
+  "1F306": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "cityscape at dusk",
+    "emoji": "🌆",
+    "hexcodes": [
+      "1F306"
+    ]
+  },
+  "1F307": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sunset",
+    "emoji": "🌇",
+    "hexcodes": [
+      "1F307"
+    ]
+  },
+  "1F309": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bridge at night",
+    "emoji": "🌉",
+    "hexcodes": [
+      "1F309"
+    ]
+  },
+  "2668-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hot springs",
+    "emoji": "♨️",
+    "hexcodes": [
+      "2668",
+      "FE0F"
+    ]
+  },
+  "1F3A0": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "carousel horse",
+    "emoji": "🎠",
+    "hexcodes": [
+      "1F3A0"
+    ]
+  },
+  "1F3A1": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "ferris wheel",
+    "emoji": "🎡",
+    "hexcodes": [
+      "1F3A1"
+    ]
+  },
+  "1F3A2": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "roller coaster",
+    "emoji": "🎢",
+    "hexcodes": [
+      "1F3A2"
+    ]
+  },
+  "1F488": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "barber pole",
+    "emoji": "💈",
+    "hexcodes": [
+      "1F488"
+    ]
+  },
+  "1F3AA": {
+    "group": "travel-places",
+    "subgroup": "place-other",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "circus tent",
+    "emoji": "🎪",
+    "hexcodes": [
+      "1F3AA"
+    ]
+  }
+}

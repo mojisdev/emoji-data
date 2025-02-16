@@ -1,0 +1,217 @@
+{
+  "1F528": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔨 hammer",
+    "hexcodes": [
+      "1F528"
+    ]
+  },
+  "26CF-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛏️ pick",
+    "hexcodes": [
+      "26CF",
+      "FE0F"
+    ]
+  },
+  "2692-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚒️ hammer and pick",
+    "hexcodes": [
+      "2692",
+      "FE0F"
+    ]
+  },
+  "1F6E0-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛠️ hammer and wrench",
+    "hexcodes": [
+      "1F6E0",
+      "FE0F"
+    ]
+  },
+  "1F5E1-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗡️ dagger",
+    "hexcodes": [
+      "1F5E1",
+      "FE0F"
+    ]
+  },
+  "2694-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚔️ crossed swords",
+    "hexcodes": [
+      "2694",
+      "FE0F"
+    ]
+  },
+  "1F52B": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔫 pistol",
+    "hexcodes": [
+      "1F52B"
+    ]
+  },
+  "1F3F9": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏹 bow and arrow",
+    "hexcodes": [
+      "1F3F9"
+    ]
+  },
+  "1F6E1-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛡️ shield",
+    "hexcodes": [
+      "1F6E1",
+      "FE0F"
+    ]
+  },
+  "1F527": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔧 wrench",
+    "hexcodes": [
+      "1F527"
+    ]
+  },
+  "1F529": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔩 nut and bolt",
+    "hexcodes": [
+      "1F529"
+    ]
+  },
+  "2699-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚙️ gear",
+    "hexcodes": [
+      "2699",
+      "FE0F"
+    ]
+  },
+  "1F5DC-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗜️ clamp",
+    "hexcodes": [
+      "1F5DC",
+      "FE0F"
+    ]
+  },
+  "2697-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚗️ alembic",
+    "hexcodes": [
+      "2697",
+      "FE0F"
+    ]
+  },
+  "2696-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚖️ balance scale",
+    "hexcodes": [
+      "2696",
+      "FE0F"
+    ]
+  },
+  "1F517": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔗 link",
+    "hexcodes": [
+      "1F517"
+    ]
+  },
+  "26D3-FE0F": {
+    "group": "objects",
+    "subgroup": "tool",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛓️ chains",
+    "hexcodes": [
+      "26D3",
+      "FE0F"
+    ]
+  }
+}
