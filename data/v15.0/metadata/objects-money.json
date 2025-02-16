@@ -1,0 +1,122 @@
+{
+  "1F4B0": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "money bag",
+    "emoji": "💰",
+    "hexcodes": [
+      "1F4B0"
+    ]
+  },
+  "1FA99": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "coin",
+    "emoji": "🪙",
+    "hexcodes": [
+      "1FA99"
+    ]
+  },
+  "1F4B4": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "yen banknote",
+    "emoji": "💴",
+    "hexcodes": [
+      "1F4B4"
+    ]
+  },
+  "1F4B5": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "dollar banknote",
+    "emoji": "💵",
+    "hexcodes": [
+      "1F4B5"
+    ]
+  },
+  "1F4B6": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "euro banknote",
+    "emoji": "💶",
+    "hexcodes": [
+      "1F4B6"
+    ]
+  },
+  "1F4B7": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "pound banknote",
+    "emoji": "💷",
+    "hexcodes": [
+      "1F4B7"
+    ]
+  },
+  "1F4B8": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "money with wings",
+    "emoji": "💸",
+    "hexcodes": [
+      "1F4B8"
+    ]
+  },
+  "1F4B3": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "credit card",
+    "emoji": "💳",
+    "hexcodes": [
+      "1F4B3"
+    ]
+  },
+  "1F9FE": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "receipt",
+    "emoji": "🧾",
+    "hexcodes": [
+      "1F9FE"
+    ]
+  },
+  "1F4B9": {
+    "group": "objects",
+    "subgroup": "money",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "chart increasing with yen",
+    "emoji": "💹",
+    "hexcodes": [
+      "1F4B9"
+    ]
+  }
+}
