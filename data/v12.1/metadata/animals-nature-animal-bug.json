@@ -1,0 +1,172 @@
+{
+  "1F40C": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snail",
+    "emoji": "🐌",
+    "hexcodes": [
+      "1F40C"
+    ]
+  },
+  "1F98B": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "butterfly",
+    "emoji": "🦋",
+    "hexcodes": [
+      "1F98B"
+    ]
+  },
+  "1F41B": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "bug",
+    "emoji": "🐛",
+    "hexcodes": [
+      "1F41B"
+    ]
+  },
+  "1F41C": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "ant",
+    "emoji": "🐜",
+    "hexcodes": [
+      "1F41C"
+    ]
+  },
+  "1F41D": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "honeybee",
+    "emoji": "🐝",
+    "hexcodes": [
+      "1F41D"
+    ]
+  },
+  "1F41E": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "lady beetle",
+    "emoji": "🐞",
+    "hexcodes": [
+      "1F41E"
+    ]
+  },
+  "1F997": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "cricket",
+    "emoji": "🦗",
+    "hexcodes": [
+      "1F997"
+    ]
+  },
+  "1F577-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spider",
+    "emoji": "🕷️",
+    "hexcodes": [
+      "1F577",
+      "FE0F"
+    ]
+  },
+  "1F577": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spider",
+    "emoji": "🕷",
+    "hexcodes": [
+      "1F577"
+    ]
+  },
+  "1F578-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spider web",
+    "emoji": "🕸️",
+    "hexcodes": [
+      "1F578",
+      "FE0F"
+    ]
+  },
+  "1F578": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spider web",
+    "emoji": "🕸",
+    "hexcodes": [
+      "1F578"
+    ]
+  },
+  "1F982": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "scorpion",
+    "emoji": "🦂",
+    "hexcodes": [
+      "1F982"
+    ]
+  },
+  "1F99F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "mosquito",
+    "emoji": "🦟",
+    "hexcodes": [
+      "1F99F"
+    ]
+  },
+  "1F9A0": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "microbe",
+    "emoji": "🦠",
+    "hexcodes": [
+      "1F9A0"
+    ]
+  }
+}

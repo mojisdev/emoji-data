@@ -1,0 +1,74 @@
+{
+  "1F60B": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "face savoring food",
+    "emoji": "😋",
+    "hexcodes": [
+      "1F60B"
+    ]
+  },
+  "1F61B": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "face with tongue",
+    "emoji": "😛",
+    "hexcodes": [
+      "1F61B"
+    ]
+  },
+  "1F61C": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "winking face with tongue",
+    "emoji": "😜",
+    "hexcodes": [
+      "1F61C"
+    ]
+  },
+  "1F92A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "zany face",
+    "emoji": "🤪",
+    "hexcodes": [
+      "1F92A"
+    ]
+  },
+  "1F61D": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "squinting face with tongue",
+    "emoji": "😝",
+    "hexcodes": [
+      "1F61D"
+    ]
+  },
+  "1F911": {
+    "group": "smileys-emotion",
+    "subgroup": "face-tongue",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "money-mouth face",
+    "emoji": "🤑",
+    "hexcodes": [
+      "1F911"
+    ]
+  }
+}

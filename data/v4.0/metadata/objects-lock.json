@@ -1,0 +1,75 @@
+{
+  "1F512": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔒 locked",
+    "hexcodes": [
+      "1F512"
+    ]
+  },
+  "1F513": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔓 unlocked",
+    "hexcodes": [
+      "1F513"
+    ]
+  },
+  "1F50F": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔏 locked with pen",
+    "hexcodes": [
+      "1F50F"
+    ]
+  },
+  "1F510": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔐 locked with key",
+    "hexcodes": [
+      "1F510"
+    ]
+  },
+  "1F511": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔑 key",
+    "hexcodes": [
+      "1F511"
+    ]
+  },
+  "1F5DD-FE0F": {
+    "group": "objects",
+    "subgroup": "lock",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗝️ old key",
+    "hexcodes": [
+      "1F5DD",
+      "FE0F"
+    ]
+  }
+}

@@ -1,0 +1,164 @@
+{
+  "2712": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✒ black nib",
+    "hexcodes": [
+      "2712"
+    ]
+  },
+  "270F-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✏️ pencil",
+    "hexcodes": [
+      "270F",
+      "FE0F"
+    ]
+  },
+  "270F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✏ pencil",
+    "hexcodes": [
+      "270F"
+    ]
+  },
+  "2712-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✒️ black nib",
+    "hexcodes": [
+      "2712",
+      "FE0F"
+    ]
+  },
+  "1F58B-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖋️ fountain pen",
+    "hexcodes": [
+      "1F58B",
+      "FE0F"
+    ]
+  },
+  "1F58B": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖋 fountain pen",
+    "hexcodes": [
+      "1F58B"
+    ]
+  },
+  "1F58A-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖊️ pen",
+    "hexcodes": [
+      "1F58A",
+      "FE0F"
+    ]
+  },
+  "1F58A": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖊 pen",
+    "hexcodes": [
+      "1F58A"
+    ]
+  },
+  "1F58C-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖌️ paintbrush",
+    "hexcodes": [
+      "1F58C",
+      "FE0F"
+    ]
+  },
+  "1F58C": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖌 paintbrush",
+    "hexcodes": [
+      "1F58C"
+    ]
+  },
+  "1F58D-FE0F": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖍️ crayon",
+    "hexcodes": [
+      "1F58D",
+      "FE0F"
+    ]
+  },
+  "1F58D": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖍 crayon",
+    "hexcodes": [
+      "1F58D"
+    ]
+  },
+  "1F4DD": {
+    "group": "objects",
+    "subgroup": "writing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📝 memo",
+    "hexcodes": [
+      "1F4DD"
+    ]
+  }
+}

@@ -1,0 +1,382 @@
+{
+  "2702": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "scissors",
+    "emoji": "✂",
+    "hexcodes": [
+      "2702"
+    ]
+  },
+  "1F4BC": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "briefcase",
+    "emoji": "💼",
+    "hexcodes": [
+      "1F4BC"
+    ]
+  },
+  "1F4C1": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "file folder",
+    "emoji": "📁",
+    "hexcodes": [
+      "1F4C1"
+    ]
+  },
+  "1F4C2": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "open file folder",
+    "emoji": "📂",
+    "hexcodes": [
+      "1F4C2"
+    ]
+  },
+  "1F5C2-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "card index dividers",
+    "emoji": "🗂️",
+    "hexcodes": [
+      "1F5C2",
+      "FE0F"
+    ]
+  },
+  "1F5C2": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "card index dividers",
+    "emoji": "🗂",
+    "hexcodes": [
+      "1F5C2"
+    ]
+  },
+  "1F4C5": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "calendar",
+    "emoji": "📅",
+    "hexcodes": [
+      "1F4C5"
+    ]
+  },
+  "1F4C6": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "tear-off calendar",
+    "emoji": "📆",
+    "hexcodes": [
+      "1F4C6"
+    ]
+  },
+  "1F5D2-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "spiral notepad",
+    "emoji": "🗒️",
+    "hexcodes": [
+      "1F5D2",
+      "FE0F"
+    ]
+  },
+  "1F5D2": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "spiral notepad",
+    "emoji": "🗒",
+    "hexcodes": [
+      "1F5D2"
+    ]
+  },
+  "1F5D3-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "spiral calendar",
+    "emoji": "🗓️",
+    "hexcodes": [
+      "1F5D3",
+      "FE0F"
+    ]
+  },
+  "1F5D3": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "spiral calendar",
+    "emoji": "🗓",
+    "hexcodes": [
+      "1F5D3"
+    ]
+  },
+  "1F4C7": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "card index",
+    "emoji": "📇",
+    "hexcodes": [
+      "1F4C7"
+    ]
+  },
+  "1F4C8": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "chart increasing",
+    "emoji": "📈",
+    "hexcodes": [
+      "1F4C8"
+    ]
+  },
+  "1F4C9": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "chart decreasing",
+    "emoji": "📉",
+    "hexcodes": [
+      "1F4C9"
+    ]
+  },
+  "1F4CA": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bar chart",
+    "emoji": "📊",
+    "hexcodes": [
+      "1F4CA"
+    ]
+  },
+  "1F4CB": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "clipboard",
+    "emoji": "📋",
+    "hexcodes": [
+      "1F4CB"
+    ]
+  },
+  "1F4CC": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "pushpin",
+    "emoji": "📌",
+    "hexcodes": [
+      "1F4CC"
+    ]
+  },
+  "1F4CD": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "round pushpin",
+    "emoji": "📍",
+    "hexcodes": [
+      "1F4CD"
+    ]
+  },
+  "1F4CE": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "paperclip",
+    "emoji": "📎",
+    "hexcodes": [
+      "1F4CE"
+    ]
+  },
+  "1F587-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "linked paperclips",
+    "emoji": "🖇️",
+    "hexcodes": [
+      "1F587",
+      "FE0F"
+    ]
+  },
+  "1F587": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "linked paperclips",
+    "emoji": "🖇",
+    "hexcodes": [
+      "1F587"
+    ]
+  },
+  "1F4CF": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "straight ruler",
+    "emoji": "📏",
+    "hexcodes": [
+      "1F4CF"
+    ]
+  },
+  "1F4D0": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "triangular ruler",
+    "emoji": "📐",
+    "hexcodes": [
+      "1F4D0"
+    ]
+  },
+  "2702-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "scissors",
+    "emoji": "✂️",
+    "hexcodes": [
+      "2702",
+      "FE0F"
+    ]
+  },
+  "1F5C3-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "card file box",
+    "emoji": "🗃️",
+    "hexcodes": [
+      "1F5C3",
+      "FE0F"
+    ]
+  },
+  "1F5C3": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "card file box",
+    "emoji": "🗃",
+    "hexcodes": [
+      "1F5C3"
+    ]
+  },
+  "1F5C4-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "file cabinet",
+    "emoji": "🗄️",
+    "hexcodes": [
+      "1F5C4",
+      "FE0F"
+    ]
+  },
+  "1F5C4": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "file cabinet",
+    "emoji": "🗄",
+    "hexcodes": [
+      "1F5C4"
+    ]
+  },
+  "1F5D1-FE0F": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "wastebasket",
+    "emoji": "🗑️",
+    "hexcodes": [
+      "1F5D1",
+      "FE0F"
+    ]
+  },
+  "1F5D1": {
+    "group": "objects",
+    "subgroup": "office",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "wastebasket",
+    "emoji": "🗑",
+    "hexcodes": [
+      "1F5D1"
+    ]
+  }
+}

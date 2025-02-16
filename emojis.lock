@@ -43,22 +43,22 @@
     },
     {
       "emoji_version": "4.0",
-      "unicode_version": "4.0.0",
+      "unicode_version": null,
       "draft": false
     },
     {
       "emoji_version": "3.0",
-      "unicode_version": "3.0.0",
+      "unicode_version": null,
       "draft": false
     },
     {
       "emoji_version": "2.0",
-      "unicode_version": "2.0.0",
+      "unicode_version": null,
       "draft": false
     },
     {
       "emoji_version": "1.0",
-      "unicode_version": "1.0.0",
+      "unicode_version": null,
       "draft": false
     }
   ]

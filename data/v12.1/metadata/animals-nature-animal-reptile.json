@@ -1,0 +1,98 @@
+{
+  "1F40A": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "crocodile",
+    "emoji": "🐊",
+    "hexcodes": [
+      "1F40A"
+    ]
+  },
+  "1F422": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "turtle",
+    "emoji": "🐢",
+    "hexcodes": [
+      "1F422"
+    ]
+  },
+  "1F98E": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "lizard",
+    "emoji": "🦎",
+    "hexcodes": [
+      "1F98E"
+    ]
+  },
+  "1F40D": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "snake",
+    "emoji": "🐍",
+    "hexcodes": [
+      "1F40D"
+    ]
+  },
+  "1F432": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dragon face",
+    "emoji": "🐲",
+    "hexcodes": [
+      "1F432"
+    ]
+  },
+  "1F409": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dragon",
+    "emoji": "🐉",
+    "hexcodes": [
+      "1F409"
+    ]
+  },
+  "1F995": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "sauropod",
+    "emoji": "🦕",
+    "hexcodes": [
+      "1F995"
+    ]
+  },
+  "1F996": {
+    "group": "animals-nature",
+    "subgroup": "animal-reptile",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "T-Rex",
+    "emoji": "🦖",
+    "hexcodes": [
+      "1F996"
+    ]
+  }
+}

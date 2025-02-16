@@ -93,7 +93,7 @@
       "transport-air",
       "hotel",
       "time",
-      "sky & weather"
+      "sky-weather"
     ]
   },
   {
@@ -104,7 +104,7 @@
       "award-medal",
       "sport",
       "game",
-      "arts & crafts"
+      "arts-crafts"
     ]
   },
   {
@@ -117,7 +117,7 @@
       "musical-instrument",
       "phone",
       "computer",
-      "light & video",
+      "light-video",
       "book-paper",
       "money",
       "mail",

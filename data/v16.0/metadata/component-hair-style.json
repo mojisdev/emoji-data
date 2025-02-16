@@ -1,0 +1,50 @@
+{
+  "1F9B0": {
+    "group": "component",
+    "subgroup": "hair-style",
+    "qualifier": "component",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "red hair",
+    "emoji": "🦰",
+    "hexcodes": [
+      "1F9B0"
+    ]
+  },
+  "1F9B1": {
+    "group": "component",
+    "subgroup": "hair-style",
+    "qualifier": "component",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "curly hair",
+    "emoji": "🦱",
+    "hexcodes": [
+      "1F9B1"
+    ]
+  },
+  "1F9B3": {
+    "group": "component",
+    "subgroup": "hair-style",
+    "qualifier": "component",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "white hair",
+    "emoji": "🦳",
+    "hexcodes": [
+      "1F9B3"
+    ]
+  },
+  "1F9B2": {
+    "group": "component",
+    "subgroup": "hair-style",
+    "qualifier": "component",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "bald",
+    "emoji": "🦲",
+    "hexcodes": [
+      "1F9B2"
+    ]
+  }
+}

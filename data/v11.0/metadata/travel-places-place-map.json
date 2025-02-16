@@ -1,0 +1,99 @@
+{
+  "1F30D": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌍 globe showing Europe-Africa",
+    "hexcodes": [
+      "1F30D"
+    ]
+  },
+  "1F30E": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌎 globe showing Americas",
+    "hexcodes": [
+      "1F30E"
+    ]
+  },
+  "1F30F": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌏 globe showing Asia-Australia",
+    "hexcodes": [
+      "1F30F"
+    ]
+  },
+  "1F310": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌐 globe with meridians",
+    "hexcodes": [
+      "1F310"
+    ]
+  },
+  "1F5FA-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗺️ world map",
+    "hexcodes": [
+      "1F5FA",
+      "FE0F"
+    ]
+  },
+  "1F5FA": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗺 world map",
+    "hexcodes": [
+      "1F5FA"
+    ]
+  },
+  "1F5FE": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗾 map of Japan",
+    "hexcodes": [
+      "1F5FE"
+    ]
+  },
+  "1F9ED": {
+    "group": "travel-places",
+    "subgroup": "place-map",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧭 compass",
+    "hexcodes": [
+      "1F9ED"
+    ]
+  }
+}

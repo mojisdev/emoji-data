@@ -1,0 +1,619 @@
+{
+  "2049": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⁉ exclamation question mark",
+    "hexcodes": [
+      "2049"
+    ]
+  },
+  "2122": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "™ trade mark",
+    "hexcodes": [
+      "2122"
+    ]
+  },
+  "2611": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☑ check box with check",
+    "hexcodes": [
+      "2611"
+    ]
+  },
+  "2695": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚕ medical symbol",
+    "hexcodes": [
+      "2695"
+    ]
+  },
+  "2705": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✅ check mark button",
+    "hexcodes": [
+      "2705"
+    ]
+  },
+  "2714": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✔ check mark",
+    "hexcodes": [
+      "2714"
+    ]
+  },
+  "2716": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✖ multiplication sign",
+    "hexcodes": [
+      "2716"
+    ]
+  },
+  "2733": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✳ eight-spoked asterisk",
+    "hexcodes": [
+      "2733"
+    ]
+  },
+  "2734": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✴ eight-pointed star",
+    "hexcodes": [
+      "2734"
+    ]
+  },
+  "2747": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❇ sparkle",
+    "hexcodes": [
+      "2747"
+    ]
+  },
+  "2753": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❓ question mark",
+    "hexcodes": [
+      "2753"
+    ]
+  },
+  "2754": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❔ white question mark",
+    "hexcodes": [
+      "2754"
+    ]
+  },
+  "2755": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❕ white exclamation mark",
+    "hexcodes": [
+      "2755"
+    ]
+  },
+  "2757": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❗ exclamation mark",
+    "hexcodes": [
+      "2757"
+    ]
+  },
+  "2795": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "➕ plus sign",
+    "hexcodes": [
+      "2795"
+    ]
+  },
+  "2796": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "➖ minus sign",
+    "hexcodes": [
+      "2796"
+    ]
+  },
+  "2797": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "➗ division sign",
+    "hexcodes": [
+      "2797"
+    ]
+  },
+  "3030": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "〰 wavy dash",
+    "hexcodes": [
+      "3030"
+    ]
+  },
+  "2695-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚕️ medical symbol",
+    "hexcodes": [
+      "2695",
+      "FE0F"
+    ]
+  },
+  "267E-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "♾️ infinity",
+    "hexcodes": [
+      "267E",
+      "FE0F"
+    ]
+  },
+  "267E": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "♾ infinity",
+    "hexcodes": [
+      "267E"
+    ]
+  },
+  "267B-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "♻️ recycling symbol",
+    "hexcodes": [
+      "267B",
+      "FE0F"
+    ]
+  },
+  "267B": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "♻ recycling symbol",
+    "hexcodes": [
+      "267B"
+    ]
+  },
+  "269C-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚜️ fleur-de-lis",
+    "hexcodes": [
+      "269C",
+      "FE0F"
+    ]
+  },
+  "269C": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⚜ fleur-de-lis",
+    "hexcodes": [
+      "269C"
+    ]
+  },
+  "1F531": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔱 trident emblem",
+    "hexcodes": [
+      "1F531"
+    ]
+  },
+  "1F4DB": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📛 name badge",
+    "hexcodes": [
+      "1F4DB"
+    ]
+  },
+  "1F530": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔰 Japanese symbol for beginner",
+    "hexcodes": [
+      "1F530"
+    ]
+  },
+  "2B55": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⭕ hollow red circle",
+    "hexcodes": [
+      "2B55"
+    ]
+  },
+  "2611-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☑️ check box with check",
+    "hexcodes": [
+      "2611",
+      "FE0F"
+    ]
+  },
+  "2714-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✔️ check mark",
+    "hexcodes": [
+      "2714",
+      "FE0F"
+    ]
+  },
+  "2716-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✖️ multiplication sign",
+    "hexcodes": [
+      "2716",
+      "FE0F"
+    ]
+  },
+  "274C": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❌ cross mark",
+    "hexcodes": [
+      "274C"
+    ]
+  },
+  "274E": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❎ cross mark button",
+    "hexcodes": [
+      "274E"
+    ]
+  },
+  "27B0": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "➰ curly loop",
+    "hexcodes": [
+      "27B0"
+    ]
+  },
+  "27BF": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "➿ double curly loop",
+    "hexcodes": [
+      "27BF"
+    ]
+  },
+  "303D-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "〽️ part alternation mark",
+    "hexcodes": [
+      "303D",
+      "FE0F"
+    ]
+  },
+  "303D": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "〽 part alternation mark",
+    "hexcodes": [
+      "303D"
+    ]
+  },
+  "2733-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✳️ eight-spoked asterisk",
+    "hexcodes": [
+      "2733",
+      "FE0F"
+    ]
+  },
+  "2734-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "✴️ eight-pointed star",
+    "hexcodes": [
+      "2734",
+      "FE0F"
+    ]
+  },
+  "2747-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❇️ sparkle",
+    "hexcodes": [
+      "2747",
+      "FE0F"
+    ]
+  },
+  "203C-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "‼️ double exclamation mark",
+    "hexcodes": [
+      "203C",
+      "FE0F"
+    ]
+  },
+  "203C": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "‼ double exclamation mark",
+    "hexcodes": [
+      "203C"
+    ]
+  },
+  "2049-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⁉️ exclamation question mark",
+    "hexcodes": [
+      "2049",
+      "FE0F"
+    ]
+  },
+  "3030-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "〰️ wavy dash",
+    "hexcodes": [
+      "3030",
+      "FE0F"
+    ]
+  },
+  "00A9-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "©️ copyright",
+    "hexcodes": [
+      "00A9",
+      "FE0F"
+    ]
+  },
+  "00A9": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "© copyright",
+    "hexcodes": [
+      "00A9"
+    ]
+  },
+  "00AE-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "®️ registered",
+    "hexcodes": [
+      "00AE",
+      "FE0F"
+    ]
+  },
+  "00AE": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "® registered",
+    "hexcodes": [
+      "00AE"
+    ]
+  },
+  "2122-FE0F": {
+    "group": "symbols",
+    "subgroup": "other-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "™️ trade mark",
+    "hexcodes": [
+      "2122",
+      "FE0F"
+    ]
+  }
+}

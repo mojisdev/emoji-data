@@ -1,0 +1,98 @@
+{
+  "1F607": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😇 smiling face with halo",
+    "hexcodes": [
+      "1F607"
+    ]
+  },
+  "1F920": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤠 cowboy hat face",
+    "hexcodes": [
+      "1F920"
+    ]
+  },
+  "1F921": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤡 clown face",
+    "hexcodes": [
+      "1F921"
+    ]
+  },
+  "1F925": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤥 lying face",
+    "hexcodes": [
+      "1F925"
+    ]
+  },
+  "1F92B": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤫 shushing face",
+    "hexcodes": [
+      "1F92B"
+    ]
+  },
+  "1F92D": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤭 face with hand over mouth",
+    "hexcodes": [
+      "1F92D"
+    ]
+  },
+  "1F9D0": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧐 face with monocle",
+    "hexcodes": [
+      "1F9D0"
+    ]
+  },
+  "1F913": {
+    "group": "smileys-people",
+    "subgroup": "face-role",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤓 nerd face",
+    "hexcodes": [
+      "1F913"
+    ]
+  }
+}

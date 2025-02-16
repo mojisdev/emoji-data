@@ -1,0 +1,100 @@
+{
+  "2716": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "multiply",
+    "emoji": "✖",
+    "hexcodes": [
+      "2716"
+    ]
+  },
+  "2795": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "plus",
+    "emoji": "➕",
+    "hexcodes": [
+      "2795"
+    ]
+  },
+  "2796": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "minus",
+    "emoji": "➖",
+    "hexcodes": [
+      "2796"
+    ]
+  },
+  "2797": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "divide",
+    "emoji": "➗",
+    "hexcodes": [
+      "2797"
+    ]
+  },
+  "2716-FE0F": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "multiply",
+    "emoji": "✖️",
+    "hexcodes": [
+      "2716",
+      "FE0F"
+    ]
+  },
+  "1F7F0": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "14.0",
+    "unicodeVersion": "14.0",
+    "description": "heavy equals sign",
+    "emoji": "🟰",
+    "hexcodes": [
+      "1F7F0"
+    ]
+  },
+  "267E-FE0F": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "infinity",
+    "emoji": "♾️",
+    "hexcodes": [
+      "267E",
+      "FE0F"
+    ]
+  },
+  "267E": {
+    "group": "symbols",
+    "subgroup": "math",
+    "qualifier": "unqualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "infinity",
+    "emoji": "♾",
+    "hexcodes": [
+      "267E"
+    ]
+  }
+}

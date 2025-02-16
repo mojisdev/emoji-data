@@ -1,0 +1,74 @@
+{
+  "1F637": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😷 face with medical mask",
+    "hexcodes": [
+      "1F637"
+    ]
+  },
+  "1F912": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤒 face with thermometer",
+    "hexcodes": [
+      "1F912"
+    ]
+  },
+  "1F915": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤕 face with head-bandage",
+    "hexcodes": [
+      "1F915"
+    ]
+  },
+  "1F922": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤢 nauseated face",
+    "hexcodes": [
+      "1F922"
+    ]
+  },
+  "1F92E": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤮 face vomiting",
+    "hexcodes": [
+      "1F92E"
+    ]
+  },
+  "1F927": {
+    "group": "smileys-people",
+    "subgroup": "face-sick",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤧 sneezing face",
+    "hexcodes": [
+      "1F927"
+    ]
+  }
+}

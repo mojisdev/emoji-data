@@ -1,0 +1,38 @@
+{
+  "1F60E": {
+    "group": "smileys-emotion",
+    "subgroup": "face-glasses",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "smiling face with sunglasses",
+    "emoji": "😎",
+    "hexcodes": [
+      "1F60E"
+    ]
+  },
+  "1F913": {
+    "group": "smileys-emotion",
+    "subgroup": "face-glasses",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "nerd face",
+    "emoji": "🤓",
+    "hexcodes": [
+      "1F913"
+    ]
+  },
+  "1F9D0": {
+    "group": "smileys-emotion",
+    "subgroup": "face-glasses",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "face with monocle",
+    "emoji": "🧐",
+    "hexcodes": [
+      "1F9D0"
+    ]
+  }
+}

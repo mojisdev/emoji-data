@@ -1,0 +1,618 @@
+{
+  "1F466": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦 boy",
+    "hexcodes": [
+      "1F466"
+    ]
+  },
+  "1F466-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦🏻 boy: light skin tone",
+    "hexcodes": [
+      "1F466",
+      "1F3FB"
+    ]
+  },
+  "1F466-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦🏼 boy: medium-light skin tone",
+    "hexcodes": [
+      "1F466",
+      "1F3FC"
+    ]
+  },
+  "1F466-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦🏽 boy: medium skin tone",
+    "hexcodes": [
+      "1F466",
+      "1F3FD"
+    ]
+  },
+  "1F466-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦🏾 boy: medium-dark skin tone",
+    "hexcodes": [
+      "1F466",
+      "1F3FE"
+    ]
+  },
+  "1F466-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👦🏿 boy: dark skin tone",
+    "hexcodes": [
+      "1F466",
+      "1F3FF"
+    ]
+  },
+  "1F467": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧 girl",
+    "hexcodes": [
+      "1F467"
+    ]
+  },
+  "1F467-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧🏻 girl: light skin tone",
+    "hexcodes": [
+      "1F467",
+      "1F3FB"
+    ]
+  },
+  "1F467-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧🏼 girl: medium-light skin tone",
+    "hexcodes": [
+      "1F467",
+      "1F3FC"
+    ]
+  },
+  "1F467-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧🏽 girl: medium skin tone",
+    "hexcodes": [
+      "1F467",
+      "1F3FD"
+    ]
+  },
+  "1F467-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧🏾 girl: medium-dark skin tone",
+    "hexcodes": [
+      "1F467",
+      "1F3FE"
+    ]
+  },
+  "1F467-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👧🏿 girl: dark skin tone",
+    "hexcodes": [
+      "1F467",
+      "1F3FF"
+    ]
+  },
+  "1F468": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨 man",
+    "hexcodes": [
+      "1F468"
+    ]
+  },
+  "1F468-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨🏻 man: light skin tone",
+    "hexcodes": [
+      "1F468",
+      "1F3FB"
+    ]
+  },
+  "1F468-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨🏼 man: medium-light skin tone",
+    "hexcodes": [
+      "1F468",
+      "1F3FC"
+    ]
+  },
+  "1F468-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨🏽 man: medium skin tone",
+    "hexcodes": [
+      "1F468",
+      "1F3FD"
+    ]
+  },
+  "1F468-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨🏾 man: medium-dark skin tone",
+    "hexcodes": [
+      "1F468",
+      "1F3FE"
+    ]
+  },
+  "1F468-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨🏿 man: dark skin tone",
+    "hexcodes": [
+      "1F468",
+      "1F3FF"
+    ]
+  },
+  "1F469": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩 woman",
+    "hexcodes": [
+      "1F469"
+    ]
+  },
+  "1F469-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩🏻 woman: light skin tone",
+    "hexcodes": [
+      "1F469",
+      "1F3FB"
+    ]
+  },
+  "1F469-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩🏼 woman: medium-light skin tone",
+    "hexcodes": [
+      "1F469",
+      "1F3FC"
+    ]
+  },
+  "1F469-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩🏽 woman: medium skin tone",
+    "hexcodes": [
+      "1F469",
+      "1F3FD"
+    ]
+  },
+  "1F469-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩🏾 woman: medium-dark skin tone",
+    "hexcodes": [
+      "1F469",
+      "1F3FE"
+    ]
+  },
+  "1F469-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩🏿 woman: dark skin tone",
+    "hexcodes": [
+      "1F469",
+      "1F3FF"
+    ]
+  },
+  "1F474": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴 old man",
+    "hexcodes": [
+      "1F474"
+    ]
+  },
+  "1F474-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴🏻 old man: light skin tone",
+    "hexcodes": [
+      "1F474",
+      "1F3FB"
+    ]
+  },
+  "1F474-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴🏼 old man: medium-light skin tone",
+    "hexcodes": [
+      "1F474",
+      "1F3FC"
+    ]
+  },
+  "1F474-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴🏽 old man: medium skin tone",
+    "hexcodes": [
+      "1F474",
+      "1F3FD"
+    ]
+  },
+  "1F474-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴🏾 old man: medium-dark skin tone",
+    "hexcodes": [
+      "1F474",
+      "1F3FE"
+    ]
+  },
+  "1F474-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👴🏿 old man: dark skin tone",
+    "hexcodes": [
+      "1F474",
+      "1F3FF"
+    ]
+  },
+  "1F475": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵 old woman",
+    "hexcodes": [
+      "1F475"
+    ]
+  },
+  "1F475-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵🏻 old woman: light skin tone",
+    "hexcodes": [
+      "1F475",
+      "1F3FB"
+    ]
+  },
+  "1F475-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵🏼 old woman: medium-light skin tone",
+    "hexcodes": [
+      "1F475",
+      "1F3FC"
+    ]
+  },
+  "1F475-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵🏽 old woman: medium skin tone",
+    "hexcodes": [
+      "1F475",
+      "1F3FD"
+    ]
+  },
+  "1F475-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵🏾 old woman: medium-dark skin tone",
+    "hexcodes": [
+      "1F475",
+      "1F3FE"
+    ]
+  },
+  "1F475-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👵🏿 old woman: dark skin tone",
+    "hexcodes": [
+      "1F475",
+      "1F3FF"
+    ]
+  },
+  "1F476": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶 baby",
+    "hexcodes": [
+      "1F476"
+    ]
+  },
+  "1F476-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶🏻 baby: light skin tone",
+    "hexcodes": [
+      "1F476",
+      "1F3FB"
+    ]
+  },
+  "1F476-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶🏼 baby: medium-light skin tone",
+    "hexcodes": [
+      "1F476",
+      "1F3FC"
+    ]
+  },
+  "1F476-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶🏽 baby: medium skin tone",
+    "hexcodes": [
+      "1F476",
+      "1F3FD"
+    ]
+  },
+  "1F476-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶🏾 baby: medium-dark skin tone",
+    "hexcodes": [
+      "1F476",
+      "1F3FE"
+    ]
+  },
+  "1F476-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👶🏿 baby: dark skin tone",
+    "hexcodes": [
+      "1F476",
+      "1F3FF"
+    ]
+  },
+  "1F47C": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼 baby angel",
+    "hexcodes": [
+      "1F47C"
+    ]
+  },
+  "1F47C-1F3FB": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼🏻 baby angel: light skin tone",
+    "hexcodes": [
+      "1F47C",
+      "1F3FB"
+    ]
+  },
+  "1F47C-1F3FC": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼🏼 baby angel: medium-light skin tone",
+    "hexcodes": [
+      "1F47C",
+      "1F3FC"
+    ]
+  },
+  "1F47C-1F3FD": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼🏽 baby angel: medium skin tone",
+    "hexcodes": [
+      "1F47C",
+      "1F3FD"
+    ]
+  },
+  "1F47C-1F3FE": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼🏾 baby angel: medium-dark skin tone",
+    "hexcodes": [
+      "1F47C",
+      "1F3FE"
+    ]
+  },
+  "1F47C-1F3FF": {
+    "group": "smileys-people",
+    "subgroup": "person",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👼🏿 baby angel: dark skin tone",
+    "hexcodes": [
+      "1F47C",
+      "1F3FF"
+    ]
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "1F3AD": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "performing arts",
+    "emoji": "🎭",
+    "hexcodes": [
+      "1F3AD"
+    ]
+  },
+  "1F5BC-FE0F": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "framed picture",
+    "emoji": "🖼️",
+    "hexcodes": [
+      "1F5BC",
+      "FE0F"
+    ]
+  },
+  "1F5BC": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "framed picture",
+    "emoji": "🖼",
+    "hexcodes": [
+      "1F5BC"
+    ]
+  },
+  "1F3A8": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "artist palette",
+    "emoji": "🎨",
+    "hexcodes": [
+      "1F3A8"
+    ]
+  },
+  "1F9F5": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "thread",
+    "emoji": "🧵",
+    "hexcodes": [
+      "1F9F5"
+    ]
+  },
+  "1FAA1": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "sewing needle",
+    "emoji": "🪡",
+    "hexcodes": [
+      "1FAA1"
+    ]
+  },
+  "1F9F6": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "yarn",
+    "emoji": "🧶",
+    "hexcodes": [
+      "1F9F6"
+    ]
+  },
+  "1FAA2": {
+    "group": "activities",
+    "subgroup": "arts-crafts",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "knot",
+    "emoji": "🪢",
+    "hexcodes": [
+      "1FAA2"
+    ]
+  }
+}

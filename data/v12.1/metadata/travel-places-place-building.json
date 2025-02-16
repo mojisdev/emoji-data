@@ -1,0 +1,355 @@
+{
+  "1F3DF-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "stadium",
+    "emoji": "🏟️",
+    "hexcodes": [
+      "1F3DF",
+      "FE0F"
+    ]
+  },
+  "1F3DF": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "stadium",
+    "emoji": "🏟",
+    "hexcodes": [
+      "1F3DF"
+    ]
+  },
+  "1F3DB-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "classical building",
+    "emoji": "🏛️",
+    "hexcodes": [
+      "1F3DB",
+      "FE0F"
+    ]
+  },
+  "1F3DB": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "classical building",
+    "emoji": "🏛",
+    "hexcodes": [
+      "1F3DB"
+    ]
+  },
+  "1F3D7-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "building construction",
+    "emoji": "🏗️",
+    "hexcodes": [
+      "1F3D7",
+      "FE0F"
+    ]
+  },
+  "1F3D7": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "building construction",
+    "emoji": "🏗",
+    "hexcodes": [
+      "1F3D7"
+    ]
+  },
+  "1F9F1": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "brick",
+    "emoji": "🧱",
+    "hexcodes": [
+      "1F9F1"
+    ]
+  },
+  "1F3D8-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "houses",
+    "emoji": "🏘️",
+    "hexcodes": [
+      "1F3D8",
+      "FE0F"
+    ]
+  },
+  "1F3D8": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "houses",
+    "emoji": "🏘",
+    "hexcodes": [
+      "1F3D8"
+    ]
+  },
+  "1F3DA-FE0F": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "derelict house",
+    "emoji": "🏚️",
+    "hexcodes": [
+      "1F3DA",
+      "FE0F"
+    ]
+  },
+  "1F3DA": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "derelict house",
+    "emoji": "🏚",
+    "hexcodes": [
+      "1F3DA"
+    ]
+  },
+  "1F3E0": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "house",
+    "emoji": "🏠",
+    "hexcodes": [
+      "1F3E0"
+    ]
+  },
+  "1F3E1": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "house with garden",
+    "emoji": "🏡",
+    "hexcodes": [
+      "1F3E1"
+    ]
+  },
+  "1F3E2": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "office building",
+    "emoji": "🏢",
+    "hexcodes": [
+      "1F3E2"
+    ]
+  },
+  "1F3E3": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "Japanese post office",
+    "emoji": "🏣",
+    "hexcodes": [
+      "1F3E3"
+    ]
+  },
+  "1F3E4": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "post office",
+    "emoji": "🏤",
+    "hexcodes": [
+      "1F3E4"
+    ]
+  },
+  "1F3E5": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "hospital",
+    "emoji": "🏥",
+    "hexcodes": [
+      "1F3E5"
+    ]
+  },
+  "1F3E6": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "bank",
+    "emoji": "🏦",
+    "hexcodes": [
+      "1F3E6"
+    ]
+  },
+  "1F3E8": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "hotel",
+    "emoji": "🏨",
+    "hexcodes": [
+      "1F3E8"
+    ]
+  },
+  "1F3E9": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "love hotel",
+    "emoji": "🏩",
+    "hexcodes": [
+      "1F3E9"
+    ]
+  },
+  "1F3EA": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "convenience store",
+    "emoji": "🏪",
+    "hexcodes": [
+      "1F3EA"
+    ]
+  },
+  "1F3EB": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "school",
+    "emoji": "🏫",
+    "hexcodes": [
+      "1F3EB"
+    ]
+  },
+  "1F3EC": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "department store",
+    "emoji": "🏬",
+    "hexcodes": [
+      "1F3EC"
+    ]
+  },
+  "1F3ED": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "factory",
+    "emoji": "🏭",
+    "hexcodes": [
+      "1F3ED"
+    ]
+  },
+  "1F3EF": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "Japanese castle",
+    "emoji": "🏯",
+    "hexcodes": [
+      "1F3EF"
+    ]
+  },
+  "1F3F0": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "castle",
+    "emoji": "🏰",
+    "hexcodes": [
+      "1F3F0"
+    ]
+  },
+  "1F492": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "wedding",
+    "emoji": "💒",
+    "hexcodes": [
+      "1F492"
+    ]
+  },
+  "1F5FC": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "Tokyo tower",
+    "emoji": "🗼",
+    "hexcodes": [
+      "1F5FC"
+    ]
+  },
+  "1F5FD": {
+    "group": "travel-places",
+    "subgroup": "place-building",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "Statue of Liberty",
+    "emoji": "🗽",
+    "hexcodes": [
+      "1F5FD"
+    ]
+  }
+}

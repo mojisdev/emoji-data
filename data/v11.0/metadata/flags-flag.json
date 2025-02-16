@@ -1,0 +1,133 @@
+{
+  "1F3C1": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏁 chequered flag",
+    "hexcodes": [
+      "1F3C1"
+    ]
+  },
+  "1F6A9": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🚩 triangular flag",
+    "hexcodes": [
+      "1F6A9"
+    ]
+  },
+  "1F38C": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎌 crossed flags",
+    "hexcodes": [
+      "1F38C"
+    ]
+  },
+  "1F3F4": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏴 black flag",
+    "hexcodes": [
+      "1F3F4"
+    ]
+  },
+  "1F3F3-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏳️ white flag",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F"
+    ]
+  },
+  "1F3F3": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏳 white flag",
+    "hexcodes": [
+      "1F3F3"
+    ]
+  },
+  "1F3F3-FE0F-200D-1F308": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏳️‍🌈 rainbow flag",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F",
+      "200D",
+      "1F308"
+    ]
+  },
+  "1F3F3-200D-1F308": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏳‍🌈 rainbow flag",
+    "hexcodes": [
+      "1F3F3",
+      "200D",
+      "1F308"
+    ]
+  },
+  "1F3F4-200D-2620-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏴‍☠️ pirate flag",
+    "hexcodes": [
+      "1F3F4",
+      "200D",
+      "2620",
+      "FE0F"
+    ]
+  },
+  "1F3F4-200D-2620": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏴‍☠ pirate flag",
+    "hexcodes": [
+      "1F3F4",
+      "200D",
+      "2620"
+    ]
+  }
+}

@@ -1,0 +1,439 @@
+{
+  "2763": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❣ heavy heart exclamation",
+    "hexcodes": [
+      "2763"
+    ]
+  },
+  "2764": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❤ red heart",
+    "hexcodes": [
+      "2764"
+    ]
+  },
+  "1F48B": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💋 kiss mark",
+    "hexcodes": [
+      "1F48B"
+    ]
+  },
+  "1F498": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💘 heart with arrow",
+    "hexcodes": [
+      "1F498"
+    ]
+  },
+  "2764-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❤️ red heart",
+    "hexcodes": [
+      "2764",
+      "FE0F"
+    ]
+  },
+  "1F493": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💓 beating heart",
+    "hexcodes": [
+      "1F493"
+    ]
+  },
+  "1F494": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💔 broken heart",
+    "hexcodes": [
+      "1F494"
+    ]
+  },
+  "1F495": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💕 two hearts",
+    "hexcodes": [
+      "1F495"
+    ]
+  },
+  "1F496": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💖 sparkling heart",
+    "hexcodes": [
+      "1F496"
+    ]
+  },
+  "1F497": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💗 growing heart",
+    "hexcodes": [
+      "1F497"
+    ]
+  },
+  "1F499": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💙 blue heart",
+    "hexcodes": [
+      "1F499"
+    ]
+  },
+  "1F49A": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💚 green heart",
+    "hexcodes": [
+      "1F49A"
+    ]
+  },
+  "1F49B": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💛 yellow heart",
+    "hexcodes": [
+      "1F49B"
+    ]
+  },
+  "1F9E1": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧡 orange heart",
+    "hexcodes": [
+      "1F9E1"
+    ]
+  },
+  "1F49C": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💜 purple heart",
+    "hexcodes": [
+      "1F49C"
+    ]
+  },
+  "1F5A4": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🖤 black heart",
+    "hexcodes": [
+      "1F5A4"
+    ]
+  },
+  "1F49D": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💝 heart with ribbon",
+    "hexcodes": [
+      "1F49D"
+    ]
+  },
+  "1F49E": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💞 revolving hearts",
+    "hexcodes": [
+      "1F49E"
+    ]
+  },
+  "1F49F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💟 heart decoration",
+    "hexcodes": [
+      "1F49F"
+    ]
+  },
+  "2763-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "❣️ heavy heart exclamation",
+    "hexcodes": [
+      "2763",
+      "FE0F"
+    ]
+  },
+  "1F48C": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💌 love letter",
+    "hexcodes": [
+      "1F48C"
+    ]
+  },
+  "1F4A4": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💤 zzz",
+    "hexcodes": [
+      "1F4A4"
+    ]
+  },
+  "1F4A2": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💢 anger symbol",
+    "hexcodes": [
+      "1F4A2"
+    ]
+  },
+  "1F4A3": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💣 bomb",
+    "hexcodes": [
+      "1F4A3"
+    ]
+  },
+  "1F4A5": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💥 collision",
+    "hexcodes": [
+      "1F4A5"
+    ]
+  },
+  "1F4A6": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💦 sweat droplets",
+    "hexcodes": [
+      "1F4A6"
+    ]
+  },
+  "1F4A8": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💨 dashing away",
+    "hexcodes": [
+      "1F4A8"
+    ]
+  },
+  "1F4AB": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💫 dizzy",
+    "hexcodes": [
+      "1F4AB"
+    ]
+  },
+  "1F4AC": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💬 speech balloon",
+    "hexcodes": [
+      "1F4AC"
+    ]
+  },
+  "1F5E8-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗨️ left speech bubble",
+    "hexcodes": [
+      "1F5E8",
+      "FE0F"
+    ]
+  },
+  "1F5E8": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗨 left speech bubble",
+    "hexcodes": [
+      "1F5E8"
+    ]
+  },
+  "1F5EF-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗯️ right anger bubble",
+    "hexcodes": [
+      "1F5EF",
+      "FE0F"
+    ]
+  },
+  "1F5EF": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🗯 right anger bubble",
+    "hexcodes": [
+      "1F5EF"
+    ]
+  },
+  "1F4AD": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💭 thought balloon",
+    "hexcodes": [
+      "1F4AD"
+    ]
+  },
+  "1F573-FE0F": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕳️ hole",
+    "hexcodes": [
+      "1F573",
+      "FE0F"
+    ]
+  },
+  "1F573": {
+    "group": "smileys-people",
+    "subgroup": "emotion",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕳 hole",
+    "hexcodes": [
+      "1F573"
+    ]
+  }
+}
