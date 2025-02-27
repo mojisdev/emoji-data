@@ -113,7 +113,7 @@
     "qualifier": "fully-qualified",
     "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
-    "description": "knocked-out face",
+    "description": "face with crossed-out eyes",
     "emoji": "😵",
     "hexcodes": [
       "1F635"
@@ -124,7 +124,7 @@
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "face with spiral eyes",
     "emoji": "😵‍💫",
     "hexcodes": [

@@ -59,12 +59,24 @@
       "1F636"
     ]
   },
+  "1FAE5": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "14.0",
+    "unicodeVersion": "14.0",
+    "description": "dotted line face",
+    "emoji": "🫥",
+    "hexcodes": [
+      "1FAE5"
+    ]
+  },
   "1F636-200D-1F32B-FE0F": {
     "group": "smileys-emotion",
     "subgroup": "face-neutral-skeptical",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "face in clouds",
     "emoji": "😶‍🌫️",
     "hexcodes": [
@@ -79,7 +91,7 @@
     "subgroup": "face-neutral-skeptical",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "face in clouds",
     "emoji": "😶‍🌫",
     "hexcodes": [
@@ -141,7 +153,7 @@
     "subgroup": "face-neutral-skeptical",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "face exhaling",
     "emoji": "😮‍💨",
     "hexcodes": [
@@ -160,6 +172,76 @@
     "emoji": "🤥",
     "hexcodes": [
       "1F925"
+    ]
+  },
+  "1FAE8": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.0",
+    "unicodeVersion": "15.0",
+    "description": "shaking face",
+    "emoji": "🫨",
+    "hexcodes": [
+      "1FAE8"
+    ]
+  },
+  "1F642-200D-2194-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "head shaking horizontally",
+    "emoji": "🙂‍↔️",
+    "hexcodes": [
+      "1F642",
+      "200D",
+      "2194",
+      "FE0F"
+    ]
+  },
+  "1F642-200D-2194": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "minimally-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "head shaking horizontally",
+    "emoji": "🙂‍↔",
+    "hexcodes": [
+      "1F642",
+      "200D",
+      "2194"
+    ]
+  },
+  "1F642-200D-2195-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "head shaking vertically",
+    "emoji": "🙂‍↕️",
+    "hexcodes": [
+      "1F642",
+      "200D",
+      "2195",
+      "FE0F"
+    ]
+  },
+  "1F642-200D-2195": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "minimally-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "head shaking vertically",
+    "emoji": "🙂‍↕",
+    "hexcodes": [
+      "1F642",
+      "200D",
+      "2195"
     ]
   }
 }

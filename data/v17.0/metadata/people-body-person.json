@@ -620,7 +620,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: beard",
     "emoji": "🧔‍♂️",
     "hexcodes": [
@@ -635,7 +635,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: beard",
     "emoji": "🧔‍♂",
     "hexcodes": [
@@ -649,7 +649,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: light skin tone, beard",
     "emoji": "🧔🏻‍♂️",
     "hexcodes": [
@@ -665,7 +665,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: light skin tone, beard",
     "emoji": "🧔🏻‍♂",
     "hexcodes": [
@@ -680,7 +680,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium-light skin tone, beard",
     "emoji": "🧔🏼‍♂️",
     "hexcodes": [
@@ -696,7 +696,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium-light skin tone, beard",
     "emoji": "🧔🏼‍♂",
     "hexcodes": [
@@ -711,7 +711,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium skin tone, beard",
     "emoji": "🧔🏽‍♂️",
     "hexcodes": [
@@ -727,7 +727,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium skin tone, beard",
     "emoji": "🧔🏽‍♂",
     "hexcodes": [
@@ -742,7 +742,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium-dark skin tone, beard",
     "emoji": "🧔🏾‍♂️",
     "hexcodes": [
@@ -758,7 +758,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: medium-dark skin tone, beard",
     "emoji": "🧔🏾‍♂",
     "hexcodes": [
@@ -773,7 +773,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: dark skin tone, beard",
     "emoji": "🧔🏿‍♂️",
     "hexcodes": [
@@ -789,7 +789,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "man: dark skin tone, beard",
     "emoji": "🧔🏿‍♂",
     "hexcodes": [
@@ -804,7 +804,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: beard",
     "emoji": "🧔‍♀️",
     "hexcodes": [
@@ -819,7 +819,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: beard",
     "emoji": "🧔‍♀",
     "hexcodes": [
@@ -833,7 +833,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: light skin tone, beard",
     "emoji": "🧔🏻‍♀️",
     "hexcodes": [
@@ -849,7 +849,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: light skin tone, beard",
     "emoji": "🧔🏻‍♀",
     "hexcodes": [
@@ -864,7 +864,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium-light skin tone, beard",
     "emoji": "🧔🏼‍♀️",
     "hexcodes": [
@@ -880,7 +880,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium-light skin tone, beard",
     "emoji": "🧔🏼‍♀",
     "hexcodes": [
@@ -895,7 +895,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium skin tone, beard",
     "emoji": "🧔🏽‍♀️",
     "hexcodes": [
@@ -911,7 +911,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium skin tone, beard",
     "emoji": "🧔🏽‍♀",
     "hexcodes": [
@@ -926,7 +926,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium-dark skin tone, beard",
     "emoji": "🧔🏾‍♀️",
     "hexcodes": [
@@ -942,7 +942,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: medium-dark skin tone, beard",
     "emoji": "🧔🏾‍♀",
     "hexcodes": [
@@ -957,7 +957,7 @@
     "subgroup": "person",
     "qualifier": "fully-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: dark skin tone, beard",
     "emoji": "🧔🏿‍♀️",
     "hexcodes": [
@@ -973,7 +973,7 @@
     "subgroup": "person",
     "qualifier": "minimally-qualified",
     "emojiVersion": "13.1",
-    "unicodeVersion": "13.0",
+    "unicodeVersion": "13.1",
     "description": "woman: dark skin tone, beard",
     "emoji": "🧔🏿‍♀",
     "hexcodes": [
