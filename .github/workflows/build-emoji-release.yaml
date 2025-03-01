@@ -93,21 +93,9 @@ jobs:
           echo "final versions: $FINAL_VERSIONS"
           pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS
 
-      - name: detect changes for emoji data
-        id: has-data-changes
-        run: |
-            # check for changes in data directory
-            if git diff --quiet data/; then
-              echo "no changes detected in data/"
-              echo "has-data-changes=false" >> $GITHUB_OUTPUT
-            else
-              echo "changes detected in data/"
-              echo "has-data-changes=true" >> $GITHUB_OUTPUT
-            fi
-
       - name: create pull request
         uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
-        if: ${{ github.event.inputs.dry-run != 'true' && steps.has-data-changes.outputs.has-data-changes == 'true' }}
+        if: ${{ github.event.inputs.dry-run != 'true' }}
         with:
           commit-message: "feat: update emojis"
           title: "feat: update emojis"
