@@ -48,10 +48,23 @@ jobs:
             echo "has-lock-changes=true" >> $GITHUB_OUTPUT
           fi
 
+      - name: Check for conflicts
+        id: check-conflicts
+        run: |
+          git fetch origin main
+          git fetch origin new-emoji-release:new-emoji-release || exit 1
+          if git merge-base --is-ancestor new-emoji-release main; then
+            echo "No conflicts detected."
+            echo "has-conflicts=false" >> $GITHUB_OUTPUT
+          else
+            echo "Conflicts detected between new-emoji-release and main."
+            echo "has-conflicts=true" >> $GITHUB_OUTPUT
+          fi
+        continue-on-error: true
 
       - name: create pull request
         uses: peter-evans/create-pull-request@67ccf781d68cd99b580ae25a5c18a1cc84ffff1f # v7.0.6
-        if: ${{ github.event.inputs.dry-run != 'true' && steps.has-lock-changes.outputs.has-lock-changes == 'true' }}
+        if: ${{ github.event.inputs.dry-run != 'true' && steps.check-conflicts.outcome == 'failure' }}
         with:
           commit-message: "feat: new emoji release"
           title: "feat: new emoji release"
@@ -72,5 +85,3 @@ jobs:
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           reviewers: luxass
-
-
