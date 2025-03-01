@@ -49,9 +49,6 @@ jobs:
         with:
           node-version: lts/*
 
-      - name: install dependencies
-        run: pnpm install
-
       - name: get new releases
         id: new-releases
         if: github.event_name != 'workflow_dispatch'
