@@ -87,7 +87,9 @@ jobs:
       - name: generate
         env:
           FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
-        run: pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS || true
+        run: |
+          pnpm dlx @mojis/cli@latest --version
+          pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS || true
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
