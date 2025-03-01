@@ -80,6 +80,7 @@ jobs:
 
           # use manual versions if provided, otherwise fallback to auto-detected versions
           FINAL_VERSIONS="${SEPARATED_VERSIONS:-$AUTO_VERSIONS}"
+          FINAL_VERSIONS=$(echo "$FINAL_VERSIONS" | sed "s/[\"']//g")
 
           echo "using versions: $FINAL_VERSIONS"
           echo "FINAL_VERSIONS=$FINAL_VERSIONS" >> $GITHUB_OUTPUT
