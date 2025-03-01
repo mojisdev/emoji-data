@@ -1,0 +1,62 @@
+{
+  "1F3FB": {
+    "group": "component",
+    "subgroup": "skin-tone",
+    "qualifier": "component",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "light skin tone",
+    "emoji": "🏻",
+    "hexcodes": [
+      "1F3FB"
+    ]
+  },
+  "1F3FC": {
+    "group": "component",
+    "subgroup": "skin-tone",
+    "qualifier": "component",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "medium-light skin tone",
+    "emoji": "🏼",
+    "hexcodes": [
+      "1F3FC"
+    ]
+  },
+  "1F3FD": {
+    "group": "component",
+    "subgroup": "skin-tone",
+    "qualifier": "component",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "medium skin tone",
+    "emoji": "🏽",
+    "hexcodes": [
+      "1F3FD"
+    ]
+  },
+  "1F3FE": {
+    "group": "component",
+    "subgroup": "skin-tone",
+    "qualifier": "component",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "medium-dark skin tone",
+    "emoji": "🏾",
+    "hexcodes": [
+      "1F3FE"
+    ]
+  },
+  "1F3FF": {
+    "group": "component",
+    "subgroup": "skin-tone",
+    "qualifier": "component",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dark skin tone",
+    "emoji": "🏿",
+    "hexcodes": [
+      "1F3FF"
+    ]
+  }
+}

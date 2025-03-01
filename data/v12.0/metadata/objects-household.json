@@ -1,0 +1,232 @@
+{
+  "1F6AA": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🚪 door",
+    "hexcodes": [
+      "1F6AA"
+    ]
+  },
+  "1F6CF-FE0F": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛏️ bed",
+    "hexcodes": [
+      "1F6CF",
+      "FE0F"
+    ]
+  },
+  "1F6CF": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛏 bed",
+    "hexcodes": [
+      "1F6CF"
+    ]
+  },
+  "1F6CB-FE0F": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛋️ couch and lamp",
+    "hexcodes": [
+      "1F6CB",
+      "FE0F"
+    ]
+  },
+  "1F6CB": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛋 couch and lamp",
+    "hexcodes": [
+      "1F6CB"
+    ]
+  },
+  "1FA91": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🪑 chair",
+    "hexcodes": [
+      "1FA91"
+    ]
+  },
+  "1F6BD": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🚽 toilet",
+    "hexcodes": [
+      "1F6BD"
+    ]
+  },
+  "1F6BF": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🚿 shower",
+    "hexcodes": [
+      "1F6BF"
+    ]
+  },
+  "1F6C1": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛁 bathtub",
+    "hexcodes": [
+      "1F6C1"
+    ]
+  },
+  "1FA92": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🪒 razor",
+    "hexcodes": [
+      "1FA92"
+    ]
+  },
+  "1F9F4": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧴 lotion bottle",
+    "hexcodes": [
+      "1F9F4"
+    ]
+  },
+  "1F9F7": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧷 safety pin",
+    "hexcodes": [
+      "1F9F7"
+    ]
+  },
+  "1F9F9": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧹 broom",
+    "hexcodes": [
+      "1F9F9"
+    ]
+  },
+  "1F9FA": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧺 basket",
+    "hexcodes": [
+      "1F9FA"
+    ]
+  },
+  "1F9FB": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧻 roll of paper",
+    "hexcodes": [
+      "1F9FB"
+    ]
+  },
+  "1F9FC": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧼 soap",
+    "hexcodes": [
+      "1F9FC"
+    ]
+  },
+  "1F9FD": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧽 sponge",
+    "hexcodes": [
+      "1F9FD"
+    ]
+  },
+  "1F9EF": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧯 fire extinguisher",
+    "hexcodes": [
+      "1F9EF"
+    ]
+  },
+  "1F6D2": {
+    "group": "objects",
+    "subgroup": "household",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛒 shopping cart",
+    "hexcodes": [
+      "1F6D2"
+    ]
+  }
+}

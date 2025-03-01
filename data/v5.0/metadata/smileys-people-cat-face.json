@@ -1,0 +1,110 @@
+{
+  "1F63A": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😺 grinning cat face",
+    "hexcodes": [
+      "1F63A"
+    ]
+  },
+  "1F638": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😸 grinning cat face with smiling eyes",
+    "hexcodes": [
+      "1F638"
+    ]
+  },
+  "1F639": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😹 cat face with tears of joy",
+    "hexcodes": [
+      "1F639"
+    ]
+  },
+  "1F63B": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😻 smiling cat face with heart-eyes",
+    "hexcodes": [
+      "1F63B"
+    ]
+  },
+  "1F63C": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😼 cat face with wry smile",
+    "hexcodes": [
+      "1F63C"
+    ]
+  },
+  "1F63D": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😽 kissing cat face",
+    "hexcodes": [
+      "1F63D"
+    ]
+  },
+  "1F640": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙀 weary cat face",
+    "hexcodes": [
+      "1F640"
+    ]
+  },
+  "1F63F": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😿 crying cat face",
+    "hexcodes": [
+      "1F63F"
+    ]
+  },
+  "1F63E": {
+    "group": "smileys-people",
+    "subgroup": "cat-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😾 pouting cat face",
+    "hexcodes": [
+      "1F63E"
+    ]
+  }
+}

@@ -1,0 +1,149 @@
+{
+  "1F3BC": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "musical score",
+    "emoji": "🎼",
+    "hexcodes": [
+      "1F3BC"
+    ]
+  },
+  "1F3B5": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "musical note",
+    "emoji": "🎵",
+    "hexcodes": [
+      "1F3B5"
+    ]
+  },
+  "1F3B6": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "musical notes",
+    "emoji": "🎶",
+    "hexcodes": [
+      "1F3B6"
+    ]
+  },
+  "1F399-FE0F": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "studio microphone",
+    "emoji": "🎙️",
+    "hexcodes": [
+      "1F399",
+      "FE0F"
+    ]
+  },
+  "1F399": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "studio microphone",
+    "emoji": "🎙",
+    "hexcodes": [
+      "1F399"
+    ]
+  },
+  "1F39A-FE0F": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "level slider",
+    "emoji": "🎚️",
+    "hexcodes": [
+      "1F39A",
+      "FE0F"
+    ]
+  },
+  "1F39A": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "level slider",
+    "emoji": "🎚",
+    "hexcodes": [
+      "1F39A"
+    ]
+  },
+  "1F39B-FE0F": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "control knobs",
+    "emoji": "🎛️",
+    "hexcodes": [
+      "1F39B",
+      "FE0F"
+    ]
+  },
+  "1F39B": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "control knobs",
+    "emoji": "🎛",
+    "hexcodes": [
+      "1F39B"
+    ]
+  },
+  "1F3A4": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "microphone",
+    "emoji": "🎤",
+    "hexcodes": [
+      "1F3A4"
+    ]
+  },
+  "1F3A7": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "headphone",
+    "emoji": "🎧",
+    "hexcodes": [
+      "1F3A7"
+    ]
+  },
+  "1F4FB": {
+    "group": "objects",
+    "subgroup": "music",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "radio",
+    "emoji": "📻",
+    "hexcodes": [
+      "1F4FB"
+    ]
+  }
+}

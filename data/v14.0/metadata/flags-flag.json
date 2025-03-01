@@ -1,0 +1,193 @@
+{
+  "1F3C1": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "chequered flag",
+    "emoji": "🏁",
+    "hexcodes": [
+      "1F3C1"
+    ]
+  },
+  "1F6A9": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "triangular flag",
+    "emoji": "🚩",
+    "hexcodes": [
+      "1F6A9"
+    ]
+  },
+  "1F38C": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "crossed flags",
+    "emoji": "🎌",
+    "hexcodes": [
+      "1F38C"
+    ]
+  },
+  "1F3F4": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "black flag",
+    "emoji": "🏴",
+    "hexcodes": [
+      "1F3F4"
+    ]
+  },
+  "1F3F3-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "white flag",
+    "emoji": "🏳️",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F"
+    ]
+  },
+  "1F3F3": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "white flag",
+    "emoji": "🏳",
+    "hexcodes": [
+      "1F3F3"
+    ]
+  },
+  "1F3F3-FE0F-200D-1F308": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "rainbow flag",
+    "emoji": "🏳️‍🌈",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F",
+      "200D",
+      "1F308"
+    ]
+  },
+  "1F3F3-200D-1F308": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "unqualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "rainbow flag",
+    "emoji": "🏳‍🌈",
+    "hexcodes": [
+      "1F3F3",
+      "200D",
+      "1F308"
+    ]
+  },
+  "1F3F3-FE0F-200D-26A7-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender flag",
+    "emoji": "🏳️‍⚧️",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F",
+      "200D",
+      "26A7",
+      "FE0F"
+    ]
+  },
+  "1F3F3-200D-26A7-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "unqualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender flag",
+    "emoji": "🏳‍⚧️",
+    "hexcodes": [
+      "1F3F3",
+      "200D",
+      "26A7",
+      "FE0F"
+    ]
+  },
+  "1F3F3-FE0F-200D-26A7": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "unqualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender flag",
+    "emoji": "🏳️‍⚧",
+    "hexcodes": [
+      "1F3F3",
+      "FE0F",
+      "200D",
+      "26A7"
+    ]
+  },
+  "1F3F3-200D-26A7": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "unqualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "transgender flag",
+    "emoji": "🏳‍⚧",
+    "hexcodes": [
+      "1F3F3",
+      "200D",
+      "26A7"
+    ]
+  },
+  "1F3F4-200D-2620-FE0F": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "pirate flag",
+    "emoji": "🏴‍☠️",
+    "hexcodes": [
+      "1F3F4",
+      "200D",
+      "2620",
+      "FE0F"
+    ]
+  },
+  "1F3F4-200D-2620": {
+    "group": "flags",
+    "subgroup": "flag",
+    "qualifier": "minimally-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "pirate flag",
+    "emoji": "🏴‍☠",
+    "hexcodes": [
+      "1F3F4",
+      "200D",
+      "2620"
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "1F951": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥑 avocado",
+    "hexcodes": [
+      "1F951"
+    ]
+  },
+  "1F346": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🍆 eggplant",
+    "hexcodes": [
+      "1F346"
+    ]
+  },
+  "1F954": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥔 potato",
+    "hexcodes": [
+      "1F954"
+    ]
+  },
+  "1F955": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥕 carrot",
+    "hexcodes": [
+      "1F955"
+    ]
+  },
+  "1F33D": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌽 ear of corn",
+    "hexcodes": [
+      "1F33D"
+    ]
+  },
+  "1F336-FE0F": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌶️ hot pepper",
+    "hexcodes": [
+      "1F336",
+      "FE0F"
+    ]
+  },
+  "1F336": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌶 hot pepper",
+    "hexcodes": [
+      "1F336"
+    ]
+  },
+  "1F952": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥒 cucumber",
+    "hexcodes": [
+      "1F952"
+    ]
+  },
+  "1F966": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥦 broccoli",
+    "hexcodes": [
+      "1F966"
+    ]
+  },
+  "1F344": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🍄 mushroom",
+    "hexcodes": [
+      "1F344"
+    ]
+  },
+  "1F95C": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥜 peanuts",
+    "hexcodes": [
+      "1F95C"
+    ]
+  },
+  "1F330": {
+    "group": "food-drink",
+    "subgroup": "food-vegetable",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🌰 chestnut",
+    "hexcodes": [
+      "1F330"
+    ]
+  }
+}

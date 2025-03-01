@@ -1,0 +1,413 @@
+{
+  "231B": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hourglass done",
+    "emoji": "⌛",
+    "hexcodes": [
+      "231B"
+    ]
+  },
+  "23F3": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hourglass not done",
+    "emoji": "⏳",
+    "hexcodes": [
+      "23F3"
+    ]
+  },
+  "231A": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "watch",
+    "emoji": "⌚",
+    "hexcodes": [
+      "231A"
+    ]
+  },
+  "23F0": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "alarm clock",
+    "emoji": "⏰",
+    "hexcodes": [
+      "23F0"
+    ]
+  },
+  "23F1-FE0F": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "stopwatch",
+    "emoji": "⏱️",
+    "hexcodes": [
+      "23F1",
+      "FE0F"
+    ]
+  },
+  "23F1": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "unqualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "stopwatch",
+    "emoji": "⏱",
+    "hexcodes": [
+      "23F1"
+    ]
+  },
+  "23F2-FE0F": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "timer clock",
+    "emoji": "⏲️",
+    "hexcodes": [
+      "23F2",
+      "FE0F"
+    ]
+  },
+  "23F2": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "unqualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "timer clock",
+    "emoji": "⏲",
+    "hexcodes": [
+      "23F2"
+    ]
+  },
+  "1F570-FE0F": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "mantelpiece clock",
+    "emoji": "🕰️",
+    "hexcodes": [
+      "1F570",
+      "FE0F"
+    ]
+  },
+  "1F570": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "mantelpiece clock",
+    "emoji": "🕰",
+    "hexcodes": [
+      "1F570"
+    ]
+  },
+  "1F55B": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "twelve o’clock",
+    "emoji": "🕛",
+    "hexcodes": [
+      "1F55B"
+    ]
+  },
+  "1F567": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "twelve-thirty",
+    "emoji": "🕧",
+    "hexcodes": [
+      "1F567"
+    ]
+  },
+  "1F550": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "one o’clock",
+    "emoji": "🕐",
+    "hexcodes": [
+      "1F550"
+    ]
+  },
+  "1F55C": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "one-thirty",
+    "emoji": "🕜",
+    "hexcodes": [
+      "1F55C"
+    ]
+  },
+  "1F551": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "two o’clock",
+    "emoji": "🕑",
+    "hexcodes": [
+      "1F551"
+    ]
+  },
+  "1F55D": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "two-thirty",
+    "emoji": "🕝",
+    "hexcodes": [
+      "1F55D"
+    ]
+  },
+  "1F552": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "three o’clock",
+    "emoji": "🕒",
+    "hexcodes": [
+      "1F552"
+    ]
+  },
+  "1F55E": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "three-thirty",
+    "emoji": "🕞",
+    "hexcodes": [
+      "1F55E"
+    ]
+  },
+  "1F553": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "four o’clock",
+    "emoji": "🕓",
+    "hexcodes": [
+      "1F553"
+    ]
+  },
+  "1F55F": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "four-thirty",
+    "emoji": "🕟",
+    "hexcodes": [
+      "1F55F"
+    ]
+  },
+  "1F554": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "five o’clock",
+    "emoji": "🕔",
+    "hexcodes": [
+      "1F554"
+    ]
+  },
+  "1F560": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "five-thirty",
+    "emoji": "🕠",
+    "hexcodes": [
+      "1F560"
+    ]
+  },
+  "1F555": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "six o’clock",
+    "emoji": "🕕",
+    "hexcodes": [
+      "1F555"
+    ]
+  },
+  "1F561": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "six-thirty",
+    "emoji": "🕡",
+    "hexcodes": [
+      "1F561"
+    ]
+  },
+  "1F556": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "seven o’clock",
+    "emoji": "🕖",
+    "hexcodes": [
+      "1F556"
+    ]
+  },
+  "1F562": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "seven-thirty",
+    "emoji": "🕢",
+    "hexcodes": [
+      "1F562"
+    ]
+  },
+  "1F557": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "eight o’clock",
+    "emoji": "🕗",
+    "hexcodes": [
+      "1F557"
+    ]
+  },
+  "1F563": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "eight-thirty",
+    "emoji": "🕣",
+    "hexcodes": [
+      "1F563"
+    ]
+  },
+  "1F558": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "nine o’clock",
+    "emoji": "🕘",
+    "hexcodes": [
+      "1F558"
+    ]
+  },
+  "1F564": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "nine-thirty",
+    "emoji": "🕤",
+    "hexcodes": [
+      "1F564"
+    ]
+  },
+  "1F559": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "ten o’clock",
+    "emoji": "🕙",
+    "hexcodes": [
+      "1F559"
+    ]
+  },
+  "1F565": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "ten-thirty",
+    "emoji": "🕥",
+    "hexcodes": [
+      "1F565"
+    ]
+  },
+  "1F55A": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "eleven o’clock",
+    "emoji": "🕚",
+    "hexcodes": [
+      "1F55A"
+    ]
+  },
+  "1F566": {
+    "group": "travel-places",
+    "subgroup": "time",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "eleven-thirty",
+    "emoji": "🕦",
+    "hexcodes": [
+      "1F566"
+    ]
+  }
+}

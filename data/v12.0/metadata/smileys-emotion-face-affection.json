@@ -1,0 +1,111 @@
+{
+  "1F970": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥰 smiling face with hearts",
+    "hexcodes": [
+      "1F970"
+    ]
+  },
+  "1F60D": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😍 smiling face with heart-eyes",
+    "hexcodes": [
+      "1F60D"
+    ]
+  },
+  "1F929": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤩 star-struck",
+    "hexcodes": [
+      "1F929"
+    ]
+  },
+  "1F618": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😘 face blowing a kiss",
+    "hexcodes": [
+      "1F618"
+    ]
+  },
+  "1F617": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😗 kissing face",
+    "hexcodes": [
+      "1F617"
+    ]
+  },
+  "263A-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☺️ smiling face",
+    "hexcodes": [
+      "263A",
+      "FE0F"
+    ]
+  },
+  "263A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "☺ smiling face",
+    "hexcodes": [
+      "263A"
+    ]
+  },
+  "1F61A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😚 kissing face with closed eyes",
+    "hexcodes": [
+      "1F61A"
+    ]
+  },
+  "1F619": {
+    "group": "smileys-emotion",
+    "subgroup": "face-affection",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😙 kissing face with smiling eyes",
+    "hexcodes": [
+      "1F619"
+    ]
+  }
+}

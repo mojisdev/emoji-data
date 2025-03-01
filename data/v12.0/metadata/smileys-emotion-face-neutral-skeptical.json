@@ -1,0 +1,122 @@
+{
+  "1F910": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤐 zipper-mouth face",
+    "hexcodes": [
+      "1F910"
+    ]
+  },
+  "1F928": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤨 face with raised eyebrow",
+    "hexcodes": [
+      "1F928"
+    ]
+  },
+  "1F610": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😐 neutral face",
+    "hexcodes": [
+      "1F610"
+    ]
+  },
+  "1F611": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😑 expressionless face",
+    "hexcodes": [
+      "1F611"
+    ]
+  },
+  "1F636": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😶 face without mouth",
+    "hexcodes": [
+      "1F636"
+    ]
+  },
+  "1F60F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😏 smirking face",
+    "hexcodes": [
+      "1F60F"
+    ]
+  },
+  "1F612": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😒 unamused face",
+    "hexcodes": [
+      "1F612"
+    ]
+  },
+  "1F644": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🙄 face with rolling eyes",
+    "hexcodes": [
+      "1F644"
+    ]
+  },
+  "1F62C": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "😬 grimacing face",
+    "hexcodes": [
+      "1F62C"
+    ]
+  },
+  "1F925": {
+    "group": "smileys-emotion",
+    "subgroup": "face-neutral-skeptical",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🤥 lying face",
+    "hexcodes": [
+      "1F925"
+    ]
+  }
+}

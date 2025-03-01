@@ -1,0 +1,303 @@
+{
+  "2639": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "frowning face",
+    "emoji": "☹",
+    "hexcodes": [
+      "2639"
+    ]
+  },
+  "1F615": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "confused face",
+    "emoji": "😕",
+    "hexcodes": [
+      "1F615"
+    ]
+  },
+  "1F61F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "worried face",
+    "emoji": "😟",
+    "hexcodes": [
+      "1F61F"
+    ]
+  },
+  "1F641": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "slightly frowning face",
+    "emoji": "🙁",
+    "hexcodes": [
+      "1F641"
+    ]
+  },
+  "2639-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "frowning face",
+    "emoji": "☹️",
+    "hexcodes": [
+      "2639",
+      "FE0F"
+    ]
+  },
+  "1F62E": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "face with open mouth",
+    "emoji": "😮",
+    "hexcodes": [
+      "1F62E"
+    ]
+  },
+  "1F62F": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "hushed face",
+    "emoji": "😯",
+    "hexcodes": [
+      "1F62F"
+    ]
+  },
+  "1F632": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "astonished face",
+    "emoji": "😲",
+    "hexcodes": [
+      "1F632"
+    ]
+  },
+  "1F633": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "flushed face",
+    "emoji": "😳",
+    "hexcodes": [
+      "1F633"
+    ]
+  },
+  "1F97A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "pleading face",
+    "emoji": "🥺",
+    "hexcodes": [
+      "1F97A"
+    ]
+  },
+  "1F626": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "frowning face with open mouth",
+    "emoji": "😦",
+    "hexcodes": [
+      "1F626"
+    ]
+  },
+  "1F627": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "anguished face",
+    "emoji": "😧",
+    "hexcodes": [
+      "1F627"
+    ]
+  },
+  "1F628": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fearful face",
+    "emoji": "😨",
+    "hexcodes": [
+      "1F628"
+    ]
+  },
+  "1F630": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "anxious face with sweat",
+    "emoji": "😰",
+    "hexcodes": [
+      "1F630"
+    ]
+  },
+  "1F625": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sad but relieved face",
+    "emoji": "😥",
+    "hexcodes": [
+      "1F625"
+    ]
+  },
+  "1F622": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "crying face",
+    "emoji": "😢",
+    "hexcodes": [
+      "1F622"
+    ]
+  },
+  "1F62D": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "loudly crying face",
+    "emoji": "😭",
+    "hexcodes": [
+      "1F62D"
+    ]
+  },
+  "1F631": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "face screaming in fear",
+    "emoji": "😱",
+    "hexcodes": [
+      "1F631"
+    ]
+  },
+  "1F616": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "confounded face",
+    "emoji": "😖",
+    "hexcodes": [
+      "1F616"
+    ]
+  },
+  "1F623": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "persevering face",
+    "emoji": "😣",
+    "hexcodes": [
+      "1F623"
+    ]
+  },
+  "1F61E": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "disappointed face",
+    "emoji": "😞",
+    "hexcodes": [
+      "1F61E"
+    ]
+  },
+  "1F613": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "downcast face with sweat",
+    "emoji": "😓",
+    "hexcodes": [
+      "1F613"
+    ]
+  },
+  "1F629": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "weary face",
+    "emoji": "😩",
+    "hexcodes": [
+      "1F629"
+    ]
+  },
+  "1F62B": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "tired face",
+    "emoji": "😫",
+    "hexcodes": [
+      "1F62B"
+    ]
+  },
+  "1F971": {
+    "group": "smileys-emotion",
+    "subgroup": "face-concerned",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.0",
+    "unicodeVersion": "12.0",
+    "description": "yawning face",
+    "emoji": "🥱",
+    "hexcodes": [
+      "1F971"
+    ]
+  }
+}

@@ -1,0 +1,87 @@
+{
+  "1F962": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "chopsticks",
+    "emoji": "🥢",
+    "hexcodes": [
+      "1F962"
+    ]
+  },
+  "1F37D-FE0F": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fork and knife with plate",
+    "emoji": "🍽️",
+    "hexcodes": [
+      "1F37D",
+      "FE0F"
+    ]
+  },
+  "1F37D": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fork and knife with plate",
+    "emoji": "🍽",
+    "hexcodes": [
+      "1F37D"
+    ]
+  },
+  "1F374": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fork and knife",
+    "emoji": "🍴",
+    "hexcodes": [
+      "1F374"
+    ]
+  },
+  "1F944": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "spoon",
+    "emoji": "🥄",
+    "hexcodes": [
+      "1F944"
+    ]
+  },
+  "1F52A": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "kitchen knife",
+    "emoji": "🔪",
+    "hexcodes": [
+      "1F52A"
+    ]
+  },
+  "1F3FA": {
+    "group": "food-drink",
+    "subgroup": "dishware",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "amphora",
+    "emoji": "🏺",
+    "hexcodes": [
+      "1F3FA"
+    ]
+  }
+}

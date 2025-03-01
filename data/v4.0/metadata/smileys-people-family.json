@@ -1,0 +1,694 @@
+{
+  "1F46B": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👫 man and woman holding hands",
+    "hexcodes": [
+      "1F46B"
+    ]
+  },
+  "1F46C": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👬 two men holding hands",
+    "hexcodes": [
+      "1F46C"
+    ]
+  },
+  "1F46D": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👭 two women holding hands",
+    "hexcodes": [
+      "1F46D"
+    ]
+  },
+  "1F48F": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💏 kiss",
+    "hexcodes": [
+      "1F48F"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F48B-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤️‍💋‍👨 kiss: woman, man",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F469-200D-2764-200D-1F48B-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤‍💋‍👨 kiss: woman, man",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F468-200D-2764-FE0F-200D-1F48B-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍❤️‍💋‍👨 kiss: man, man",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F468-200D-2764-200D-1F48B-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍❤‍💋‍👨 kiss: man, man",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "2764",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F48B-200D-1F469": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤️‍💋‍👩 kiss: woman, woman",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F469"
+    ]
+  },
+  "1F469-200D-2764-200D-1F48B-200D-1F469": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤‍💋‍👩 kiss: woman, woman",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "200D",
+      "1F48B",
+      "200D",
+      "1F469"
+    ]
+  },
+  "1F491": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💑 couple with heart",
+    "hexcodes": [
+      "1F491"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤️‍👨 couple with heart: woman, man",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F469-200D-2764-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤‍👨 couple with heart: woman, man",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F468-200D-2764-FE0F-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍❤️‍👨 couple with heart: man, man",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F468-200D-2764-200D-1F468": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍❤‍👨 couple with heart: man, man",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "2764",
+      "200D",
+      "1F468"
+    ]
+  },
+  "1F469-200D-2764-FE0F-200D-1F469": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤️‍👩 couple with heart: woman, woman",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "FE0F",
+      "200D",
+      "1F469"
+    ]
+  },
+  "1F469-200D-2764-200D-1F469": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍❤‍👩 couple with heart: woman, woman",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "2764",
+      "200D",
+      "1F469"
+    ]
+  },
+  "1F46A": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👪 family",
+    "hexcodes": [
+      "1F46A"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👩‍👦 family: man, woman, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F469",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👩‍👧 family: man, woman, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👩‍👧‍👦 family: man, woman, girl, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F466-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👩‍👦‍👦 family: man, woman, boy, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F469",
+      "200D",
+      "1F466",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F469-200D-1F467-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👩‍👧‍👧 family: man, woman, girl, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👨‍👦 family: man, man, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F468",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👨‍👧 family: man, man, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F468",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👨‍👧‍👦 family: man, man, girl, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F468",
+      "200D",
+      "1F467",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F466-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👨‍👦‍👦 family: man, man, boy, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F468",
+      "200D",
+      "1F466",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F468-200D-1F467-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👨‍👧‍👧 family: man, man, girl, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F468",
+      "200D",
+      "1F467",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👩‍👦 family: woman, woman, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F469",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👩‍👧 family: woman, woman, girl",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👩‍👧‍👦 family: woman, woman, girl, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F466-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👩‍👦‍👦 family: woman, woman, boy, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F469",
+      "200D",
+      "1F466",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F469-200D-1F467-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👩‍👧‍👧 family: woman, woman, girl, girl",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F468-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👦 family: man, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F466-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👦‍👦 family: man, boy, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F466",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👧 family: man, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F468-200D-1F467-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👧‍👦 family: man, girl, boy",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F467",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F468-200D-1F467-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👨‍👧‍👧 family: man, girl, girl",
+    "hexcodes": [
+      "1F468",
+      "200D",
+      "1F467",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F469-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👦 family: woman, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F466-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👦‍👦 family: woman, boy, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F466",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👧 family: woman, girl",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F467"
+    ]
+  },
+  "1F469-200D-1F467-200D-1F466": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👧‍👦 family: woman, girl, boy",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F466"
+    ]
+  },
+  "1F469-200D-1F467-200D-1F467": {
+    "group": "smileys-people",
+    "subgroup": "family",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👩‍👧‍👧 family: woman, girl, girl",
+    "hexcodes": [
+      "1F469",
+      "200D",
+      "1F467",
+      "200D",
+      "1F467"
+    ]
+  }
+}

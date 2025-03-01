@@ -1,0 +1,667 @@
+{
+  "1F682": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "locomotive",
+    "emoji": "🚂",
+    "hexcodes": [
+      "1F682"
+    ]
+  },
+  "1F683": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "railway car",
+    "emoji": "🚃",
+    "hexcodes": [
+      "1F683"
+    ]
+  },
+  "1F684": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "high-speed train",
+    "emoji": "🚄",
+    "hexcodes": [
+      "1F684"
+    ]
+  },
+  "1F685": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bullet train",
+    "emoji": "🚅",
+    "hexcodes": [
+      "1F685"
+    ]
+  },
+  "1F686": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "train",
+    "emoji": "🚆",
+    "hexcodes": [
+      "1F686"
+    ]
+  },
+  "1F687": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "metro",
+    "emoji": "🚇",
+    "hexcodes": [
+      "1F687"
+    ]
+  },
+  "1F688": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "light rail",
+    "emoji": "🚈",
+    "hexcodes": [
+      "1F688"
+    ]
+  },
+  "1F689": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "station",
+    "emoji": "🚉",
+    "hexcodes": [
+      "1F689"
+    ]
+  },
+  "1F68A": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "tram",
+    "emoji": "🚊",
+    "hexcodes": [
+      "1F68A"
+    ]
+  },
+  "1F69D": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "monorail",
+    "emoji": "🚝",
+    "hexcodes": [
+      "1F69D"
+    ]
+  },
+  "1F69E": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "mountain railway",
+    "emoji": "🚞",
+    "hexcodes": [
+      "1F69E"
+    ]
+  },
+  "1F68B": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "tram car",
+    "emoji": "🚋",
+    "hexcodes": [
+      "1F68B"
+    ]
+  },
+  "1F68C": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bus",
+    "emoji": "🚌",
+    "hexcodes": [
+      "1F68C"
+    ]
+  },
+  "1F68D": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "oncoming bus",
+    "emoji": "🚍",
+    "hexcodes": [
+      "1F68D"
+    ]
+  },
+  "1F68E": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "trolleybus",
+    "emoji": "🚎",
+    "hexcodes": [
+      "1F68E"
+    ]
+  },
+  "1F690": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "minibus",
+    "emoji": "🚐",
+    "hexcodes": [
+      "1F690"
+    ]
+  },
+  "1F691": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "ambulance",
+    "emoji": "🚑",
+    "hexcodes": [
+      "1F691"
+    ]
+  },
+  "1F692": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fire engine",
+    "emoji": "🚒",
+    "hexcodes": [
+      "1F692"
+    ]
+  },
+  "1F693": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "police car",
+    "emoji": "🚓",
+    "hexcodes": [
+      "1F693"
+    ]
+  },
+  "1F694": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "oncoming police car",
+    "emoji": "🚔",
+    "hexcodes": [
+      "1F694"
+    ]
+  },
+  "1F695": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "taxi",
+    "emoji": "🚕",
+    "hexcodes": [
+      "1F695"
+    ]
+  },
+  "1F696": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "oncoming taxi",
+    "emoji": "🚖",
+    "hexcodes": [
+      "1F696"
+    ]
+  },
+  "1F697": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "automobile",
+    "emoji": "🚗",
+    "hexcodes": [
+      "1F697"
+    ]
+  },
+  "1F698": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "oncoming automobile",
+    "emoji": "🚘",
+    "hexcodes": [
+      "1F698"
+    ]
+  },
+  "1F699": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sport utility vehicle",
+    "emoji": "🚙",
+    "hexcodes": [
+      "1F699"
+    ]
+  },
+  "1F6FB": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "pickup truck",
+    "emoji": "🛻",
+    "hexcodes": [
+      "1F6FB"
+    ]
+  },
+  "1F69A": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "delivery truck",
+    "emoji": "🚚",
+    "hexcodes": [
+      "1F69A"
+    ]
+  },
+  "1F69B": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "articulated lorry",
+    "emoji": "🚛",
+    "hexcodes": [
+      "1F69B"
+    ]
+  },
+  "1F69C": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "tractor",
+    "emoji": "🚜",
+    "hexcodes": [
+      "1F69C"
+    ]
+  },
+  "1F3CE-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "racing car",
+    "emoji": "🏎️",
+    "hexcodes": [
+      "1F3CE",
+      "FE0F"
+    ]
+  },
+  "1F3CE": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "racing car",
+    "emoji": "🏎",
+    "hexcodes": [
+      "1F3CE"
+    ]
+  },
+  "1F3CD-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "motorcycle",
+    "emoji": "🏍️",
+    "hexcodes": [
+      "1F3CD",
+      "FE0F"
+    ]
+  },
+  "1F3CD": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "motorcycle",
+    "emoji": "🏍",
+    "hexcodes": [
+      "1F3CD"
+    ]
+  },
+  "1F6F5": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "motor scooter",
+    "emoji": "🛵",
+    "hexcodes": [
+      "1F6F5"
+    ]
+  },
+  "1F9BD": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.0",
+    "unicodeVersion": "12.0",
+    "description": "manual wheelchair",
+    "emoji": "🦽",
+    "hexcodes": [
+      "1F9BD"
+    ]
+  },
+  "1F9BC": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.0",
+    "unicodeVersion": "12.0",
+    "description": "motorized wheelchair",
+    "emoji": "🦼",
+    "hexcodes": [
+      "1F9BC"
+    ]
+  },
+  "1F6FA": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.0",
+    "unicodeVersion": "12.0",
+    "description": "auto rickshaw",
+    "emoji": "🛺",
+    "hexcodes": [
+      "1F6FA"
+    ]
+  },
+  "1F6B2": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bicycle",
+    "emoji": "🚲",
+    "hexcodes": [
+      "1F6B2"
+    ]
+  },
+  "1F6F4": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "kick scooter",
+    "emoji": "🛴",
+    "hexcodes": [
+      "1F6F4"
+    ]
+  },
+  "1F6F9": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "skateboard",
+    "emoji": "🛹",
+    "hexcodes": [
+      "1F6F9"
+    ]
+  },
+  "1F6FC": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "roller skate",
+    "emoji": "🛼",
+    "hexcodes": [
+      "1F6FC"
+    ]
+  },
+  "1F68F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bus stop",
+    "emoji": "🚏",
+    "hexcodes": [
+      "1F68F"
+    ]
+  },
+  "1F6E3-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "motorway",
+    "emoji": "🛣️",
+    "hexcodes": [
+      "1F6E3",
+      "FE0F"
+    ]
+  },
+  "1F6E3": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "motorway",
+    "emoji": "🛣",
+    "hexcodes": [
+      "1F6E3"
+    ]
+  },
+  "1F6E4-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "railway track",
+    "emoji": "🛤️",
+    "hexcodes": [
+      "1F6E4",
+      "FE0F"
+    ]
+  },
+  "1F6E4": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "railway track",
+    "emoji": "🛤",
+    "hexcodes": [
+      "1F6E4"
+    ]
+  },
+  "1F6E2-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "oil drum",
+    "emoji": "🛢️",
+    "hexcodes": [
+      "1F6E2",
+      "FE0F"
+    ]
+  },
+  "1F6E2": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "oil drum",
+    "emoji": "🛢",
+    "hexcodes": [
+      "1F6E2"
+    ]
+  },
+  "26FD": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fuel pump",
+    "emoji": "⛽",
+    "hexcodes": [
+      "26FD"
+    ]
+  },
+  "1F6DE": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "14.0",
+    "unicodeVersion": "14.0",
+    "description": "wheel",
+    "emoji": "🛞",
+    "hexcodes": [
+      "1F6DE"
+    ]
+  },
+  "1F6A8": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "police car light",
+    "emoji": "🚨",
+    "hexcodes": [
+      "1F6A8"
+    ]
+  },
+  "1F6A5": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "horizontal traffic light",
+    "emoji": "🚥",
+    "hexcodes": [
+      "1F6A5"
+    ]
+  },
+  "1F6A6": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "vertical traffic light",
+    "emoji": "🚦",
+    "hexcodes": [
+      "1F6A6"
+    ]
+  },
+  "1F6D1": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "stop sign",
+    "emoji": "🛑",
+    "hexcodes": [
+      "1F6D1"
+    ]
+  },
+  "1F6A7": {
+    "group": "travel-places",
+    "subgroup": "transport-ground",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "construction",
+    "emoji": "🚧",
+    "hexcodes": [
+      "1F6A7"
+    ]
+  }
+}
