@@ -1,0 +1,197 @@
+{
+  "2622": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "radioactive",
+    "emoji": "☢",
+    "hexcodes": [
+      "2622"
+    ]
+  },
+  "2623": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "biohazard",
+    "emoji": "☣",
+    "hexcodes": [
+      "2623"
+    ]
+  },
+  "26A0-FE0F": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "warning",
+    "emoji": "⚠️",
+    "hexcodes": [
+      "26A0",
+      "FE0F"
+    ]
+  },
+  "26A0": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "warning",
+    "emoji": "⚠",
+    "hexcodes": [
+      "26A0"
+    ]
+  },
+  "1F6B8": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "children crossing",
+    "emoji": "🚸",
+    "hexcodes": [
+      "1F6B8"
+    ]
+  },
+  "26D4": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no entry",
+    "emoji": "⛔",
+    "hexcodes": [
+      "26D4"
+    ]
+  },
+  "1F6AB": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "prohibited",
+    "emoji": "🚫",
+    "hexcodes": [
+      "1F6AB"
+    ]
+  },
+  "1F6B3": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no bicycles",
+    "emoji": "🚳",
+    "hexcodes": [
+      "1F6B3"
+    ]
+  },
+  "1F6AD": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no smoking",
+    "emoji": "🚭",
+    "hexcodes": [
+      "1F6AD"
+    ]
+  },
+  "1F6AF": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no littering",
+    "emoji": "🚯",
+    "hexcodes": [
+      "1F6AF"
+    ]
+  },
+  "1F6B1": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "non-potable water",
+    "emoji": "🚱",
+    "hexcodes": [
+      "1F6B1"
+    ]
+  },
+  "1F6B7": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no pedestrians",
+    "emoji": "🚷",
+    "hexcodes": [
+      "1F6B7"
+    ]
+  },
+  "1F4F5": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no mobile phones",
+    "emoji": "📵",
+    "hexcodes": [
+      "1F4F5"
+    ]
+  },
+  "1F51E": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "no one under eighteen",
+    "emoji": "🔞",
+    "hexcodes": [
+      "1F51E"
+    ]
+  },
+  "2622-FE0F": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "radioactive",
+    "emoji": "☢️",
+    "hexcodes": [
+      "2622",
+      "FE0F"
+    ]
+  },
+  "2623-FE0F": {
+    "group": "symbols",
+    "subgroup": "warning",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "biohazard",
+    "emoji": "☣️",
+    "hexcodes": [
+      "2623",
+      "FE0F"
+    ]
+  }
+}

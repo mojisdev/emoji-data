@@ -1,0 +1,257 @@
+{
+  "1F48B": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "kiss mark",
+    "emoji": "💋",
+    "hexcodes": [
+      "1F48B"
+    ]
+  },
+  "1F4AF": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hundred points",
+    "emoji": "💯",
+    "hexcodes": [
+      "1F4AF"
+    ]
+  },
+  "1F4A2": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "anger symbol",
+    "emoji": "💢",
+    "hexcodes": [
+      "1F4A2"
+    ]
+  },
+  "1F4A5": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "collision",
+    "emoji": "💥",
+    "hexcodes": [
+      "1F4A5"
+    ]
+  },
+  "1F4AB": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "dizzy",
+    "emoji": "💫",
+    "hexcodes": [
+      "1F4AB"
+    ]
+  },
+  "1F4A6": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "sweat droplets",
+    "emoji": "💦",
+    "hexcodes": [
+      "1F4A6"
+    ]
+  },
+  "1F4A8": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "dashing away",
+    "emoji": "💨",
+    "hexcodes": [
+      "1F4A8"
+    ]
+  },
+  "1F573-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "hole",
+    "emoji": "🕳️",
+    "hexcodes": [
+      "1F573",
+      "FE0F"
+    ]
+  },
+  "1F573": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "hole",
+    "emoji": "🕳",
+    "hexcodes": [
+      "1F573"
+    ]
+  },
+  "1F4AC": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "speech balloon",
+    "emoji": "💬",
+    "hexcodes": [
+      "1F4AC"
+    ]
+  },
+  "1F441-FE0F-200D-1F5E8-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eye in speech bubble",
+    "emoji": "👁️‍🗨️",
+    "hexcodes": [
+      "1F441",
+      "FE0F",
+      "200D",
+      "1F5E8",
+      "FE0F"
+    ]
+  },
+  "1F441-200D-1F5E8-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eye in speech bubble",
+    "emoji": "👁‍🗨️",
+    "hexcodes": [
+      "1F441",
+      "200D",
+      "1F5E8",
+      "FE0F"
+    ]
+  },
+  "1F441-FE0F-200D-1F5E8": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "minimally-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eye in speech bubble",
+    "emoji": "👁️‍🗨",
+    "hexcodes": [
+      "1F441",
+      "FE0F",
+      "200D",
+      "1F5E8"
+    ]
+  },
+  "1F441-200D-1F5E8": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "eye in speech bubble",
+    "emoji": "👁‍🗨",
+    "hexcodes": [
+      "1F441",
+      "200D",
+      "1F5E8"
+    ]
+  },
+  "1F5E8-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "left speech bubble",
+    "emoji": "🗨️",
+    "hexcodes": [
+      "1F5E8",
+      "FE0F"
+    ]
+  },
+  "1F5E8": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "left speech bubble",
+    "emoji": "🗨",
+    "hexcodes": [
+      "1F5E8"
+    ]
+  },
+  "1F5EF-FE0F": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "right anger bubble",
+    "emoji": "🗯️",
+    "hexcodes": [
+      "1F5EF",
+      "FE0F"
+    ]
+  },
+  "1F5EF": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "right anger bubble",
+    "emoji": "🗯",
+    "hexcodes": [
+      "1F5EF"
+    ]
+  },
+  "1F4AD": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "thought balloon",
+    "emoji": "💭",
+    "hexcodes": [
+      "1F4AD"
+    ]
+  },
+  "1F4A4": {
+    "group": "smileys-emotion",
+    "subgroup": "emotion",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "ZZZ",
+    "emoji": "💤",
+    "hexcodes": [
+      "1F4A4"
+    ]
+  }
+}

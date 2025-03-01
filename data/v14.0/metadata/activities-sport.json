@@ -1,0 +1,339 @@
+{
+  "26BD": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "soccer ball",
+    "emoji": "⚽",
+    "hexcodes": [
+      "26BD"
+    ]
+  },
+  "26BE": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "baseball",
+    "emoji": "⚾",
+    "hexcodes": [
+      "26BE"
+    ]
+  },
+  "1F94E": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "softball",
+    "emoji": "🥎",
+    "hexcodes": [
+      "1F94E"
+    ]
+  },
+  "1F3C0": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "basketball",
+    "emoji": "🏀",
+    "hexcodes": [
+      "1F3C0"
+    ]
+  },
+  "1F3D0": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "volleyball",
+    "emoji": "🏐",
+    "hexcodes": [
+      "1F3D0"
+    ]
+  },
+  "1F3C8": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "american football",
+    "emoji": "🏈",
+    "hexcodes": [
+      "1F3C8"
+    ]
+  },
+  "1F3C9": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "rugby football",
+    "emoji": "🏉",
+    "hexcodes": [
+      "1F3C9"
+    ]
+  },
+  "1F3BE": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "tennis",
+    "emoji": "🎾",
+    "hexcodes": [
+      "1F3BE"
+    ]
+  },
+  "1F94F": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "flying disc",
+    "emoji": "🥏",
+    "hexcodes": [
+      "1F94F"
+    ]
+  },
+  "1F3B3": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bowling",
+    "emoji": "🎳",
+    "hexcodes": [
+      "1F3B3"
+    ]
+  },
+  "1F3CF": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "cricket game",
+    "emoji": "🏏",
+    "hexcodes": [
+      "1F3CF"
+    ]
+  },
+  "1F3D1": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "field hockey",
+    "emoji": "🏑",
+    "hexcodes": [
+      "1F3D1"
+    ]
+  },
+  "1F3D2": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "ice hockey",
+    "emoji": "🏒",
+    "hexcodes": [
+      "1F3D2"
+    ]
+  },
+  "1F94D": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "lacrosse",
+    "emoji": "🥍",
+    "hexcodes": [
+      "1F94D"
+    ]
+  },
+  "1F3D3": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "ping pong",
+    "emoji": "🏓",
+    "hexcodes": [
+      "1F3D3"
+    ]
+  },
+  "1F3F8": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "badminton",
+    "emoji": "🏸",
+    "hexcodes": [
+      "1F3F8"
+    ]
+  },
+  "1F94A": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "boxing glove",
+    "emoji": "🥊",
+    "hexcodes": [
+      "1F94A"
+    ]
+  },
+  "1F94B": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "martial arts uniform",
+    "emoji": "🥋",
+    "hexcodes": [
+      "1F94B"
+    ]
+  },
+  "1F945": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "goal net",
+    "emoji": "🥅",
+    "hexcodes": [
+      "1F945"
+    ]
+  },
+  "26F3": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "flag in hole",
+    "emoji": "⛳",
+    "hexcodes": [
+      "26F3"
+    ]
+  },
+  "26F8-FE0F": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "ice skate",
+    "emoji": "⛸️",
+    "hexcodes": [
+      "26F8",
+      "FE0F"
+    ]
+  },
+  "26F8": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "ice skate",
+    "emoji": "⛸",
+    "hexcodes": [
+      "26F8"
+    ]
+  },
+  "1F3A3": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fishing pole",
+    "emoji": "🎣",
+    "hexcodes": [
+      "1F3A3"
+    ]
+  },
+  "1F93F": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.0",
+    "unicodeVersion": "12.0",
+    "description": "diving mask",
+    "emoji": "🤿",
+    "hexcodes": [
+      "1F93F"
+    ]
+  },
+  "1F3BD": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "running shirt",
+    "emoji": "🎽",
+    "hexcodes": [
+      "1F3BD"
+    ]
+  },
+  "1F3BF": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "skis",
+    "emoji": "🎿",
+    "hexcodes": [
+      "1F3BF"
+    ]
+  },
+  "1F6F7": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "sled",
+    "emoji": "🛷",
+    "hexcodes": [
+      "1F6F7"
+    ]
+  },
+  "1F94C": {
+    "group": "activities",
+    "subgroup": "sport",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "curling stone",
+    "emoji": "🥌",
+    "hexcodes": [
+      "1F94C"
+    ]
+  }
+}

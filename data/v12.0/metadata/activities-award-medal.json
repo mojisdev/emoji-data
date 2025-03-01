@@ -1,0 +1,87 @@
+{
+  "1F396-FE0F": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎖️ military medal",
+    "hexcodes": [
+      "1F396",
+      "FE0F"
+    ]
+  },
+  "1F396": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎖 military medal",
+    "hexcodes": [
+      "1F396"
+    ]
+  },
+  "1F3C6": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏆 trophy",
+    "hexcodes": [
+      "1F3C6"
+    ]
+  },
+  "1F3C5": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏅 sports medal",
+    "hexcodes": [
+      "1F3C5"
+    ]
+  },
+  "1F947": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥇 1st place medal",
+    "hexcodes": [
+      "1F947"
+    ]
+  },
+  "1F948": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥈 2nd place medal",
+    "hexcodes": [
+      "1F948"
+    ]
+  },
+  "1F949": {
+    "group": "activities",
+    "subgroup": "award-medal",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥉 3rd place medal",
+    "hexcodes": [
+      "1F949"
+    ]
+  }
+}

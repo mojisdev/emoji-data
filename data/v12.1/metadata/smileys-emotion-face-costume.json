@@ -1,0 +1,98 @@
+{
+  "1F4A9": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "pile of poo",
+    "emoji": "💩",
+    "hexcodes": [
+      "1F4A9"
+    ]
+  },
+  "1F921": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "4.0",
+    "unicodeVersion": "9.0",
+    "description": "clown face",
+    "emoji": "🤡",
+    "hexcodes": [
+      "1F921"
+    ]
+  },
+  "1F479": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "ogre",
+    "emoji": "👹",
+    "hexcodes": [
+      "1F479"
+    ]
+  },
+  "1F47A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "goblin",
+    "emoji": "👺",
+    "hexcodes": [
+      "1F47A"
+    ]
+  },
+  "1F47B": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "ghost",
+    "emoji": "👻",
+    "hexcodes": [
+      "1F47B"
+    ]
+  },
+  "1F47D": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "alien",
+    "emoji": "👽",
+    "hexcodes": [
+      "1F47D"
+    ]
+  },
+  "1F47E": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "alien monster",
+    "emoji": "👾",
+    "hexcodes": [
+      "1F47E"
+    ]
+  },
+  "1F916": {
+    "group": "smileys-emotion",
+    "subgroup": "face-costume",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "robot",
+    "emoji": "🤖",
+    "hexcodes": [
+      "1F916"
+    ]
+  }
+}

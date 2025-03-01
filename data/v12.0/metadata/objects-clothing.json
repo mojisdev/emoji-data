@@ -1,0 +1,557 @@
+{
+  "1F453": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👓 glasses",
+    "hexcodes": [
+      "1F453"
+    ]
+  },
+  "1F576-FE0F": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕶️ sunglasses",
+    "hexcodes": [
+      "1F576",
+      "FE0F"
+    ]
+  },
+  "1F576": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕶 sunglasses",
+    "hexcodes": [
+      "1F576"
+    ]
+  },
+  "1F97D": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥽 goggles",
+    "hexcodes": [
+      "1F97D"
+    ]
+  },
+  "1F97C": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥼 lab coat",
+    "hexcodes": [
+      "1F97C"
+    ]
+  },
+  "1F9BA": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦺 safety vest",
+    "hexcodes": [
+      "1F9BA"
+    ]
+  },
+  "1F454": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👔 necktie",
+    "hexcodes": [
+      "1F454"
+    ]
+  },
+  "1F455": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👕 t-shirt",
+    "hexcodes": [
+      "1F455"
+    ]
+  },
+  "1F456": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👖 jeans",
+    "hexcodes": [
+      "1F456"
+    ]
+  },
+  "1F9E3": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧣 scarf",
+    "hexcodes": [
+      "1F9E3"
+    ]
+  },
+  "1F9E4": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧤 gloves",
+    "hexcodes": [
+      "1F9E4"
+    ]
+  },
+  "1F9E5": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧥 coat",
+    "hexcodes": [
+      "1F9E5"
+    ]
+  },
+  "1F9E6": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧦 socks",
+    "hexcodes": [
+      "1F9E6"
+    ]
+  },
+  "1F457": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👗 dress",
+    "hexcodes": [
+      "1F457"
+    ]
+  },
+  "1F458": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👘 kimono",
+    "hexcodes": [
+      "1F458"
+    ]
+  },
+  "1F97B": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥻 sari",
+    "hexcodes": [
+      "1F97B"
+    ]
+  },
+  "1FA71": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🩱 one-piece swimsuit",
+    "hexcodes": [
+      "1FA71"
+    ]
+  },
+  "1FA72": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🩲 swim brief",
+    "hexcodes": [
+      "1FA72"
+    ]
+  },
+  "1FA73": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🩳 shorts",
+    "hexcodes": [
+      "1FA73"
+    ]
+  },
+  "1F459": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👙 bikini",
+    "hexcodes": [
+      "1F459"
+    ]
+  },
+  "1F45A": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👚 woman’s clothes",
+    "hexcodes": [
+      "1F45A"
+    ]
+  },
+  "1F45B": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👛 purse",
+    "hexcodes": [
+      "1F45B"
+    ]
+  },
+  "1F45C": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👜 handbag",
+    "hexcodes": [
+      "1F45C"
+    ]
+  },
+  "1F45D": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👝 clutch bag",
+    "hexcodes": [
+      "1F45D"
+    ]
+  },
+  "1F6CD-FE0F": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛍️ shopping bags",
+    "hexcodes": [
+      "1F6CD",
+      "FE0F"
+    ]
+  },
+  "1F6CD": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🛍 shopping bags",
+    "hexcodes": [
+      "1F6CD"
+    ]
+  },
+  "1F392": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎒 backpack",
+    "hexcodes": [
+      "1F392"
+    ]
+  },
+  "1F45E": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👞 man’s shoe",
+    "hexcodes": [
+      "1F45E"
+    ]
+  },
+  "1F45F": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👟 running shoe",
+    "hexcodes": [
+      "1F45F"
+    ]
+  },
+  "1F97E": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥾 hiking boot",
+    "hexcodes": [
+      "1F97E"
+    ]
+  },
+  "1F97F": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥿 flat shoe",
+    "hexcodes": [
+      "1F97F"
+    ]
+  },
+  "1F460": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👠 high-heeled shoe",
+    "hexcodes": [
+      "1F460"
+    ]
+  },
+  "1F461": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👡 woman’s sandal",
+    "hexcodes": [
+      "1F461"
+    ]
+  },
+  "1FA70": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🩰 ballet shoes",
+    "hexcodes": [
+      "1FA70"
+    ]
+  },
+  "1F462": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👢 woman’s boot",
+    "hexcodes": [
+      "1F462"
+    ]
+  },
+  "1F451": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👑 crown",
+    "hexcodes": [
+      "1F451"
+    ]
+  },
+  "1F452": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "👒 woman’s hat",
+    "hexcodes": [
+      "1F452"
+    ]
+  },
+  "1F3A9": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎩 top hat",
+    "hexcodes": [
+      "1F3A9"
+    ]
+  },
+  "1F393": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎓 graduation cap",
+    "hexcodes": [
+      "1F393"
+    ]
+  },
+  "1F9E2": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🧢 billed cap",
+    "hexcodes": [
+      "1F9E2"
+    ]
+  },
+  "26D1-FE0F": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛑️ rescue worker’s helmet",
+    "hexcodes": [
+      "26D1",
+      "FE0F"
+    ]
+  },
+  "26D1": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "⛑ rescue worker’s helmet",
+    "hexcodes": [
+      "26D1"
+    ]
+  },
+  "1F4FF": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📿 prayer beads",
+    "hexcodes": [
+      "1F4FF"
+    ]
+  },
+  "1F484": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💄 lipstick",
+    "hexcodes": [
+      "1F484"
+    ]
+  },
+  "1F48D": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💍 ring",
+    "hexcodes": [
+      "1F48D"
+    ]
+  },
+  "1F48E": {
+    "group": "objects",
+    "subgroup": "clothing",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💎 gem stone",
+    "hexcodes": [
+      "1F48E"
+    ]
+  }
+}

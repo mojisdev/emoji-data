@@ -1,0 +1,206 @@
+{
+  "1F371": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "bento box",
+    "emoji": "🍱",
+    "hexcodes": [
+      "1F371"
+    ]
+  },
+  "1F358": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "rice cracker",
+    "emoji": "🍘",
+    "hexcodes": [
+      "1F358"
+    ]
+  },
+  "1F359": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "rice ball",
+    "emoji": "🍙",
+    "hexcodes": [
+      "1F359"
+    ]
+  },
+  "1F35A": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "cooked rice",
+    "emoji": "🍚",
+    "hexcodes": [
+      "1F35A"
+    ]
+  },
+  "1F35B": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "curry rice",
+    "emoji": "🍛",
+    "hexcodes": [
+      "1F35B"
+    ]
+  },
+  "1F35C": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "steaming bowl",
+    "emoji": "🍜",
+    "hexcodes": [
+      "1F35C"
+    ]
+  },
+  "1F35D": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "spaghetti",
+    "emoji": "🍝",
+    "hexcodes": [
+      "1F35D"
+    ]
+  },
+  "1F360": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "roasted sweet potato",
+    "emoji": "🍠",
+    "hexcodes": [
+      "1F360"
+    ]
+  },
+  "1F362": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "oden",
+    "emoji": "🍢",
+    "hexcodes": [
+      "1F362"
+    ]
+  },
+  "1F363": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "sushi",
+    "emoji": "🍣",
+    "hexcodes": [
+      "1F363"
+    ]
+  },
+  "1F364": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fried shrimp",
+    "emoji": "🍤",
+    "hexcodes": [
+      "1F364"
+    ]
+  },
+  "1F365": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "fish cake with swirl",
+    "emoji": "🍥",
+    "hexcodes": [
+      "1F365"
+    ]
+  },
+  "1F96E": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "11.0",
+    "unicodeVersion": "11.0",
+    "description": "moon cake",
+    "emoji": "🥮",
+    "hexcodes": [
+      "1F96E"
+    ]
+  },
+  "1F361": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "dango",
+    "emoji": "🍡",
+    "hexcodes": [
+      "1F361"
+    ]
+  },
+  "1F95F": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "dumpling",
+    "emoji": "🥟",
+    "hexcodes": [
+      "1F95F"
+    ]
+  },
+  "1F960": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "fortune cookie",
+    "emoji": "🥠",
+    "hexcodes": [
+      "1F960"
+    ]
+  },
+  "1F961": {
+    "group": "food-drink",
+    "subgroup": "food-asian",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "takeout box",
+    "emoji": "🥡",
+    "hexcodes": [
+      "1F961"
+    ]
+  }
+}

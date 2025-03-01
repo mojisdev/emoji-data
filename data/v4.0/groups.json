@@ -1,0 +1,124 @@
+[
+  {
+    "name": "Smileys & People",
+    "slug": "smileys-people",
+    "subgroups": [
+      "face-positive",
+      "face-neutral",
+      "face-negative",
+      "face-role",
+      "face-sick",
+      "creature-face",
+      "cat-face",
+      "monkey-face",
+      "person",
+      "person-role",
+      "person-gesture",
+      "person-activity",
+      "person-sport",
+      "family",
+      "body",
+      "emotion",
+      "clothing"
+    ]
+  },
+  {
+    "name": "Animals & Nature",
+    "slug": "animals-nature",
+    "subgroups": [
+      "animal-mammal",
+      "animal-bird",
+      "animal-amphibian",
+      "animal-reptile",
+      "animal-marine",
+      "animal-bug",
+      "plant-flower",
+      "plant-other"
+    ]
+  },
+  {
+    "name": "Food & Drink",
+    "slug": "food-drink",
+    "subgroups": [
+      "food-fruit",
+      "food-vegetable",
+      "food-prepared",
+      "food-asian",
+      "food-sweet",
+      "drink",
+      "dishware"
+    ]
+  },
+  {
+    "name": "Travel & Places",
+    "slug": "travel-places",
+    "subgroups": [
+      "place-map",
+      "place-geographic",
+      "place-building",
+      "place-religious",
+      "place-other",
+      "transport-ground",
+      "transport-water",
+      "transport-air",
+      "hotel",
+      "time",
+      "sky-weather"
+    ]
+  },
+  {
+    "name": "Activities",
+    "slug": "activities",
+    "subgroups": [
+      "event",
+      "award-medal",
+      "sport",
+      "game"
+    ]
+  },
+  {
+    "name": "Objects",
+    "slug": "objects",
+    "subgroups": [
+      "sound",
+      "music",
+      "musical-instrument",
+      "phone",
+      "computer",
+      "light-video",
+      "book-paper",
+      "money",
+      "mail",
+      "writing",
+      "office",
+      "lock",
+      "tool",
+      "medical",
+      "other-object"
+    ]
+  },
+  {
+    "name": "Symbols",
+    "slug": "symbols",
+    "subgroups": [
+      "transport-sign",
+      "warning",
+      "arrow",
+      "religion",
+      "zodiac",
+      "av-symbol",
+      "other-symbol",
+      "keycap",
+      "alphanum",
+      "geometric"
+    ]
+  },
+  {
+    "name": "Flags",
+    "slug": "flags",
+    "subgroups": [
+      "flag",
+      "country-flag"
+    ]
+  }
+]

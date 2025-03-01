@@ -1,0 +1,163 @@
+{
+  "1F5E3-FE0F": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "speaking head",
+    "emoji": "🗣️",
+    "hexcodes": [
+      "1F5E3",
+      "FE0F"
+    ]
+  },
+  "1F5E3": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.7",
+    "unicodeVersion": "7.0",
+    "description": "speaking head",
+    "emoji": "🗣",
+    "hexcodes": [
+      "1F5E3"
+    ]
+  },
+  "1F464": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "bust in silhouette",
+    "emoji": "👤",
+    "hexcodes": [
+      "1F464"
+    ]
+  },
+  "1F465": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "busts in silhouette",
+    "emoji": "👥",
+    "hexcodes": [
+      "1F465"
+    ]
+  },
+  "1FAC2": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "13.0",
+    "unicodeVersion": "13.0",
+    "description": "people hugging",
+    "emoji": "🫂",
+    "hexcodes": [
+      "1FAC2"
+    ]
+  },
+  "1F46A": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "family",
+    "emoji": "👪",
+    "hexcodes": [
+      "1F46A"
+    ]
+  },
+  "1F9D1-200D-1F9D1-200D-1F9D2": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "family: adult, adult, child",
+    "emoji": "🧑‍🧑‍🧒",
+    "hexcodes": [
+      "1F9D1",
+      "200D",
+      "1F9D1",
+      "200D",
+      "1F9D2"
+    ]
+  },
+  "1F9D1-200D-1F9D1-200D-1F9D2-200D-1F9D2": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "family: adult, adult, child, child",
+    "emoji": "🧑‍🧑‍🧒‍🧒",
+    "hexcodes": [
+      "1F9D1",
+      "200D",
+      "1F9D1",
+      "200D",
+      "1F9D2",
+      "200D",
+      "1F9D2"
+    ]
+  },
+  "1F9D1-200D-1F9D2": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "family: adult, child",
+    "emoji": "🧑‍🧒",
+    "hexcodes": [
+      "1F9D1",
+      "200D",
+      "1F9D2"
+    ]
+  },
+  "1F9D1-200D-1F9D2-200D-1F9D2": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "15.1",
+    "unicodeVersion": "15.1",
+    "description": "family: adult, child, child",
+    "emoji": "🧑‍🧒‍🧒",
+    "hexcodes": [
+      "1F9D1",
+      "200D",
+      "1F9D2",
+      "200D",
+      "1F9D2"
+    ]
+  },
+  "1F463": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "footprints",
+    "emoji": "👣",
+    "hexcodes": [
+      "1F463"
+    ]
+  },
+  "1FAC6": {
+    "group": "people-body",
+    "subgroup": "person-symbol",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "16.0",
+    "unicodeVersion": "16.0",
+    "description": "fingerprint",
+    "emoji": "🫆",
+    "hexcodes": [
+      "1FAC6"
+    ]
+  }
+}

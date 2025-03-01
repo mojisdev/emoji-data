@@ -1,0 +1,257 @@
+{
+  "1F3A5": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎥 movie camera",
+    "hexcodes": [
+      "1F3A5"
+    ]
+  },
+  "1F39E-FE0F": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎞️ film frames",
+    "hexcodes": [
+      "1F39E",
+      "FE0F"
+    ]
+  },
+  "1F39E": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎞 film frames",
+    "hexcodes": [
+      "1F39E"
+    ]
+  },
+  "1F4FD-FE0F": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📽️ film projector",
+    "hexcodes": [
+      "1F4FD",
+      "FE0F"
+    ]
+  },
+  "1F4FD": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📽 film projector",
+    "hexcodes": [
+      "1F4FD"
+    ]
+  },
+  "1F3AC": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎬 clapper board",
+    "hexcodes": [
+      "1F3AC"
+    ]
+  },
+  "1F4FA": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📺 television",
+    "hexcodes": [
+      "1F4FA"
+    ]
+  },
+  "1F4F7": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📷 camera",
+    "hexcodes": [
+      "1F4F7"
+    ]
+  },
+  "1F4F8": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📸 camera with flash",
+    "hexcodes": [
+      "1F4F8"
+    ]
+  },
+  "1F4F9": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📹 video camera",
+    "hexcodes": [
+      "1F4F9"
+    ]
+  },
+  "1F4FC": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📼 videocassette",
+    "hexcodes": [
+      "1F4FC"
+    ]
+  },
+  "1F50D": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔍 magnifying glass tilted left",
+    "hexcodes": [
+      "1F50D"
+    ]
+  },
+  "1F50E": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔎 magnifying glass tilted right",
+    "hexcodes": [
+      "1F50E"
+    ]
+  },
+  "1F52C": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔬 microscope",
+    "hexcodes": [
+      "1F52C"
+    ]
+  },
+  "1F52D": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔭 telescope",
+    "hexcodes": [
+      "1F52D"
+    ]
+  },
+  "1F4E1": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📡 satellite antenna",
+    "hexcodes": [
+      "1F4E1"
+    ]
+  },
+  "1F56F-FE0F": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕯️ candle",
+    "hexcodes": [
+      "1F56F",
+      "FE0F"
+    ]
+  },
+  "1F56F": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "non-fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕯 candle",
+    "hexcodes": [
+      "1F56F"
+    ]
+  },
+  "1F4A1": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "💡 light bulb",
+    "hexcodes": [
+      "1F4A1"
+    ]
+  },
+  "1F526": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔦 flashlight",
+    "hexcodes": [
+      "1F526"
+    ]
+  },
+  "1F3EE": {
+    "group": "objects",
+    "subgroup": "light-video",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🏮 red paper lantern",
+    "hexcodes": [
+      "1F3EE"
+    ]
+  }
+}

@@ -1,0 +1,207 @@
+{
+  "1F983": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦃 turkey",
+    "hexcodes": [
+      "1F983"
+    ]
+  },
+  "1F414": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐔 chicken",
+    "hexcodes": [
+      "1F414"
+    ]
+  },
+  "1F413": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐓 rooster",
+    "hexcodes": [
+      "1F413"
+    ]
+  },
+  "1F423": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐣 hatching chick",
+    "hexcodes": [
+      "1F423"
+    ]
+  },
+  "1F424": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐤 baby chick",
+    "hexcodes": [
+      "1F424"
+    ]
+  },
+  "1F425": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐥 front-facing baby chick",
+    "hexcodes": [
+      "1F425"
+    ]
+  },
+  "1F426": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐦 bird",
+    "hexcodes": [
+      "1F426"
+    ]
+  },
+  "1F427": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐧 penguin",
+    "hexcodes": [
+      "1F427"
+    ]
+  },
+  "1F54A-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕊️ dove",
+    "hexcodes": [
+      "1F54A",
+      "FE0F"
+    ]
+  },
+  "1F54A": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "unqualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕊 dove",
+    "hexcodes": [
+      "1F54A"
+    ]
+  },
+  "1F985": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦅 eagle",
+    "hexcodes": [
+      "1F985"
+    ]
+  },
+  "1F986": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦆 duck",
+    "hexcodes": [
+      "1F986"
+    ]
+  },
+  "1F9A2": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦢 swan",
+    "hexcodes": [
+      "1F9A2"
+    ]
+  },
+  "1F989": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦉 owl",
+    "hexcodes": [
+      "1F989"
+    ]
+  },
+  "1F9A9": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦩 flamingo",
+    "hexcodes": [
+      "1F9A9"
+    ]
+  },
+  "1F99A": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦚 peacock",
+    "hexcodes": [
+      "1F99A"
+    ]
+  },
+  "1F99C": {
+    "group": "animals-nature",
+    "subgroup": "animal-bird",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦜 parrot",
+    "hexcodes": [
+      "1F99C"
+    ]
+  }
+}

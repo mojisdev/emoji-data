@@ -1,0 +1,197 @@
+{
+  "2708": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "airplane",
+    "emoji": "✈",
+    "hexcodes": [
+      "2708"
+    ]
+  },
+  "2708-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "airplane",
+    "emoji": "✈️",
+    "hexcodes": [
+      "2708",
+      "FE0F"
+    ]
+  },
+  "1F6E9-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "small airplane",
+    "emoji": "🛩️",
+    "hexcodes": [
+      "1F6E9",
+      "FE0F"
+    ]
+  },
+  "1F6E9": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "small airplane",
+    "emoji": "🛩",
+    "hexcodes": [
+      "1F6E9"
+    ]
+  },
+  "1F6EB": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "airplane departure",
+    "emoji": "🛫",
+    "hexcodes": [
+      "1F6EB"
+    ]
+  },
+  "1F6EC": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "airplane arrival",
+    "emoji": "🛬",
+    "hexcodes": [
+      "1F6EC"
+    ]
+  },
+  "1FA82": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "12.1",
+    "unicodeVersion": "12.1",
+    "description": "parachute",
+    "emoji": "🪂",
+    "hexcodes": [
+      "1FA82"
+    ]
+  },
+  "1F4BA": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "seat",
+    "emoji": "💺",
+    "hexcodes": [
+      "1F4BA"
+    ]
+  },
+  "1F681": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "helicopter",
+    "emoji": "🚁",
+    "hexcodes": [
+      "1F681"
+    ]
+  },
+  "1F69F": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "suspension railway",
+    "emoji": "🚟",
+    "hexcodes": [
+      "1F69F"
+    ]
+  },
+  "1F6A0": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "mountain cableway",
+    "emoji": "🚠",
+    "hexcodes": [
+      "1F6A0"
+    ]
+  },
+  "1F6A1": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "aerial tramway",
+    "emoji": "🚡",
+    "hexcodes": [
+      "1F6A1"
+    ]
+  },
+  "1F6F0-FE0F": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "satellite",
+    "emoji": "🛰️",
+    "hexcodes": [
+      "1F6F0",
+      "FE0F"
+    ]
+  },
+  "1F6F0": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "unqualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "satellite",
+    "emoji": "🛰",
+    "hexcodes": [
+      "1F6F0"
+    ]
+  },
+  "1F680": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "2.0",
+    "unicodeVersion": "8.0",
+    "description": "rocket",
+    "emoji": "🚀",
+    "hexcodes": [
+      "1F680"
+    ]
+  },
+  "1F6F8": {
+    "group": "travel-places",
+    "subgroup": "transport-air",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "5.0",
+    "unicodeVersion": "10.0",
+    "description": "flying saucer",
+    "emoji": "🛸",
+    "hexcodes": [
+      "1F6F8"
+    ]
+  }
+}

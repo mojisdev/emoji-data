@@ -1,0 +1,600 @@
+{
+  "2139": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "information",
+    "emoji": "ℹ",
+    "hexcodes": [
+      "2139"
+    ]
+  },
+  "3297": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “congratulations” button",
+    "emoji": "㊗",
+    "hexcodes": [
+      "3297"
+    ]
+  },
+  "3299": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “secret” button",
+    "emoji": "㊙",
+    "hexcodes": [
+      "3299"
+    ]
+  },
+  "1F520": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "input latin uppercase",
+    "emoji": "🔠",
+    "hexcodes": [
+      "1F520"
+    ]
+  },
+  "1F521": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "input latin lowercase",
+    "emoji": "🔡",
+    "hexcodes": [
+      "1F521"
+    ]
+  },
+  "1F522": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "input numbers",
+    "emoji": "🔢",
+    "hexcodes": [
+      "1F522"
+    ]
+  },
+  "1F523": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "input symbols",
+    "emoji": "🔣",
+    "hexcodes": [
+      "1F523"
+    ]
+  },
+  "1F524": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "input latin letters",
+    "emoji": "🔤",
+    "hexcodes": [
+      "1F524"
+    ]
+  },
+  "1F170-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "A button (blood type)",
+    "emoji": "🅰️",
+    "hexcodes": [
+      "1F170",
+      "FE0F"
+    ]
+  },
+  "1F170": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "A button (blood type)",
+    "emoji": "🅰",
+    "hexcodes": [
+      "1F170"
+    ]
+  },
+  "1F18E": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "AB button (blood type)",
+    "emoji": "🆎",
+    "hexcodes": [
+      "1F18E"
+    ]
+  },
+  "1F171-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "B button (blood type)",
+    "emoji": "🅱️",
+    "hexcodes": [
+      "1F171",
+      "FE0F"
+    ]
+  },
+  "1F171": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "B button (blood type)",
+    "emoji": "🅱",
+    "hexcodes": [
+      "1F171"
+    ]
+  },
+  "1F191": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "CL button",
+    "emoji": "🆑",
+    "hexcodes": [
+      "1F191"
+    ]
+  },
+  "1F192": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "COOL button",
+    "emoji": "🆒",
+    "hexcodes": [
+      "1F192"
+    ]
+  },
+  "1F193": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "FREE button",
+    "emoji": "🆓",
+    "hexcodes": [
+      "1F193"
+    ]
+  },
+  "2139-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "information",
+    "emoji": "ℹ️",
+    "hexcodes": [
+      "2139",
+      "FE0F"
+    ]
+  },
+  "1F194": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "ID button",
+    "emoji": "🆔",
+    "hexcodes": [
+      "1F194"
+    ]
+  },
+  "24C2-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "circled M",
+    "emoji": "Ⓜ️",
+    "hexcodes": [
+      "24C2",
+      "FE0F"
+    ]
+  },
+  "24C2": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "circled M",
+    "emoji": "Ⓜ",
+    "hexcodes": [
+      "24C2"
+    ]
+  },
+  "1F195": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "NEW button",
+    "emoji": "🆕",
+    "hexcodes": [
+      "1F195"
+    ]
+  },
+  "1F196": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "NG button",
+    "emoji": "🆖",
+    "hexcodes": [
+      "1F196"
+    ]
+  },
+  "1F17E-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "O button (blood type)",
+    "emoji": "🅾️",
+    "hexcodes": [
+      "1F17E",
+      "FE0F"
+    ]
+  },
+  "1F17E": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "O button (blood type)",
+    "emoji": "🅾",
+    "hexcodes": [
+      "1F17E"
+    ]
+  },
+  "1F197": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "OK button",
+    "emoji": "🆗",
+    "hexcodes": [
+      "1F197"
+    ]
+  },
+  "1F17F-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "P button",
+    "emoji": "🅿️",
+    "hexcodes": [
+      "1F17F",
+      "FE0F"
+    ]
+  },
+  "1F17F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "P button",
+    "emoji": "🅿",
+    "hexcodes": [
+      "1F17F"
+    ]
+  },
+  "1F198": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "SOS button",
+    "emoji": "🆘",
+    "hexcodes": [
+      "1F198"
+    ]
+  },
+  "1F199": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "UP! button",
+    "emoji": "🆙",
+    "hexcodes": [
+      "1F199"
+    ]
+  },
+  "1F19A": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "VS button",
+    "emoji": "🆚",
+    "hexcodes": [
+      "1F19A"
+    ]
+  },
+  "1F201": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “here” button",
+    "emoji": "🈁",
+    "hexcodes": [
+      "1F201"
+    ]
+  },
+  "1F202-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “service charge” button",
+    "emoji": "🈂️",
+    "hexcodes": [
+      "1F202",
+      "FE0F"
+    ]
+  },
+  "1F202": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “service charge” button",
+    "emoji": "🈂",
+    "hexcodes": [
+      "1F202"
+    ]
+  },
+  "1F237-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “monthly amount” button",
+    "emoji": "🈷️",
+    "hexcodes": [
+      "1F237",
+      "FE0F"
+    ]
+  },
+  "1F237": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “monthly amount” button",
+    "emoji": "🈷",
+    "hexcodes": [
+      "1F237"
+    ]
+  },
+  "1F236": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “not free of charge” button",
+    "emoji": "🈶",
+    "hexcodes": [
+      "1F236"
+    ]
+  },
+  "1F22F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “reserved” button",
+    "emoji": "🈯",
+    "hexcodes": [
+      "1F22F"
+    ]
+  },
+  "1F250": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “bargain” button",
+    "emoji": "🉐",
+    "hexcodes": [
+      "1F250"
+    ]
+  },
+  "1F239": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “discount” button",
+    "emoji": "🈹",
+    "hexcodes": [
+      "1F239"
+    ]
+  },
+  "1F21A": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “free of charge” button",
+    "emoji": "🈚",
+    "hexcodes": [
+      "1F21A"
+    ]
+  },
+  "1F232": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “prohibited” button",
+    "emoji": "🈲",
+    "hexcodes": [
+      "1F232"
+    ]
+  },
+  "1F251": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “acceptable” button",
+    "emoji": "🉑",
+    "hexcodes": [
+      "1F251"
+    ]
+  },
+  "1F238": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “application” button",
+    "emoji": "🈸",
+    "hexcodes": [
+      "1F238"
+    ]
+  },
+  "1F234": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “passing grade” button",
+    "emoji": "🈴",
+    "hexcodes": [
+      "1F234"
+    ]
+  },
+  "1F233": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “vacancy” button",
+    "emoji": "🈳",
+    "hexcodes": [
+      "1F233"
+    ]
+  },
+  "3297-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “congratulations” button",
+    "emoji": "㊗️",
+    "hexcodes": [
+      "3297",
+      "FE0F"
+    ]
+  },
+  "3299-FE0F": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “secret” button",
+    "emoji": "㊙️",
+    "hexcodes": [
+      "3299",
+      "FE0F"
+    ]
+  },
+  "1F23A": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “open for business” button",
+    "emoji": "🈺",
+    "hexcodes": [
+      "1F23A"
+    ]
+  },
+  "1F235": {
+    "group": "symbols",
+    "subgroup": "alphanum",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "Japanese “no vacancy” button",
+    "emoji": "🈵",
+    "hexcodes": [
+      "1F235"
+    ]
+  }
+}

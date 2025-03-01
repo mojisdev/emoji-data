@@ -1,0 +1,110 @@
+{
+  "1F507": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔇 muted speaker",
+    "hexcodes": [
+      "1F507"
+    ]
+  },
+  "1F508": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔈 speaker low volume",
+    "hexcodes": [
+      "1F508"
+    ]
+  },
+  "1F509": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔉 speaker medium volume",
+    "hexcodes": [
+      "1F509"
+    ]
+  },
+  "1F50A": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔊 speaker high volume",
+    "hexcodes": [
+      "1F50A"
+    ]
+  },
+  "1F4E2": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📢 loudspeaker",
+    "hexcodes": [
+      "1F4E2"
+    ]
+  },
+  "1F4E3": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📣 megaphone",
+    "hexcodes": [
+      "1F4E3"
+    ]
+  },
+  "1F4EF": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "📯 postal horn",
+    "hexcodes": [
+      "1F4EF"
+    ]
+  },
+  "1F514": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔔 bell",
+    "hexcodes": [
+      "1F514"
+    ]
+  },
+  "1F515": {
+    "group": "objects",
+    "subgroup": "sound",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🔕 bell with slash",
+    "hexcodes": [
+      "1F515"
+    ]
+  }
+}

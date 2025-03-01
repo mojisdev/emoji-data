@@ -1,0 +1,87 @@
+{
+  "1F4F1": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "mobile phone",
+    "emoji": "📱",
+    "hexcodes": [
+      "1F4F1"
+    ]
+  },
+  "1F4F2": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "mobile phone with arrow",
+    "emoji": "📲",
+    "hexcodes": [
+      "1F4F2"
+    ]
+  },
+  "260E-FE0F": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "telephone",
+    "emoji": "☎️",
+    "hexcodes": [
+      "260E",
+      "FE0F"
+    ]
+  },
+  "260E": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "unqualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "telephone",
+    "emoji": "☎",
+    "hexcodes": [
+      "260E"
+    ]
+  },
+  "1F4DE": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "telephone receiver",
+    "emoji": "📞",
+    "hexcodes": [
+      "1F4DE"
+    ]
+  },
+  "1F4DF": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "pager",
+    "emoji": "📟",
+    "hexcodes": [
+      "1F4DF"
+    ]
+  },
+  "1F4E0": {
+    "group": "objects",
+    "subgroup": "phone",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "fax machine",
+    "emoji": "📠",
+    "hexcodes": [
+      "1F4E0"
+    ]
+  }
+}

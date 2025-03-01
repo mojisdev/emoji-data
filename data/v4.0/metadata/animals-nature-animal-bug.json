@@ -1,0 +1,112 @@
+{
+  "1F98B": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦋 butterfly",
+    "hexcodes": [
+      "1F98B"
+    ]
+  },
+  "1F40C": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐌 snail",
+    "hexcodes": [
+      "1F40C"
+    ]
+  },
+  "1F41B": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐛 bug",
+    "hexcodes": [
+      "1F41B"
+    ]
+  },
+  "1F41C": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐜 ant",
+    "hexcodes": [
+      "1F41C"
+    ]
+  },
+  "1F41D": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐝 honeybee",
+    "hexcodes": [
+      "1F41D"
+    ]
+  },
+  "1F41E": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🐞 lady beetle",
+    "hexcodes": [
+      "1F41E"
+    ]
+  },
+  "1F577-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕷️ spider",
+    "hexcodes": [
+      "1F577",
+      "FE0F"
+    ]
+  },
+  "1F578-FE0F": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🕸️ spider web",
+    "hexcodes": [
+      "1F578",
+      "FE0F"
+    ]
+  },
+  "1F982": {
+    "group": "animals-nature",
+    "subgroup": "animal-bug",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🦂 scorpion",
+    "hexcodes": [
+      "1F982"
+    ]
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "1F3B7": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎷 saxophone",
+    "hexcodes": [
+      "1F3B7"
+    ]
+  },
+  "1F3B8": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎸 guitar",
+    "hexcodes": [
+      "1F3B8"
+    ]
+  },
+  "1F3B9": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎹 musical keyboard",
+    "hexcodes": [
+      "1F3B9"
+    ]
+  },
+  "1F3BA": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎺 trumpet",
+    "hexcodes": [
+      "1F3BA"
+    ]
+  },
+  "1F3BB": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🎻 violin",
+    "hexcodes": [
+      "1F3BB"
+    ]
+  },
+  "1F941": {
+    "group": "objects",
+    "subgroup": "musical-instrument",
+    "qualifier": "fully-qualified",
+    "emojiVersion": null,
+    "unicodeVersion": null,
+    "description": "",
+    "emoji": "🥁 drum",
+    "hexcodes": [
+      "1F941"
+    ]
+  }
+}
