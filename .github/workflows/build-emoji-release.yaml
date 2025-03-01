@@ -89,6 +89,7 @@ jobs:
           FINAL_VERSIONS: ${{ steps.emoji-versions.outputs.FINAL_VERSIONS }}
         run: |
           echo "version: $(pnpm dlx @mojis/cli@latest --version)"
+          echo "final versions: $FINAL_VERSIONS"
           pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS || true
 
       - name: detect changes for `emojis.lock`
