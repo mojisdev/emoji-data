@@ -90,7 +90,7 @@ jobs:
         run: |
           echo "version: $(pnpm dlx @mojis/cli@latest --version)"
           echo "final versions: $FINAL_VERSIONS"
-          pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS || true
+          pnpm dlx @mojis/cli@latest generate $FINAL_VERSIONS
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
