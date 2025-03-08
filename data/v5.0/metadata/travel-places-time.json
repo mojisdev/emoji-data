@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⌛ hourglass done",
+    "description": "hourglass",
+    "emoji": "⌛",
     "hexcodes": [
       "231B"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏳ hourglass not done",
+    "description": "hourglass",
+    "emoji": "⏳",
     "hexcodes": [
       "23F3"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⌚ watch",
+    "description": "watch",
+    "emoji": "⌚",
     "hexcodes": [
       "231A"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏰ alarm clock",
+    "description": "alarm",
+    "emoji": "⏰",
     "hexcodes": [
       "23F0"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏱️ stopwatch",
+    "description": "stopwatch",
+    "emoji": "⏱️",
     "hexcodes": [
       "23F1",
       "FE0F"
@@ -66,8 +66,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏱ stopwatch",
+    "description": "stopwatch",
+    "emoji": "⏱",
     "hexcodes": [
       "23F1"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏲️ timer clock",
+    "description": "timer",
+    "emoji": "⏲️",
     "hexcodes": [
       "23F2",
       "FE0F"
@@ -91,8 +91,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏲ timer clock",
+    "description": "timer",
+    "emoji": "⏲",
     "hexcodes": [
       "23F2"
     ]
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕰️ mantelpiece clock",
+    "description": "mantelpiece",
+    "emoji": "🕰️",
     "hexcodes": [
       "1F570",
       "FE0F"
@@ -116,8 +116,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕰 mantelpiece clock",
+    "description": "mantelpiece",
+    "emoji": "🕰",
     "hexcodes": [
       "1F570"
     ]
@@ -128,8 +128,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕛 twelve o’clock",
+    "description": "twelve",
+    "emoji": "🕛",
     "hexcodes": [
       "1F55B"
     ]
@@ -140,8 +140,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕧 twelve-thirty",
+    "description": "twelve-thirty",
+    "emoji": "🕧",
     "hexcodes": [
       "1F567"
     ]
@@ -152,8 +152,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕐 one o’clock",
+    "description": "one",
+    "emoji": "🕐",
     "hexcodes": [
       "1F550"
     ]
@@ -164,8 +164,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕜 one-thirty",
+    "description": "one-thirty",
+    "emoji": "🕜",
     "hexcodes": [
       "1F55C"
     ]
@@ -176,8 +176,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕑 two o’clock",
+    "description": "two",
+    "emoji": "🕑",
     "hexcodes": [
       "1F551"
     ]
@@ -188,8 +188,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕝 two-thirty",
+    "description": "two-thirty",
+    "emoji": "🕝",
     "hexcodes": [
       "1F55D"
     ]
@@ -200,8 +200,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕒 three o’clock",
+    "description": "three",
+    "emoji": "🕒",
     "hexcodes": [
       "1F552"
     ]
@@ -212,8 +212,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕞 three-thirty",
+    "description": "three-thirty",
+    "emoji": "🕞",
     "hexcodes": [
       "1F55E"
     ]
@@ -224,8 +224,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕓 four o’clock",
+    "description": "four",
+    "emoji": "🕓",
     "hexcodes": [
       "1F553"
     ]
@@ -236,8 +236,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕟 four-thirty",
+    "description": "four-thirty",
+    "emoji": "🕟",
     "hexcodes": [
       "1F55F"
     ]
@@ -248,8 +248,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕔 five o’clock",
+    "description": "five",
+    "emoji": "🕔",
     "hexcodes": [
       "1F554"
     ]
@@ -260,8 +260,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕠 five-thirty",
+    "description": "five-thirty",
+    "emoji": "🕠",
     "hexcodes": [
       "1F560"
     ]
@@ -272,8 +272,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕕 six o’clock",
+    "description": "six",
+    "emoji": "🕕",
     "hexcodes": [
       "1F555"
     ]
@@ -284,8 +284,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕡 six-thirty",
+    "description": "six-thirty",
+    "emoji": "🕡",
     "hexcodes": [
       "1F561"
     ]
@@ -296,8 +296,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕖 seven o’clock",
+    "description": "seven",
+    "emoji": "🕖",
     "hexcodes": [
       "1F556"
     ]
@@ -308,8 +308,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕢 seven-thirty",
+    "description": "seven-thirty",
+    "emoji": "🕢",
     "hexcodes": [
       "1F562"
     ]
@@ -320,8 +320,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕗 eight o’clock",
+    "description": "eight",
+    "emoji": "🕗",
     "hexcodes": [
       "1F557"
     ]
@@ -332,8 +332,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕣 eight-thirty",
+    "description": "eight-thirty",
+    "emoji": "🕣",
     "hexcodes": [
       "1F563"
     ]
@@ -344,8 +344,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕘 nine o’clock",
+    "description": "nine",
+    "emoji": "🕘",
     "hexcodes": [
       "1F558"
     ]
@@ -356,8 +356,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕤 nine-thirty",
+    "description": "nine-thirty",
+    "emoji": "🕤",
     "hexcodes": [
       "1F564"
     ]
@@ -368,8 +368,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕙 ten o’clock",
+    "description": "ten",
+    "emoji": "🕙",
     "hexcodes": [
       "1F559"
     ]
@@ -380,8 +380,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕥 ten-thirty",
+    "description": "ten-thirty",
+    "emoji": "🕥",
     "hexcodes": [
       "1F565"
     ]
@@ -392,8 +392,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕚 eleven o’clock",
+    "description": "eleven",
+    "emoji": "🕚",
     "hexcodes": [
       "1F55A"
     ]
@@ -404,8 +404,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕦 eleven-thirty",
+    "description": "eleven-thirty",
+    "emoji": "🕦",
     "hexcodes": [
       "1F566"
     ]

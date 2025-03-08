@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✨ sparkles",
+    "description": "sparkles",
+    "emoji": "✨",
     "hexcodes": [
       "2728"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎃 jack-o-lantern",
+    "description": "jack-o-lantern",
+    "emoji": "🎃",
     "hexcodes": [
       "1F383"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎄 Christmas tree",
+    "description": "Christmas",
+    "emoji": "🎄",
     "hexcodes": [
       "1F384"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎆 fireworks",
+    "description": "fireworks",
+    "emoji": "🎆",
     "hexcodes": [
       "1F386"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎇 sparkler",
+    "description": "sparkler",
+    "emoji": "🎇",
     "hexcodes": [
       "1F387"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎈 balloon",
+    "description": "balloon",
+    "emoji": "🎈",
     "hexcodes": [
       "1F388"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎉 party popper",
+    "description": "party",
+    "emoji": "🎉",
     "hexcodes": [
       "1F389"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎊 confetti ball",
+    "description": "confetti",
+    "emoji": "🎊",
     "hexcodes": [
       "1F38A"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎋 tanabata tree",
+    "description": "tanabata",
+    "emoji": "🎋",
     "hexcodes": [
       "1F38B"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎍 pine decoration",
+    "description": "pine",
+    "emoji": "🎍",
     "hexcodes": [
       "1F38D"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎎 Japanese dolls",
+    "description": "Japanese",
+    "emoji": "🎎",
     "hexcodes": [
       "1F38E"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎏 carp streamer",
+    "description": "carp",
+    "emoji": "🎏",
     "hexcodes": [
       "1F38F"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎐 wind chime",
+    "description": "wind",
+    "emoji": "🎐",
     "hexcodes": [
       "1F390"
     ]
@@ -161,8 +161,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎑 moon viewing ceremony",
+    "description": "moon",
+    "emoji": "🎑",
     "hexcodes": [
       "1F391"
     ]
@@ -173,8 +173,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎀 ribbon",
+    "description": "ribbon",
+    "emoji": "🎀",
     "hexcodes": [
       "1F380"
     ]
@@ -185,8 +185,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎁 wrapped gift",
+    "description": "wrapped",
+    "emoji": "🎁",
     "hexcodes": [
       "1F381"
     ]
@@ -197,8 +197,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎗️ reminder ribbon",
+    "description": "reminder",
+    "emoji": "🎗️",
     "hexcodes": [
       "1F397",
       "FE0F"
@@ -210,8 +210,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎗 reminder ribbon",
+    "description": "reminder",
+    "emoji": "🎗",
     "hexcodes": [
       "1F397"
     ]
@@ -222,8 +222,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎟️ admission tickets",
+    "description": "admission",
+    "emoji": "🎟️",
     "hexcodes": [
       "1F39F",
       "FE0F"
@@ -235,8 +235,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎟 admission tickets",
+    "description": "admission",
+    "emoji": "🎟",
     "hexcodes": [
       "1F39F"
     ]
@@ -247,8 +247,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎫 ticket",
+    "description": "ticket",
+    "emoji": "🎫",
     "hexcodes": [
       "1F3AB"
     ]

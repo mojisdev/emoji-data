@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💰 money bag",
+    "description": "money",
+    "emoji": "💰",
     "hexcodes": [
       "1F4B0"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💴 yen banknote",
+    "description": "yen",
+    "emoji": "💴",
     "hexcodes": [
       "1F4B4"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💵 dollar banknote",
+    "description": "dollar",
+    "emoji": "💵",
     "hexcodes": [
       "1F4B5"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💶 euro banknote",
+    "description": "euro",
+    "emoji": "💶",
     "hexcodes": [
       "1F4B6"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💷 pound banknote",
+    "description": "pound",
+    "emoji": "💷",
     "hexcodes": [
       "1F4B7"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💸 money with wings",
+    "description": "money",
+    "emoji": "💸",
     "hexcodes": [
       "1F4B8"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💳 credit card",
+    "description": "credit",
+    "emoji": "💳",
     "hexcodes": [
       "1F4B3"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💹 chart increasing with yen",
+    "description": "chart",
+    "emoji": "💹",
     "hexcodes": [
       "1F4B9"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💱 currency exchange",
+    "description": "currency",
+    "emoji": "💱",
     "hexcodes": [
       "1F4B1"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💲 heavy dollar sign",
+    "description": "heavy",
+    "emoji": "💲",
     "hexcodes": [
       "1F4B2"
     ]

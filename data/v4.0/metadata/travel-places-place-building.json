@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏟️ stadium",
+    "description": "stadium",
+    "emoji": "🏟️",
     "hexcodes": [
       "1F3DF",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏛️ classical building",
+    "description": "classical",
+    "emoji": "🏛️",
     "hexcodes": [
       "1F3DB",
       "FE0F"
@@ -31,8 +31,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏗️ building construction",
+    "description": "building",
+    "emoji": "🏗️",
     "hexcodes": [
       "1F3D7",
       "FE0F"
@@ -44,8 +44,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏘️ house",
+    "description": "house",
+    "emoji": "🏘️",
     "hexcodes": [
       "1F3D8",
       "FE0F"
@@ -57,8 +57,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏙️ cityscape",
+    "description": "cityscape",
+    "emoji": "🏙️",
     "hexcodes": [
       "1F3D9",
       "FE0F"
@@ -70,8 +70,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏚️ derelict house",
+    "description": "derelict",
+    "emoji": "🏚️",
     "hexcodes": [
       "1F3DA",
       "FE0F"
@@ -83,8 +83,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏠 house",
+    "description": "house",
+    "emoji": "🏠",
     "hexcodes": [
       "1F3E0"
     ]
@@ -95,8 +95,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏡 house with garden",
+    "description": "house",
+    "emoji": "🏡",
     "hexcodes": [
       "1F3E1"
     ]
@@ -107,8 +107,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏢 office building",
+    "description": "office",
+    "emoji": "🏢",
     "hexcodes": [
       "1F3E2"
     ]
@@ -119,8 +119,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏣 Japanese post office",
+    "description": "Japanese",
+    "emoji": "🏣",
     "hexcodes": [
       "1F3E3"
     ]
@@ -131,8 +131,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏤 post office",
+    "description": "post",
+    "emoji": "🏤",
     "hexcodes": [
       "1F3E4"
     ]
@@ -143,8 +143,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏥 hospital",
+    "description": "hospital",
+    "emoji": "🏥",
     "hexcodes": [
       "1F3E5"
     ]
@@ -155,8 +155,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏦 bank",
+    "description": "bank",
+    "emoji": "🏦",
     "hexcodes": [
       "1F3E6"
     ]
@@ -167,8 +167,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏨 hotel",
+    "description": "hotel",
+    "emoji": "🏨",
     "hexcodes": [
       "1F3E8"
     ]
@@ -179,8 +179,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏩 love hotel",
+    "description": "love",
+    "emoji": "🏩",
     "hexcodes": [
       "1F3E9"
     ]
@@ -191,8 +191,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏪 convenience store",
+    "description": "convenience",
+    "emoji": "🏪",
     "hexcodes": [
       "1F3EA"
     ]
@@ -203,8 +203,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏫 school",
+    "description": "school",
+    "emoji": "🏫",
     "hexcodes": [
       "1F3EB"
     ]
@@ -215,8 +215,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏬 department store",
+    "description": "department",
+    "emoji": "🏬",
     "hexcodes": [
       "1F3EC"
     ]
@@ -227,8 +227,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏭 factory",
+    "description": "factory",
+    "emoji": "🏭",
     "hexcodes": [
       "1F3ED"
     ]
@@ -239,8 +239,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏯 Japanese castle",
+    "description": "Japanese",
+    "emoji": "🏯",
     "hexcodes": [
       "1F3EF"
     ]
@@ -251,8 +251,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏰 castle",
+    "description": "castle",
+    "emoji": "🏰",
     "hexcodes": [
       "1F3F0"
     ]
@@ -263,8 +263,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💒 wedding",
+    "description": "wedding",
+    "emoji": "💒",
     "hexcodes": [
       "1F492"
     ]
@@ -275,8 +275,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗼 Tokyo tower",
+    "description": "Tokyo",
+    "emoji": "🗼",
     "hexcodes": [
       "1F5FC"
     ]
@@ -287,8 +287,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗽 Statue of Liberty",
+    "description": "Statue",
+    "emoji": "🗽",
     "hexcodes": [
       "1F5FD"
     ]

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍 person frowning",
+    "description": "person",
+    "emoji": "🙍",
     "hexcodes": [
       "1F64D"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏻 person frowning: light skin tone",
+    "description": "person",
+    "emoji": "🙍🏻",
     "hexcodes": [
       "1F64D",
       "1F3FB"
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏼 person frowning: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙍🏼",
     "hexcodes": [
       "1F64D",
       "1F3FC"
@@ -43,8 +43,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏽 person frowning: medium skin tone",
+    "description": "person",
+    "emoji": "🙍🏽",
     "hexcodes": [
       "1F64D",
       "1F3FD"
@@ -56,8 +56,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏾 person frowning: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙍🏾",
     "hexcodes": [
       "1F64D",
       "1F3FE"
@@ -69,8 +69,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏿 person frowning: dark skin tone",
+    "description": "person",
+    "emoji": "🙍🏿",
     "hexcodes": [
       "1F64D",
       "1F3FF"
@@ -82,8 +82,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍‍♂️ man frowning",
+    "description": "man",
+    "emoji": "🙍‍♂️",
     "hexcodes": [
       "1F64D",
       "200D",
@@ -97,8 +97,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍‍♂ man frowning",
+    "description": "man",
+    "emoji": "🙍‍♂",
     "hexcodes": [
       "1F64D",
       "200D",
@@ -111,8 +111,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏻‍♂️ man frowning: light skin tone",
+    "description": "man",
+    "emoji": "🙍🏻‍♂️",
     "hexcodes": [
       "1F64D",
       "1F3FB",
@@ -127,8 +127,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏻‍♂ man frowning: light skin tone",
+    "description": "man",
+    "emoji": "🙍🏻‍♂",
     "hexcodes": [
       "1F64D",
       "1F3FB",
@@ -142,8 +142,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏼‍♂️ man frowning: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙍🏼‍♂️",
     "hexcodes": [
       "1F64D",
       "1F3FC",
@@ -158,8 +158,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏼‍♂ man frowning: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙍🏼‍♂",
     "hexcodes": [
       "1F64D",
       "1F3FC",
@@ -173,8 +173,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏽‍♂️ man frowning: medium skin tone",
+    "description": "man",
+    "emoji": "🙍🏽‍♂️",
     "hexcodes": [
       "1F64D",
       "1F3FD",
@@ -189,8 +189,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏽‍♂ man frowning: medium skin tone",
+    "description": "man",
+    "emoji": "🙍🏽‍♂",
     "hexcodes": [
       "1F64D",
       "1F3FD",
@@ -204,8 +204,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏾‍♂️ man frowning: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙍🏾‍♂️",
     "hexcodes": [
       "1F64D",
       "1F3FE",
@@ -220,8 +220,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏾‍♂ man frowning: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙍🏾‍♂",
     "hexcodes": [
       "1F64D",
       "1F3FE",
@@ -235,8 +235,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏿‍♂️ man frowning: dark skin tone",
+    "description": "man",
+    "emoji": "🙍🏿‍♂️",
     "hexcodes": [
       "1F64D",
       "1F3FF",
@@ -251,8 +251,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏿‍♂ man frowning: dark skin tone",
+    "description": "man",
+    "emoji": "🙍🏿‍♂",
     "hexcodes": [
       "1F64D",
       "1F3FF",
@@ -266,8 +266,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍‍♀️ woman frowning",
+    "description": "woman",
+    "emoji": "🙍‍♀️",
     "hexcodes": [
       "1F64D",
       "200D",
@@ -281,8 +281,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍‍♀ woman frowning",
+    "description": "woman",
+    "emoji": "🙍‍♀",
     "hexcodes": [
       "1F64D",
       "200D",
@@ -295,8 +295,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏻‍♀️ woman frowning: light skin tone",
+    "description": "woman",
+    "emoji": "🙍🏻‍♀️",
     "hexcodes": [
       "1F64D",
       "1F3FB",
@@ -311,8 +311,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏻‍♀ woman frowning: light skin tone",
+    "description": "woman",
+    "emoji": "🙍🏻‍♀",
     "hexcodes": [
       "1F64D",
       "1F3FB",
@@ -326,8 +326,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏼‍♀️ woman frowning: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙍🏼‍♀️",
     "hexcodes": [
       "1F64D",
       "1F3FC",
@@ -342,8 +342,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏼‍♀ woman frowning: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙍🏼‍♀",
     "hexcodes": [
       "1F64D",
       "1F3FC",
@@ -357,8 +357,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏽‍♀️ woman frowning: medium skin tone",
+    "description": "woman",
+    "emoji": "🙍🏽‍♀️",
     "hexcodes": [
       "1F64D",
       "1F3FD",
@@ -373,8 +373,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏽‍♀ woman frowning: medium skin tone",
+    "description": "woman",
+    "emoji": "🙍🏽‍♀",
     "hexcodes": [
       "1F64D",
       "1F3FD",
@@ -388,8 +388,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏾‍♀️ woman frowning: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙍🏾‍♀️",
     "hexcodes": [
       "1F64D",
       "1F3FE",
@@ -404,8 +404,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏾‍♀ woman frowning: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙍🏾‍♀",
     "hexcodes": [
       "1F64D",
       "1F3FE",
@@ -419,8 +419,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏿‍♀️ woman frowning: dark skin tone",
+    "description": "woman",
+    "emoji": "🙍🏿‍♀️",
     "hexcodes": [
       "1F64D",
       "1F3FF",
@@ -435,8 +435,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙍🏿‍♀ woman frowning: dark skin tone",
+    "description": "woman",
+    "emoji": "🙍🏿‍♀",
     "hexcodes": [
       "1F64D",
       "1F3FF",
@@ -450,8 +450,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎 person pouting",
+    "description": "person",
+    "emoji": "🙎",
     "hexcodes": [
       "1F64E"
     ]
@@ -462,8 +462,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏻 person pouting: light skin tone",
+    "description": "person",
+    "emoji": "🙎🏻",
     "hexcodes": [
       "1F64E",
       "1F3FB"
@@ -475,8 +475,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏼 person pouting: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙎🏼",
     "hexcodes": [
       "1F64E",
       "1F3FC"
@@ -488,8 +488,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏽 person pouting: medium skin tone",
+    "description": "person",
+    "emoji": "🙎🏽",
     "hexcodes": [
       "1F64E",
       "1F3FD"
@@ -501,8 +501,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏾 person pouting: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙎🏾",
     "hexcodes": [
       "1F64E",
       "1F3FE"
@@ -514,8 +514,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏿 person pouting: dark skin tone",
+    "description": "person",
+    "emoji": "🙎🏿",
     "hexcodes": [
       "1F64E",
       "1F3FF"
@@ -527,8 +527,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎‍♂️ man pouting",
+    "description": "man",
+    "emoji": "🙎‍♂️",
     "hexcodes": [
       "1F64E",
       "200D",
@@ -542,8 +542,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎‍♂ man pouting",
+    "description": "man",
+    "emoji": "🙎‍♂",
     "hexcodes": [
       "1F64E",
       "200D",
@@ -556,8 +556,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏻‍♂️ man pouting: light skin tone",
+    "description": "man",
+    "emoji": "🙎🏻‍♂️",
     "hexcodes": [
       "1F64E",
       "1F3FB",
@@ -572,8 +572,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏻‍♂ man pouting: light skin tone",
+    "description": "man",
+    "emoji": "🙎🏻‍♂",
     "hexcodes": [
       "1F64E",
       "1F3FB",
@@ -587,8 +587,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏼‍♂️ man pouting: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙎🏼‍♂️",
     "hexcodes": [
       "1F64E",
       "1F3FC",
@@ -603,8 +603,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏼‍♂ man pouting: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙎🏼‍♂",
     "hexcodes": [
       "1F64E",
       "1F3FC",
@@ -618,8 +618,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏽‍♂️ man pouting: medium skin tone",
+    "description": "man",
+    "emoji": "🙎🏽‍♂️",
     "hexcodes": [
       "1F64E",
       "1F3FD",
@@ -634,8 +634,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏽‍♂ man pouting: medium skin tone",
+    "description": "man",
+    "emoji": "🙎🏽‍♂",
     "hexcodes": [
       "1F64E",
       "1F3FD",
@@ -649,8 +649,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏾‍♂️ man pouting: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙎🏾‍♂️",
     "hexcodes": [
       "1F64E",
       "1F3FE",
@@ -665,8 +665,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏾‍♂ man pouting: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙎🏾‍♂",
     "hexcodes": [
       "1F64E",
       "1F3FE",
@@ -680,8 +680,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏿‍♂️ man pouting: dark skin tone",
+    "description": "man",
+    "emoji": "🙎🏿‍♂️",
     "hexcodes": [
       "1F64E",
       "1F3FF",
@@ -696,8 +696,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏿‍♂ man pouting: dark skin tone",
+    "description": "man",
+    "emoji": "🙎🏿‍♂",
     "hexcodes": [
       "1F64E",
       "1F3FF",
@@ -711,8 +711,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎‍♀️ woman pouting",
+    "description": "woman",
+    "emoji": "🙎‍♀️",
     "hexcodes": [
       "1F64E",
       "200D",
@@ -726,8 +726,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎‍♀ woman pouting",
+    "description": "woman",
+    "emoji": "🙎‍♀",
     "hexcodes": [
       "1F64E",
       "200D",
@@ -740,8 +740,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏻‍♀️ woman pouting: light skin tone",
+    "description": "woman",
+    "emoji": "🙎🏻‍♀️",
     "hexcodes": [
       "1F64E",
       "1F3FB",
@@ -756,8 +756,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏻‍♀ woman pouting: light skin tone",
+    "description": "woman",
+    "emoji": "🙎🏻‍♀",
     "hexcodes": [
       "1F64E",
       "1F3FB",
@@ -771,8 +771,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏼‍♀️ woman pouting: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙎🏼‍♀️",
     "hexcodes": [
       "1F64E",
       "1F3FC",
@@ -787,8 +787,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏼‍♀ woman pouting: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙎🏼‍♀",
     "hexcodes": [
       "1F64E",
       "1F3FC",
@@ -802,8 +802,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏽‍♀️ woman pouting: medium skin tone",
+    "description": "woman",
+    "emoji": "🙎🏽‍♀️",
     "hexcodes": [
       "1F64E",
       "1F3FD",
@@ -818,8 +818,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏽‍♀ woman pouting: medium skin tone",
+    "description": "woman",
+    "emoji": "🙎🏽‍♀",
     "hexcodes": [
       "1F64E",
       "1F3FD",
@@ -833,8 +833,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏾‍♀️ woman pouting: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙎🏾‍♀️",
     "hexcodes": [
       "1F64E",
       "1F3FE",
@@ -849,8 +849,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏾‍♀ woman pouting: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙎🏾‍♀",
     "hexcodes": [
       "1F64E",
       "1F3FE",
@@ -864,8 +864,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏿‍♀️ woman pouting: dark skin tone",
+    "description": "woman",
+    "emoji": "🙎🏿‍♀️",
     "hexcodes": [
       "1F64E",
       "1F3FF",
@@ -880,8 +880,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙎🏿‍♀ woman pouting: dark skin tone",
+    "description": "woman",
+    "emoji": "🙎🏿‍♀",
     "hexcodes": [
       "1F64E",
       "1F3FF",
@@ -895,8 +895,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅 person gesturing NO",
+    "description": "person",
+    "emoji": "🙅",
     "hexcodes": [
       "1F645"
     ]
@@ -907,8 +907,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏻 person gesturing NO: light skin tone",
+    "description": "person",
+    "emoji": "🙅🏻",
     "hexcodes": [
       "1F645",
       "1F3FB"
@@ -920,8 +920,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏼 person gesturing NO: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙅🏼",
     "hexcodes": [
       "1F645",
       "1F3FC"
@@ -933,8 +933,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏽 person gesturing NO: medium skin tone",
+    "description": "person",
+    "emoji": "🙅🏽",
     "hexcodes": [
       "1F645",
       "1F3FD"
@@ -946,8 +946,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏾 person gesturing NO: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙅🏾",
     "hexcodes": [
       "1F645",
       "1F3FE"
@@ -959,8 +959,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏿 person gesturing NO: dark skin tone",
+    "description": "person",
+    "emoji": "🙅🏿",
     "hexcodes": [
       "1F645",
       "1F3FF"
@@ -972,8 +972,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅‍♂️ man gesturing NO",
+    "description": "man",
+    "emoji": "🙅‍♂️",
     "hexcodes": [
       "1F645",
       "200D",
@@ -987,8 +987,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅‍♂ man gesturing NO",
+    "description": "man",
+    "emoji": "🙅‍♂",
     "hexcodes": [
       "1F645",
       "200D",
@@ -1001,8 +1001,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏻‍♂️ man gesturing NO: light skin tone",
+    "description": "man",
+    "emoji": "🙅🏻‍♂️",
     "hexcodes": [
       "1F645",
       "1F3FB",
@@ -1017,8 +1017,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏻‍♂ man gesturing NO: light skin tone",
+    "description": "man",
+    "emoji": "🙅🏻‍♂",
     "hexcodes": [
       "1F645",
       "1F3FB",
@@ -1032,8 +1032,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏼‍♂️ man gesturing NO: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙅🏼‍♂️",
     "hexcodes": [
       "1F645",
       "1F3FC",
@@ -1048,8 +1048,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏼‍♂ man gesturing NO: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙅🏼‍♂",
     "hexcodes": [
       "1F645",
       "1F3FC",
@@ -1063,8 +1063,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏽‍♂️ man gesturing NO: medium skin tone",
+    "description": "man",
+    "emoji": "🙅🏽‍♂️",
     "hexcodes": [
       "1F645",
       "1F3FD",
@@ -1079,8 +1079,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏽‍♂ man gesturing NO: medium skin tone",
+    "description": "man",
+    "emoji": "🙅🏽‍♂",
     "hexcodes": [
       "1F645",
       "1F3FD",
@@ -1094,8 +1094,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏾‍♂️ man gesturing NO: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙅🏾‍♂️",
     "hexcodes": [
       "1F645",
       "1F3FE",
@@ -1110,8 +1110,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏾‍♂ man gesturing NO: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙅🏾‍♂",
     "hexcodes": [
       "1F645",
       "1F3FE",
@@ -1125,8 +1125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏿‍♂️ man gesturing NO: dark skin tone",
+    "description": "man",
+    "emoji": "🙅🏿‍♂️",
     "hexcodes": [
       "1F645",
       "1F3FF",
@@ -1141,8 +1141,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏿‍♂ man gesturing NO: dark skin tone",
+    "description": "man",
+    "emoji": "🙅🏿‍♂",
     "hexcodes": [
       "1F645",
       "1F3FF",
@@ -1156,8 +1156,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅‍♀️ woman gesturing NO",
+    "description": "woman",
+    "emoji": "🙅‍♀️",
     "hexcodes": [
       "1F645",
       "200D",
@@ -1171,8 +1171,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅‍♀ woman gesturing NO",
+    "description": "woman",
+    "emoji": "🙅‍♀",
     "hexcodes": [
       "1F645",
       "200D",
@@ -1185,8 +1185,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏻‍♀️ woman gesturing NO: light skin tone",
+    "description": "woman",
+    "emoji": "🙅🏻‍♀️",
     "hexcodes": [
       "1F645",
       "1F3FB",
@@ -1201,8 +1201,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏻‍♀ woman gesturing NO: light skin tone",
+    "description": "woman",
+    "emoji": "🙅🏻‍♀",
     "hexcodes": [
       "1F645",
       "1F3FB",
@@ -1216,8 +1216,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏼‍♀️ woman gesturing NO: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙅🏼‍♀️",
     "hexcodes": [
       "1F645",
       "1F3FC",
@@ -1232,8 +1232,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏼‍♀ woman gesturing NO: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙅🏼‍♀",
     "hexcodes": [
       "1F645",
       "1F3FC",
@@ -1247,8 +1247,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏽‍♀️ woman gesturing NO: medium skin tone",
+    "description": "woman",
+    "emoji": "🙅🏽‍♀️",
     "hexcodes": [
       "1F645",
       "1F3FD",
@@ -1263,8 +1263,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏽‍♀ woman gesturing NO: medium skin tone",
+    "description": "woman",
+    "emoji": "🙅🏽‍♀",
     "hexcodes": [
       "1F645",
       "1F3FD",
@@ -1278,8 +1278,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏾‍♀️ woman gesturing NO: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙅🏾‍♀️",
     "hexcodes": [
       "1F645",
       "1F3FE",
@@ -1294,8 +1294,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏾‍♀ woman gesturing NO: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙅🏾‍♀",
     "hexcodes": [
       "1F645",
       "1F3FE",
@@ -1309,8 +1309,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏿‍♀️ woman gesturing NO: dark skin tone",
+    "description": "woman",
+    "emoji": "🙅🏿‍♀️",
     "hexcodes": [
       "1F645",
       "1F3FF",
@@ -1325,8 +1325,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙅🏿‍♀ woman gesturing NO: dark skin tone",
+    "description": "woman",
+    "emoji": "🙅🏿‍♀",
     "hexcodes": [
       "1F645",
       "1F3FF",
@@ -1340,8 +1340,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆 person gesturing OK",
+    "description": "person",
+    "emoji": "🙆",
     "hexcodes": [
       "1F646"
     ]
@@ -1352,8 +1352,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏻 person gesturing OK: light skin tone",
+    "description": "person",
+    "emoji": "🙆🏻",
     "hexcodes": [
       "1F646",
       "1F3FB"
@@ -1365,8 +1365,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏼 person gesturing OK: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙆🏼",
     "hexcodes": [
       "1F646",
       "1F3FC"
@@ -1378,8 +1378,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏽 person gesturing OK: medium skin tone",
+    "description": "person",
+    "emoji": "🙆🏽",
     "hexcodes": [
       "1F646",
       "1F3FD"
@@ -1391,8 +1391,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏾 person gesturing OK: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙆🏾",
     "hexcodes": [
       "1F646",
       "1F3FE"
@@ -1404,8 +1404,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏿 person gesturing OK: dark skin tone",
+    "description": "person",
+    "emoji": "🙆🏿",
     "hexcodes": [
       "1F646",
       "1F3FF"
@@ -1417,8 +1417,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆‍♂️ man gesturing OK",
+    "description": "man",
+    "emoji": "🙆‍♂️",
     "hexcodes": [
       "1F646",
       "200D",
@@ -1432,8 +1432,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆‍♂ man gesturing OK",
+    "description": "man",
+    "emoji": "🙆‍♂",
     "hexcodes": [
       "1F646",
       "200D",
@@ -1446,8 +1446,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏻‍♂️ man gesturing OK: light skin tone",
+    "description": "man",
+    "emoji": "🙆🏻‍♂️",
     "hexcodes": [
       "1F646",
       "1F3FB",
@@ -1462,8 +1462,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏻‍♂ man gesturing OK: light skin tone",
+    "description": "man",
+    "emoji": "🙆🏻‍♂",
     "hexcodes": [
       "1F646",
       "1F3FB",
@@ -1477,8 +1477,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏼‍♂️ man gesturing OK: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙆🏼‍♂️",
     "hexcodes": [
       "1F646",
       "1F3FC",
@@ -1493,8 +1493,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏼‍♂ man gesturing OK: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙆🏼‍♂",
     "hexcodes": [
       "1F646",
       "1F3FC",
@@ -1508,8 +1508,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏽‍♂️ man gesturing OK: medium skin tone",
+    "description": "man",
+    "emoji": "🙆🏽‍♂️",
     "hexcodes": [
       "1F646",
       "1F3FD",
@@ -1524,8 +1524,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏽‍♂ man gesturing OK: medium skin tone",
+    "description": "man",
+    "emoji": "🙆🏽‍♂",
     "hexcodes": [
       "1F646",
       "1F3FD",
@@ -1539,8 +1539,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏾‍♂️ man gesturing OK: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙆🏾‍♂️",
     "hexcodes": [
       "1F646",
       "1F3FE",
@@ -1555,8 +1555,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏾‍♂ man gesturing OK: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙆🏾‍♂",
     "hexcodes": [
       "1F646",
       "1F3FE",
@@ -1570,8 +1570,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏿‍♂️ man gesturing OK: dark skin tone",
+    "description": "man",
+    "emoji": "🙆🏿‍♂️",
     "hexcodes": [
       "1F646",
       "1F3FF",
@@ -1586,8 +1586,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏿‍♂ man gesturing OK: dark skin tone",
+    "description": "man",
+    "emoji": "🙆🏿‍♂",
     "hexcodes": [
       "1F646",
       "1F3FF",
@@ -1601,8 +1601,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆‍♀️ woman gesturing OK",
+    "description": "woman",
+    "emoji": "🙆‍♀️",
     "hexcodes": [
       "1F646",
       "200D",
@@ -1616,8 +1616,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆‍♀ woman gesturing OK",
+    "description": "woman",
+    "emoji": "🙆‍♀",
     "hexcodes": [
       "1F646",
       "200D",
@@ -1630,8 +1630,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏻‍♀️ woman gesturing OK: light skin tone",
+    "description": "woman",
+    "emoji": "🙆🏻‍♀️",
     "hexcodes": [
       "1F646",
       "1F3FB",
@@ -1646,8 +1646,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏻‍♀ woman gesturing OK: light skin tone",
+    "description": "woman",
+    "emoji": "🙆🏻‍♀",
     "hexcodes": [
       "1F646",
       "1F3FB",
@@ -1661,8 +1661,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏼‍♀️ woman gesturing OK: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙆🏼‍♀️",
     "hexcodes": [
       "1F646",
       "1F3FC",
@@ -1677,8 +1677,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏼‍♀ woman gesturing OK: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙆🏼‍♀",
     "hexcodes": [
       "1F646",
       "1F3FC",
@@ -1692,8 +1692,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏽‍♀️ woman gesturing OK: medium skin tone",
+    "description": "woman",
+    "emoji": "🙆🏽‍♀️",
     "hexcodes": [
       "1F646",
       "1F3FD",
@@ -1708,8 +1708,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏽‍♀ woman gesturing OK: medium skin tone",
+    "description": "woman",
+    "emoji": "🙆🏽‍♀",
     "hexcodes": [
       "1F646",
       "1F3FD",
@@ -1723,8 +1723,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏾‍♀️ woman gesturing OK: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙆🏾‍♀️",
     "hexcodes": [
       "1F646",
       "1F3FE",
@@ -1739,8 +1739,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏾‍♀ woman gesturing OK: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙆🏾‍♀",
     "hexcodes": [
       "1F646",
       "1F3FE",
@@ -1754,8 +1754,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏿‍♀️ woman gesturing OK: dark skin tone",
+    "description": "woman",
+    "emoji": "🙆🏿‍♀️",
     "hexcodes": [
       "1F646",
       "1F3FF",
@@ -1770,8 +1770,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙆🏿‍♀ woman gesturing OK: dark skin tone",
+    "description": "woman",
+    "emoji": "🙆🏿‍♀",
     "hexcodes": [
       "1F646",
       "1F3FF",
@@ -1785,8 +1785,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁 person tipping hand",
+    "description": "person",
+    "emoji": "💁",
     "hexcodes": [
       "1F481"
     ]
@@ -1797,8 +1797,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏻 person tipping hand: light skin tone",
+    "description": "person",
+    "emoji": "💁🏻",
     "hexcodes": [
       "1F481",
       "1F3FB"
@@ -1810,8 +1810,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏼 person tipping hand: medium-light skin tone",
+    "description": "person",
+    "emoji": "💁🏼",
     "hexcodes": [
       "1F481",
       "1F3FC"
@@ -1823,8 +1823,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏽 person tipping hand: medium skin tone",
+    "description": "person",
+    "emoji": "💁🏽",
     "hexcodes": [
       "1F481",
       "1F3FD"
@@ -1836,8 +1836,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏾 person tipping hand: medium-dark skin tone",
+    "description": "person",
+    "emoji": "💁🏾",
     "hexcodes": [
       "1F481",
       "1F3FE"
@@ -1849,8 +1849,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏿 person tipping hand: dark skin tone",
+    "description": "person",
+    "emoji": "💁🏿",
     "hexcodes": [
       "1F481",
       "1F3FF"
@@ -1862,8 +1862,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁‍♂️ man tipping hand",
+    "description": "man",
+    "emoji": "💁‍♂️",
     "hexcodes": [
       "1F481",
       "200D",
@@ -1877,8 +1877,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁‍♂ man tipping hand",
+    "description": "man",
+    "emoji": "💁‍♂",
     "hexcodes": [
       "1F481",
       "200D",
@@ -1891,8 +1891,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏻‍♂️ man tipping hand: light skin tone",
+    "description": "man",
+    "emoji": "💁🏻‍♂️",
     "hexcodes": [
       "1F481",
       "1F3FB",
@@ -1907,8 +1907,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏻‍♂ man tipping hand: light skin tone",
+    "description": "man",
+    "emoji": "💁🏻‍♂",
     "hexcodes": [
       "1F481",
       "1F3FB",
@@ -1922,8 +1922,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏼‍♂️ man tipping hand: medium-light skin tone",
+    "description": "man",
+    "emoji": "💁🏼‍♂️",
     "hexcodes": [
       "1F481",
       "1F3FC",
@@ -1938,8 +1938,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏼‍♂ man tipping hand: medium-light skin tone",
+    "description": "man",
+    "emoji": "💁🏼‍♂",
     "hexcodes": [
       "1F481",
       "1F3FC",
@@ -1953,8 +1953,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏽‍♂️ man tipping hand: medium skin tone",
+    "description": "man",
+    "emoji": "💁🏽‍♂️",
     "hexcodes": [
       "1F481",
       "1F3FD",
@@ -1969,8 +1969,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏽‍♂ man tipping hand: medium skin tone",
+    "description": "man",
+    "emoji": "💁🏽‍♂",
     "hexcodes": [
       "1F481",
       "1F3FD",
@@ -1984,8 +1984,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏾‍♂️ man tipping hand: medium-dark skin tone",
+    "description": "man",
+    "emoji": "💁🏾‍♂️",
     "hexcodes": [
       "1F481",
       "1F3FE",
@@ -2000,8 +2000,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏾‍♂ man tipping hand: medium-dark skin tone",
+    "description": "man",
+    "emoji": "💁🏾‍♂",
     "hexcodes": [
       "1F481",
       "1F3FE",
@@ -2015,8 +2015,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏿‍♂️ man tipping hand: dark skin tone",
+    "description": "man",
+    "emoji": "💁🏿‍♂️",
     "hexcodes": [
       "1F481",
       "1F3FF",
@@ -2031,8 +2031,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏿‍♂ man tipping hand: dark skin tone",
+    "description": "man",
+    "emoji": "💁🏿‍♂",
     "hexcodes": [
       "1F481",
       "1F3FF",
@@ -2046,8 +2046,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁‍♀️ woman tipping hand",
+    "description": "woman",
+    "emoji": "💁‍♀️",
     "hexcodes": [
       "1F481",
       "200D",
@@ -2061,8 +2061,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁‍♀ woman tipping hand",
+    "description": "woman",
+    "emoji": "💁‍♀",
     "hexcodes": [
       "1F481",
       "200D",
@@ -2075,8 +2075,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏻‍♀️ woman tipping hand: light skin tone",
+    "description": "woman",
+    "emoji": "💁🏻‍♀️",
     "hexcodes": [
       "1F481",
       "1F3FB",
@@ -2091,8 +2091,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏻‍♀ woman tipping hand: light skin tone",
+    "description": "woman",
+    "emoji": "💁🏻‍♀",
     "hexcodes": [
       "1F481",
       "1F3FB",
@@ -2106,8 +2106,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏼‍♀️ woman tipping hand: medium-light skin tone",
+    "description": "woman",
+    "emoji": "💁🏼‍♀️",
     "hexcodes": [
       "1F481",
       "1F3FC",
@@ -2122,8 +2122,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏼‍♀ woman tipping hand: medium-light skin tone",
+    "description": "woman",
+    "emoji": "💁🏼‍♀",
     "hexcodes": [
       "1F481",
       "1F3FC",
@@ -2137,8 +2137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏽‍♀️ woman tipping hand: medium skin tone",
+    "description": "woman",
+    "emoji": "💁🏽‍♀️",
     "hexcodes": [
       "1F481",
       "1F3FD",
@@ -2153,8 +2153,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏽‍♀ woman tipping hand: medium skin tone",
+    "description": "woman",
+    "emoji": "💁🏽‍♀",
     "hexcodes": [
       "1F481",
       "1F3FD",
@@ -2168,8 +2168,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏾‍♀️ woman tipping hand: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "💁🏾‍♀️",
     "hexcodes": [
       "1F481",
       "1F3FE",
@@ -2184,8 +2184,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏾‍♀ woman tipping hand: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "💁🏾‍♀",
     "hexcodes": [
       "1F481",
       "1F3FE",
@@ -2199,8 +2199,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏿‍♀️ woman tipping hand: dark skin tone",
+    "description": "woman",
+    "emoji": "💁🏿‍♀️",
     "hexcodes": [
       "1F481",
       "1F3FF",
@@ -2215,8 +2215,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💁🏿‍♀ woman tipping hand: dark skin tone",
+    "description": "woman",
+    "emoji": "💁🏿‍♀",
     "hexcodes": [
       "1F481",
       "1F3FF",
@@ -2230,8 +2230,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋 person raising hand",
+    "description": "person",
+    "emoji": "🙋",
     "hexcodes": [
       "1F64B"
     ]
@@ -2242,8 +2242,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏻 person raising hand: light skin tone",
+    "description": "person",
+    "emoji": "🙋🏻",
     "hexcodes": [
       "1F64B",
       "1F3FB"
@@ -2255,8 +2255,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏼 person raising hand: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙋🏼",
     "hexcodes": [
       "1F64B",
       "1F3FC"
@@ -2268,8 +2268,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏽 person raising hand: medium skin tone",
+    "description": "person",
+    "emoji": "🙋🏽",
     "hexcodes": [
       "1F64B",
       "1F3FD"
@@ -2281,8 +2281,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏾 person raising hand: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙋🏾",
     "hexcodes": [
       "1F64B",
       "1F3FE"
@@ -2294,8 +2294,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏿 person raising hand: dark skin tone",
+    "description": "person",
+    "emoji": "🙋🏿",
     "hexcodes": [
       "1F64B",
       "1F3FF"
@@ -2307,8 +2307,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋‍♂️ man raising hand",
+    "description": "man",
+    "emoji": "🙋‍♂️",
     "hexcodes": [
       "1F64B",
       "200D",
@@ -2322,8 +2322,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋‍♂ man raising hand",
+    "description": "man",
+    "emoji": "🙋‍♂",
     "hexcodes": [
       "1F64B",
       "200D",
@@ -2336,8 +2336,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏻‍♂️ man raising hand: light skin tone",
+    "description": "man",
+    "emoji": "🙋🏻‍♂️",
     "hexcodes": [
       "1F64B",
       "1F3FB",
@@ -2352,8 +2352,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏻‍♂ man raising hand: light skin tone",
+    "description": "man",
+    "emoji": "🙋🏻‍♂",
     "hexcodes": [
       "1F64B",
       "1F3FB",
@@ -2367,8 +2367,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏼‍♂️ man raising hand: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙋🏼‍♂️",
     "hexcodes": [
       "1F64B",
       "1F3FC",
@@ -2383,8 +2383,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏼‍♂ man raising hand: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙋🏼‍♂",
     "hexcodes": [
       "1F64B",
       "1F3FC",
@@ -2398,8 +2398,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏽‍♂️ man raising hand: medium skin tone",
+    "description": "man",
+    "emoji": "🙋🏽‍♂️",
     "hexcodes": [
       "1F64B",
       "1F3FD",
@@ -2414,8 +2414,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏽‍♂ man raising hand: medium skin tone",
+    "description": "man",
+    "emoji": "🙋🏽‍♂",
     "hexcodes": [
       "1F64B",
       "1F3FD",
@@ -2429,8 +2429,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏾‍♂️ man raising hand: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙋🏾‍♂️",
     "hexcodes": [
       "1F64B",
       "1F3FE",
@@ -2445,8 +2445,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏾‍♂ man raising hand: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙋🏾‍♂",
     "hexcodes": [
       "1F64B",
       "1F3FE",
@@ -2460,8 +2460,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏿‍♂️ man raising hand: dark skin tone",
+    "description": "man",
+    "emoji": "🙋🏿‍♂️",
     "hexcodes": [
       "1F64B",
       "1F3FF",
@@ -2476,8 +2476,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏿‍♂ man raising hand: dark skin tone",
+    "description": "man",
+    "emoji": "🙋🏿‍♂",
     "hexcodes": [
       "1F64B",
       "1F3FF",
@@ -2491,8 +2491,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋‍♀️ woman raising hand",
+    "description": "woman",
+    "emoji": "🙋‍♀️",
     "hexcodes": [
       "1F64B",
       "200D",
@@ -2506,8 +2506,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋‍♀ woman raising hand",
+    "description": "woman",
+    "emoji": "🙋‍♀",
     "hexcodes": [
       "1F64B",
       "200D",
@@ -2520,8 +2520,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏻‍♀️ woman raising hand: light skin tone",
+    "description": "woman",
+    "emoji": "🙋🏻‍♀️",
     "hexcodes": [
       "1F64B",
       "1F3FB",
@@ -2536,8 +2536,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏻‍♀ woman raising hand: light skin tone",
+    "description": "woman",
+    "emoji": "🙋🏻‍♀",
     "hexcodes": [
       "1F64B",
       "1F3FB",
@@ -2551,8 +2551,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏼‍♀️ woman raising hand: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙋🏼‍♀️",
     "hexcodes": [
       "1F64B",
       "1F3FC",
@@ -2567,8 +2567,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏼‍♀ woman raising hand: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙋🏼‍♀",
     "hexcodes": [
       "1F64B",
       "1F3FC",
@@ -2582,8 +2582,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏽‍♀️ woman raising hand: medium skin tone",
+    "description": "woman",
+    "emoji": "🙋🏽‍♀️",
     "hexcodes": [
       "1F64B",
       "1F3FD",
@@ -2598,8 +2598,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏽‍♀ woman raising hand: medium skin tone",
+    "description": "woman",
+    "emoji": "🙋🏽‍♀",
     "hexcodes": [
       "1F64B",
       "1F3FD",
@@ -2613,8 +2613,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏾‍♀️ woman raising hand: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙋🏾‍♀️",
     "hexcodes": [
       "1F64B",
       "1F3FE",
@@ -2629,8 +2629,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏾‍♀ woman raising hand: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙋🏾‍♀",
     "hexcodes": [
       "1F64B",
       "1F3FE",
@@ -2644,8 +2644,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏿‍♀️ woman raising hand: dark skin tone",
+    "description": "woman",
+    "emoji": "🙋🏿‍♀️",
     "hexcodes": [
       "1F64B",
       "1F3FF",
@@ -2660,8 +2660,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙋🏿‍♀ woman raising hand: dark skin tone",
+    "description": "woman",
+    "emoji": "🙋🏿‍♀",
     "hexcodes": [
       "1F64B",
       "1F3FF",
@@ -2675,8 +2675,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇 person bowing",
+    "description": "person",
+    "emoji": "🙇",
     "hexcodes": [
       "1F647"
     ]
@@ -2687,8 +2687,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏻 person bowing: light skin tone",
+    "description": "person",
+    "emoji": "🙇🏻",
     "hexcodes": [
       "1F647",
       "1F3FB"
@@ -2700,8 +2700,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏼 person bowing: medium-light skin tone",
+    "description": "person",
+    "emoji": "🙇🏼",
     "hexcodes": [
       "1F647",
       "1F3FC"
@@ -2713,8 +2713,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏽 person bowing: medium skin tone",
+    "description": "person",
+    "emoji": "🙇🏽",
     "hexcodes": [
       "1F647",
       "1F3FD"
@@ -2726,8 +2726,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏾 person bowing: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🙇🏾",
     "hexcodes": [
       "1F647",
       "1F3FE"
@@ -2739,8 +2739,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏿 person bowing: dark skin tone",
+    "description": "person",
+    "emoji": "🙇🏿",
     "hexcodes": [
       "1F647",
       "1F3FF"
@@ -2752,8 +2752,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇‍♂️ man bowing",
+    "description": "man",
+    "emoji": "🙇‍♂️",
     "hexcodes": [
       "1F647",
       "200D",
@@ -2767,8 +2767,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇‍♂ man bowing",
+    "description": "man",
+    "emoji": "🙇‍♂",
     "hexcodes": [
       "1F647",
       "200D",
@@ -2781,8 +2781,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏻‍♂️ man bowing: light skin tone",
+    "description": "man",
+    "emoji": "🙇🏻‍♂️",
     "hexcodes": [
       "1F647",
       "1F3FB",
@@ -2797,8 +2797,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏻‍♂ man bowing: light skin tone",
+    "description": "man",
+    "emoji": "🙇🏻‍♂",
     "hexcodes": [
       "1F647",
       "1F3FB",
@@ -2812,8 +2812,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏼‍♂️ man bowing: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙇🏼‍♂️",
     "hexcodes": [
       "1F647",
       "1F3FC",
@@ -2828,8 +2828,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏼‍♂ man bowing: medium-light skin tone",
+    "description": "man",
+    "emoji": "🙇🏼‍♂",
     "hexcodes": [
       "1F647",
       "1F3FC",
@@ -2843,8 +2843,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏽‍♂️ man bowing: medium skin tone",
+    "description": "man",
+    "emoji": "🙇🏽‍♂️",
     "hexcodes": [
       "1F647",
       "1F3FD",
@@ -2859,8 +2859,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏽‍♂ man bowing: medium skin tone",
+    "description": "man",
+    "emoji": "🙇🏽‍♂",
     "hexcodes": [
       "1F647",
       "1F3FD",
@@ -2874,8 +2874,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏾‍♂️ man bowing: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙇🏾‍♂️",
     "hexcodes": [
       "1F647",
       "1F3FE",
@@ -2890,8 +2890,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏾‍♂ man bowing: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🙇🏾‍♂",
     "hexcodes": [
       "1F647",
       "1F3FE",
@@ -2905,8 +2905,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏿‍♂️ man bowing: dark skin tone",
+    "description": "man",
+    "emoji": "🙇🏿‍♂️",
     "hexcodes": [
       "1F647",
       "1F3FF",
@@ -2921,8 +2921,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏿‍♂ man bowing: dark skin tone",
+    "description": "man",
+    "emoji": "🙇🏿‍♂",
     "hexcodes": [
       "1F647",
       "1F3FF",
@@ -2936,8 +2936,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇‍♀️ woman bowing",
+    "description": "woman",
+    "emoji": "🙇‍♀️",
     "hexcodes": [
       "1F647",
       "200D",
@@ -2951,8 +2951,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇‍♀ woman bowing",
+    "description": "woman",
+    "emoji": "🙇‍♀",
     "hexcodes": [
       "1F647",
       "200D",
@@ -2965,8 +2965,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏻‍♀️ woman bowing: light skin tone",
+    "description": "woman",
+    "emoji": "🙇🏻‍♀️",
     "hexcodes": [
       "1F647",
       "1F3FB",
@@ -2981,8 +2981,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏻‍♀ woman bowing: light skin tone",
+    "description": "woman",
+    "emoji": "🙇🏻‍♀",
     "hexcodes": [
       "1F647",
       "1F3FB",
@@ -2996,8 +2996,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏼‍♀️ woman bowing: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙇🏼‍♀️",
     "hexcodes": [
       "1F647",
       "1F3FC",
@@ -3012,8 +3012,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏼‍♀ woman bowing: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🙇🏼‍♀",
     "hexcodes": [
       "1F647",
       "1F3FC",
@@ -3027,8 +3027,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏽‍♀️ woman bowing: medium skin tone",
+    "description": "woman",
+    "emoji": "🙇🏽‍♀️",
     "hexcodes": [
       "1F647",
       "1F3FD",
@@ -3043,8 +3043,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏽‍♀ woman bowing: medium skin tone",
+    "description": "woman",
+    "emoji": "🙇🏽‍♀",
     "hexcodes": [
       "1F647",
       "1F3FD",
@@ -3058,8 +3058,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏾‍♀️ woman bowing: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙇🏾‍♀️",
     "hexcodes": [
       "1F647",
       "1F3FE",
@@ -3074,8 +3074,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏾‍♀ woman bowing: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🙇🏾‍♀",
     "hexcodes": [
       "1F647",
       "1F3FE",
@@ -3089,8 +3089,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏿‍♀️ woman bowing: dark skin tone",
+    "description": "woman",
+    "emoji": "🙇🏿‍♀️",
     "hexcodes": [
       "1F647",
       "1F3FF",
@@ -3105,8 +3105,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙇🏿‍♀ woman bowing: dark skin tone",
+    "description": "woman",
+    "emoji": "🙇🏿‍♀",
     "hexcodes": [
       "1F647",
       "1F3FF",
@@ -3120,8 +3120,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦 person facepalming",
+    "description": "person",
+    "emoji": "🤦",
     "hexcodes": [
       "1F926"
     ]
@@ -3132,8 +3132,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏻 person facepalming: light skin tone",
+    "description": "person",
+    "emoji": "🤦🏻",
     "hexcodes": [
       "1F926",
       "1F3FB"
@@ -3145,8 +3145,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏼 person facepalming: medium-light skin tone",
+    "description": "person",
+    "emoji": "🤦🏼",
     "hexcodes": [
       "1F926",
       "1F3FC"
@@ -3158,8 +3158,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏽 person facepalming: medium skin tone",
+    "description": "person",
+    "emoji": "🤦🏽",
     "hexcodes": [
       "1F926",
       "1F3FD"
@@ -3171,8 +3171,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏾 person facepalming: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🤦🏾",
     "hexcodes": [
       "1F926",
       "1F3FE"
@@ -3184,8 +3184,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏿 person facepalming: dark skin tone",
+    "description": "person",
+    "emoji": "🤦🏿",
     "hexcodes": [
       "1F926",
       "1F3FF"
@@ -3197,8 +3197,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦‍♂️ man facepalming",
+    "description": "man",
+    "emoji": "🤦‍♂️",
     "hexcodes": [
       "1F926",
       "200D",
@@ -3212,8 +3212,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦‍♂ man facepalming",
+    "description": "man",
+    "emoji": "🤦‍♂",
     "hexcodes": [
       "1F926",
       "200D",
@@ -3226,8 +3226,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏻‍♂️ man facepalming: light skin tone",
+    "description": "man",
+    "emoji": "🤦🏻‍♂️",
     "hexcodes": [
       "1F926",
       "1F3FB",
@@ -3242,8 +3242,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏻‍♂ man facepalming: light skin tone",
+    "description": "man",
+    "emoji": "🤦🏻‍♂",
     "hexcodes": [
       "1F926",
       "1F3FB",
@@ -3257,8 +3257,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏼‍♂️ man facepalming: medium-light skin tone",
+    "description": "man",
+    "emoji": "🤦🏼‍♂️",
     "hexcodes": [
       "1F926",
       "1F3FC",
@@ -3273,8 +3273,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏼‍♂ man facepalming: medium-light skin tone",
+    "description": "man",
+    "emoji": "🤦🏼‍♂",
     "hexcodes": [
       "1F926",
       "1F3FC",
@@ -3288,8 +3288,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏽‍♂️ man facepalming: medium skin tone",
+    "description": "man",
+    "emoji": "🤦🏽‍♂️",
     "hexcodes": [
       "1F926",
       "1F3FD",
@@ -3304,8 +3304,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏽‍♂ man facepalming: medium skin tone",
+    "description": "man",
+    "emoji": "🤦🏽‍♂",
     "hexcodes": [
       "1F926",
       "1F3FD",
@@ -3319,8 +3319,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏾‍♂️ man facepalming: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🤦🏾‍♂️",
     "hexcodes": [
       "1F926",
       "1F3FE",
@@ -3335,8 +3335,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏾‍♂ man facepalming: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🤦🏾‍♂",
     "hexcodes": [
       "1F926",
       "1F3FE",
@@ -3350,8 +3350,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏿‍♂️ man facepalming: dark skin tone",
+    "description": "man",
+    "emoji": "🤦🏿‍♂️",
     "hexcodes": [
       "1F926",
       "1F3FF",
@@ -3366,8 +3366,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏿‍♂ man facepalming: dark skin tone",
+    "description": "man",
+    "emoji": "🤦🏿‍♂",
     "hexcodes": [
       "1F926",
       "1F3FF",
@@ -3381,8 +3381,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦‍♀️ woman facepalming",
+    "description": "woman",
+    "emoji": "🤦‍♀️",
     "hexcodes": [
       "1F926",
       "200D",
@@ -3396,8 +3396,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦‍♀ woman facepalming",
+    "description": "woman",
+    "emoji": "🤦‍♀",
     "hexcodes": [
       "1F926",
       "200D",
@@ -3410,8 +3410,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏻‍♀️ woman facepalming: light skin tone",
+    "description": "woman",
+    "emoji": "🤦🏻‍♀️",
     "hexcodes": [
       "1F926",
       "1F3FB",
@@ -3426,8 +3426,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏻‍♀ woman facepalming: light skin tone",
+    "description": "woman",
+    "emoji": "🤦🏻‍♀",
     "hexcodes": [
       "1F926",
       "1F3FB",
@@ -3441,8 +3441,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏼‍♀️ woman facepalming: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🤦🏼‍♀️",
     "hexcodes": [
       "1F926",
       "1F3FC",
@@ -3457,8 +3457,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏼‍♀ woman facepalming: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🤦🏼‍♀",
     "hexcodes": [
       "1F926",
       "1F3FC",
@@ -3472,8 +3472,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏽‍♀️ woman facepalming: medium skin tone",
+    "description": "woman",
+    "emoji": "🤦🏽‍♀️",
     "hexcodes": [
       "1F926",
       "1F3FD",
@@ -3488,8 +3488,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏽‍♀ woman facepalming: medium skin tone",
+    "description": "woman",
+    "emoji": "🤦🏽‍♀",
     "hexcodes": [
       "1F926",
       "1F3FD",
@@ -3503,8 +3503,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏾‍♀️ woman facepalming: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🤦🏾‍♀️",
     "hexcodes": [
       "1F926",
       "1F3FE",
@@ -3519,8 +3519,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏾‍♀ woman facepalming: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🤦🏾‍♀",
     "hexcodes": [
       "1F926",
       "1F3FE",
@@ -3534,8 +3534,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏿‍♀️ woman facepalming: dark skin tone",
+    "description": "woman",
+    "emoji": "🤦🏿‍♀️",
     "hexcodes": [
       "1F926",
       "1F3FF",
@@ -3550,8 +3550,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤦🏿‍♀ woman facepalming: dark skin tone",
+    "description": "woman",
+    "emoji": "🤦🏿‍♀",
     "hexcodes": [
       "1F926",
       "1F3FF",
@@ -3565,8 +3565,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷 person shrugging",
+    "description": "person",
+    "emoji": "🤷",
     "hexcodes": [
       "1F937"
     ]
@@ -3577,8 +3577,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏻 person shrugging: light skin tone",
+    "description": "person",
+    "emoji": "🤷🏻",
     "hexcodes": [
       "1F937",
       "1F3FB"
@@ -3590,8 +3590,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏼 person shrugging: medium-light skin tone",
+    "description": "person",
+    "emoji": "🤷🏼",
     "hexcodes": [
       "1F937",
       "1F3FC"
@@ -3603,8 +3603,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏽 person shrugging: medium skin tone",
+    "description": "person",
+    "emoji": "🤷🏽",
     "hexcodes": [
       "1F937",
       "1F3FD"
@@ -3616,8 +3616,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏾 person shrugging: medium-dark skin tone",
+    "description": "person",
+    "emoji": "🤷🏾",
     "hexcodes": [
       "1F937",
       "1F3FE"
@@ -3629,8 +3629,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏿 person shrugging: dark skin tone",
+    "description": "person",
+    "emoji": "🤷🏿",
     "hexcodes": [
       "1F937",
       "1F3FF"
@@ -3642,8 +3642,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷‍♂️ man shrugging",
+    "description": "man",
+    "emoji": "🤷‍♂️",
     "hexcodes": [
       "1F937",
       "200D",
@@ -3657,8 +3657,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷‍♂ man shrugging",
+    "description": "man",
+    "emoji": "🤷‍♂",
     "hexcodes": [
       "1F937",
       "200D",
@@ -3671,8 +3671,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏻‍♂️ man shrugging: light skin tone",
+    "description": "man",
+    "emoji": "🤷🏻‍♂️",
     "hexcodes": [
       "1F937",
       "1F3FB",
@@ -3687,8 +3687,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏻‍♂ man shrugging: light skin tone",
+    "description": "man",
+    "emoji": "🤷🏻‍♂",
     "hexcodes": [
       "1F937",
       "1F3FB",
@@ -3702,8 +3702,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏼‍♂️ man shrugging: medium-light skin tone",
+    "description": "man",
+    "emoji": "🤷🏼‍♂️",
     "hexcodes": [
       "1F937",
       "1F3FC",
@@ -3718,8 +3718,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏼‍♂ man shrugging: medium-light skin tone",
+    "description": "man",
+    "emoji": "🤷🏼‍♂",
     "hexcodes": [
       "1F937",
       "1F3FC",
@@ -3733,8 +3733,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏽‍♂️ man shrugging: medium skin tone",
+    "description": "man",
+    "emoji": "🤷🏽‍♂️",
     "hexcodes": [
       "1F937",
       "1F3FD",
@@ -3749,8 +3749,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏽‍♂ man shrugging: medium skin tone",
+    "description": "man",
+    "emoji": "🤷🏽‍♂",
     "hexcodes": [
       "1F937",
       "1F3FD",
@@ -3764,8 +3764,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏾‍♂️ man shrugging: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🤷🏾‍♂️",
     "hexcodes": [
       "1F937",
       "1F3FE",
@@ -3780,8 +3780,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏾‍♂ man shrugging: medium-dark skin tone",
+    "description": "man",
+    "emoji": "🤷🏾‍♂",
     "hexcodes": [
       "1F937",
       "1F3FE",
@@ -3795,8 +3795,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏿‍♂️ man shrugging: dark skin tone",
+    "description": "man",
+    "emoji": "🤷🏿‍♂️",
     "hexcodes": [
       "1F937",
       "1F3FF",
@@ -3811,8 +3811,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏿‍♂ man shrugging: dark skin tone",
+    "description": "man",
+    "emoji": "🤷🏿‍♂",
     "hexcodes": [
       "1F937",
       "1F3FF",
@@ -3826,8 +3826,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷‍♀️ woman shrugging",
+    "description": "woman",
+    "emoji": "🤷‍♀️",
     "hexcodes": [
       "1F937",
       "200D",
@@ -3841,8 +3841,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷‍♀ woman shrugging",
+    "description": "woman",
+    "emoji": "🤷‍♀",
     "hexcodes": [
       "1F937",
       "200D",
@@ -3855,8 +3855,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏻‍♀️ woman shrugging: light skin tone",
+    "description": "woman",
+    "emoji": "🤷🏻‍♀️",
     "hexcodes": [
       "1F937",
       "1F3FB",
@@ -3871,8 +3871,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏻‍♀ woman shrugging: light skin tone",
+    "description": "woman",
+    "emoji": "🤷🏻‍♀",
     "hexcodes": [
       "1F937",
       "1F3FB",
@@ -3886,8 +3886,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏼‍♀️ woman shrugging: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🤷🏼‍♀️",
     "hexcodes": [
       "1F937",
       "1F3FC",
@@ -3902,8 +3902,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏼‍♀ woman shrugging: medium-light skin tone",
+    "description": "woman",
+    "emoji": "🤷🏼‍♀",
     "hexcodes": [
       "1F937",
       "1F3FC",
@@ -3917,8 +3917,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏽‍♀️ woman shrugging: medium skin tone",
+    "description": "woman",
+    "emoji": "🤷🏽‍♀️",
     "hexcodes": [
       "1F937",
       "1F3FD",
@@ -3933,8 +3933,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏽‍♀ woman shrugging: medium skin tone",
+    "description": "woman",
+    "emoji": "🤷🏽‍♀",
     "hexcodes": [
       "1F937",
       "1F3FD",
@@ -3948,8 +3948,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏾‍♀️ woman shrugging: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🤷🏾‍♀️",
     "hexcodes": [
       "1F937",
       "1F3FE",
@@ -3964,8 +3964,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏾‍♀ woman shrugging: medium-dark skin tone",
+    "description": "woman",
+    "emoji": "🤷🏾‍♀",
     "hexcodes": [
       "1F937",
       "1F3FE",
@@ -3979,8 +3979,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏿‍♀️ woman shrugging: dark skin tone",
+    "description": "woman",
+    "emoji": "🤷🏿‍♀️",
     "hexcodes": [
       "1F937",
       "1F3FF",
@@ -3995,8 +3995,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤷🏿‍♀ woman shrugging: dark skin tone",
+    "description": "woman",
+    "emoji": "🤷🏿‍♀",
     "hexcodes": [
       "1F937",
       "1F3FF",

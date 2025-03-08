@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎥 movie camera",
+    "description": "movie",
+    "emoji": "🎥",
     "hexcodes": [
       "1F3A5"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎞️ film frames",
+    "description": "film",
+    "emoji": "🎞️",
     "hexcodes": [
       "1F39E",
       "FE0F"
@@ -30,8 +30,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎞 film frames",
+    "description": "film",
+    "emoji": "🎞",
     "hexcodes": [
       "1F39E"
     ]
@@ -42,8 +42,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📽️ film projector",
+    "description": "film",
+    "emoji": "📽️",
     "hexcodes": [
       "1F4FD",
       "FE0F"
@@ -55,8 +55,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📽 film projector",
+    "description": "film",
+    "emoji": "📽",
     "hexcodes": [
       "1F4FD"
     ]
@@ -67,8 +67,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎬 clapper board",
+    "description": "clapper",
+    "emoji": "🎬",
     "hexcodes": [
       "1F3AC"
     ]
@@ -79,8 +79,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📺 television",
+    "description": "television",
+    "emoji": "📺",
     "hexcodes": [
       "1F4FA"
     ]
@@ -91,8 +91,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📷 camera",
+    "description": "camera",
+    "emoji": "📷",
     "hexcodes": [
       "1F4F7"
     ]
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📸 camera with flash",
+    "description": "camera",
+    "emoji": "📸",
     "hexcodes": [
       "1F4F8"
     ]
@@ -115,8 +115,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📹 video camera",
+    "description": "video",
+    "emoji": "📹",
     "hexcodes": [
       "1F4F9"
     ]
@@ -127,8 +127,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📼 videocassette",
+    "description": "videocassette",
+    "emoji": "📼",
     "hexcodes": [
       "1F4FC"
     ]
@@ -139,8 +139,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔍 magnifying glass tilted left",
+    "description": "magnifying",
+    "emoji": "🔍",
     "hexcodes": [
       "1F50D"
     ]
@@ -151,8 +151,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔎 magnifying glass tilted right",
+    "description": "magnifying",
+    "emoji": "🔎",
     "hexcodes": [
       "1F50E"
     ]
@@ -163,8 +163,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔬 microscope",
+    "description": "microscope",
+    "emoji": "🔬",
     "hexcodes": [
       "1F52C"
     ]
@@ -175,8 +175,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔭 telescope",
+    "description": "telescope",
+    "emoji": "🔭",
     "hexcodes": [
       "1F52D"
     ]
@@ -187,8 +187,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📡 satellite antenna",
+    "description": "satellite",
+    "emoji": "📡",
     "hexcodes": [
       "1F4E1"
     ]
@@ -199,8 +199,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕯️ candle",
+    "description": "candle",
+    "emoji": "🕯️",
     "hexcodes": [
       "1F56F",
       "FE0F"
@@ -212,8 +212,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕯 candle",
+    "description": "candle",
+    "emoji": "🕯",
     "hexcodes": [
       "1F56F"
     ]
@@ -224,8 +224,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💡 light bulb",
+    "description": "light",
+    "emoji": "💡",
     "hexcodes": [
       "1F4A1"
     ]
@@ -236,8 +236,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔦 flashlight",
+    "description": "flashlight",
+    "emoji": "🔦",
     "hexcodes": [
       "1F526"
     ]
@@ -248,8 +248,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏮 red paper lantern",
+    "description": "red",
+    "emoji": "🏮",
     "hexcodes": [
       "1F3EE"
     ]

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐊 crocodile",
+    "description": "crocodile",
+    "emoji": "🐊",
     "hexcodes": [
       "1F40A"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐢 turtle",
+    "description": "turtle",
+    "emoji": "🐢",
     "hexcodes": [
       "1F422"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦎 lizard",
+    "description": "lizard",
+    "emoji": "🦎",
     "hexcodes": [
       "1F98E"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐍 snake",
+    "description": "snake",
+    "emoji": "🐍",
     "hexcodes": [
       "1F40D"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐲 dragon face",
+    "description": "dragon",
+    "emoji": "🐲",
     "hexcodes": [
       "1F432"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐉 dragon",
+    "description": "dragon",
+    "emoji": "🐉",
     "hexcodes": [
       "1F409"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦕 sauropod",
+    "description": "sauropod",
+    "emoji": "🦕",
     "hexcodes": [
       "1F995"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦖 T-Rex",
+    "description": "T-Rex",
+    "emoji": "🦖",
     "hexcodes": [
       "1F996"
     ]

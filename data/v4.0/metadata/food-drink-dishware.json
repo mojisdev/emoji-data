@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍽️ fork and knife with plate",
+    "description": "fork",
+    "emoji": "🍽️",
     "hexcodes": [
       "1F37D",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍴 fork and knife",
+    "description": "fork",
+    "emoji": "🍴",
     "hexcodes": [
       "1F374"
     ]
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🥄 spoon",
+    "description": "spoon",
+    "emoji": "🥄",
     "hexcodes": [
       "1F944"
     ]
@@ -42,8 +42,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔪 kitchen knife",
+    "description": "kitchen",
+    "emoji": "🔪",
     "hexcodes": [
       "1F52A"
     ]
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏺 amphora",
+    "description": "amphora",
+    "emoji": "🏺",
     "hexcodes": [
       "1F3FA"
     ]

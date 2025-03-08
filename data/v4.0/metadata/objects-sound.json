@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔇 muted speaker",
+    "description": "muted",
+    "emoji": "🔇",
     "hexcodes": [
       "1F507"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔈 speaker low volume",
+    "description": "speaker",
+    "emoji": "🔈",
     "hexcodes": [
       "1F508"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔉 speaker medium volume",
+    "description": "speaker",
+    "emoji": "🔉",
     "hexcodes": [
       "1F509"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔊 speaker high volume",
+    "description": "speaker",
+    "emoji": "🔊",
     "hexcodes": [
       "1F50A"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📢 loudspeaker",
+    "description": "loudspeaker",
+    "emoji": "📢",
     "hexcodes": [
       "1F4E2"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📣 megaphone",
+    "description": "megaphone",
+    "emoji": "📣",
     "hexcodes": [
       "1F4E3"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📯 postal horn",
+    "description": "postal",
+    "emoji": "📯",
     "hexcodes": [
       "1F4EF"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔔 bell",
+    "description": "bell",
+    "emoji": "🔔",
     "hexcodes": [
       "1F514"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔕 bell with slash",
+    "description": "bell",
+    "emoji": "🔕",
     "hexcodes": [
       "1F515"
     ]

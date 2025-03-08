@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙈 see-no-evil monkey",
+    "description": "see-no-evil",
+    "emoji": "🙈",
     "hexcodes": [
       "1F648"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙉 hear-no-evil monkey",
+    "description": "hear-no-evil",
+    "emoji": "🙉",
     "hexcodes": [
       "1F649"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🙊 speak-no-evil monkey",
+    "description": "speak-no-evil",
+    "emoji": "🙊",
     "hexcodes": [
       "1F64A"
     ]

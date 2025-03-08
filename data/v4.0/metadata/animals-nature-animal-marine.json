@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐳 spouting whale",
+    "description": "spouting",
+    "emoji": "🐳",
     "hexcodes": [
       "1F433"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐋 whale",
+    "description": "whale",
+    "emoji": "🐋",
     "hexcodes": [
       "1F40B"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐬 dolphin",
+    "description": "dolphin",
+    "emoji": "🐬",
     "hexcodes": [
       "1F42C"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐟 fish",
+    "description": "fish",
+    "emoji": "🐟",
     "hexcodes": [
       "1F41F"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐠 tropical fish",
+    "description": "tropical",
+    "emoji": "🐠",
     "hexcodes": [
       "1F420"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐡 blowfish",
+    "description": "blowfish",
+    "emoji": "🐡",
     "hexcodes": [
       "1F421"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦈 shark",
+    "description": "shark",
+    "emoji": "🦈",
     "hexcodes": [
       "1F988"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐙 octopus",
+    "description": "octopus",
+    "emoji": "🐙",
     "hexcodes": [
       "1F419"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐚 spiral shell",
+    "description": "spiral",
+    "emoji": "🐚",
     "hexcodes": [
       "1F41A"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦀 crab",
+    "description": "crab",
+    "emoji": "🦀",
     "hexcodes": [
       "1F980"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦐 shrimp",
+    "description": "shrimp",
+    "emoji": "🦐",
     "hexcodes": [
       "1F990"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦑 squid",
+    "description": "squid",
+    "emoji": "🦑",
     "hexcodes": [
       "1F991"
     ]

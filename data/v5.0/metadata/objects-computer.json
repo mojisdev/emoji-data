@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⌨ keyboard",
+    "description": "keyboard",
+    "emoji": "⌨",
     "hexcodes": [
       "2328"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔋 battery",
+    "description": "battery",
+    "emoji": "🔋",
     "hexcodes": [
       "1F50B"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔌 electric plug",
+    "description": "electric",
+    "emoji": "🔌",
     "hexcodes": [
       "1F50C"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💻 laptop computer",
+    "description": "laptop",
+    "emoji": "💻",
     "hexcodes": [
       "1F4BB"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖥️ desktop computer",
+    "description": "desktop",
+    "emoji": "🖥️",
     "hexcodes": [
       "1F5A5",
       "FE0F"
@@ -66,8 +66,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖥 desktop computer",
+    "description": "desktop",
+    "emoji": "🖥",
     "hexcodes": [
       "1F5A5"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖨️ printer",
+    "description": "printer",
+    "emoji": "🖨️",
     "hexcodes": [
       "1F5A8",
       "FE0F"
@@ -91,8 +91,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖨 printer",
+    "description": "printer",
+    "emoji": "🖨",
     "hexcodes": [
       "1F5A8"
     ]
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⌨️ keyboard",
+    "description": "keyboard",
+    "emoji": "⌨️",
     "hexcodes": [
       "2328",
       "FE0F"
@@ -116,8 +116,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖱️ computer mouse",
+    "description": "computer",
+    "emoji": "🖱️",
     "hexcodes": [
       "1F5B1",
       "FE0F"
@@ -129,8 +129,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖱 computer mouse",
+    "description": "computer",
+    "emoji": "🖱",
     "hexcodes": [
       "1F5B1"
     ]
@@ -141,8 +141,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖲️ trackball",
+    "description": "trackball",
+    "emoji": "🖲️",
     "hexcodes": [
       "1F5B2",
       "FE0F"
@@ -154,8 +154,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖲 trackball",
+    "description": "trackball",
+    "emoji": "🖲",
     "hexcodes": [
       "1F5B2"
     ]
@@ -166,8 +166,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💽 computer disk",
+    "description": "computer",
+    "emoji": "💽",
     "hexcodes": [
       "1F4BD"
     ]
@@ -178,8 +178,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💾 floppy disk",
+    "description": "floppy",
+    "emoji": "💾",
     "hexcodes": [
       "1F4BE"
     ]
@@ -190,8 +190,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💿 optical disk",
+    "description": "optical",
+    "emoji": "💿",
     "hexcodes": [
       "1F4BF"
     ]
@@ -202,8 +202,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📀 dvd",
+    "description": "dvd",
+    "emoji": "📀",
     "hexcodes": [
       "1F4C0"
     ]

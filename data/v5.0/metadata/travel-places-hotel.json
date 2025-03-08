@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛎️ bellhop bell",
+    "description": "bellhop",
+    "emoji": "🛎️",
     "hexcodes": [
       "1F6CE",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛎 bellhop bell",
+    "description": "bellhop",
+    "emoji": "🛎",
     "hexcodes": [
       "1F6CE"
     ]
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚪 door",
+    "description": "door",
+    "emoji": "🚪",
     "hexcodes": [
       "1F6AA"
     ]
@@ -42,8 +42,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛏️ bed",
+    "description": "bed",
+    "emoji": "🛏️",
     "hexcodes": [
       "1F6CF",
       "FE0F"
@@ -55,8 +55,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛏 bed",
+    "description": "bed",
+    "emoji": "🛏",
     "hexcodes": [
       "1F6CF"
     ]
@@ -67,8 +67,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛋️ couch and lamp",
+    "description": "couch",
+    "emoji": "🛋️",
     "hexcodes": [
       "1F6CB",
       "FE0F"
@@ -80,8 +80,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛋 couch and lamp",
+    "description": "couch",
+    "emoji": "🛋",
     "hexcodes": [
       "1F6CB"
     ]
@@ -92,8 +92,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚽 toilet",
+    "description": "toilet",
+    "emoji": "🚽",
     "hexcodes": [
       "1F6BD"
     ]
@@ -104,8 +104,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚿 shower",
+    "description": "shower",
+    "emoji": "🚿",
     "hexcodes": [
       "1F6BF"
     ]
@@ -116,8 +116,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛁 bathtub",
+    "description": "bathtub",
+    "emoji": "🛁",
     "hexcodes": [
       "1F6C1"
     ]

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎖️ military medal",
+    "description": "military",
+    "emoji": "🎖️",
     "hexcodes": [
       "1F396",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏆 trophy",
+    "description": "trophy",
+    "emoji": "🏆",
     "hexcodes": [
       "1F3C6"
     ]
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏅 sports medal",
+    "description": "sports",
+    "emoji": "🏅",
     "hexcodes": [
       "1F3C5"
     ]
@@ -42,8 +42,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🥇 1st place medal",
+    "description": "1st",
+    "emoji": "🥇",
     "hexcodes": [
       "1F947"
     ]
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🥈 2nd place medal",
+    "description": "2nd",
+    "emoji": "🥈",
     "hexcodes": [
       "1F948"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🥉 3rd place medal",
+    "description": "3rd",
+    "emoji": "🥉",
     "hexcodes": [
       "1F949"
     ]

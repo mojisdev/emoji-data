@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔀 shuffle tracks button",
+    "description": "shuffle",
+    "emoji": "🔀",
     "hexcodes": [
       "1F500"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔁 repeat button",
+    "description": "repeat",
+    "emoji": "🔁",
     "hexcodes": [
       "1F501"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔂 repeat single button",
+    "description": "repeat",
+    "emoji": "🔂",
     "hexcodes": [
       "1F502"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "▶️ play button",
+    "description": "play",
+    "emoji": "▶️",
     "hexcodes": [
       "25B6",
       "FE0F"
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏩ fast-forward button",
+    "description": "fast-forward",
+    "emoji": "⏩",
     "hexcodes": [
       "23E9"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏭️ next track button",
+    "description": "next",
+    "emoji": "⏭️",
     "hexcodes": [
       "23ED",
       "FE0F"
@@ -79,8 +79,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏯️ play or pause button",
+    "description": "play",
+    "emoji": "⏯️",
     "hexcodes": [
       "23EF",
       "FE0F"
@@ -92,8 +92,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◀️ reverse button",
+    "description": "reverse",
+    "emoji": "◀️",
     "hexcodes": [
       "25C0",
       "FE0F"
@@ -105,8 +105,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏪ fast reverse button",
+    "description": "fast",
+    "emoji": "⏪",
     "hexcodes": [
       "23EA"
     ]
@@ -117,8 +117,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏮️ last track button",
+    "description": "last",
+    "emoji": "⏮️",
     "hexcodes": [
       "23EE",
       "FE0F"
@@ -130,8 +130,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔼 up button",
+    "description": "up",
+    "emoji": "🔼",
     "hexcodes": [
       "1F53C"
     ]
@@ -142,8 +142,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏫ fast up button",
+    "description": "fast",
+    "emoji": "⏫",
     "hexcodes": [
       "23EB"
     ]
@@ -154,8 +154,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔽 down button",
+    "description": "down",
+    "emoji": "🔽",
     "hexcodes": [
       "1F53D"
     ]
@@ -166,8 +166,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏬ fast down button",
+    "description": "fast",
+    "emoji": "⏬",
     "hexcodes": [
       "23EC"
     ]
@@ -178,8 +178,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏸️ pause button",
+    "description": "pause",
+    "emoji": "⏸️",
     "hexcodes": [
       "23F8",
       "FE0F"
@@ -191,8 +191,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏹️ stop button",
+    "description": "stop",
+    "emoji": "⏹️",
     "hexcodes": [
       "23F9",
       "FE0F"
@@ -204,8 +204,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏺️ record button",
+    "description": "record",
+    "emoji": "⏺️",
     "hexcodes": [
       "23FA",
       "FE0F"
@@ -217,8 +217,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⏏️ eject button",
+    "description": "eject",
+    "emoji": "⏏️",
     "hexcodes": [
       "23CF",
       "FE0F"
@@ -230,8 +230,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎦 cinema",
+    "description": "cinema",
+    "emoji": "🎦",
     "hexcodes": [
       "1F3A6"
     ]
@@ -242,8 +242,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔅 dim button",
+    "description": "dim",
+    "emoji": "🔅",
     "hexcodes": [
       "1F505"
     ]
@@ -254,8 +254,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔆 bright button",
+    "description": "bright",
+    "emoji": "🔆",
     "hexcodes": [
       "1F506"
     ]
@@ -266,8 +266,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📶 antenna bars",
+    "description": "antenna",
+    "emoji": "📶",
     "hexcodes": [
       "1F4F6"
     ]
@@ -278,8 +278,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📳 vibration mode",
+    "description": "vibration",
+    "emoji": "📳",
     "hexcodes": [
       "1F4F3"
     ]
@@ -290,8 +290,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📴 mobile phone off",
+    "description": "mobile",
+    "emoji": "📴",
     "hexcodes": [
       "1F4F4"
     ]

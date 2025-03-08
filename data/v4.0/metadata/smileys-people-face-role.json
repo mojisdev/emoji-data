@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "😇 smiling face with halo",
+    "description": "smiling",
+    "emoji": "😇",
     "hexcodes": [
       "1F607"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤠 cowboy hat face",
+    "description": "cowboy",
+    "emoji": "🤠",
     "hexcodes": [
       "1F920"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤡 clown face",
+    "description": "clown",
+    "emoji": "🤡",
     "hexcodes": [
       "1F921"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤥 lying face",
+    "description": "lying",
+    "emoji": "🤥",
     "hexcodes": [
       "1F925"
     ]

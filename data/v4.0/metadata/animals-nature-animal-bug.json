@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦋 butterfly",
+    "description": "butterfly",
+    "emoji": "🦋",
     "hexcodes": [
       "1F98B"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐌 snail",
+    "description": "snail",
+    "emoji": "🐌",
     "hexcodes": [
       "1F40C"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐛 bug",
+    "description": "bug",
+    "emoji": "🐛",
     "hexcodes": [
       "1F41B"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐜 ant",
+    "description": "ant",
+    "emoji": "🐜",
     "hexcodes": [
       "1F41C"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐝 honeybee",
+    "description": "honeybee",
+    "emoji": "🐝",
     "hexcodes": [
       "1F41D"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐞 lady beetle",
+    "description": "lady",
+    "emoji": "🐞",
     "hexcodes": [
       "1F41E"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕷️ spider",
+    "description": "spider",
+    "emoji": "🕷️",
     "hexcodes": [
       "1F577",
       "FE0F"
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕸️ spider web",
+    "description": "spider",
+    "emoji": "🕸️",
     "hexcodes": [
       "1F578",
       "FE0F"
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦂 scorpion",
+    "description": "scorpion",
+    "emoji": "🦂",
     "hexcodes": [
       "1F982"
     ]

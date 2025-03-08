@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☀ sun",
+    "description": "sun",
+    "emoji": "☀",
     "hexcodes": [
       "2600"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☁ cloud",
+    "description": "cloud",
+    "emoji": "☁",
     "hexcodes": [
       "2601"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☂ umbrella",
+    "description": "umbrella",
+    "emoji": "☂",
     "hexcodes": [
       "2602"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☃ snowman",
+    "description": "snowman",
+    "emoji": "☃",
     "hexcodes": [
       "2603"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☄ comet",
+    "description": "comet",
+    "emoji": "☄",
     "hexcodes": [
       "2604"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☔ umbrella with rain drops",
+    "description": "umbrella",
+    "emoji": "☔",
     "hexcodes": [
       "2614"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❄ snowflake",
+    "description": "snowflake",
+    "emoji": "❄",
     "hexcodes": [
       "2744"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌑 new moon",
+    "description": "new",
+    "emoji": "🌑",
     "hexcodes": [
       "1F311"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌒 waxing crescent moon",
+    "description": "waxing",
+    "emoji": "🌒",
     "hexcodes": [
       "1F312"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌓 first quarter moon",
+    "description": "first",
+    "emoji": "🌓",
     "hexcodes": [
       "1F313"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌔 waxing gibbous moon",
+    "description": "waxing",
+    "emoji": "🌔",
     "hexcodes": [
       "1F314"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌕 full moon",
+    "description": "full",
+    "emoji": "🌕",
     "hexcodes": [
       "1F315"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌖 waning gibbous moon",
+    "description": "waning",
+    "emoji": "🌖",
     "hexcodes": [
       "1F316"
     ]
@@ -161,8 +161,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌗 last quarter moon",
+    "description": "last",
+    "emoji": "🌗",
     "hexcodes": [
       "1F317"
     ]
@@ -173,8 +173,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌘 waning crescent moon",
+    "description": "waning",
+    "emoji": "🌘",
     "hexcodes": [
       "1F318"
     ]
@@ -185,8 +185,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌙 crescent moon",
+    "description": "crescent",
+    "emoji": "🌙",
     "hexcodes": [
       "1F319"
     ]
@@ -197,8 +197,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌚 new moon face",
+    "description": "new",
+    "emoji": "🌚",
     "hexcodes": [
       "1F31A"
     ]
@@ -209,8 +209,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌛 first quarter moon face",
+    "description": "first",
+    "emoji": "🌛",
     "hexcodes": [
       "1F31B"
     ]
@@ -221,8 +221,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌜 last quarter moon face",
+    "description": "last",
+    "emoji": "🌜",
     "hexcodes": [
       "1F31C"
     ]
@@ -233,8 +233,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌡️ thermometer",
+    "description": "thermometer",
+    "emoji": "🌡️",
     "hexcodes": [
       "1F321",
       "FE0F"
@@ -246,8 +246,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌡 thermometer",
+    "description": "thermometer",
+    "emoji": "🌡",
     "hexcodes": [
       "1F321"
     ]
@@ -258,8 +258,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☀️ sun",
+    "description": "sun",
+    "emoji": "☀️",
     "hexcodes": [
       "2600",
       "FE0F"
@@ -271,8 +271,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌝 full moon face",
+    "description": "full",
+    "emoji": "🌝",
     "hexcodes": [
       "1F31D"
     ]
@@ -283,8 +283,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌞 sun with face",
+    "description": "sun",
+    "emoji": "🌞",
     "hexcodes": [
       "1F31E"
     ]
@@ -295,8 +295,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⭐ white medium star",
+    "description": "white",
+    "emoji": "⭐",
     "hexcodes": [
       "2B50"
     ]
@@ -307,8 +307,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌟 glowing star",
+    "description": "glowing",
+    "emoji": "🌟",
     "hexcodes": [
       "1F31F"
     ]
@@ -319,8 +319,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌠 shooting star",
+    "description": "shooting",
+    "emoji": "🌠",
     "hexcodes": [
       "1F320"
     ]
@@ -331,8 +331,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☁️ cloud",
+    "description": "cloud",
+    "emoji": "☁️",
     "hexcodes": [
       "2601",
       "FE0F"
@@ -344,8 +344,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛅ sun behind cloud",
+    "description": "sun",
+    "emoji": "⛅",
     "hexcodes": [
       "26C5"
     ]
@@ -356,8 +356,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛈️ cloud with lightning and rain",
+    "description": "cloud",
+    "emoji": "⛈️",
     "hexcodes": [
       "26C8",
       "FE0F"
@@ -369,8 +369,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛈ cloud with lightning and rain",
+    "description": "cloud",
+    "emoji": "⛈",
     "hexcodes": [
       "26C8"
     ]
@@ -381,8 +381,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌤️ sun behind small cloud",
+    "description": "sun",
+    "emoji": "🌤️",
     "hexcodes": [
       "1F324",
       "FE0F"
@@ -394,8 +394,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌤 sun behind small cloud",
+    "description": "sun",
+    "emoji": "🌤",
     "hexcodes": [
       "1F324"
     ]
@@ -406,8 +406,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌥️ sun behind large cloud",
+    "description": "sun",
+    "emoji": "🌥️",
     "hexcodes": [
       "1F325",
       "FE0F"
@@ -419,8 +419,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌥 sun behind large cloud",
+    "description": "sun",
+    "emoji": "🌥",
     "hexcodes": [
       "1F325"
     ]
@@ -431,8 +431,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌦️ sun behind rain cloud",
+    "description": "sun",
+    "emoji": "🌦️",
     "hexcodes": [
       "1F326",
       "FE0F"
@@ -444,8 +444,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌦 sun behind rain cloud",
+    "description": "sun",
+    "emoji": "🌦",
     "hexcodes": [
       "1F326"
     ]
@@ -456,8 +456,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌧️ cloud with rain",
+    "description": "cloud",
+    "emoji": "🌧️",
     "hexcodes": [
       "1F327",
       "FE0F"
@@ -469,8 +469,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌧 cloud with rain",
+    "description": "cloud",
+    "emoji": "🌧",
     "hexcodes": [
       "1F327"
     ]
@@ -481,8 +481,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌨️ cloud with snow",
+    "description": "cloud",
+    "emoji": "🌨️",
     "hexcodes": [
       "1F328",
       "FE0F"
@@ -494,8 +494,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌨 cloud with snow",
+    "description": "cloud",
+    "emoji": "🌨",
     "hexcodes": [
       "1F328"
     ]
@@ -506,8 +506,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌩️ cloud with lightning",
+    "description": "cloud",
+    "emoji": "🌩️",
     "hexcodes": [
       "1F329",
       "FE0F"
@@ -519,8 +519,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌩 cloud with lightning",
+    "description": "cloud",
+    "emoji": "🌩",
     "hexcodes": [
       "1F329"
     ]
@@ -531,8 +531,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌪️ tornado",
+    "description": "tornado",
+    "emoji": "🌪️",
     "hexcodes": [
       "1F32A",
       "FE0F"
@@ -544,8 +544,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌪 tornado",
+    "description": "tornado",
+    "emoji": "🌪",
     "hexcodes": [
       "1F32A"
     ]
@@ -556,8 +556,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌫️ fog",
+    "description": "fog",
+    "emoji": "🌫️",
     "hexcodes": [
       "1F32B",
       "FE0F"
@@ -569,8 +569,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌫 fog",
+    "description": "fog",
+    "emoji": "🌫",
     "hexcodes": [
       "1F32B"
     ]
@@ -581,8 +581,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌬️ wind face",
+    "description": "wind",
+    "emoji": "🌬️",
     "hexcodes": [
       "1F32C",
       "FE0F"
@@ -594,8 +594,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌬 wind face",
+    "description": "wind",
+    "emoji": "🌬",
     "hexcodes": [
       "1F32C"
     ]
@@ -606,8 +606,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌀 cyclone",
+    "description": "cyclone",
+    "emoji": "🌀",
     "hexcodes": [
       "1F300"
     ]
@@ -618,8 +618,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌈 rainbow",
+    "description": "rainbow",
+    "emoji": "🌈",
     "hexcodes": [
       "1F308"
     ]
@@ -630,8 +630,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌂 closed umbrella",
+    "description": "closed",
+    "emoji": "🌂",
     "hexcodes": [
       "1F302"
     ]
@@ -642,8 +642,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☂️ umbrella",
+    "description": "umbrella",
+    "emoji": "☂️",
     "hexcodes": [
       "2602",
       "FE0F"
@@ -655,8 +655,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛱️ umbrella on ground",
+    "description": "umbrella",
+    "emoji": "⛱️",
     "hexcodes": [
       "26F1",
       "FE0F"
@@ -668,8 +668,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛱ umbrella on ground",
+    "description": "umbrella",
+    "emoji": "⛱",
     "hexcodes": [
       "26F1"
     ]
@@ -680,8 +680,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚡ high voltage",
+    "description": "high",
+    "emoji": "⚡",
     "hexcodes": [
       "26A1"
     ]
@@ -692,8 +692,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❄️ snowflake",
+    "description": "snowflake",
+    "emoji": "❄️",
     "hexcodes": [
       "2744",
       "FE0F"
@@ -705,8 +705,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☃️ snowman",
+    "description": "snowman",
+    "emoji": "☃️",
     "hexcodes": [
       "2603",
       "FE0F"
@@ -718,8 +718,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛄ snowman without snow",
+    "description": "snowman",
+    "emoji": "⛄",
     "hexcodes": [
       "26C4"
     ]
@@ -730,8 +730,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☄️ comet",
+    "description": "comet",
+    "emoji": "☄️",
     "hexcodes": [
       "2604",
       "FE0F"
@@ -743,8 +743,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔥 fire",
+    "description": "fire",
+    "emoji": "🔥",
     "hexcodes": [
       "1F525"
     ]
@@ -755,8 +755,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💧 droplet",
+    "description": "droplet",
+    "emoji": "💧",
     "hexcodes": [
       "1F4A7"
     ]
@@ -767,8 +767,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌊 water wave",
+    "description": "water",
+    "emoji": "🌊",
     "hexcodes": [
       "1F30A"
     ]

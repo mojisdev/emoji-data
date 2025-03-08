@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📱 mobile phone",
+    "description": "mobile",
+    "emoji": "📱",
     "hexcodes": [
       "1F4F1"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📲 mobile phone with arrow",
+    "description": "mobile",
+    "emoji": "📲",
     "hexcodes": [
       "1F4F2"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☎️ telephone",
+    "description": "telephone",
+    "emoji": "☎️",
     "hexcodes": [
       "260E",
       "FE0F"
@@ -42,8 +42,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☎ telephone",
+    "description": "telephone",
+    "emoji": "☎",
     "hexcodes": [
       "260E"
     ]
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📞 telephone receiver",
+    "description": "telephone",
+    "emoji": "📞",
     "hexcodes": [
       "1F4DE"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📟 pager",
+    "description": "pager",
+    "emoji": "📟",
     "hexcodes": [
       "1F4DF"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📠 fax machine",
+    "description": "fax",
+    "emoji": "📠",
     "hexcodes": [
       "1F4E0"
     ]

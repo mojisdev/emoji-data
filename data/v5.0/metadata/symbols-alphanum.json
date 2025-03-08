@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "ℹ information",
+    "description": "information",
+    "emoji": "ℹ",
     "hexcodes": [
       "2139"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "㊗ Japanese “congratulations” button",
+    "description": "Japanese",
+    "emoji": "㊗",
     "hexcodes": [
       "3297"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "㊙ Japanese “secret” button",
+    "description": "Japanese",
+    "emoji": "㊙",
     "hexcodes": [
       "3299"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💯 hundred points",
+    "description": "hundred",
+    "emoji": "💯",
     "hexcodes": [
       "1F4AF"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔠 input latin uppercase",
+    "description": "input",
+    "emoji": "🔠",
     "hexcodes": [
       "1F520"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔡 input latin lowercase",
+    "description": "input",
+    "emoji": "🔡",
     "hexcodes": [
       "1F521"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔢 input numbers",
+    "description": "input",
+    "emoji": "🔢",
     "hexcodes": [
       "1F522"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔣 input symbols",
+    "description": "input",
+    "emoji": "🔣",
     "hexcodes": [
       "1F523"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔤 input latin letters",
+    "description": "input",
+    "emoji": "🔤",
     "hexcodes": [
       "1F524"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅰️ A button (blood type)",
+    "description": "A",
+    "emoji": "🅰️",
     "hexcodes": [
       "1F170",
       "FE0F"
@@ -126,8 +126,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅰 A button (blood type)",
+    "description": "A",
+    "emoji": "🅰",
     "hexcodes": [
       "1F170"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆎 AB button (blood type)",
+    "description": "AB",
+    "emoji": "🆎",
     "hexcodes": [
       "1F18E"
     ]
@@ -150,8 +150,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅱️ B button (blood type)",
+    "description": "B",
+    "emoji": "🅱️",
     "hexcodes": [
       "1F171",
       "FE0F"
@@ -163,8 +163,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅱 B button (blood type)",
+    "description": "B",
+    "emoji": "🅱",
     "hexcodes": [
       "1F171"
     ]
@@ -175,8 +175,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆑 CL button",
+    "description": "CL",
+    "emoji": "🆑",
     "hexcodes": [
       "1F191"
     ]
@@ -187,8 +187,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆒 COOL button",
+    "description": "COOL",
+    "emoji": "🆒",
     "hexcodes": [
       "1F192"
     ]
@@ -199,8 +199,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆓 FREE button",
+    "description": "FREE",
+    "emoji": "🆓",
     "hexcodes": [
       "1F193"
     ]
@@ -211,8 +211,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "ℹ️ information",
+    "description": "information",
+    "emoji": "ℹ️",
     "hexcodes": [
       "2139",
       "FE0F"
@@ -224,8 +224,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆔 ID button",
+    "description": "ID",
+    "emoji": "🆔",
     "hexcodes": [
       "1F194"
     ]
@@ -236,8 +236,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "Ⓜ️ circled M",
+    "description": "circled",
+    "emoji": "Ⓜ️",
     "hexcodes": [
       "24C2",
       "FE0F"
@@ -249,8 +249,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "Ⓜ circled M",
+    "description": "circled",
+    "emoji": "Ⓜ",
     "hexcodes": [
       "24C2"
     ]
@@ -261,8 +261,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆕 NEW button",
+    "description": "NEW",
+    "emoji": "🆕",
     "hexcodes": [
       "1F195"
     ]
@@ -273,8 +273,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆖 NG button",
+    "description": "NG",
+    "emoji": "🆖",
     "hexcodes": [
       "1F196"
     ]
@@ -285,8 +285,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅾️ O button (blood type)",
+    "description": "O",
+    "emoji": "🅾️",
     "hexcodes": [
       "1F17E",
       "FE0F"
@@ -298,8 +298,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅾 O button (blood type)",
+    "description": "O",
+    "emoji": "🅾",
     "hexcodes": [
       "1F17E"
     ]
@@ -310,8 +310,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆗 OK button",
+    "description": "OK",
+    "emoji": "🆗",
     "hexcodes": [
       "1F197"
     ]
@@ -322,8 +322,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅿️ P button",
+    "description": "P",
+    "emoji": "🅿️",
     "hexcodes": [
       "1F17F",
       "FE0F"
@@ -335,8 +335,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🅿 P button",
+    "description": "P",
+    "emoji": "🅿",
     "hexcodes": [
       "1F17F"
     ]
@@ -347,8 +347,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆘 SOS button",
+    "description": "SOS",
+    "emoji": "🆘",
     "hexcodes": [
       "1F198"
     ]
@@ -359,8 +359,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆙 UP! button",
+    "description": "UP!",
+    "emoji": "🆙",
     "hexcodes": [
       "1F199"
     ]
@@ -371,8 +371,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🆚 VS button",
+    "description": "VS",
+    "emoji": "🆚",
     "hexcodes": [
       "1F19A"
     ]
@@ -383,8 +383,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈁 Japanese “here” button",
+    "description": "Japanese",
+    "emoji": "🈁",
     "hexcodes": [
       "1F201"
     ]
@@ -395,8 +395,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈂️ Japanese “service charge” button",
+    "description": "Japanese",
+    "emoji": "🈂️",
     "hexcodes": [
       "1F202",
       "FE0F"
@@ -408,8 +408,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈂 Japanese “service charge” button",
+    "description": "Japanese",
+    "emoji": "🈂",
     "hexcodes": [
       "1F202"
     ]
@@ -420,8 +420,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈷️ Japanese “monthly amount” button",
+    "description": "Japanese",
+    "emoji": "🈷️",
     "hexcodes": [
       "1F237",
       "FE0F"
@@ -433,8 +433,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈷 Japanese “monthly amount” button",
+    "description": "Japanese",
+    "emoji": "🈷",
     "hexcodes": [
       "1F237"
     ]
@@ -445,8 +445,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈶 Japanese “not free of charge” button",
+    "description": "Japanese",
+    "emoji": "🈶",
     "hexcodes": [
       "1F236"
     ]
@@ -457,8 +457,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈯 Japanese “reserved” button",
+    "description": "Japanese",
+    "emoji": "🈯",
     "hexcodes": [
       "1F22F"
     ]
@@ -469,8 +469,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🉐 Japanese “bargain” button",
+    "description": "Japanese",
+    "emoji": "🉐",
     "hexcodes": [
       "1F250"
     ]
@@ -481,8 +481,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈹 Japanese “discount” button",
+    "description": "Japanese",
+    "emoji": "🈹",
     "hexcodes": [
       "1F239"
     ]
@@ -493,8 +493,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈚 Japanese “free of charge” button",
+    "description": "Japanese",
+    "emoji": "🈚",
     "hexcodes": [
       "1F21A"
     ]
@@ -505,8 +505,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈲 Japanese “prohibited” button",
+    "description": "Japanese",
+    "emoji": "🈲",
     "hexcodes": [
       "1F232"
     ]
@@ -517,8 +517,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🉑 Japanese “acceptable” button",
+    "description": "Japanese",
+    "emoji": "🉑",
     "hexcodes": [
       "1F251"
     ]
@@ -529,8 +529,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈸 Japanese “application” button",
+    "description": "Japanese",
+    "emoji": "🈸",
     "hexcodes": [
       "1F238"
     ]
@@ -541,8 +541,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈴 Japanese “passing grade” button",
+    "description": "Japanese",
+    "emoji": "🈴",
     "hexcodes": [
       "1F234"
     ]
@@ -553,8 +553,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈳 Japanese “vacancy” button",
+    "description": "Japanese",
+    "emoji": "🈳",
     "hexcodes": [
       "1F233"
     ]
@@ -565,8 +565,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "㊗️ Japanese “congratulations” button",
+    "description": "Japanese",
+    "emoji": "㊗️",
     "hexcodes": [
       "3297",
       "FE0F"
@@ -578,8 +578,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "㊙️ Japanese “secret” button",
+    "description": "Japanese",
+    "emoji": "㊙️",
     "hexcodes": [
       "3299",
       "FE0F"
@@ -591,8 +591,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈺 Japanese “open for business” button",
+    "description": "Japanese",
+    "emoji": "🈺",
     "hexcodes": [
       "1F23A"
     ]
@@ -603,8 +603,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🈵 Japanese “no vacancy” button",
+    "description": "Japanese",
+    "emoji": "🈵",
     "hexcodes": [
       "1F235"
     ]

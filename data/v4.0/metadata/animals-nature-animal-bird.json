@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦃 turkey",
+    "description": "turkey",
+    "emoji": "🦃",
     "hexcodes": [
       "1F983"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐔 chicken",
+    "description": "chicken",
+    "emoji": "🐔",
     "hexcodes": [
       "1F414"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐓 rooster",
+    "description": "rooster",
+    "emoji": "🐓",
     "hexcodes": [
       "1F413"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐣 hatching chick",
+    "description": "hatching",
+    "emoji": "🐣",
     "hexcodes": [
       "1F423"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐤 baby chick",
+    "description": "baby",
+    "emoji": "🐤",
     "hexcodes": [
       "1F424"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐥 front-facing baby chick",
+    "description": "front-facing",
+    "emoji": "🐥",
     "hexcodes": [
       "1F425"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐦 bird",
+    "description": "bird",
+    "emoji": "🐦",
     "hexcodes": [
       "1F426"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🐧 penguin",
+    "description": "penguin",
+    "emoji": "🐧",
     "hexcodes": [
       "1F427"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕊️ dove",
+    "description": "dove",
+    "emoji": "🕊️",
     "hexcodes": [
       "1F54A",
       "FE0F"
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦅 eagle",
+    "description": "eagle",
+    "emoji": "🦅",
     "hexcodes": [
       "1F985"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦆 duck",
+    "description": "duck",
+    "emoji": "🦆",
     "hexcodes": [
       "1F986"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🦉 owl",
+    "description": "owl",
+    "emoji": "🦉",
     "hexcodes": [
       "1F989"
     ]

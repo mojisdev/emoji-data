@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✅ white heavy check mark",
+    "description": "white",
+    "emoji": "✅",
     "hexcodes": [
       "2705"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❓ question mark",
+    "description": "question",
+    "emoji": "❓",
     "hexcodes": [
       "2753"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❔ white question mark",
+    "description": "white",
+    "emoji": "❔",
     "hexcodes": [
       "2754"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❕ white exclamation mark",
+    "description": "white",
+    "emoji": "❕",
     "hexcodes": [
       "2755"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❗ exclamation mark",
+    "description": "exclamation",
+    "emoji": "❗",
     "hexcodes": [
       "2757"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "➕ heavy plus sign",
+    "description": "heavy",
+    "emoji": "➕",
     "hexcodes": [
       "2795"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "➖ heavy minus sign",
+    "description": "heavy",
+    "emoji": "➖",
     "hexcodes": [
       "2796"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "➗ heavy division sign",
+    "description": "heavy",
+    "emoji": "➗",
     "hexcodes": [
       "2797"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♻️ recycling symbol",
+    "description": "recycling",
+    "emoji": "♻️",
     "hexcodes": [
       "267B",
       "FE0F"
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📛 name badge",
+    "description": "name",
+    "emoji": "📛",
     "hexcodes": [
       "1F4DB"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚜️ fleur-de-lis",
+    "description": "fleur-de-lis",
+    "emoji": "⚜️",
     "hexcodes": [
       "269C",
       "FE0F"
@@ -139,8 +139,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔰 Japanese symbol for beginner",
+    "description": "Japanese",
+    "emoji": "🔰",
     "hexcodes": [
       "1F530"
     ]
@@ -151,8 +151,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔱 trident emblem",
+    "description": "trident",
+    "emoji": "🔱",
     "hexcodes": [
       "1F531"
     ]
@@ -163,8 +163,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⭕ heavy large circle",
+    "description": "heavy",
+    "emoji": "⭕",
     "hexcodes": [
       "2B55"
     ]
@@ -175,8 +175,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☑️ ballot box with check",
+    "description": "ballot",
+    "emoji": "☑️",
     "hexcodes": [
       "2611",
       "FE0F"
@@ -188,8 +188,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✔️ heavy check mark",
+    "description": "heavy",
+    "emoji": "✔️",
     "hexcodes": [
       "2714",
       "FE0F"
@@ -201,8 +201,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✖️ heavy multiplication x",
+    "description": "heavy",
+    "emoji": "✖️",
     "hexcodes": [
       "2716",
       "FE0F"
@@ -214,8 +214,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❌ cross mark",
+    "description": "cross",
+    "emoji": "❌",
     "hexcodes": [
       "274C"
     ]
@@ -226,8 +226,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❎ cross mark button",
+    "description": "cross",
+    "emoji": "❎",
     "hexcodes": [
       "274E"
     ]
@@ -238,8 +238,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♀️ female sign",
+    "description": "female",
+    "emoji": "♀️",
     "hexcodes": [
       "2640",
       "FE0F"
@@ -251,8 +251,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♂️ male sign",
+    "description": "male",
+    "emoji": "♂️",
     "hexcodes": [
       "2642",
       "FE0F"
@@ -264,8 +264,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚕️ medical symbol",
+    "description": "medical",
+    "emoji": "⚕️",
     "hexcodes": [
       "2695",
       "FE0F"
@@ -277,8 +277,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "➰ curly loop",
+    "description": "curly",
+    "emoji": "➰",
     "hexcodes": [
       "27B0"
     ]
@@ -289,8 +289,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "➿ double curly loop",
+    "description": "double",
+    "emoji": "➿",
     "hexcodes": [
       "27BF"
     ]
@@ -301,8 +301,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "〽️ part alternation mark",
+    "description": "part",
+    "emoji": "〽️",
     "hexcodes": [
       "303D",
       "FE0F"
@@ -314,8 +314,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✳️ eight-spoked asterisk",
+    "description": "eight-spoked",
+    "emoji": "✳️",
     "hexcodes": [
       "2733",
       "FE0F"
@@ -327,8 +327,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✴️ eight-pointed star",
+    "description": "eight-pointed",
+    "emoji": "✴️",
     "hexcodes": [
       "2734",
       "FE0F"
@@ -340,8 +340,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "❇️ sparkle",
+    "description": "sparkle",
+    "emoji": "❇️",
     "hexcodes": [
       "2747",
       "FE0F"
@@ -353,8 +353,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "‼️ double exclamation mark",
+    "description": "double",
+    "emoji": "‼️",
     "hexcodes": [
       "203C",
       "FE0F"
@@ -366,8 +366,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⁉️ exclamation question mark",
+    "description": "exclamation",
+    "emoji": "⁉️",
     "hexcodes": [
       "2049",
       "FE0F"
@@ -379,8 +379,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "〰️ wavy dash",
+    "description": "wavy",
+    "emoji": "〰️",
     "hexcodes": [
       "3030",
       "FE0F"
@@ -392,8 +392,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "©️ copyright",
+    "description": "copyright",
+    "emoji": "©️",
     "hexcodes": [
       "00A9",
       "FE0F"
@@ -405,8 +405,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "®️ registered",
+    "description": "registered",
+    "emoji": "®️",
     "hexcodes": [
       "00AE",
       "FE0F"
@@ -418,8 +418,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "™️ trade mark",
+    "description": "trade",
+    "emoji": "™️",
     "hexcodes": [
       "2122",
       "FE0F"

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔒 locked",
+    "description": "locked",
+    "emoji": "🔒",
     "hexcodes": [
       "1F512"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔓 unlocked",
+    "description": "unlocked",
+    "emoji": "🔓",
     "hexcodes": [
       "1F513"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔏 locked with pen",
+    "description": "locked",
+    "emoji": "🔏",
     "hexcodes": [
       "1F50F"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔐 locked with key",
+    "description": "locked",
+    "emoji": "🔐",
     "hexcodes": [
       "1F510"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔑 key",
+    "description": "key",
+    "emoji": "🔑",
     "hexcodes": [
       "1F511"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗝️ old key",
+    "description": "old",
+    "emoji": "🗝️",
     "hexcodes": [
       "1F5DD",
       "FE0F"

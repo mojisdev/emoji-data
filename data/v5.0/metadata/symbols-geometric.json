@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "▪️ black small square",
+    "description": "black",
+    "emoji": "▪️",
     "hexcodes": [
       "25AA",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "▪ black small square",
+    "description": "black",
+    "emoji": "▪",
     "hexcodes": [
       "25AA"
     ]
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "▫️ white small square",
+    "description": "white",
+    "emoji": "▫️",
     "hexcodes": [
       "25AB",
       "FE0F"
@@ -43,8 +43,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "▫ white small square",
+    "description": "white",
+    "emoji": "▫",
     "hexcodes": [
       "25AB"
     ]
@@ -55,8 +55,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◻️ white medium square",
+    "description": "white",
+    "emoji": "◻️",
     "hexcodes": [
       "25FB",
       "FE0F"
@@ -68,8 +68,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◻ white medium square",
+    "description": "white",
+    "emoji": "◻",
     "hexcodes": [
       "25FB"
     ]
@@ -80,8 +80,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◼️ black medium square",
+    "description": "black",
+    "emoji": "◼️",
     "hexcodes": [
       "25FC",
       "FE0F"
@@ -93,8 +93,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◼ black medium square",
+    "description": "black",
+    "emoji": "◼",
     "hexcodes": [
       "25FC"
     ]
@@ -105,8 +105,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◽ white medium-small square",
+    "description": "white",
+    "emoji": "◽",
     "hexcodes": [
       "25FD"
     ]
@@ -117,8 +117,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "◾ black medium-small square",
+    "description": "black",
+    "emoji": "◾",
     "hexcodes": [
       "25FE"
     ]
@@ -129,8 +129,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⬛ black large square",
+    "description": "black",
+    "emoji": "⬛",
     "hexcodes": [
       "2B1B"
     ]
@@ -141,8 +141,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⬜ white large square",
+    "description": "white",
+    "emoji": "⬜",
     "hexcodes": [
       "2B1C"
     ]
@@ -153,8 +153,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔶 large orange diamond",
+    "description": "large",
+    "emoji": "🔶",
     "hexcodes": [
       "1F536"
     ]
@@ -165,8 +165,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔷 large blue diamond",
+    "description": "large",
+    "emoji": "🔷",
     "hexcodes": [
       "1F537"
     ]
@@ -177,8 +177,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔸 small orange diamond",
+    "description": "small",
+    "emoji": "🔸",
     "hexcodes": [
       "1F538"
     ]
@@ -189,8 +189,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔹 small blue diamond",
+    "description": "small",
+    "emoji": "🔹",
     "hexcodes": [
       "1F539"
     ]
@@ -201,8 +201,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔺 red triangle pointed up",
+    "description": "red",
+    "emoji": "🔺",
     "hexcodes": [
       "1F53A"
     ]
@@ -213,8 +213,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔻 red triangle pointed down",
+    "description": "red",
+    "emoji": "🔻",
     "hexcodes": [
       "1F53B"
     ]
@@ -225,8 +225,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💠 diamond with a dot",
+    "description": "diamond",
+    "emoji": "💠",
     "hexcodes": [
       "1F4A0"
     ]
@@ -237,8 +237,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔘 radio button",
+    "description": "radio",
+    "emoji": "🔘",
     "hexcodes": [
       "1F518"
     ]
@@ -249,8 +249,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔲 black square button",
+    "description": "black",
+    "emoji": "🔲",
     "hexcodes": [
       "1F532"
     ]
@@ -261,8 +261,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔳 white square button",
+    "description": "white",
+    "emoji": "🔳",
     "hexcodes": [
       "1F533"
     ]
@@ -273,8 +273,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚪ white circle",
+    "description": "white",
+    "emoji": "⚪",
     "hexcodes": [
       "26AA"
     ]
@@ -285,8 +285,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚫ black circle",
+    "description": "black",
+    "emoji": "⚫",
     "hexcodes": [
       "26AB"
     ]
@@ -297,8 +297,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔴 red circle",
+    "description": "red",
+    "emoji": "🔴",
     "hexcodes": [
       "1F534"
     ]
@@ -309,8 +309,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔵 blue circle",
+    "description": "blue",
+    "emoji": "🔵",
     "hexcodes": [
       "1F535"
     ]

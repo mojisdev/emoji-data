@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌍 globe showing Europe-Africa",
+    "description": "globe",
+    "emoji": "🌍",
     "hexcodes": [
       "1F30D"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌎 globe showing Americas",
+    "description": "globe",
+    "emoji": "🌎",
     "hexcodes": [
       "1F30E"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌏 globe showing Asia-Australia",
+    "description": "globe",
+    "emoji": "🌏",
     "hexcodes": [
       "1F30F"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌐 globe with meridians",
+    "description": "globe",
+    "emoji": "🌐",
     "hexcodes": [
       "1F310"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗺️ world map",
+    "description": "world",
+    "emoji": "🗺️",
     "hexcodes": [
       "1F5FA",
       "FE0F"
@@ -66,8 +66,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗺 world map",
+    "description": "world",
+    "emoji": "🗺",
     "hexcodes": [
       "1F5FA"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗾 map of Japan",
+    "description": "map",
+    "emoji": "🗾",
     "hexcodes": [
       "1F5FE"
     ]

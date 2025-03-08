@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♈ Aries",
+    "description": "Aries",
+    "emoji": "♈",
     "hexcodes": [
       "2648"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♉ Taurus",
+    "description": "Taurus",
+    "emoji": "♉",
     "hexcodes": [
       "2649"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♐ Sagittarius",
+    "description": "Sagittarius",
+    "emoji": "♐",
     "hexcodes": [
       "2650"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♑ Capricorn",
+    "description": "Capricorn",
+    "emoji": "♑",
     "hexcodes": [
       "2651"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♒ Aquarius",
+    "description": "Aquarius",
+    "emoji": "♒",
     "hexcodes": [
       "2652"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♓ Pisces",
+    "description": "Pisces",
+    "emoji": "♓",
     "hexcodes": [
       "2653"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♊ Gemini",
+    "description": "Gemini",
+    "emoji": "♊",
     "hexcodes": [
       "264A"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♋ Cancer",
+    "description": "Cancer",
+    "emoji": "♋",
     "hexcodes": [
       "264B"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♌ Leo",
+    "description": "Leo",
+    "emoji": "♌",
     "hexcodes": [
       "264C"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♍ Virgo",
+    "description": "Virgo",
+    "emoji": "♍",
     "hexcodes": [
       "264D"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♎ Libra",
+    "description": "Libra",
+    "emoji": "♎",
     "hexcodes": [
       "264E"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♏ Scorpius",
+    "description": "Scorpius",
+    "emoji": "♏",
     "hexcodes": [
       "264F"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛎ Ophiuchus",
+    "description": "Ophiuchus",
+    "emoji": "⛎",
     "hexcodes": [
       "26CE"
     ]

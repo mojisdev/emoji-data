@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☢ radioactive",
+    "description": "radioactive",
+    "emoji": "☢",
     "hexcodes": [
       "2622"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☣ biohazard",
+    "description": "biohazard",
+    "emoji": "☣",
     "hexcodes": [
       "2623"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚠️ warning",
+    "description": "warning",
+    "emoji": "⚠️",
     "hexcodes": [
       "26A0",
       "FE0F"
@@ -42,8 +42,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚠ warning",
+    "description": "warning",
+    "emoji": "⚠",
     "hexcodes": [
       "26A0"
     ]
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚸 children crossing",
+    "description": "children",
+    "emoji": "🚸",
     "hexcodes": [
       "1F6B8"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛔ no entry",
+    "description": "no",
+    "emoji": "⛔",
     "hexcodes": [
       "26D4"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚫 prohibited",
+    "description": "prohibited",
+    "emoji": "🚫",
     "hexcodes": [
       "1F6AB"
     ]
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚳 no bicycles",
+    "description": "no",
+    "emoji": "🚳",
     "hexcodes": [
       "1F6B3"
     ]
@@ -102,8 +102,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚭 no smoking",
+    "description": "no",
+    "emoji": "🚭",
     "hexcodes": [
       "1F6AD"
     ]
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚯 no littering",
+    "description": "no",
+    "emoji": "🚯",
     "hexcodes": [
       "1F6AF"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚱 non-potable water",
+    "description": "non-potable",
+    "emoji": "🚱",
     "hexcodes": [
       "1F6B1"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚷 no pedestrians",
+    "description": "no",
+    "emoji": "🚷",
     "hexcodes": [
       "1F6B7"
     ]
@@ -150,8 +150,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📵 no mobile phones",
+    "description": "no",
+    "emoji": "📵",
     "hexcodes": [
       "1F4F5"
     ]
@@ -162,8 +162,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔞 no one under eighteen",
+    "description": "no",
+    "emoji": "🔞",
     "hexcodes": [
       "1F51E"
     ]
@@ -174,8 +174,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☢️ radioactive",
+    "description": "radioactive",
+    "emoji": "☢️",
     "hexcodes": [
       "2622",
       "FE0F"
@@ -187,8 +187,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☣️ biohazard",
+    "description": "biohazard",
+    "emoji": "☣️",
     "hexcodes": [
       "2623",
       "FE0F"

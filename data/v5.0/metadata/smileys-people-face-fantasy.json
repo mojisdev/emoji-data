@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☠ skull and crossbones",
+    "description": "skull",
+    "emoji": "☠",
     "hexcodes": [
       "2620"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "😈 smiling face with horns",
+    "description": "smiling",
+    "emoji": "😈",
     "hexcodes": [
       "1F608"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👿 angry face with horns",
+    "description": "angry",
+    "emoji": "👿",
     "hexcodes": [
       "1F47F"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👹 ogre",
+    "description": "ogre",
+    "emoji": "👹",
     "hexcodes": [
       "1F479"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👺 goblin",
+    "description": "goblin",
+    "emoji": "👺",
     "hexcodes": [
       "1F47A"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💀 skull",
+    "description": "skull",
+    "emoji": "💀",
     "hexcodes": [
       "1F480"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☠️ skull and crossbones",
+    "description": "skull",
+    "emoji": "☠️",
     "hexcodes": [
       "2620",
       "FE0F"
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👻 ghost",
+    "description": "ghost",
+    "emoji": "👻",
     "hexcodes": [
       "1F47B"
     ]
@@ -102,8 +102,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👽 alien",
+    "description": "alien",
+    "emoji": "👽",
     "hexcodes": [
       "1F47D"
     ]
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👾 alien monster",
+    "description": "alien",
+    "emoji": "👾",
     "hexcodes": [
       "1F47E"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤖 robot face",
+    "description": "robot",
+    "emoji": "🤖",
     "hexcodes": [
       "1F916"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💩 pile of poo",
+    "description": "pile",
+    "emoji": "💩",
     "hexcodes": [
       "1F4A9"
     ]

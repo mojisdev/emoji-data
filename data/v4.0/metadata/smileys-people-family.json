@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👫 man and woman holding hands",
+    "description": "man",
+    "emoji": "👫",
     "hexcodes": [
       "1F46B"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👬 two men holding hands",
+    "description": "two",
+    "emoji": "👬",
     "hexcodes": [
       "1F46C"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👭 two women holding hands",
+    "description": "two",
+    "emoji": "👭",
     "hexcodes": [
       "1F46D"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💏 kiss",
+    "description": "kiss",
+    "emoji": "💏",
     "hexcodes": [
       "1F48F"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤️‍💋‍👨 kiss: woman, man",
+    "description": "kiss:",
+    "emoji": "👩‍❤️‍💋‍👨",
     "hexcodes": [
       "1F469",
       "200D",
@@ -72,8 +72,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤‍💋‍👨 kiss: woman, man",
+    "description": "kiss:",
+    "emoji": "👩‍❤‍💋‍👨",
     "hexcodes": [
       "1F469",
       "200D",
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍❤️‍💋‍👨 kiss: man, man",
+    "description": "kiss:",
+    "emoji": "👨‍❤️‍💋‍👨",
     "hexcodes": [
       "1F468",
       "200D",
@@ -109,8 +109,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍❤‍💋‍👨 kiss: man, man",
+    "description": "kiss:",
+    "emoji": "👨‍❤‍💋‍👨",
     "hexcodes": [
       "1F468",
       "200D",
@@ -127,8 +127,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤️‍💋‍👩 kiss: woman, woman",
+    "description": "kiss:",
+    "emoji": "👩‍❤️‍💋‍👩",
     "hexcodes": [
       "1F469",
       "200D",
@@ -146,8 +146,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤‍💋‍👩 kiss: woman, woman",
+    "description": "kiss:",
+    "emoji": "👩‍❤‍💋‍👩",
     "hexcodes": [
       "1F469",
       "200D",
@@ -164,8 +164,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💑 couple with heart",
+    "description": "couple",
+    "emoji": "💑",
     "hexcodes": [
       "1F491"
     ]
@@ -176,8 +176,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤️‍👨 couple with heart: woman, man",
+    "description": "couple",
+    "emoji": "👩‍❤️‍👨",
     "hexcodes": [
       "1F469",
       "200D",
@@ -193,8 +193,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤‍👨 couple with heart: woman, man",
+    "description": "couple",
+    "emoji": "👩‍❤‍👨",
     "hexcodes": [
       "1F469",
       "200D",
@@ -209,8 +209,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍❤️‍👨 couple with heart: man, man",
+    "description": "couple",
+    "emoji": "👨‍❤️‍👨",
     "hexcodes": [
       "1F468",
       "200D",
@@ -226,8 +226,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍❤‍👨 couple with heart: man, man",
+    "description": "couple",
+    "emoji": "👨‍❤‍👨",
     "hexcodes": [
       "1F468",
       "200D",
@@ -242,8 +242,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤️‍👩 couple with heart: woman, woman",
+    "description": "couple",
+    "emoji": "👩‍❤️‍👩",
     "hexcodes": [
       "1F469",
       "200D",
@@ -259,8 +259,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍❤‍👩 couple with heart: woman, woman",
+    "description": "couple",
+    "emoji": "👩‍❤‍👩",
     "hexcodes": [
       "1F469",
       "200D",
@@ -275,8 +275,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👪 family",
+    "description": "family",
+    "emoji": "👪",
     "hexcodes": [
       "1F46A"
     ]
@@ -287,8 +287,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👩‍👦 family: man, woman, boy",
+    "description": "family:",
+    "emoji": "👨‍👩‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -303,8 +303,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👩‍👧 family: man, woman, girl",
+    "description": "family:",
+    "emoji": "👨‍👩‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -319,8 +319,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👩‍👧‍👦 family: man, woman, girl, boy",
+    "description": "family:",
+    "emoji": "👨‍👩‍👧‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -337,8 +337,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👩‍👦‍👦 family: man, woman, boy, boy",
+    "description": "family:",
+    "emoji": "👨‍👩‍👦‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -355,8 +355,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👩‍👧‍👧 family: man, woman, girl, girl",
+    "description": "family:",
+    "emoji": "👨‍👩‍👧‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -373,8 +373,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👨‍👦 family: man, man, boy",
+    "description": "family:",
+    "emoji": "👨‍👨‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -389,8 +389,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👨‍👧 family: man, man, girl",
+    "description": "family:",
+    "emoji": "👨‍👨‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -405,8 +405,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👨‍👧‍👦 family: man, man, girl, boy",
+    "description": "family:",
+    "emoji": "👨‍👨‍👧‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -423,8 +423,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👨‍👦‍👦 family: man, man, boy, boy",
+    "description": "family:",
+    "emoji": "👨‍👨‍👦‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -441,8 +441,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👨‍👧‍👧 family: man, man, girl, girl",
+    "description": "family:",
+    "emoji": "👨‍👨‍👧‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -459,8 +459,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👩‍👦 family: woman, woman, boy",
+    "description": "family:",
+    "emoji": "👩‍👩‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -475,8 +475,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👩‍👧 family: woman, woman, girl",
+    "description": "family:",
+    "emoji": "👩‍👩‍👧",
     "hexcodes": [
       "1F469",
       "200D",
@@ -491,8 +491,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👩‍👧‍👦 family: woman, woman, girl, boy",
+    "description": "family:",
+    "emoji": "👩‍👩‍👧‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -509,8 +509,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👩‍👦‍👦 family: woman, woman, boy, boy",
+    "description": "family:",
+    "emoji": "👩‍👩‍👦‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -527,8 +527,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👩‍👧‍👧 family: woman, woman, girl, girl",
+    "description": "family:",
+    "emoji": "👩‍👩‍👧‍👧",
     "hexcodes": [
       "1F469",
       "200D",
@@ -545,8 +545,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👦 family: man, boy",
+    "description": "family:",
+    "emoji": "👨‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -559,8 +559,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👦‍👦 family: man, boy, boy",
+    "description": "family:",
+    "emoji": "👨‍👦‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -575,8 +575,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👧 family: man, girl",
+    "description": "family:",
+    "emoji": "👨‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -589,8 +589,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👧‍👦 family: man, girl, boy",
+    "description": "family:",
+    "emoji": "👨‍👧‍👦",
     "hexcodes": [
       "1F468",
       "200D",
@@ -605,8 +605,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👨‍👧‍👧 family: man, girl, girl",
+    "description": "family:",
+    "emoji": "👨‍👧‍👧",
     "hexcodes": [
       "1F468",
       "200D",
@@ -621,8 +621,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👦 family: woman, boy",
+    "description": "family:",
+    "emoji": "👩‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -635,8 +635,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👦‍👦 family: woman, boy, boy",
+    "description": "family:",
+    "emoji": "👩‍👦‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -651,8 +651,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👧 family: woman, girl",
+    "description": "family:",
+    "emoji": "👩‍👧",
     "hexcodes": [
       "1F469",
       "200D",
@@ -665,8 +665,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👧‍👦 family: woman, girl, boy",
+    "description": "family:",
+    "emoji": "👩‍👧‍👦",
     "hexcodes": [
       "1F469",
       "200D",
@@ -681,8 +681,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "👩‍👧‍👧 family: woman, girl, girl",
+    "description": "family:",
+    "emoji": "👩‍👧‍👧",
     "hexcodes": [
       "1F469",
       "200D",

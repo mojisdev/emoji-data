@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛪ church",
+    "description": "church",
+    "emoji": "⛪",
     "hexcodes": [
       "26EA"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕌 mosque",
+    "description": "mosque",
+    "emoji": "🕌",
     "hexcodes": [
       "1F54C"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕍 synagogue",
+    "description": "synagogue",
+    "emoji": "🕍",
     "hexcodes": [
       "1F54D"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛩️ shinto shrine",
+    "description": "shinto",
+    "emoji": "⛩️",
     "hexcodes": [
       "26E9",
       "FE0F"
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕋 kaaba",
+    "description": "kaaba",
+    "emoji": "🕋",
     "hexcodes": [
       "1F54B"
     ]

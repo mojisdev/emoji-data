@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌱 seedling",
+    "description": "seedling",
+    "emoji": "🌱",
     "hexcodes": [
       "1F331"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌲 evergreen tree",
+    "description": "evergreen",
+    "emoji": "🌲",
     "hexcodes": [
       "1F332"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌳 deciduous tree",
+    "description": "deciduous",
+    "emoji": "🌳",
     "hexcodes": [
       "1F333"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌴 palm tree",
+    "description": "palm",
+    "emoji": "🌴",
     "hexcodes": [
       "1F334"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌵 cactus",
+    "description": "cactus",
+    "emoji": "🌵",
     "hexcodes": [
       "1F335"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌾 sheaf of rice",
+    "description": "sheaf",
+    "emoji": "🌾",
     "hexcodes": [
       "1F33E"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🌿 herb",
+    "description": "herb",
+    "emoji": "🌿",
     "hexcodes": [
       "1F33F"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☘️ shamrock",
+    "description": "shamrock",
+    "emoji": "☘️",
     "hexcodes": [
       "2618",
       "FE0F"
@@ -102,8 +102,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍀 four leaf clover",
+    "description": "four",
+    "emoji": "🍀",
     "hexcodes": [
       "1F340"
     ]
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍁 maple leaf",
+    "description": "maple",
+    "emoji": "🍁",
     "hexcodes": [
       "1F341"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍂 fallen leaf",
+    "description": "fallen",
+    "emoji": "🍂",
     "hexcodes": [
       "1F342"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🍃 leaf fluttering in wind",
+    "description": "leaf",
+    "emoji": "🍃",
     "hexcodes": [
       "1F343"
     ]

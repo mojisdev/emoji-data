@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎼 musical score",
+    "description": "musical",
+    "emoji": "🎼",
     "hexcodes": [
       "1F3BC"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎵 musical note",
+    "description": "musical",
+    "emoji": "🎵",
     "hexcodes": [
       "1F3B5"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎶 musical notes",
+    "description": "musical",
+    "emoji": "🎶",
     "hexcodes": [
       "1F3B6"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎙️ studio microphone",
+    "description": "studio",
+    "emoji": "🎙️",
     "hexcodes": [
       "1F399",
       "FE0F"
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎚️ level slider",
+    "description": "level",
+    "emoji": "🎚️",
     "hexcodes": [
       "1F39A",
       "FE0F"
@@ -67,8 +67,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎛️ control knobs",
+    "description": "control",
+    "emoji": "🎛️",
     "hexcodes": [
       "1F39B",
       "FE0F"
@@ -80,8 +80,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎤 microphone",
+    "description": "microphone",
+    "emoji": "🎤",
     "hexcodes": [
       "1F3A4"
     ]
@@ -92,8 +92,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎧 headphone",
+    "description": "headphone",
+    "emoji": "🎧",
     "hexcodes": [
       "1F3A7"
     ]
@@ -104,8 +104,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📻 radio",
+    "description": "radio",
+    "emoji": "📻",
     "hexcodes": [
       "1F4FB"
     ]

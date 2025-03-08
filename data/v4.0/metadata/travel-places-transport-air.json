@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✈️ airplane",
+    "description": "airplane",
+    "emoji": "✈️",
     "hexcodes": [
       "2708",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛩️ small airplane",
+    "description": "small",
+    "emoji": "🛩️",
     "hexcodes": [
       "1F6E9",
       "FE0F"
@@ -31,8 +31,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛫 airplane departure",
+    "description": "airplane",
+    "emoji": "🛫",
     "hexcodes": [
       "1F6EB"
     ]
@@ -43,8 +43,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛬 airplane arrival",
+    "description": "airplane",
+    "emoji": "🛬",
     "hexcodes": [
       "1F6EC"
     ]
@@ -55,8 +55,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💺 seat",
+    "description": "seat",
+    "emoji": "💺",
     "hexcodes": [
       "1F4BA"
     ]
@@ -67,8 +67,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚁 helicopter",
+    "description": "helicopter",
+    "emoji": "🚁",
     "hexcodes": [
       "1F681"
     ]
@@ -79,8 +79,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚟 suspension railway",
+    "description": "suspension",
+    "emoji": "🚟",
     "hexcodes": [
       "1F69F"
     ]
@@ -91,8 +91,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚠 mountain cableway",
+    "description": "mountain",
+    "emoji": "🚠",
     "hexcodes": [
       "1F6A0"
     ]
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚡 aerial tramway",
+    "description": "aerial",
+    "emoji": "🚡",
     "hexcodes": [
       "1F6A1"
     ]
@@ -115,8 +115,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚀 rocket",
+    "description": "rocket",
+    "emoji": "🚀",
     "hexcodes": [
       "1F680"
     ]
@@ -127,8 +127,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛰️ satellite",
+    "description": "satellite",
+    "emoji": "🛰️",
     "hexcodes": [
       "1F6F0",
       "FE0F"

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚓ anchor",
+    "description": "anchor",
+    "emoji": "⚓",
     "hexcodes": [
       "2693"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛵ sailboat",
+    "description": "sailboat",
+    "emoji": "⛵",
     "hexcodes": [
       "26F5"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛶 canoe",
+    "description": "canoe",
+    "emoji": "🛶",
     "hexcodes": [
       "1F6F6"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚤 speedboat",
+    "description": "speedboat",
+    "emoji": "🚤",
     "hexcodes": [
       "1F6A4"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛳️ passenger ship",
+    "description": "passenger",
+    "emoji": "🛳️",
     "hexcodes": [
       "1F6F3",
       "FE0F"
@@ -66,8 +66,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛳 passenger ship",
+    "description": "passenger",
+    "emoji": "🛳",
     "hexcodes": [
       "1F6F3"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛴️ ferry",
+    "description": "ferry",
+    "emoji": "⛴️",
     "hexcodes": [
       "26F4",
       "FE0F"
@@ -91,8 +91,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛴ ferry",
+    "description": "ferry",
+    "emoji": "⛴",
     "hexcodes": [
       "26F4"
     ]
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛥️ motor boat",
+    "description": "motor",
+    "emoji": "🛥️",
     "hexcodes": [
       "1F6E5",
       "FE0F"
@@ -116,8 +116,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛥 motor boat",
+    "description": "motor",
+    "emoji": "🛥",
     "hexcodes": [
       "1F6E5"
     ]
@@ -128,8 +128,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚢 ship",
+    "description": "ship",
+    "emoji": "🚢",
     "hexcodes": [
       "1F6A2"
     ]

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📔 notebook with decorative cover",
+    "description": "notebook",
+    "emoji": "📔",
     "hexcodes": [
       "1F4D4"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📕 closed book",
+    "description": "closed",
+    "emoji": "📕",
     "hexcodes": [
       "1F4D5"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📖 open book",
+    "description": "open",
+    "emoji": "📖",
     "hexcodes": [
       "1F4D6"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📗 green book",
+    "description": "green",
+    "emoji": "📗",
     "hexcodes": [
       "1F4D7"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📘 blue book",
+    "description": "blue",
+    "emoji": "📘",
     "hexcodes": [
       "1F4D8"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📙 orange book",
+    "description": "orange",
+    "emoji": "📙",
     "hexcodes": [
       "1F4D9"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📚 books",
+    "description": "books",
+    "emoji": "📚",
     "hexcodes": [
       "1F4DA"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📓 notebook",
+    "description": "notebook",
+    "emoji": "📓",
     "hexcodes": [
       "1F4D3"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📒 ledger",
+    "description": "ledger",
+    "emoji": "📒",
     "hexcodes": [
       "1F4D2"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📃 page with curl",
+    "description": "page",
+    "emoji": "📃",
     "hexcodes": [
       "1F4C3"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📜 scroll",
+    "description": "scroll",
+    "emoji": "📜",
     "hexcodes": [
       "1F4DC"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📄 page facing up",
+    "description": "page",
+    "emoji": "📄",
     "hexcodes": [
       "1F4C4"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📰 newspaper",
+    "description": "newspaper",
+    "emoji": "📰",
     "hexcodes": [
       "1F4F0"
     ]
@@ -161,8 +161,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗞️ rolled-up newspaper",
+    "description": "rolled-up",
+    "emoji": "🗞️",
     "hexcodes": [
       "1F5DE",
       "FE0F"
@@ -174,8 +174,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗞 rolled-up newspaper",
+    "description": "rolled-up",
+    "emoji": "🗞",
     "hexcodes": [
       "1F5DE"
     ]
@@ -186,8 +186,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📑 bookmark tabs",
+    "description": "bookmark",
+    "emoji": "📑",
     "hexcodes": [
       "1F4D1"
     ]
@@ -198,8 +198,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔖 bookmark",
+    "description": "bookmark",
+    "emoji": "🔖",
     "hexcodes": [
       "1F516"
     ]
@@ -210,8 +210,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏷️ label",
+    "description": "label",
+    "emoji": "🏷️",
     "hexcodes": [
       "1F3F7",
       "FE0F"
@@ -223,8 +223,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏷 label",
+    "description": "label",
+    "emoji": "🏷",
     "hexcodes": [
       "1F3F7"
     ]

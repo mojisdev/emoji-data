@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "💼 briefcase",
+    "description": "briefcase",
+    "emoji": "💼",
     "hexcodes": [
       "1F4BC"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📁 file folder",
+    "description": "file",
+    "emoji": "📁",
     "hexcodes": [
       "1F4C1"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📂 open file folder",
+    "description": "open",
+    "emoji": "📂",
     "hexcodes": [
       "1F4C2"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗂️ card index dividers",
+    "description": "card",
+    "emoji": "🗂️",
     "hexcodes": [
       "1F5C2",
       "FE0F"
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📅 calendar",
+    "description": "calendar",
+    "emoji": "📅",
     "hexcodes": [
       "1F4C5"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📆 tear-off calendar",
+    "description": "tear-off",
+    "emoji": "📆",
     "hexcodes": [
       "1F4C6"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗒️ spiral notepad",
+    "description": "spiral",
+    "emoji": "🗒️",
     "hexcodes": [
       "1F5D2",
       "FE0F"
@@ -91,8 +91,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗓️ spiral calendar",
+    "description": "spiral",
+    "emoji": "🗓️",
     "hexcodes": [
       "1F5D3",
       "FE0F"
@@ -104,8 +104,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📇 card index",
+    "description": "card",
+    "emoji": "📇",
     "hexcodes": [
       "1F4C7"
     ]
@@ -116,8 +116,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📈 chart increasing",
+    "description": "chart",
+    "emoji": "📈",
     "hexcodes": [
       "1F4C8"
     ]
@@ -128,8 +128,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📉 chart decreasing",
+    "description": "chart",
+    "emoji": "📉",
     "hexcodes": [
       "1F4C9"
     ]
@@ -140,8 +140,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📊 bar chart",
+    "description": "bar",
+    "emoji": "📊",
     "hexcodes": [
       "1F4CA"
     ]
@@ -152,8 +152,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📋 clipboard",
+    "description": "clipboard",
+    "emoji": "📋",
     "hexcodes": [
       "1F4CB"
     ]
@@ -164,8 +164,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📌 pushpin",
+    "description": "pushpin",
+    "emoji": "📌",
     "hexcodes": [
       "1F4CC"
     ]
@@ -176,8 +176,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📍 round pushpin",
+    "description": "round",
+    "emoji": "📍",
     "hexcodes": [
       "1F4CD"
     ]
@@ -188,8 +188,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📎 paperclip",
+    "description": "paperclip",
+    "emoji": "📎",
     "hexcodes": [
       "1F4CE"
     ]
@@ -200,8 +200,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🖇️ linked paperclips",
+    "description": "linked",
+    "emoji": "🖇️",
     "hexcodes": [
       "1F587",
       "FE0F"
@@ -213,8 +213,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📏 straight ruler",
+    "description": "straight",
+    "emoji": "📏",
     "hexcodes": [
       "1F4CF"
     ]
@@ -225,8 +225,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📐 triangular ruler",
+    "description": "triangular",
+    "emoji": "📐",
     "hexcodes": [
       "1F4D0"
     ]
@@ -237,8 +237,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✂️ scissors",
+    "description": "scissors",
+    "emoji": "✂️",
     "hexcodes": [
       "2702",
       "FE0F"
@@ -250,8 +250,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗃️ card file box",
+    "description": "card",
+    "emoji": "🗃️",
     "hexcodes": [
       "1F5C3",
       "FE0F"
@@ -263,8 +263,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗄️ file cabinet",
+    "description": "file",
+    "emoji": "🗄️",
     "hexcodes": [
       "1F5C4",
       "FE0F"
@@ -276,8 +276,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗑️ wastebasket",
+    "description": "wastebasket",
+    "emoji": "🗑️",
     "hexcodes": [
       "1F5D1",
       "FE0F"

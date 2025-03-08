@@ -5,8 +5,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♠ spade suit",
+    "description": "spade",
+    "emoji": "♠",
     "hexcodes": [
       "2660"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♣ club suit",
+    "description": "club",
+    "emoji": "♣",
     "hexcodes": [
       "2663"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♥ heart suit",
+    "description": "heart",
+    "emoji": "♥",
     "hexcodes": [
       "2665"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♦ diamond suit",
+    "description": "diamond",
+    "emoji": "♦",
     "hexcodes": [
       "2666"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎮 video game",
+    "description": "video",
+    "emoji": "🎮",
     "hexcodes": [
       "1F3AE"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕹️ joystick",
+    "description": "joystick",
+    "emoji": "🕹️",
     "hexcodes": [
       "1F579",
       "FE0F"
@@ -78,8 +78,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕹 joystick",
+    "description": "joystick",
+    "emoji": "🕹",
     "hexcodes": [
       "1F579"
     ]
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎲 game die",
+    "description": "game",
+    "emoji": "🎲",
     "hexcodes": [
       "1F3B2"
     ]
@@ -102,8 +102,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♠️ spade suit",
+    "description": "spade",
+    "emoji": "♠️",
     "hexcodes": [
       "2660",
       "FE0F"
@@ -115,8 +115,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♥️ heart suit",
+    "description": "heart",
+    "emoji": "♥️",
     "hexcodes": [
       "2665",
       "FE0F"
@@ -128,8 +128,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♦️ diamond suit",
+    "description": "diamond",
+    "emoji": "♦️",
     "hexcodes": [
       "2666",
       "FE0F"
@@ -141,8 +141,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♣️ club suit",
+    "description": "club",
+    "emoji": "♣️",
     "hexcodes": [
       "2663",
       "FE0F"
@@ -154,8 +154,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🃏 joker",
+    "description": "joker",
+    "emoji": "🃏",
     "hexcodes": [
       "1F0CF"
     ]
@@ -166,8 +166,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🀄 mahjong red dragon",
+    "description": "mahjong",
+    "emoji": "🀄",
     "hexcodes": [
       "1F004"
     ]
@@ -178,8 +178,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎴 flower playing cards",
+    "description": "flower",
+    "emoji": "🎴",
     "hexcodes": [
       "1F3B4"
     ]

@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏁 chequered flag",
+    "description": "chequered",
+    "emoji": "🏁",
     "hexcodes": [
       "1F3C1"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚩 triangular flag",
+    "description": "triangular",
+    "emoji": "🚩",
     "hexcodes": [
       "1F6A9"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🎌 crossed flags",
+    "description": "crossed",
+    "emoji": "🎌",
     "hexcodes": [
       "1F38C"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏴 black flag",
+    "description": "black",
+    "emoji": "🏴",
     "hexcodes": [
       "1F3F4"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏳️ white flag",
+    "description": "white",
+    "emoji": "🏳️",
     "hexcodes": [
       "1F3F3",
       "FE0F"
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏳️‍🌈 rainbow flag",
+    "description": "rainbow",
+    "emoji": "🏳️‍🌈",
     "hexcodes": [
       "1F3F3",
       "FE0F",
@@ -81,8 +81,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏳‍🌈 rainbow flag",
+    "description": "rainbow",
+    "emoji": "🏳‍🌈",
     "hexcodes": [
       "1F3F3",
       "200D",

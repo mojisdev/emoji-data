@@ -19,8 +19,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "*️⃣ keycap: *",
+    "description": "keycap:",
+    "emoji": "*️⃣",
     "hexcodes": [
       "002A",
       "FE0F",
@@ -33,8 +33,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "0️⃣ keycap: 0",
+    "description": "keycap:",
+    "emoji": "0️⃣",
     "hexcodes": [
       "0030",
       "FE0F",
@@ -47,8 +47,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "1️⃣ keycap: 1",
+    "description": "keycap:",
+    "emoji": "1️⃣",
     "hexcodes": [
       "0031",
       "FE0F",
@@ -61,8 +61,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "2️⃣ keycap: 2",
+    "description": "keycap:",
+    "emoji": "2️⃣",
     "hexcodes": [
       "0032",
       "FE0F",
@@ -75,8 +75,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "3️⃣ keycap: 3",
+    "description": "keycap:",
+    "emoji": "3️⃣",
     "hexcodes": [
       "0033",
       "FE0F",
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "4️⃣ keycap: 4",
+    "description": "keycap:",
+    "emoji": "4️⃣",
     "hexcodes": [
       "0034",
       "FE0F",
@@ -103,8 +103,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "5️⃣ keycap: 5",
+    "description": "keycap:",
+    "emoji": "5️⃣",
     "hexcodes": [
       "0035",
       "FE0F",
@@ -117,8 +117,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "6️⃣ keycap: 6",
+    "description": "keycap:",
+    "emoji": "6️⃣",
     "hexcodes": [
       "0036",
       "FE0F",
@@ -131,8 +131,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "7️⃣ keycap: 7",
+    "description": "keycap:",
+    "emoji": "7️⃣",
     "hexcodes": [
       "0037",
       "FE0F",
@@ -145,8 +145,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "8️⃣ keycap: 8",
+    "description": "keycap:",
+    "emoji": "8️⃣",
     "hexcodes": [
       "0038",
       "FE0F",
@@ -159,8 +159,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "9️⃣ keycap: 9",
+    "description": "keycap:",
+    "emoji": "9️⃣",
     "hexcodes": [
       "0039",
       "FE0F",
@@ -173,8 +173,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔟 keycap 10",
+    "description": "keycap",
+    "emoji": "🔟",
     "hexcodes": [
       "1F51F"
     ]

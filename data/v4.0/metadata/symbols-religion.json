@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛐 place of worship",
+    "description": "place",
+    "emoji": "🛐",
     "hexcodes": [
       "1F6D0"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⚛️ atom symbol",
+    "description": "atom",
+    "emoji": "⚛️",
     "hexcodes": [
       "269B",
       "FE0F"
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕉️ om",
+    "description": "om",
+    "emoji": "🕉️",
     "hexcodes": [
       "1F549",
       "FE0F"
@@ -43,8 +43,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✡️ star of David",
+    "description": "star",
+    "emoji": "✡️",
     "hexcodes": [
       "2721",
       "FE0F"
@@ -56,8 +56,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☸️ wheel of dharma",
+    "description": "wheel",
+    "emoji": "☸️",
     "hexcodes": [
       "2638",
       "FE0F"
@@ -69,8 +69,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☯️ yin yang",
+    "description": "yin",
+    "emoji": "☯️",
     "hexcodes": [
       "262F",
       "FE0F"
@@ -82,8 +82,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✝️ latin cross",
+    "description": "latin",
+    "emoji": "✝️",
     "hexcodes": [
       "271D",
       "FE0F"
@@ -95,8 +95,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☦️ orthodox cross",
+    "description": "orthodox",
+    "emoji": "☦️",
     "hexcodes": [
       "2626",
       "FE0F"
@@ -108,8 +108,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☪️ star and crescent",
+    "description": "star",
+    "emoji": "☪️",
     "hexcodes": [
       "262A",
       "FE0F"
@@ -121,8 +121,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "☮️ peace symbol",
+    "description": "peace",
+    "emoji": "☮️",
     "hexcodes": [
       "262E",
       "FE0F"
@@ -134,8 +134,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🕎 menorah",
+    "description": "menorah",
+    "emoji": "🕎",
     "hexcodes": [
       "1F54E"
     ]
@@ -146,8 +146,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🔯 dotted six-pointed star",
+    "description": "dotted",
+    "emoji": "🔯",
     "hexcodes": [
       "1F52F"
     ]

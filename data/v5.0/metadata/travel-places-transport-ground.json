@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚂 locomotive",
+    "description": "locomotive",
+    "emoji": "🚂",
     "hexcodes": [
       "1F682"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚃 railway car",
+    "description": "railway",
+    "emoji": "🚃",
     "hexcodes": [
       "1F683"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚄 high-speed train",
+    "description": "high-speed",
+    "emoji": "🚄",
     "hexcodes": [
       "1F684"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚅 bullet train",
+    "description": "bullet",
+    "emoji": "🚅",
     "hexcodes": [
       "1F685"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚆 train",
+    "description": "train",
+    "emoji": "🚆",
     "hexcodes": [
       "1F686"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚇 metro",
+    "description": "metro",
+    "emoji": "🚇",
     "hexcodes": [
       "1F687"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚈 light rail",
+    "description": "light",
+    "emoji": "🚈",
     "hexcodes": [
       "1F688"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚉 station",
+    "description": "station",
+    "emoji": "🚉",
     "hexcodes": [
       "1F689"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚊 tram",
+    "description": "tram",
+    "emoji": "🚊",
     "hexcodes": [
       "1F68A"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚝 monorail",
+    "description": "monorail",
+    "emoji": "🚝",
     "hexcodes": [
       "1F69D"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚞 mountain railway",
+    "description": "mountain",
+    "emoji": "🚞",
     "hexcodes": [
       "1F69E"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚋 tram car",
+    "description": "tram",
+    "emoji": "🚋",
     "hexcodes": [
       "1F68B"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚌 bus",
+    "description": "bus",
+    "emoji": "🚌",
     "hexcodes": [
       "1F68C"
     ]
@@ -161,8 +161,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚍 oncoming bus",
+    "description": "oncoming",
+    "emoji": "🚍",
     "hexcodes": [
       "1F68D"
     ]
@@ -173,8 +173,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚎 trolleybus",
+    "description": "trolleybus",
+    "emoji": "🚎",
     "hexcodes": [
       "1F68E"
     ]
@@ -185,8 +185,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚐 minibus",
+    "description": "minibus",
+    "emoji": "🚐",
     "hexcodes": [
       "1F690"
     ]
@@ -197,8 +197,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚑 ambulance",
+    "description": "ambulance",
+    "emoji": "🚑",
     "hexcodes": [
       "1F691"
     ]
@@ -209,8 +209,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚒 fire engine",
+    "description": "fire",
+    "emoji": "🚒",
     "hexcodes": [
       "1F692"
     ]
@@ -221,8 +221,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚓 police car",
+    "description": "police",
+    "emoji": "🚓",
     "hexcodes": [
       "1F693"
     ]
@@ -233,8 +233,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚔 oncoming police car",
+    "description": "oncoming",
+    "emoji": "🚔",
     "hexcodes": [
       "1F694"
     ]
@@ -245,8 +245,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚕 taxi",
+    "description": "taxi",
+    "emoji": "🚕",
     "hexcodes": [
       "1F695"
     ]
@@ -257,8 +257,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚖 oncoming taxi",
+    "description": "oncoming",
+    "emoji": "🚖",
     "hexcodes": [
       "1F696"
     ]
@@ -269,8 +269,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚗 automobile",
+    "description": "automobile",
+    "emoji": "🚗",
     "hexcodes": [
       "1F697"
     ]
@@ -281,8 +281,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚘 oncoming automobile",
+    "description": "oncoming",
+    "emoji": "🚘",
     "hexcodes": [
       "1F698"
     ]
@@ -293,8 +293,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚙 sport utility vehicle",
+    "description": "sport",
+    "emoji": "🚙",
     "hexcodes": [
       "1F699"
     ]
@@ -305,8 +305,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚚 delivery truck",
+    "description": "delivery",
+    "emoji": "🚚",
     "hexcodes": [
       "1F69A"
     ]
@@ -317,8 +317,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚛 articulated lorry",
+    "description": "articulated",
+    "emoji": "🚛",
     "hexcodes": [
       "1F69B"
     ]
@@ -329,8 +329,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚜 tractor",
+    "description": "tractor",
+    "emoji": "🚜",
     "hexcodes": [
       "1F69C"
     ]
@@ -341,8 +341,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚲 bicycle",
+    "description": "bicycle",
+    "emoji": "🚲",
     "hexcodes": [
       "1F6B2"
     ]
@@ -353,8 +353,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛴 kick scooter",
+    "description": "kick",
+    "emoji": "🛴",
     "hexcodes": [
       "1F6F4"
     ]
@@ -365,8 +365,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛵 motor scooter",
+    "description": "motor",
+    "emoji": "🛵",
     "hexcodes": [
       "1F6F5"
     ]
@@ -377,8 +377,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚏 bus stop",
+    "description": "bus",
+    "emoji": "🚏",
     "hexcodes": [
       "1F68F"
     ]
@@ -389,8 +389,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛣️ motorway",
+    "description": "motorway",
+    "emoji": "🛣️",
     "hexcodes": [
       "1F6E3",
       "FE0F"
@@ -402,8 +402,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛣 motorway",
+    "description": "motorway",
+    "emoji": "🛣",
     "hexcodes": [
       "1F6E3"
     ]
@@ -414,8 +414,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛤️ railway track",
+    "description": "railway",
+    "emoji": "🛤️",
     "hexcodes": [
       "1F6E4",
       "FE0F"
@@ -427,8 +427,8 @@
     "qualifier": "non-fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛤 railway track",
+    "description": "railway",
+    "emoji": "🛤",
     "hexcodes": [
       "1F6E4"
     ]
@@ -439,8 +439,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "⛽ fuel pump",
+    "description": "fuel",
+    "emoji": "⛽",
     "hexcodes": [
       "26FD"
     ]
@@ -451,8 +451,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚨 police car light",
+    "description": "police",
+    "emoji": "🚨",
     "hexcodes": [
       "1F6A8"
     ]
@@ -463,8 +463,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚥 horizontal traffic light",
+    "description": "horizontal",
+    "emoji": "🚥",
     "hexcodes": [
       "1F6A5"
     ]
@@ -475,8 +475,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚦 vertical traffic light",
+    "description": "vertical",
+    "emoji": "🚦",
     "hexcodes": [
       "1F6A6"
     ]
@@ -487,8 +487,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚧 construction",
+    "description": "construction",
+    "emoji": "🚧",
     "hexcodes": [
       "1F6A7"
     ]
@@ -499,8 +499,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛑 stop sign",
+    "description": "stop",
+    "emoji": "🛑",
     "hexcodes": [
       "1F6D1"
     ]

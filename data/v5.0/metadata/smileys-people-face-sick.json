@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "😷 face with medical mask",
+    "description": "face",
+    "emoji": "😷",
     "hexcodes": [
       "1F637"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤒 face with thermometer",
+    "description": "face",
+    "emoji": "🤒",
     "hexcodes": [
       "1F912"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤕 face with head-bandage",
+    "description": "face",
+    "emoji": "🤕",
     "hexcodes": [
       "1F915"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤢 nauseated face",
+    "description": "nauseated",
+    "emoji": "🤢",
     "hexcodes": [
       "1F922"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤮 face vomiting",
+    "description": "face",
+    "emoji": "🤮",
     "hexcodes": [
       "1F92E"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🤧 sneezing face",
+    "description": "sneezing",
+    "emoji": "🤧",
     "hexcodes": [
       "1F927"
     ]

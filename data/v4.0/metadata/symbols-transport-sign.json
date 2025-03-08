@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🏧 ATM sign",
+    "description": "ATM",
+    "emoji": "🏧",
     "hexcodes": [
       "1F3E7"
     ]
@@ -17,8 +17,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚮 litter in bin sign",
+    "description": "litter",
+    "emoji": "🚮",
     "hexcodes": [
       "1F6AE"
     ]
@@ -29,8 +29,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚰 potable water",
+    "description": "potable",
+    "emoji": "🚰",
     "hexcodes": [
       "1F6B0"
     ]
@@ -41,8 +41,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "♿ wheelchair symbol",
+    "description": "wheelchair",
+    "emoji": "♿",
     "hexcodes": [
       "267F"
     ]
@@ -53,8 +53,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚹 men’s room",
+    "description": "men’s",
+    "emoji": "🚹",
     "hexcodes": [
       "1F6B9"
     ]
@@ -65,8 +65,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚺 women’s room",
+    "description": "women’s",
+    "emoji": "🚺",
     "hexcodes": [
       "1F6BA"
     ]
@@ -77,8 +77,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚻 restroom",
+    "description": "restroom",
+    "emoji": "🚻",
     "hexcodes": [
       "1F6BB"
     ]
@@ -89,8 +89,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚼 baby symbol",
+    "description": "baby",
+    "emoji": "🚼",
     "hexcodes": [
       "1F6BC"
     ]
@@ -101,8 +101,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🚾 water closet",
+    "description": "water",
+    "emoji": "🚾",
     "hexcodes": [
       "1F6BE"
     ]
@@ -113,8 +113,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛂 passport control",
+    "description": "passport",
+    "emoji": "🛂",
     "hexcodes": [
       "1F6C2"
     ]
@@ -125,8 +125,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛃 customs",
+    "description": "customs",
+    "emoji": "🛃",
     "hexcodes": [
       "1F6C3"
     ]
@@ -137,8 +137,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛄 baggage claim",
+    "description": "baggage",
+    "emoji": "🛄",
     "hexcodes": [
       "1F6C4"
     ]
@@ -149,8 +149,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🛅 left luggage",
+    "description": "left",
+    "emoji": "🛅",
     "hexcodes": [
       "1F6C5"
     ]

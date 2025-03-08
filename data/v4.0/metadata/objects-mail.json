@@ -5,8 +5,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "✉️ envelope",
+    "description": "envelope",
+    "emoji": "✉️",
     "hexcodes": [
       "2709",
       "FE0F"
@@ -18,8 +18,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📧 e-mail",
+    "description": "e-mail",
+    "emoji": "📧",
     "hexcodes": [
       "1F4E7"
     ]
@@ -30,8 +30,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📨 incoming envelope",
+    "description": "incoming",
+    "emoji": "📨",
     "hexcodes": [
       "1F4E8"
     ]
@@ -42,8 +42,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📩 envelope with arrow",
+    "description": "envelope",
+    "emoji": "📩",
     "hexcodes": [
       "1F4E9"
     ]
@@ -54,8 +54,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📤 outbox tray",
+    "description": "outbox",
+    "emoji": "📤",
     "hexcodes": [
       "1F4E4"
     ]
@@ -66,8 +66,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📥 inbox tray",
+    "description": "inbox",
+    "emoji": "📥",
     "hexcodes": [
       "1F4E5"
     ]
@@ -78,8 +78,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📦 package",
+    "description": "package",
+    "emoji": "📦",
     "hexcodes": [
       "1F4E6"
     ]
@@ -90,8 +90,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📫 closed mailbox with raised flag",
+    "description": "closed",
+    "emoji": "📫",
     "hexcodes": [
       "1F4EB"
     ]
@@ -102,8 +102,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📪 closed mailbox with lowered flag",
+    "description": "closed",
+    "emoji": "📪",
     "hexcodes": [
       "1F4EA"
     ]
@@ -114,8 +114,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📬 open mailbox with raised flag",
+    "description": "open",
+    "emoji": "📬",
     "hexcodes": [
       "1F4EC"
     ]
@@ -126,8 +126,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📭 open mailbox with lowered flag",
+    "description": "open",
+    "emoji": "📭",
     "hexcodes": [
       "1F4ED"
     ]
@@ -138,8 +138,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "📮 postbox",
+    "description": "postbox",
+    "emoji": "📮",
     "hexcodes": [
       "1F4EE"
     ]
@@ -150,8 +150,8 @@
     "qualifier": "fully-qualified",
     "emojiVersion": null,
     "unicodeVersion": null,
-    "description": "",
-    "emoji": "🗳️ ballot box with ballot",
+    "description": "ballot",
+    "emoji": "🗳️",
     "hexcodes": [
       "1F5F3",
       "FE0F"
