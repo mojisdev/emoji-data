@@ -1,0 +1,170 @@
+{
+  "1F600": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "grinning face",
+    "emoji": "😀",
+    "hexcodes": [
+      "1F600"
+    ]
+  },
+  "1F603": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "grinning face with big eyes",
+    "emoji": "😃",
+    "hexcodes": [
+      "1F603"
+    ]
+  },
+  "1F604": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "grinning face with smiling eyes",
+    "emoji": "😄",
+    "hexcodes": [
+      "1F604"
+    ]
+  },
+  "1F601": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "beaming face with smiling eyes",
+    "emoji": "😁",
+    "hexcodes": [
+      "1F601"
+    ]
+  },
+  "1F606": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "grinning squinting face",
+    "emoji": "😆",
+    "hexcodes": [
+      "1F606"
+    ]
+  },
+  "1F605": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "grinning face with sweat",
+    "emoji": "😅",
+    "hexcodes": [
+      "1F605"
+    ]
+  },
+  "1F923": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "3.0",
+    "unicodeVersion": "9.0",
+    "description": "rolling on the floor laughing",
+    "emoji": "🤣",
+    "hexcodes": [
+      "1F923"
+    ]
+  },
+  "1F602": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "face with tears of joy",
+    "emoji": "😂",
+    "hexcodes": [
+      "1F602"
+    ]
+  },
+  "1F642": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "slightly smiling face",
+    "emoji": "🙂",
+    "hexcodes": [
+      "1F642"
+    ]
+  },
+  "1F643": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "upside-down face",
+    "emoji": "🙃",
+    "hexcodes": [
+      "1F643"
+    ]
+  },
+  "1FAE0": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "14.0",
+    "unicodeVersion": "14.0",
+    "description": "melting face",
+    "emoji": "🫠",
+    "hexcodes": [
+      "1FAE0"
+    ]
+  },
+  "1F609": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "winking face",
+    "emoji": "😉",
+    "hexcodes": [
+      "1F609"
+    ]
+  },
+  "1F60A": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "smiling face with smiling eyes",
+    "emoji": "😊",
+    "hexcodes": [
+      "1F60A"
+    ]
+  },
+  "1F607": {
+    "group": "smileys-emotion",
+    "subgroup": "face-smiling",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "1.0",
+    "unicodeVersion": "8.0",
+    "description": "smiling face with halo",
+    "emoji": "😇",
+    "hexcodes": [
+      "1F607"
+    ]
+  }
+}

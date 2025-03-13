@@ -1,0 +1,38 @@
+{
+  "1F648": {
+    "group": "smileys-emotion",
+    "subgroup": "monkey-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "see-no-evil monkey",
+    "emoji": "🙈",
+    "hexcodes": [
+      "1F648"
+    ]
+  },
+  "1F649": {
+    "group": "smileys-emotion",
+    "subgroup": "monkey-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "hear-no-evil monkey",
+    "emoji": "🙉",
+    "hexcodes": [
+      "1F649"
+    ]
+  },
+  "1F64A": {
+    "group": "smileys-emotion",
+    "subgroup": "monkey-face",
+    "qualifier": "fully-qualified",
+    "emojiVersion": "0.6",
+    "unicodeVersion": "6.0",
+    "description": "speak-no-evil monkey",
+    "emoji": "🙊",
+    "hexcodes": [
+      "1F64A"
+    ]
+  }
+}
