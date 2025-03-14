@@ -1,4 +1,4 @@
-name: build emoji release
+name: build emoji data
 
 on:
   workflow_dispatch:
@@ -11,7 +11,7 @@ on:
 
       versions:
         type: string
-        description: The versions to build the emoji release for
+        description: The versions to build the emoji data for
         required: true
         default: ""
 
@@ -28,9 +28,9 @@ on:
 permissions: {}
 
 jobs:
-  build-emoji-release:
-    # only run if the pr was merged and originated from the 'new-emoji-release' branch or manually triggered
-    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'new-emoji-release') }}
+  build-emoji-data:
+    # only run if the pr was merged and originated from the 'new-emoji-version' branch or manually triggered
+    if: ${{ github.event_name == 'workflow_dispatch' || (github.event.pull_request.merged == true && github.event.pull_request.head.ref == 'new-emoji-version') }}
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -51,8 +51,8 @@ jobs:
         with:
           node-version: lts/*
 
-      - name: get new releases
-        id: new-releases
+      - name: get new versions
+        id: new-versions
         if: github.event_name != 'workflow_dispatch'
         run: |
           PREV_COMMIT=$(git rev-parse HEAD^)
@@ -73,7 +73,7 @@ jobs:
         id: emoji-versions
         env:
           VERSIONS: ${{ github.event.inputs.versions }}
-          AUTO_VERSIONS: ${{ steps.new-releases.outputs.DIFF_VERSIONS }}
+          AUTO_VERSIONS: ${{ steps.new-versions.outputs.DIFF_VERSIONS }}
         run: |
           SEPARATED_VERSIONS=$(echo $VERSIONS | tr ',' ' ')
 
@@ -99,7 +99,7 @@ jobs:
           commit-message: "feat: update emojis"
           title: "feat: update emojis"
           body: |
-            I was recently triggered to update the emoji data, with a new release or multiple releases.
+            I was recently triggered to update the emoji data, with a new version or multiple versions.
 
             I don't know what they changed, but I'm sure it's awesome 🤖.
 
