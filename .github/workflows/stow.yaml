@@ -36,8 +36,9 @@ jobs:
 
       - name: check existing hashes
         id: check_hashes
+        env:
+          VERSIONS: ${{ steps.find_versions.outputs.versions }}
         run: |
-          VERSIONS="${{ steps.find_versions.outputs.versions }}"
           API_BASE_URL="https://mojistow.mojis.dev/hashes"
           VERSIONS_TO_UPDATE=""
 
@@ -75,9 +76,8 @@ jobs:
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+          VERSIONS_TO_UPDATE: ${{ steps.check_hashes.outputs.versions_to_update }}
         run: |
-          VERSIONS_TO_UPDATE="${{ steps.check_hashes.outputs.versions_to_update }}"
-
           echo "starting hash updates for: $VERSIONS_TO_UPDATE"
 
           for version in $VERSIONS_TO_UPDATE; do
