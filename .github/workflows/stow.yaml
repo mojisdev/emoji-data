@@ -2,13 +2,6 @@ name: stow emoji data
 
 on:
   workflow_dispatch:
-    inputs:
-      versions:
-        type: string
-        description: The versions to build the emoji data for
-        required: true
-        default: ""
-
   schedule:
     # every day at 15:20
     - cron: "20 15 * * *"
@@ -23,11 +16,37 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: generate hashes for all emoji versions
+      - name: compare hashes
+        id: compare_hashes
         run: |
           for version in $(ls data); do
-            echo "generating hash for $version"
             HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
-            echo "Hash: $HASH"
+            echo "generated hash for $version=$HASH"
+
+            # saving hash to github output
             echo "HASH_$version=$HASH" >> $GITHUB_OUTPUT
+
+            # query the api and check if it exists
+            RESPONSE=$(curl -s -w "%{http_code}" https://mojistow.mojis.dev/hashes/$version)
+            HTTP_CODE=${RESPONSE: -3}
+            API_HASH=$(echo "${RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+
+            if [ "$HTTP_CODE" = "404" ]; then
+              echo "hash for $version doesn't exist yet"
+              API_HASH=""
+            fi
+
+            # compare hashes
+            if [ "$HASH" != "$API_HASH" ]; then
+              echo "hash mismatch for $version"
+
+              # upload the new hash to the api
+              curl -X POST https://mojistow.mojis.dev/hashes/$version \
+                -H "Authorization: ${{ secrets.MOJI_STOW_API_KEY }}" \
+                -H "Content-Type: application/json" \
+                -d "{\"hash\": \"$HASH\"}"
+            fi
           done
+
+
+
