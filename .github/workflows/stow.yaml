@@ -1,0 +1,33 @@
+name: stow emoji data
+
+on:
+  workflow_dispatch:
+    inputs:
+      versions:
+        type: string
+        description: The versions to build the emoji data for
+        required: true
+        default: ""
+
+  schedule:
+    # every day at 15:20
+    - cron: "20 15 * * *"
+
+permissions: {}
+
+jobs:
+  stow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+
+      - name: generate hashes for all emoji versions
+        run: |
+          for version in $(ls data); do
+            echo "generating hash for $version"
+            HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
+            echo "Hash: $HASH"
+            echo "HASH_$version=$HASH" >> $GITHUB_OUTPUT
+          done
