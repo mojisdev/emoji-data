@@ -1,9 +1,9 @@
-name: stow emoji data
+name: Stow Emoji Data
 
 on:
   workflow_dispatch:
   schedule:
-    # every day at 15:20
+    # Run daily at 15:20 UTC
     - cron: "20 15 * * *"
 
 permissions: {}
@@ -16,37 +16,89 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: compare hashes
-        id: compare_hashes
+      - name: find emoji versions
+        id: find_versions
         run: |
-          for version in $(ls data); do
+          VERSIONS=$(ls data)
+          echo "versions=$VERSIONS" >> $GITHUB_OUTPUT
+          echo "found versions: $VERSIONS"
+
+      - name: generate hashes
+        id: generate_hashes
+        run: |
+          VERSIONS="${{ steps.find_versions.outputs.versions }}"
+
+          for version in $VERSIONS; do
             HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
-            echo "generated hash for $version=$HASH"
+            echo "hash_$version=$HASH" >> $GITHUB_OUTPUT
+            echo "generated hash for $version: $HASH"
+          done
 
-            # saving hash to github output
-            echo "HASH_$version=$HASH" >> $GITHUB_OUTPUT
+      - name: check existing hashes
+        id: check_hashes
+        run: |
+          VERSIONS="${{ steps.find_versions.outputs.versions }}"
+          API_BASE_URL="https://mojistow.mojis.dev/hashes"
+          VERSIONS_TO_UPDATE=""
 
-            # query the api and check if it exists
-            RESPONSE=$(curl -s -w "%{http_code}" https://mojistow.mojis.dev/hashes/$version)
-            HTTP_CODE=${RESPONSE: -3}
-            API_HASH=$(echo "${RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+          for version in $VERSIONS; do
+            HASH=$(echo "${{ steps.generate_hashes.outputs.hash_$version }}")
 
-            if [ "$HTTP_CODE" = "404" ]; then
-              echo "hash for $version doesn't exist yet"
-              API_HASH=""
-            fi
+            echo "checking hash for $version: $HASH"
 
-            # compare hashes
-            if [ "$HASH" != "$API_HASH" ]; then
-              echo "hash mismatch for $version"
+            # query the api and check if the hash exists
+            RESPONSE=$(curl -s -o response_$version.json -w "%{http_code}" "$API_BASE_URL/$version")
+            HTTP_CODE=$RESPONSE
 
-              # upload the new hash to the api
-              curl -X POST https://mojistow.mojis.dev/hashes/$version \
-                -H "Authorization: ${{ secrets.MOJI_STOW_API_KEY }}" \
-                -H "Content-Type: application/json" \
-                -d "{\"hash\": \"$HASH\"}"
+            if [ "$HTTP_CODE" = "200" ]; then
+              API_HASH=$(jq -r '.hash' response_$version.json)
+
+              if [ "$HASH" = "$API_HASH" ]; then
+                echo "hash unchanged for $version - no update needed"
+              else
+                echo "hash mismatch for $version - update needed"
+                VERSIONS_TO_UPDATE="$VERSIONS_TO_UPDATE $version"
+              fi
+            else
+              echo "no existing hash found for $version (HTTP $HTTP_CODE) - update needed"
+              VERSIONS_TO_UPDATE="$VERSIONS_TO_UPDATE $version"
             fi
           done
 
+          # trim leading space
+          VERSIONS_TO_UPDATE="${VERSIONS_TO_UPDATE## }"
+          echo "versions_to_update=$VERSIONS_TO_UPDATE" >> $GITHUB_OUTPUT
+          echo "versions requiring updates: $VERSIONS_TO_UPDATE"
 
+      - name: Update hashes
+        if: ${{ steps.check_hashes.outputs.versions_to_update != '' }}
+        env:
+          API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
+          API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+        run: |
+          VERSIONS_TO_UPDATE="${{ steps.check_hashes.outputs.versions_to_update }}"
 
+          echo "starting hash updates for: $VERSIONS_TO_UPDATE"
+
+          for version in $VERSIONS_TO_UPDATE; do
+            HASH=$(echo "${{ steps.generate_hashes.outputs.hash_$version }}")
+
+            echo "uploading new hash for $version: $HASH"
+
+            # upload the new hash to the API
+            UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL/$version" \
+              -H "Authorization: $API_KEY" \
+              -H "Content-Type: application/json" \
+              -d "{\"hash\": \"$HASH\"}" \
+              -w "%{http_code}")
+
+            if [ "${UPLOAD_RESULT: -3}" = "200" ] || [ "${UPLOAD_RESULT: -3}" = "201" ]; then
+              echo "✅ successfully updated hash for $version"
+            else
+              echo "❌ failed to update hash for $version (HTTP ${UPLOAD_RESULT: -3})"
+              echo "api response: ${UPLOAD_RESULT%???}"
+              exit 1
+            fi
+          done
+
+          echo "all hash updates completed successfully"
