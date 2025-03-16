@@ -25,9 +25,9 @@ jobs:
 
       - name: generate hashes
         id: generate_hashes
+        env:
+          VERSIONS: ${{ steps.find_versions.outputs.versions }}
         run: |
-          VERSIONS="${{ steps.find_versions.outputs.versions }}"
-
           for version in $VERSIONS; do
             HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
             echo "hash_$version=$HASH" >> $GITHUB_OUTPUT
