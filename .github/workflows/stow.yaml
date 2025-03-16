@@ -1,4 +1,4 @@
-name: Stow Emoji Data
+name: stow emoji data
 
 on:
   workflow_dispatch:
@@ -16,76 +16,35 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: find emoji versions
-        id: find_versions
-        run: |
-          VERSIONS=$(ls data)
-          echo "versions=$VERSIONS" >> $GITHUB_OUTPUT
-          echo "found versions: $VERSIONS"
-
-      - name: generate hashes
-        id: generate_hashes
-        env:
-          VERSIONS: ${{ steps.find_versions.outputs.versions }}
-        run: |
-          for version in $VERSIONS; do
-            HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
-            echo "hash_$version=$HASH" >> $GITHUB_OUTPUT
-            echo "generated hash for $version: $HASH"
-          done
-
-      - name: check existing hashes
-        id: check_hashes
-        env:
-          VERSIONS: ${{ steps.find_versions.outputs.versions }}
-        run: |
-          API_BASE_URL="https://mojistow.mojis.dev/hashes"
-          VERSIONS_TO_UPDATE=""
-
-          for version in $VERSIONS; do
-            HASH=$(echo "${{ steps.generate_hashes.outputs.hash_$version }}")
-
-            echo "checking hash for $version: $HASH"
-
-            # query the api and check if the hash exists
-            RESPONSE=$(curl -s -o response_$version.json -w "%{http_code}" "$API_BASE_URL/$version")
-            HTTP_CODE=$RESPONSE
-
-            if [ "$HTTP_CODE" = "200" ]; then
-              API_HASH=$(jq -r '.hash' response_$version.json)
-
-              if [ "$HASH" = "$API_HASH" ]; then
-                echo "hash unchanged for $version - no update needed"
-              else
-                echo "hash mismatch for $version - update needed"
-                VERSIONS_TO_UPDATE="$VERSIONS_TO_UPDATE $version"
-              fi
-            else
-              echo "no existing hash found for $version (HTTP $HTTP_CODE) - update needed"
-              VERSIONS_TO_UPDATE="$VERSIONS_TO_UPDATE $version"
-            fi
-          done
-
-          # trim leading space
-          VERSIONS_TO_UPDATE="${VERSIONS_TO_UPDATE## }"
-          echo "versions_to_update=$VERSIONS_TO_UPDATE" >> $GITHUB_OUTPUT
-          echo "versions requiring updates: $VERSIONS_TO_UPDATE"
-
-      - name: Update hashes
-        if: ${{ steps.check_hashes.outputs.versions_to_update != '' }}
+      - name: process emoji data
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: "https://mojistow.mojis.dev/hashes"
-          VERSIONS_TO_UPDATE: ${{ steps.check_hashes.outputs.versions_to_update }}
         run: |
-          echo "starting hash updates for: $VERSIONS_TO_UPDATE"
+          # find all versions
+          VERSIONS=$(ls data)
+          echo "discovered versions: $VERSIONS"
 
-          for version in $VERSIONS_TO_UPDATE; do
-            HASH=$(echo "${{ steps.generate_hashes.outputs.hash_$version }}")
+          for version in $VERSIONS; do
+            echo "processing version: $version"
 
-            echo "uploading new hash for $version: $HASH"
+            # generate hash for current version
+            HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
+            echo "hash for $version: $HASH"
 
-            # upload the new hash to the API
+            # check if hash exists in API
+            RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/$version")
+            HTTP_CODE=${RESPONSE: -3}
+            API_HASH=$(echo "${RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+
+            if [ "$HTTP_CODE" = "200" ] && [ "$HASH" = "$API_HASH" ]; then
+              echo "hash unchanged for $version - skipping"
+              continue
+            fi
+
+            echo "hash needs updating for $version"
+
+            # upload new hash to API
             UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL/$version" \
               -H "Authorization: $API_KEY" \
               -H "Content-Type: application/json" \
@@ -101,4 +60,4 @@ jobs:
             fi
           done
 
-          echo "all hash updates completed successfully"
+          echo "all hash processing completed successfully"
