@@ -73,7 +73,7 @@ jobs:
         continue-on-error: true
 
       - name: create pull request
-        uses: peter-evans/create-pull-request@dd2324fc52d5d43c699a5636bcf19fceaa70c284 # v7.0.7
+        uses: peter-evans/create-pull-request@271a8d0340265f705b14b6d32b9829c1cb33d45e # v7.0.8
         if: ${{ github.event.inputs.dry-run != 'true' && (steps.has-lock-changes.outputs.has-lock-changes == 'true' || steps.check-conflicts.outputs.has-conflicts == 'true') }}
         with:
           commit-message: "feat: new emoji release"
