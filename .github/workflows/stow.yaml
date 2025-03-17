@@ -45,10 +45,10 @@ jobs:
             echo "hash needs updating for $version"
 
             # upload new hash to API
-            UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL/$version" \
+            UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
               -H "Authorization: $API_KEY" \
               -H "Content-Type: application/json" \
-              -d "{\"hash\": \"$HASH\"}" \
+              -d "{\"hash\": \"$HASH\", \"version\": \"$version\"}" \
               -w "%{http_code}")
 
             if [ "${UPLOAD_RESULT: -3}" = "200" ] || [ "${UPLOAD_RESULT: -3}" = "201" ]; then
@@ -58,6 +58,54 @@ jobs:
               echo "api response: ${UPLOAD_RESULT%???}"
               exit 1
             fi
+
+            # process first-level files and directories
+            echo "processing individual files/directories for $version"
+
+            # get the list of first-level files and directories
+            ITEMS=$(ls -1 ./data/$version)
+
+            for item in $ITEMS; do
+              item_path="./data/$version/$item"
+
+              # generate hash for the item
+              if [ -f "$item_path" ]; then
+                # it's a file
+                ITEM_HASH=$(sha256sum "$item_path" | cut -d" " -f1)
+              else
+                # it's a directory
+                ITEM_HASH=$(git ls-files "$item_path" | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
+              fi
+
+              echo "hash for $item: $ITEM_HASH"
+
+              # check if item hash exists in API
+              ITEM_RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/$version/$item")
+              ITEM_HTTP_CODE=${ITEM_RESPONSE: -3}
+              ITEM_API_HASH=$(echo "${ITEM_RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+
+              if [ "$ITEM_HTTP_CODE" = "200" ] && [ "$ITEM_HASH" = "$ITEM_API_HASH" ]; then
+                echo "hash unchanged for $item - skipping"
+                continue
+              fi
+
+              echo "hash needs updating for $item"
+
+              # upload new hash to API
+              ITEM_UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
+                -H "Authorization: $API_KEY" \
+                -H "Content-Type: application/json" \
+                -d "{\"hash\": \"$ITEM_HASH\", \"version\": \"$version\", \"item\": \"$item\"}" \
+                -w "%{http_code}")
+
+              if [ "${ITEM_UPLOAD_RESULT: -3}" = "200" ] || [ "${ITEM_UPLOAD_RESULT: -3}" = "201" ]; then
+                echo "✅ successfully updated hash for $item"
+              else
+                echo "❌ failed to update hash for $item (HTTP ${ITEM_UPLOAD_RESULT: -3})"
+                echo "api response: ${ITEM_UPLOAD_RESULT%???}"
+                exit 1
+              fi
+            done
           done
 
           echo "all hash processing completed successfully"
