@@ -19,7 +19,7 @@ jobs:
       - name: discover versions
         id: discover
         run: |
-          VERSIONS=$(ls data)
+          VERSIONS=$(ls -1 data | tr '\n' ' ')
           echo "discovered versions: $VERSIONS"
           echo "versions=$VERSIONS" >> $GITHUB_OUTPUT
 
