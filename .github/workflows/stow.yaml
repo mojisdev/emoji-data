@@ -16,96 +16,201 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: process emoji data
-        env:
-          API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
-          API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+      - name: Discover versions
+        id: discover
         run: |
-          # find all versions
           VERSIONS=$(ls data)
           echo "discovered versions: $VERSIONS"
+          echo "versions=$VERSIONS" >> $GITHUB_OUTPUT
 
-          for version in $VERSIONS; do
-            echo "processing version: $version"
+      - name: Generate hashes
+        id: generate-hashes
+        run: |
+          # Initialize variables to store results
+          echo "version_hashes={}" >> $GITHUB_ENV
+          echo "item_hashes={}" >> $GITHUB_ENV
+          VERSIONS_NEEDING_UPDATE=""
+          ITEMS_NEEDING_UPDATE=""
 
-            # generate hash for current version
+          # Process each version
+          for version in ${{ steps.discover.outputs.versions }}; do
+            echo "Processing version: $version"
+
+            # Generate hash for current version
             HASH=$(git ls-files ./data/$version | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
-            echo "hash for $version: $HASH"
+            echo "version_hashes=${{ env.version_hashes }} $version=$HASH" >> $GITHUB_ENV
 
-            # check if hash exists in API
-            RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/$version")
-            HTTP_CODE=${RESPONSE: -3}
-            API_HASH=$(echo "${RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
-
-            if [ "$HTTP_CODE" = "200" ] && [ "$HASH" = "$API_HASH" ]; then
-              echo "hash unchanged for $version - skipping"
-              continue
-            fi
-
-            echo "hash needs updating for $version"
-
-            # upload new hash to API
-            UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
-              -H "Authorization: $API_KEY" \
-              -H "Content-Type: application/json" \
-              -d "{\"hash\": \"$HASH\", \"version\": \"$version\"}" \
-              -w "%{http_code}")
-
-            if [ "${UPLOAD_RESULT: -3}" = "200" ] || [ "${UPLOAD_RESULT: -3}" = "201" ]; then
-              echo "✅ successfully updated hash for $version"
-            else
-              echo "❌ failed to update hash for $version (HTTP ${UPLOAD_RESULT: -3})"
-              echo "api response: ${UPLOAD_RESULT%???}"
-              exit 1
-            fi
-
-            # process first-level files and directories
-            echo "processing individual files/directories for $version"
-
-            # get the list of first-level files and directories
+            # Process first-level files and directories
             ITEMS=$(ls -1 ./data/$version)
 
             for item in $ITEMS; do
               item_path="./data/$version/$item"
 
-              # generate hash for the item
+              # Generate hash for the item
               if [ -f "$item_path" ]; then
-                # it's a file
+                # It's a file
                 ITEM_HASH=$(sha256sum "$item_path" | cut -d" " -f1)
               else
-                # it's a directory
+                # It's a directory
                 ITEM_HASH=$(git ls-files "$item_path" | xargs sha256sum | cut -d" " -f1 | sha256sum | cut -d" " -f1)
               fi
 
-              echo "hash for $item: $ITEM_HASH"
+              echo "item_hashes=${{ env.item_hashes }} $version/$item=$ITEM_HASH" >> $GITHUB_ENV
+            done
+          done
 
-              # check if item hash exists in API
+      - name: Check existing hashes
+        id: check-hashes
+        env:
+          API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+        run: |
+          # Initialize variables to store results
+          echo "api_version_hashes={}" >> $GITHUB_ENV
+          echo "api_item_hashes={}" >> $GITHUB_ENV
+          VERSIONS_NEEDING_UPDATE=""
+          ITEMS_NEEDING_UPDATE=""
+
+          # Process each version
+          for version in ${{ steps.discover.outputs.versions }}; do
+            # Extract current version hash
+            VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
+            echo "Current hash for $version: $VERSION_HASH"
+
+            # Check if hash exists in API
+            RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/$version")
+            HTTP_CODE=${RESPONSE: -3}
+            API_HASH=$(echo "${RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+
+            echo "API hash for $version: $API_HASH (HTTP $HTTP_CODE)"
+            echo "api_version_hashes=${{ env.api_version_hashes }} $version=$API_HASH" >> $GITHUB_ENV
+
+            if [ "$HTTP_CODE" != "200" ] || [ "$VERSION_HASH" != "$API_HASH" ]; then
+              VERSIONS_NEEDING_UPDATE="$VERSIONS_NEEDING_UPDATE $version"
+              echo "$version needs update: Current=$VERSION_HASH, API=$API_HASH"
+            else
+              echo "$version is up to date"
+            fi
+
+            # Check each item in this version
+            ITEMS=$(ls -1 ./data/$version)
+
+            for item in $ITEMS; do
+              # Extract current item hash
+              ITEM_HASH=$(echo "${{ env.item_hashes }}" | grep -o "$version/$item=[^ ]*" | cut -d'=' -f2)
+              echo "Current hash for $version/$item: $ITEM_HASH"
+
+              # Check if item hash exists in API
               ITEM_RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/$version/$item")
               ITEM_HTTP_CODE=${ITEM_RESPONSE: -3}
               ITEM_API_HASH=$(echo "${ITEM_RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
 
-              if [ "$ITEM_HTTP_CODE" = "200" ] && [ "$ITEM_HASH" = "$ITEM_API_HASH" ]; then
-                echo "hash unchanged for $item - skipping"
-                continue
-              fi
+              echo "API hash for $version/$item: $ITEM_API_HASH (HTTP $ITEM_HTTP_CODE)"
+              echo "api_item_hashes=${{ env.api_item_hashes }} $version/$item=$ITEM_API_HASH" >> $GITHUB_ENV
 
-              echo "hash needs updating for $item"
-
-              # upload new hash to API
-              ITEM_UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
-                -H "Authorization: $API_KEY" \
-                -H "Content-Type: application/json" \
-                -d "{\"hash\": \"$ITEM_HASH\", \"version\": \"$version\", \"item\": \"$item\"}" \
-                -w "%{http_code}")
-
-              if [ "${ITEM_UPLOAD_RESULT: -3}" = "200" ] || [ "${ITEM_UPLOAD_RESULT: -3}" = "201" ]; then
-                echo "✅ successfully updated hash for $item"
+              if [ "$ITEM_HTTP_CODE" != "200" ] || [ "$ITEM_HASH" != "$ITEM_API_HASH" ]; then
+                ITEMS_NEEDING_UPDATE="$ITEMS_NEEDING_UPDATE $version/$item"
+                echo "$version/$item needs update: Current=$ITEM_HASH, API=$ITEM_API_HASH"
               else
-                echo "❌ failed to update hash for $item (HTTP ${ITEM_UPLOAD_RESULT: -3})"
-                echo "api response: ${ITEM_UPLOAD_RESULT%???}"
-                exit 1
+                echo "$version/$item is up to date"
               fi
             done
           done
 
-          echo "all hash processing completed successfully"
+          # Output versions and items needing updates
+          echo "versions_needing_update=$VERSIONS_NEEDING_UPDATE" >> $GITHUB_OUTPUT
+          echo "items_needing_update=$ITEMS_NEEDING_UPDATE" >> $GITHUB_OUTPUT
+
+      - name: Summary of changes needed
+        run: |
+          echo "## Hash Update Summary" >> $GITHUB_STEP_SUMMARY
+          echo "### Versions requiring updates" >> $GITHUB_STEP_SUMMARY
+
+          if [ -z "${{ steps.check-hashes.outputs.versions_needing_update }}" ]; then
+            echo "No version updates required" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| Version | Current Hash | API Hash |" >> $GITHUB_STEP_SUMMARY
+            echo "|---------|--------------|----------|" >> $GITHUB_STEP_SUMMARY
+
+            for version in ${{ steps.check-hashes.outputs.versions_needing_update }}; do
+              VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
+              API_HASH=$(echo "${{ env.api_version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
+              echo "| $version | $VERSION_HASH | $API_HASH |" >> $GITHUB_STEP_SUMMARY
+            done
+          fi
+
+          echo "### Items requiring updates" >> $GITHUB_STEP_SUMMARY
+
+          if [ -z "${{ steps.check-hashes.outputs.items_needing_update }}" ]; then
+            echo "No item updates required" >> $GITHUB_STEP_SUMMARY
+          else
+            echo "| Item | Current Hash | API Hash |" >> $GITHUB_STEP_SUMMARY
+            echo "|------|--------------|----------|" >> $GITHUB_STEP_SUMMARY
+
+            for item_path in ${{ steps.check-hashes.outputs.items_needing_update }}; do
+              ITEM_HASH=$(echo "${{ env.item_hashes }}" | grep -o "$item_path=[^ ]*" | cut -d'=' -f2)
+              API_HASH=$(echo "${{ env.api_item_hashes }}" | grep -o "$item_path=[^ ]*" | cut -d'=' -f2)
+              echo "| $item_path | $ITEM_HASH | $API_HASH |" >> $GITHUB_STEP_SUMMARY
+            done
+          fi
+
+      - name: Update version hashes
+        if: ${{ steps.check-hashes.outputs.versions_needing_update != '' }}
+        env:
+          API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
+          API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+        run: |
+          for version in ${{ steps.check-hashes.outputs.versions_needing_update }}; do
+            VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
+            echo "Updating hash for $version to $VERSION_HASH"
+
+            # Upload new hash to API
+            UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
+              -H "Authorization: $API_KEY" \
+              -H "Content-Type: application/json" \
+              -d "{\"hash\": \"$VERSION_HASH\", \"version\": \"$version\"}" \
+              -w "%{http_code}")
+
+            if [ "${UPLOAD_RESULT: -3}" = "200" ] || [ "${UPLOAD_RESULT: -3}" = "201" ]; then
+              echo "✅ Successfully updated hash for $version"
+            else
+              echo "❌ Failed to update hash for $version (HTTP ${UPLOAD_RESULT: -3})"
+              echo "API response: ${UPLOAD_RESULT%???}"
+              exit 1
+            fi
+          done
+
+      - name: Update item hashes
+        if: ${{ steps.check-hashes.outputs.items_needing_update != '' }}
+        env:
+          API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
+          API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+        run: |
+          for item_path in ${{ steps.check-hashes.outputs.items_needing_update }}; do
+            # Extract version and item from path
+            version=$(echo "$item_path" | cut -d'/' -f1)
+            item=$(echo "$item_path" | cut -d'/' -f2)
+
+            ITEM_HASH=$(echo "${{ env.item_hashes }}" | grep -o "$item_path=[^ ]*" | cut -d'=' -f2)
+            echo "Updating hash for $item_path to $ITEM_HASH"
+
+            # Upload new hash to API
+            ITEM_UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL" \
+              -H "Authorization: $API_KEY" \
+              -H "Content-Type: application/json" \
+              -d "{\"hash\": \"$ITEM_HASH\", \"version\": \"$version\", \"item\": \"$item\"}" \
+              -w "%{http_code}")
+
+            if [ "${ITEM_UPLOAD_RESULT: -3}" = "200" ] || [ "${ITEM_UPLOAD_RESULT: -3}" = "201" ]; then
+              echo "✅ Successfully updated hash for $item"
+            else
+              echo "❌ Failed to update hash for $item (HTTP ${ITEM_UPLOAD_RESULT: -3})"
+              echo "API response: ${ITEM_UPLOAD_RESULT%???}"
+              exit 1
+            fi
+          done
+
+      - name: Completion summary
+        run: |
+          echo "## Update Process Complete" >> $GITHUB_STEP_SUMMARY
+          echo "All hash processing completed successfully" >> $GITHUB_STEP_SUMMARY
+          echo "Process completed at $(date)" >> $GITHUB_STEP_SUMMARY
