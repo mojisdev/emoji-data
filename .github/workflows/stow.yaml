@@ -35,7 +35,7 @@ jobs:
           ITEMS_NEEDING_UPDATE=""
 
           # process each version
-          for version in ${{ env.VERSIONS }}; do
+          for version in $VERSIONS; do
             echo "Processing version: $version"
 
             # generate hash for current version
@@ -73,7 +73,7 @@ jobs:
           ITEMS_NEEDING_UPDATE=""
 
           # process each version
-          for version in ${{ env.VERSIONS }}; do
+          for version in $VERSIONS; do
             # extract current version hash
             VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
             echo "Current hash for $version: $VERSION_HASH"
@@ -123,17 +123,19 @@ jobs:
           echo "items_needing_update=$ITEMS_NEEDING_UPDATE" >> $GITHUB_OUTPUT
 
       - name: summary of changes needed
+        env:
+            VERSIONS_NEEDING_UPDATE: ${{ steps.check-hashes.outputs.versions_needing_update }}
         run: |
           echo "## Hash Update Summary" >> $GITHUB_STEP_SUMMARY
           echo "### Versions requiring updates" >> $GITHUB_STEP_SUMMARY
 
-          if [ -z "${{ steps.check-hashes.outputs.versions_needing_update }}" ]; then
+          if [ -z "$VERSIONS_NEEDING_UPDATE" ]; then
             echo "No version updates required" >> $GITHUB_STEP_SUMMARY
           else
             echo "| Version | Current Hash | API Hash |" >> $GITHUB_STEP_SUMMARY
             echo "|---------|--------------|----------|" >> $GITHUB_STEP_SUMMARY
 
-            for version in ${{ steps.check-hashes.outputs.versions_needing_update }}; do
+            for version in $VERSIONS_NEEDING_UPDATE; do
               VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
               API_HASH=$(echo "${{ env.api_version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
               echo "| $version | $VERSION_HASH | $API_HASH |" >> $GITHUB_STEP_SUMMARY
@@ -142,13 +144,13 @@ jobs:
 
           echo "### Items requiring updates" >> $GITHUB_STEP_SUMMARY
 
-          if [ -z "${{ steps.check-hashes.outputs.items_needing_update }}" ]; then
+          if [ -z "$VERSIONS_NEEDING_UPDATE" ]; then
             echo "No item updates required" >> $GITHUB_STEP_SUMMARY
           else
             echo "| Item | Current Hash | API Hash |" >> $GITHUB_STEP_SUMMARY
             echo "|------|--------------|----------|" >> $GITHUB_STEP_SUMMARY
 
-            for item_path in ${{ steps.check-hashes.outputs.items_needing_update }}; do
+            for item_path in $VERSIONS_NEEDING_UPDATE; do
               ITEM_HASH=$(echo "${{ env.item_hashes }}" | grep -o "$item_path=[^ ]*" | cut -d'=' -f2)
               API_HASH=$(echo "${{ env.api_item_hashes }}" | grep -o "$item_path=[^ ]*" | cut -d'=' -f2)
               echo "| $item_path | $ITEM_HASH | $API_HASH |" >> $GITHUB_STEP_SUMMARY
@@ -160,8 +162,9 @@ jobs:
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+          VERSIONS_NEEDING_UPDATE: ${{ steps.check-hashes.outputs.versions_needing_update }}
         run: |
-          for version in ${{ steps.check-hashes.outputs.versions_needing_update }}; do
+          for version in $VERSIONS_NEEDING_UPDATE; do
             VERSION_HASH=$(echo "${{ env.version_hashes }}" | grep -o "$version=[^ ]*" | cut -d'=' -f2)
             echo "Updating hash for $version to $VERSION_HASH"
 
@@ -186,8 +189,9 @@ jobs:
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: "https://mojistow.mojis.dev/hashes"
+          VERSIONS_NEEDING_UPDATE: ${{ steps.check-hashes.outputs.versions_needing_update }}
         run: |
-          for item_path in ${{ steps.check-hashes.outputs.items_needing_update }}; do
+          for item_path in $VERSIONS_NEEDING_UPDATE; do
             # extract version and item from path
             version=$(echo "$item_path" | cut -d'/' -f1)
             item=$(echo "$item_path" | cut -d'/' -f2)
