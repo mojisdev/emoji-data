@@ -29,6 +29,8 @@ jobs:
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: ${{ github.event.inputs.base_url || 'https://mojistow.mojis.dev' }}
+          # directories to process as a single unit
+          BULK_DIRS: "metadata"
         run: |
           # find all versions
           VERSIONS=$(ls data)
@@ -37,24 +39,104 @@ jobs:
           for version in $VERSIONS; do
             echo "processing version: $version"
 
-            # Find all files recursively in the version directory
-            FILES=$(find ./data/$version -type f | sort)
+            # fetch all hashes for this version at once
+            HASHES_RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/hashes/$version")
+            HASHES_HTTP_CODE=${HASHES_RESPONSE: -3}
+
+            if [ "$HASHES_HTTP_CODE" != "200" ]; then
+              echo "Failed to fetch hashes for version $version (HTTP $HASHES_HTTP_CODE)"
+              echo "Continuing with empty hashes..."
+              HASHES_JSON="[]"
+            else
+              HASHES_JSON=${HASHES_RESPONSE%???}
+            fi
+
+            # first process bulk directories
+            for bulk_dir in $BULK_DIRS; do
+              if [ -d "./data/$version/$bulk_dir" ]; then
+                echo "Processing bulk directory: $bulk_dir"
+
+                # create a hash for the entire directory
+                DIR_HASH=$(find "./data/$version/$bulk_dir" -type f -exec sha256sum {} \; | sort | sha256sum | cut -d" " -f1)
+                echo "Directory hash for $bulk_dir: $DIR_HASH"
+
+                # check if directory hash exists and matches
+                DIR_API_HASH=$(echo "$HASHES_JSON" | jq -r ".[] | select(.item==\"$bulk_dir\") | .hash" 2>/dev/null || echo "")
+
+                if [ -n "$DIR_API_HASH" ] && [ "$DIR_HASH" = "$DIR_API_HASH" ]; then
+                  echo "hash unchanged for directory $bulk_dir - skipping"
+                  continue
+                fi
+
+                echo "hash needs updating for directory $bulk_dir"
+
+                # create tar+gzip file for the entire directory
+                TMP_DIR=$(mktemp -d)
+                mkdir -p "$TMP_DIR/$version"
+                cp -r "./data/$version/$bulk_dir" "$TMP_DIR/$version/"
+
+                TAR_FILE="/tmp/emoji_data_${version}_${bulk_dir}.tar.gz"
+                tar -czf "$TAR_FILE" -C "$TMP_DIR" "$version"
+
+                echo "Created archive for directory: $TAR_FILE"
+
+                # upload the tar+gzip file
+                UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL/stow/$version" \
+                  -H "Authorization: $API_KEY" \
+                  -F "file=@$TAR_FILE" \
+                  -w "%{http_code}")
+
+                UPLOAD_HTTP_CODE=${UPLOAD_RESULT: -3}
+
+                if [ "$UPLOAD_HTTP_CODE" = "200" ] || [ "$UPLOAD_HTTP_CODE" = "201" ]; then
+                  echo "✅ successfully uploaded directory $bulk_dir"
+
+                  # update the hash in the hash API
+                  DIR_UPLOAD_RESULT=$(curl -s -X POST "$API_BASE_URL/hashes" \
+                    -H "Authorization: $API_KEY" \
+                    -H "Content-Type: application/json" \
+                    -d "{\"hash\": \"$DIR_HASH\", \"version\": \"$version\", \"item\": \"$bulk_dir\"}" \
+                    -w "%{http_code}")
+
+                  if [ "${DIR_UPLOAD_RESULT: -3}" = "200" ] || [ "${DIR_UPLOAD_RESULT: -3}" = "201" ]; then
+                    echo "✅ successfully updated hash for directory $bulk_dir"
+                  else
+                    echo "❌ failed to update hash for directory $bulk_dir (HTTP ${DIR_UPLOAD_RESULT: -3})"
+                    echo "api response: ${DIR_UPLOAD_RESULT%???}"
+                    exit 1
+                  fi
+                else
+                  echo "❌ failed to upload directory $bulk_dir (HTTP $UPLOAD_HTTP_CODE)"
+                  echo "api response: ${UPLOAD_RESULT%???}"
+                  exit 1
+                fi
+
+                # clean up
+                rm -rf "$TMP_DIR" "$TAR_FILE"
+              fi
+            done
+
+            # now process individual files (excluding the bulk directories)
+            FILES=$(find ./data/$version -type f | grep -v -E "\/($BULK_DIRS)\/" | sort)
 
             for file_path in $FILES; do
               # get the relative path from the version directory
               relative_path=${file_path#./data/$version/}
+
+              # skip files in bulk directories (already processed)
+              if echo "$relative_path" | grep -q -E "^($BULK_DIRS)/"; then
+                continue
+              fi
 
               # generate hash for the file
               FILE_HASH=$(sha256sum "$file_path" | cut -d" " -f1)
 
               echo "hash for $relative_path: $FILE_HASH"
 
-              # check if file hash exists in API
-              FILE_RESPONSE=$(curl -s -w "%{http_code}" "$API_BASE_URL/hashes/$version/$relative_path")
-              FILE_HTTP_CODE=${FILE_RESPONSE: -3}
-              FILE_API_HASH=$(echo "${FILE_RESPONSE%???}" | jq -r ".hash" 2>/dev/null || echo "")
+              # check if file hash exists and matches
+              FILE_API_HASH=$(echo "$HASHES_JSON" | jq -r ".[] | select(.item==\"$relative_path\") | .hash" 2>/dev/null || echo "")
 
-              if [ "$FILE_HTTP_CODE" = "200" ] && [ "$FILE_HASH" = "$FILE_API_HASH" ]; then
+              if [ -n "$FILE_API_HASH" ] && [ "$FILE_HASH" = "$FILE_API_HASH" ]; then
                 echo "hash unchanged for $relative_path - skipping"
                 continue
               fi
@@ -103,7 +185,7 @@ jobs:
                 exit 1
               fi
 
-              # Clean up
+              # clean up
               rm -rf "$TMP_DIR" "$TAR_FILE"
             done
           done
