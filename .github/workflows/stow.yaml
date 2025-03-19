@@ -100,10 +100,10 @@ jobs:
                 # create tar+gzip file for the entire directory
                 TMP_DIR=$(mktemp -d)
                 mkdir -p "$TMP_DIR/$version"
-                cp -r "./data/$version/$bulk_dir" "$TMP_DIR/$version/"
+                cp -r "./data/$version/$bulk_dir" "$TMP_DIR/$version/$bulk_dir"
 
                 TAR_FILE="/tmp/emoji_data_${version}_${bulk_dir}.tar.gz"
-                tar -czf "$TAR_FILE" -C "$TMP_DIR" "$version"
+                tar -czf "$TAR_FILE" -C "$TMP_DIR/$version" "$bulk_dir"
 
                 echo "Created archive for directory: $TAR_FILE"
 
@@ -177,7 +177,7 @@ jobs:
 
               # create tar+gzip file
               TAR_FILE="/tmp/emoji_data_${version}_${relative_path//\//_}.tar.gz"
-              tar -czf "$TAR_FILE" -C "$TMP_DIR" "$version"
+              tar -czf "$TAR_FILE" -C "$TMP_DIR/$version" "$relative_path"
 
               echo "Created archive: $TAR_FILE"
 
