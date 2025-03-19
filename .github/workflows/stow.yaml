@@ -143,8 +143,22 @@ jobs:
               fi
             done
 
+            # create a exclude pattern for the bulk directories
+            EXCLUDE_PATTERN=""
+            for dir in $BULK_DIRS; do
+              if [ -n "$EXCLUDE_PATTERN" ]; then
+                EXCLUDE_PATTERN="$EXCLUDE_PATTERN\\|"
+              fi
+              EXCLUDE_PATTERN="${EXCLUDE_PATTERN}^./data/$version/$dir/"
+            done
+
             # now process individual files (excluding the bulk directories)
-            FILES=$(find ./data/$version -type f | grep -v -E "\/($BULK_DIRS)\/" | sort)
+            # use a more precise method to exclude bulk directories entirely
+            if [ -n "$EXCLUDE_PATTERN" ]; then
+              FILES=$(find ./data/$version -type f | grep -v "$EXCLUDE_PATTERN" | sort)
+            else
+              FILES=$(find ./data/$version -type f | sort)
+            fi
 
             for file_path in $FILES; do
               # get the relative path from the version directory
