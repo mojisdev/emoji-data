@@ -42,7 +42,7 @@ jobs:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: ${{ github.event.inputs.base_url || 'https://mojistow.mojis.dev' }}
           SPECIFIC_VERSIONS: ${{ github.event.inputs.versions }}
-          SPECIFIC_BULK_DIRS: ${{ github.event.inputs.bulk_dirs }}
+          SPECIFIC_BULK_DIRS: ${{ github.event.inputs.bulk_dirs || 'metadata' }}
         run: |
           # find all available versions
           ALL_VERSIONS=$(ls data)
