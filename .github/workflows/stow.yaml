@@ -17,6 +17,12 @@ on:
         required: false
         default: ""
         type: string
+
+      bulk_dirs:
+        description: 'Directories to process as a single unit (comma-separated)'
+        required: false
+        default: "metadata"
+        type: string
   schedule:
     # Run daily at 15:20 UTC
     - cron: "20 15 * * *"
@@ -36,11 +42,11 @@ jobs:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: ${{ github.event.inputs.base_url || 'https://mojistow.mojis.dev' }}
           SPECIFIC_VERSIONS: ${{ github.event.inputs.versions }}
-          # directories to process as a single unit
-          BULK_DIRS: "metadata"
+          SPECIFIC_BULK_DIRS: ${{ github.event.inputs.bulk_dirs }}
         run: |
           # find all available versions
           ALL_VERSIONS=$(ls data)
+          BULK_DIRS=$(echo "$SPECIFIC_BULK_DIRS" | tr ',' ' ')
 
           # determine which versions to process
           if [ -z "$SPECIFIC_VERSIONS" ]; then
