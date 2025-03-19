@@ -11,6 +11,12 @@ on:
         options:
           - "https://mojistow.mojis.dev"
           - "https://mojistow.preview.mojis.dev"
+
+      versions:
+        description: 'Specific versions to process (comma-separated, leave empty for all)'
+        required: false
+        default: ""
+        type: string
   schedule:
     # Run daily at 15:20 UTC
     - cron: "20 15 * * *"
@@ -29,14 +35,35 @@ jobs:
         env:
           API_KEY: ${{ secrets.MOJI_STOW_API_KEY }}
           API_BASE_URL: ${{ github.event.inputs.base_url || 'https://mojistow.mojis.dev' }}
+          SPECIFIC_VERSIONS: ${{ github.event.inputs.versions }}
           # directories to process as a single unit
           BULK_DIRS: "metadata"
         run: |
-          # find all versions
-          VERSIONS=$(ls data)
-          echo "discovered versions: $VERSIONS"
+          # find all available versions
+          ALL_VERSIONS=$(ls data)
 
-          for version in $VERSIONS; do
+          # determine which versions to process
+          if [ -z "$SPECIFIC_VERSIONS" ]; then
+            VERSIONS_TO_PROCESS="$ALL_VERSIONS"
+            echo "Processing all available versions: $VERSIONS_TO_PROCESS"
+          else
+            # convert comma-separated list to space-separated
+            VERSIONS_TO_PROCESS=$(echo "$SPECIFIC_VERSIONS" | tr ',' ' ')
+            echo "Processing specific versions: $VERSIONS_TO_PROCESS"
+
+            # validate that specified versions exist
+            for version in $VERSIONS_TO_PROCESS; do
+              if ! echo "$ALL_VERSIONS" | grep -q "\b$version\b"; then
+                echo "⚠️ Warning: Version '$version' not found in data directory"
+              fi
+            done
+          fi
+
+          for version in $VERSIONS_TO_PROCESS; do
+            if [ ! -d "./data/$version" ]; then
+              echo "⚠️ Skipping version '$version' as it doesn't exist"
+              continue
+            fi
             echo "processing version: $version"
 
             # fetch all hashes for this version at once
