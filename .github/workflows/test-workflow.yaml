@@ -24,7 +24,7 @@ on:
         default: "metadata"
         type: string
   schedule:
-    - cron: "24 5 * * *"
+    - cron: "26 4 * * *"
 
 permissions: {}
 
