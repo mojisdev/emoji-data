@@ -1,0 +1,46 @@
+name: stow emoji data
+
+on:
+  workflow_dispatch:
+    inputs:
+      base_url:
+        description: 'Base URL for the API'
+        required: false
+        default: 'https://mojistow.mojis.dev'
+        type: choice
+        options:
+          - "https://mojistow.mojis.dev"
+          - "https://mojistow.preview.mojis.dev"
+
+      versions:
+        description: 'Specific versions to process (comma-separated, leave empty for all)'
+        required: false
+        default: ""
+        type: string
+
+      bulk_dirs:
+        description: 'Directories to process as a single unit (comma-separated)'
+        required: false
+        default: "metadata"
+        type: string
+  schedule:
+    - cron: "*/5 * * * *"
+
+permissions: {}
+
+jobs:
+  stow:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+        with:
+          persist-credentials: false
+
+      - name: process emoji data
+        env:
+          SPECIFIC_VERSIONS: ${{ github.event.inputs.versions }}
+          SPECIFIC_BULK_DIRS: ${{ github.event.inputs.bulk_dirs || 'metadata' }}
+        run: |
+          echo "Hello, world!"
+          BULK_DIRS=$(echo "$SPECIFIC_BULK_DIRS" | tr ',' ' ')
+          echo "BULK_DIRS: $BULK_DIRS"
