@@ -23,9 +23,9 @@ on:
         required: false
         default: "metadata"
         type: string
-  # schedule:
-  #   # Run daily at 15:20 UTC
-  #   - cron: "20 15 * * *"
+  schedule:
+    # Run daily at 15:20 UTC
+    - cron: "20 15 * * *"
 
 permissions: {}
 
