@@ -37,7 +37,7 @@ jobs:
           node-version: lts/*
 
       - name: check latest release
-        run: pnpm dlx @mojis/cli@latest emoji-versions --write-lockfile
+        run: pnpm dlx @mojis/cli@latest emoji-versions all --force --drafts --format json --output emojis.lock
 
       - name: detect changes for `emojis.lock`
         id: has-lock-changes
