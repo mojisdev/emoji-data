@@ -1,5 +1,13 @@
 {
   "files.associations": {
     "emojis.lock": "json"
-  }
+  },
+  "json.schemas": [
+    {
+      "fileMatch": [
+        "data/*/groups.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/groups.json"
+    }
+  ]
 }
