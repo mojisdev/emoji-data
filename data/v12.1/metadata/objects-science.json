@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "alembic",
     "emoji": "⚗",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "alembic",
     "emoji": "⚗️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "test tube",
     "emoji": "🧪",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "petri dish",
     "emoji": "🧫",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "dna",
     "emoji": "🧬",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "microscope",
     "emoji": "🔬",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "telescope",
     "emoji": "🔭",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "objects",
     "subgroup": "science",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "satellite antenna",
     "emoji": "📡",
     "hexcodes": [

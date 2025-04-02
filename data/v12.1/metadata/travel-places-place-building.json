@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "stadium",
     "emoji": "🏟️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "stadium",
     "emoji": "🏟",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "classical building",
     "emoji": "🏛️",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "classical building",
     "emoji": "🏛",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "building construction",
     "emoji": "🏗️",
     "hexcodes": [
@@ -66,8 +66,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "building construction",
     "emoji": "🏗",
     "hexcodes": [
@@ -78,8 +78,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "brick",
     "emoji": "🧱",
     "hexcodes": [
@@ -90,8 +90,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "houses",
     "emoji": "🏘️",
     "hexcodes": [
@@ -103,8 +103,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "houses",
     "emoji": "🏘",
     "hexcodes": [
@@ -115,8 +115,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "derelict house",
     "emoji": "🏚️",
     "hexcodes": [
@@ -128,8 +128,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "derelict house",
     "emoji": "🏚",
     "hexcodes": [
@@ -140,8 +140,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "house",
     "emoji": "🏠",
     "hexcodes": [
@@ -152,8 +152,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "house with garden",
     "emoji": "🏡",
     "hexcodes": [
@@ -164,8 +164,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "office building",
     "emoji": "🏢",
     "hexcodes": [
@@ -176,8 +176,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "Japanese post office",
     "emoji": "🏣",
     "hexcodes": [
@@ -188,8 +188,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "post office",
     "emoji": "🏤",
     "hexcodes": [
@@ -200,8 +200,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hospital",
     "emoji": "🏥",
     "hexcodes": [
@@ -212,8 +212,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "bank",
     "emoji": "🏦",
     "hexcodes": [
@@ -224,8 +224,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hotel",
     "emoji": "🏨",
     "hexcodes": [
@@ -236,8 +236,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "love hotel",
     "emoji": "🏩",
     "hexcodes": [
@@ -248,8 +248,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "convenience store",
     "emoji": "🏪",
     "hexcodes": [
@@ -260,8 +260,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "school",
     "emoji": "🏫",
     "hexcodes": [
@@ -272,8 +272,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "department store",
     "emoji": "🏬",
     "hexcodes": [
@@ -284,8 +284,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "factory",
     "emoji": "🏭",
     "hexcodes": [
@@ -296,8 +296,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "Japanese castle",
     "emoji": "🏯",
     "hexcodes": [
@@ -308,8 +308,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "castle",
     "emoji": "🏰",
     "hexcodes": [
@@ -320,8 +320,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "wedding",
     "emoji": "💒",
     "hexcodes": [
@@ -332,8 +332,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "Tokyo tower",
     "emoji": "🗼",
     "hexcodes": [
@@ -344,8 +344,8 @@
     "group": "travel-places",
     "subgroup": "place-building",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "Statue of Liberty",
     "emoji": "🗽",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "military",
     "emoji": "🎖️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "military",
     "emoji": "🎖",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "trophy",
     "emoji": "🏆",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "sports",
     "emoji": "🏅",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "1st",
     "emoji": "🥇",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "2nd",
     "emoji": "🥈",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "3rd",
     "emoji": "🥉",
     "hexcodes": [

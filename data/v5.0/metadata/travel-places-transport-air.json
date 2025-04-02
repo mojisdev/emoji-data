@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "airplane",
     "emoji": "✈",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "airplane",
     "emoji": "✈️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "small",
     "emoji": "🛩️",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "small",
     "emoji": "🛩",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "airplane",
     "emoji": "🛫",
     "hexcodes": [
@@ -65,8 +65,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "airplane",
     "emoji": "🛬",
     "hexcodes": [
@@ -77,8 +77,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "seat",
     "emoji": "💺",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "helicopter",
     "emoji": "🚁",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "suspension",
     "emoji": "🚟",
     "hexcodes": [
@@ -113,8 +113,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "mountain",
     "emoji": "🚠",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "aerial",
     "emoji": "🚡",
     "hexcodes": [
@@ -137,8 +137,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "satellite",
     "emoji": "🛰️",
     "hexcodes": [
@@ -150,8 +150,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "satellite",
     "emoji": "🛰",
     "hexcodes": [
@@ -162,8 +162,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "rocket",
     "emoji": "🚀",
     "hexcodes": [
@@ -174,8 +174,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "flying",
     "emoji": "🛸",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "shuffle",
     "emoji": "🔀",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "repeat",
     "emoji": "🔁",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "repeat",
     "emoji": "🔂",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "play",
     "emoji": "▶️",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "fast-forward",
     "emoji": "⏩",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "next",
     "emoji": "⏭️",
     "hexcodes": [
@@ -77,8 +77,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "play",
     "emoji": "⏯️",
     "hexcodes": [
@@ -90,8 +90,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "reverse",
     "emoji": "◀️",
     "hexcodes": [
@@ -103,8 +103,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "fast",
     "emoji": "⏪",
     "hexcodes": [
@@ -115,8 +115,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "last",
     "emoji": "⏮️",
     "hexcodes": [
@@ -128,8 +128,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "up",
     "emoji": "🔼",
     "hexcodes": [
@@ -140,8 +140,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "fast",
     "emoji": "⏫",
     "hexcodes": [
@@ -152,8 +152,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "down",
     "emoji": "🔽",
     "hexcodes": [
@@ -164,8 +164,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "fast",
     "emoji": "⏬",
     "hexcodes": [
@@ -176,8 +176,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "pause",
     "emoji": "⏸️",
     "hexcodes": [
@@ -189,8 +189,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "stop",
     "emoji": "⏹️",
     "hexcodes": [
@@ -202,8 +202,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "record",
     "emoji": "⏺️",
     "hexcodes": [
@@ -215,8 +215,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "eject",
     "emoji": "⏏️",
     "hexcodes": [
@@ -228,8 +228,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "cinema",
     "emoji": "🎦",
     "hexcodes": [
@@ -240,8 +240,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "dim",
     "emoji": "🔅",
     "hexcodes": [
@@ -252,8 +252,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bright",
     "emoji": "🔆",
     "hexcodes": [
@@ -264,8 +264,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "antenna",
     "emoji": "📶",
     "hexcodes": [
@@ -276,8 +276,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "vibration",
     "emoji": "📳",
     "hexcodes": [
@@ -288,8 +288,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "mobile",
     "emoji": "📴",
     "hexcodes": [

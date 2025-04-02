@@ -3,8 +3,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "snail",
     "emoji": "🐌",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "butterfly",
     "emoji": "🦋",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bug",
     "emoji": "🐛",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "ant",
     "emoji": "🐜",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "honeybee",
     "emoji": "🐝",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "beetle",
     "emoji": "🪲",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "lady beetle",
     "emoji": "🐞",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "cricket",
     "emoji": "🦗",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "cockroach",
     "emoji": "🪳",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "spider",
     "emoji": "🕷️",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "spider",
     "emoji": "🕷",
     "hexcodes": [
@@ -136,8 +136,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "spider web",
     "emoji": "🕸️",
     "hexcodes": [
@@ -149,8 +149,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "spider web",
     "emoji": "🕸",
     "hexcodes": [
@@ -161,8 +161,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "scorpion",
     "emoji": "🦂",
     "hexcodes": [
@@ -173,8 +173,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "mosquito",
     "emoji": "🦟",
     "hexcodes": [
@@ -185,8 +185,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "fly",
     "emoji": "🪰",
     "hexcodes": [
@@ -197,8 +197,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "worm",
     "emoji": "🪱",
     "hexcodes": [
@@ -209,8 +209,8 @@
     "group": "animals-nature",
     "subgroup": "animal-bug",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "microbe",
     "emoji": "🦠",
     "hexcodes": [

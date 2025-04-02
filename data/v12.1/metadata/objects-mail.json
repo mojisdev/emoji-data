@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "envelope",
     "emoji": "✉",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "envelope",
     "emoji": "✉️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "e-mail",
     "emoji": "📧",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "incoming envelope",
     "emoji": "📨",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "envelope with arrow",
     "emoji": "📩",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "outbox tray",
     "emoji": "📤",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "inbox tray",
     "emoji": "📥",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "package",
     "emoji": "📦",
     "hexcodes": [
@@ -100,8 +100,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "closed mailbox with raised flag",
     "emoji": "📫",
     "hexcodes": [
@@ -112,8 +112,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "closed mailbox with lowered flag",
     "emoji": "📪",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "open mailbox with raised flag",
     "emoji": "📬",
     "hexcodes": [
@@ -136,8 +136,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "open mailbox with lowered flag",
     "emoji": "📭",
     "hexcodes": [
@@ -148,8 +148,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "postbox",
     "emoji": "📮",
     "hexcodes": [
@@ -160,8 +160,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "ballot box with ballot",
     "emoji": "🗳️",
     "hexcodes": [
@@ -173,8 +173,8 @@
     "group": "objects",
     "subgroup": "mail",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "ballot box with ballot",
     "emoji": "🗳",
     "hexcodes": [

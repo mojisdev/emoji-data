@@ -3,8 +3,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "spade suit",
     "emoji": "♠",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "club suit",
     "emoji": "♣",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "heart suit",
     "emoji": "♥",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "diamond suit",
     "emoji": "♦",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bullseye",
     "emoji": "🎯",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "yo-yo",
     "emoji": "🪀",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "kite",
     "emoji": "🪁",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "pool 8 ball",
     "emoji": "🎱",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "crystal ball",
     "emoji": "🔮",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "magic wand",
     "emoji": "🪄",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "nazar amulet",
     "emoji": "🧿",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "video game",
     "emoji": "🎮",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "joystick",
     "emoji": "🕹️",
     "hexcodes": [
@@ -160,8 +160,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "joystick",
     "emoji": "🕹",
     "hexcodes": [
@@ -172,8 +172,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "slot machine",
     "emoji": "🎰",
     "hexcodes": [
@@ -184,8 +184,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "game die",
     "emoji": "🎲",
     "hexcodes": [
@@ -196,8 +196,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "puzzle piece",
     "emoji": "🧩",
     "hexcodes": [
@@ -208,8 +208,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "teddy bear",
     "emoji": "🧸",
     "hexcodes": [
@@ -220,8 +220,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "piñata",
     "emoji": "🪅",
     "hexcodes": [
@@ -232,8 +232,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "nesting dolls",
     "emoji": "🪆",
     "hexcodes": [
@@ -244,8 +244,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "spade suit",
     "emoji": "♠️",
     "hexcodes": [
@@ -257,8 +257,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "heart suit",
     "emoji": "♥️",
     "hexcodes": [
@@ -270,8 +270,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "diamond suit",
     "emoji": "♦️",
     "hexcodes": [
@@ -283,8 +283,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "club suit",
     "emoji": "♣️",
     "hexcodes": [
@@ -296,8 +296,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "chess pawn",
     "emoji": "♟️",
     "hexcodes": [
@@ -309,8 +309,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "unqualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "chess pawn",
     "emoji": "♟",
     "hexcodes": [
@@ -321,8 +321,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "joker",
     "emoji": "🃏",
     "hexcodes": [
@@ -333,8 +333,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "mahjong red dragon",
     "emoji": "🀄",
     "hexcodes": [
@@ -345,8 +345,8 @@
     "group": "activities",
     "subgroup": "game",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "flower playing cards",
     "emoji": "🎴",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "military medal",
     "emoji": "🎖️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "military medal",
     "emoji": "🎖",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "trophy",
     "emoji": "🏆",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "sports medal",
     "emoji": "🏅",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "1st place medal",
     "emoji": "🥇",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "2nd place medal",
     "emoji": "🥈",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "activities",
     "subgroup": "award-medal",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "3rd place medal",
     "emoji": "🥉",
     "hexcodes": [

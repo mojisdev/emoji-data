@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning",
     "emoji": "🙍",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning: light skin tone",
     "emoji": "🙍🏻",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning: medium-light skin tone",
     "emoji": "🙍🏼",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning: medium skin tone",
     "emoji": "🙍🏽",
     "hexcodes": [
@@ -54,8 +54,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning: medium-dark skin tone",
     "emoji": "🙍🏾",
     "hexcodes": [
@@ -67,8 +67,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person frowning: dark skin tone",
     "emoji": "🙍🏿",
     "hexcodes": [
@@ -80,8 +80,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning",
     "emoji": "🙍‍♂️",
     "hexcodes": [
@@ -95,8 +95,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning",
     "emoji": "🙍‍♂",
     "hexcodes": [
@@ -109,8 +109,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: light skin tone",
     "emoji": "🙍🏻‍♂️",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: light skin tone",
     "emoji": "🙍🏻‍♂",
     "hexcodes": [
@@ -140,8 +140,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium-light skin tone",
     "emoji": "🙍🏼‍♂️",
     "hexcodes": [
@@ -156,8 +156,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium-light skin tone",
     "emoji": "🙍🏼‍♂",
     "hexcodes": [
@@ -171,8 +171,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium skin tone",
     "emoji": "🙍🏽‍♂️",
     "hexcodes": [
@@ -187,8 +187,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium skin tone",
     "emoji": "🙍🏽‍♂",
     "hexcodes": [
@@ -202,8 +202,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium-dark skin tone",
     "emoji": "🙍🏾‍♂️",
     "hexcodes": [
@@ -218,8 +218,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: medium-dark skin tone",
     "emoji": "🙍🏾‍♂",
     "hexcodes": [
@@ -233,8 +233,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: dark skin tone",
     "emoji": "🙍🏿‍♂️",
     "hexcodes": [
@@ -249,8 +249,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man frowning: dark skin tone",
     "emoji": "🙍🏿‍♂",
     "hexcodes": [
@@ -264,8 +264,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning",
     "emoji": "🙍‍♀️",
     "hexcodes": [
@@ -279,8 +279,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning",
     "emoji": "🙍‍♀",
     "hexcodes": [
@@ -293,8 +293,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: light skin tone",
     "emoji": "🙍🏻‍♀️",
     "hexcodes": [
@@ -309,8 +309,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: light skin tone",
     "emoji": "🙍🏻‍♀",
     "hexcodes": [
@@ -324,8 +324,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium-light skin tone",
     "emoji": "🙍🏼‍♀️",
     "hexcodes": [
@@ -340,8 +340,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium-light skin tone",
     "emoji": "🙍🏼‍♀",
     "hexcodes": [
@@ -355,8 +355,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium skin tone",
     "emoji": "🙍🏽‍♀️",
     "hexcodes": [
@@ -371,8 +371,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium skin tone",
     "emoji": "🙍🏽‍♀",
     "hexcodes": [
@@ -386,8 +386,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium-dark skin tone",
     "emoji": "🙍🏾‍♀️",
     "hexcodes": [
@@ -402,8 +402,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: medium-dark skin tone",
     "emoji": "🙍🏾‍♀",
     "hexcodes": [
@@ -417,8 +417,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: dark skin tone",
     "emoji": "🙍🏿‍♀️",
     "hexcodes": [
@@ -433,8 +433,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman frowning: dark skin tone",
     "emoji": "🙍🏿‍♀",
     "hexcodes": [
@@ -448,8 +448,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting",
     "emoji": "🙎",
     "hexcodes": [
@@ -460,8 +460,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting: light skin tone",
     "emoji": "🙎🏻",
     "hexcodes": [
@@ -473,8 +473,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting: medium-light skin tone",
     "emoji": "🙎🏼",
     "hexcodes": [
@@ -486,8 +486,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting: medium skin tone",
     "emoji": "🙎🏽",
     "hexcodes": [
@@ -499,8 +499,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting: medium-dark skin tone",
     "emoji": "🙎🏾",
     "hexcodes": [
@@ -512,8 +512,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person pouting: dark skin tone",
     "emoji": "🙎🏿",
     "hexcodes": [
@@ -525,8 +525,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting",
     "emoji": "🙎‍♂️",
     "hexcodes": [
@@ -540,8 +540,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting",
     "emoji": "🙎‍♂",
     "hexcodes": [
@@ -554,8 +554,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: light skin tone",
     "emoji": "🙎🏻‍♂️",
     "hexcodes": [
@@ -570,8 +570,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: light skin tone",
     "emoji": "🙎🏻‍♂",
     "hexcodes": [
@@ -585,8 +585,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium-light skin tone",
     "emoji": "🙎🏼‍♂️",
     "hexcodes": [
@@ -601,8 +601,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium-light skin tone",
     "emoji": "🙎🏼‍♂",
     "hexcodes": [
@@ -616,8 +616,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium skin tone",
     "emoji": "🙎🏽‍♂️",
     "hexcodes": [
@@ -632,8 +632,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium skin tone",
     "emoji": "🙎🏽‍♂",
     "hexcodes": [
@@ -647,8 +647,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium-dark skin tone",
     "emoji": "🙎🏾‍♂️",
     "hexcodes": [
@@ -663,8 +663,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: medium-dark skin tone",
     "emoji": "🙎🏾‍♂",
     "hexcodes": [
@@ -678,8 +678,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: dark skin tone",
     "emoji": "🙎🏿‍♂️",
     "hexcodes": [
@@ -694,8 +694,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pouting: dark skin tone",
     "emoji": "🙎🏿‍♂",
     "hexcodes": [
@@ -709,8 +709,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting",
     "emoji": "🙎‍♀️",
     "hexcodes": [
@@ -724,8 +724,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting",
     "emoji": "🙎‍♀",
     "hexcodes": [
@@ -738,8 +738,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: light skin tone",
     "emoji": "🙎🏻‍♀️",
     "hexcodes": [
@@ -754,8 +754,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: light skin tone",
     "emoji": "🙎🏻‍♀",
     "hexcodes": [
@@ -769,8 +769,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium-light skin tone",
     "emoji": "🙎🏼‍♀️",
     "hexcodes": [
@@ -785,8 +785,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium-light skin tone",
     "emoji": "🙎🏼‍♀",
     "hexcodes": [
@@ -800,8 +800,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium skin tone",
     "emoji": "🙎🏽‍♀️",
     "hexcodes": [
@@ -816,8 +816,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium skin tone",
     "emoji": "🙎🏽‍♀",
     "hexcodes": [
@@ -831,8 +831,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium-dark skin tone",
     "emoji": "🙎🏾‍♀️",
     "hexcodes": [
@@ -847,8 +847,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: medium-dark skin tone",
     "emoji": "🙎🏾‍♀",
     "hexcodes": [
@@ -862,8 +862,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: dark skin tone",
     "emoji": "🙎🏿‍♀️",
     "hexcodes": [
@@ -878,8 +878,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pouting: dark skin tone",
     "emoji": "🙎🏿‍♀",
     "hexcodes": [
@@ -893,8 +893,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO",
     "emoji": "🙅",
     "hexcodes": [
@@ -905,8 +905,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO: light skin tone",
     "emoji": "🙅🏻",
     "hexcodes": [
@@ -918,8 +918,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO: medium-light skin tone",
     "emoji": "🙅🏼",
     "hexcodes": [
@@ -931,8 +931,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO: medium skin tone",
     "emoji": "🙅🏽",
     "hexcodes": [
@@ -944,8 +944,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO: medium-dark skin tone",
     "emoji": "🙅🏾",
     "hexcodes": [
@@ -957,8 +957,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing NO: dark skin tone",
     "emoji": "🙅🏿",
     "hexcodes": [
@@ -970,8 +970,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO",
     "emoji": "🙅‍♂️",
     "hexcodes": [
@@ -985,8 +985,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO",
     "emoji": "🙅‍♂",
     "hexcodes": [
@@ -999,8 +999,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: light skin tone",
     "emoji": "🙅🏻‍♂️",
     "hexcodes": [
@@ -1015,8 +1015,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: light skin tone",
     "emoji": "🙅🏻‍♂",
     "hexcodes": [
@@ -1030,8 +1030,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium-light skin tone",
     "emoji": "🙅🏼‍♂️",
     "hexcodes": [
@@ -1046,8 +1046,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium-light skin tone",
     "emoji": "🙅🏼‍♂",
     "hexcodes": [
@@ -1061,8 +1061,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium skin tone",
     "emoji": "🙅🏽‍♂️",
     "hexcodes": [
@@ -1077,8 +1077,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium skin tone",
     "emoji": "🙅🏽‍♂",
     "hexcodes": [
@@ -1092,8 +1092,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium-dark skin tone",
     "emoji": "🙅🏾‍♂️",
     "hexcodes": [
@@ -1108,8 +1108,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: medium-dark skin tone",
     "emoji": "🙅🏾‍♂",
     "hexcodes": [
@@ -1123,8 +1123,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: dark skin tone",
     "emoji": "🙅🏿‍♂️",
     "hexcodes": [
@@ -1139,8 +1139,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing NO: dark skin tone",
     "emoji": "🙅🏿‍♂",
     "hexcodes": [
@@ -1154,8 +1154,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO",
     "emoji": "🙅‍♀️",
     "hexcodes": [
@@ -1169,8 +1169,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO",
     "emoji": "🙅‍♀",
     "hexcodes": [
@@ -1183,8 +1183,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: light skin tone",
     "emoji": "🙅🏻‍♀️",
     "hexcodes": [
@@ -1199,8 +1199,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: light skin tone",
     "emoji": "🙅🏻‍♀",
     "hexcodes": [
@@ -1214,8 +1214,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium-light skin tone",
     "emoji": "🙅🏼‍♀️",
     "hexcodes": [
@@ -1230,8 +1230,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium-light skin tone",
     "emoji": "🙅🏼‍♀",
     "hexcodes": [
@@ -1245,8 +1245,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium skin tone",
     "emoji": "🙅🏽‍♀️",
     "hexcodes": [
@@ -1261,8 +1261,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium skin tone",
     "emoji": "🙅🏽‍♀",
     "hexcodes": [
@@ -1276,8 +1276,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium-dark skin tone",
     "emoji": "🙅🏾‍♀️",
     "hexcodes": [
@@ -1292,8 +1292,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: medium-dark skin tone",
     "emoji": "🙅🏾‍♀",
     "hexcodes": [
@@ -1307,8 +1307,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: dark skin tone",
     "emoji": "🙅🏿‍♀️",
     "hexcodes": [
@@ -1323,8 +1323,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing NO: dark skin tone",
     "emoji": "🙅🏿‍♀",
     "hexcodes": [
@@ -1338,8 +1338,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK",
     "emoji": "🙆",
     "hexcodes": [
@@ -1350,8 +1350,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK: light skin tone",
     "emoji": "🙆🏻",
     "hexcodes": [
@@ -1363,8 +1363,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK: medium-light skin tone",
     "emoji": "🙆🏼",
     "hexcodes": [
@@ -1376,8 +1376,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK: medium skin tone",
     "emoji": "🙆🏽",
     "hexcodes": [
@@ -1389,8 +1389,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK: medium-dark skin tone",
     "emoji": "🙆🏾",
     "hexcodes": [
@@ -1402,8 +1402,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person gesturing OK: dark skin tone",
     "emoji": "🙆🏿",
     "hexcodes": [
@@ -1415,8 +1415,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK",
     "emoji": "🙆‍♂️",
     "hexcodes": [
@@ -1430,8 +1430,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK",
     "emoji": "🙆‍♂",
     "hexcodes": [
@@ -1444,8 +1444,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: light skin tone",
     "emoji": "🙆🏻‍♂️",
     "hexcodes": [
@@ -1460,8 +1460,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: light skin tone",
     "emoji": "🙆🏻‍♂",
     "hexcodes": [
@@ -1475,8 +1475,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium-light skin tone",
     "emoji": "🙆🏼‍♂️",
     "hexcodes": [
@@ -1491,8 +1491,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium-light skin tone",
     "emoji": "🙆🏼‍♂",
     "hexcodes": [
@@ -1506,8 +1506,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium skin tone",
     "emoji": "🙆🏽‍♂️",
     "hexcodes": [
@@ -1522,8 +1522,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium skin tone",
     "emoji": "🙆🏽‍♂",
     "hexcodes": [
@@ -1537,8 +1537,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium-dark skin tone",
     "emoji": "🙆🏾‍♂️",
     "hexcodes": [
@@ -1553,8 +1553,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: medium-dark skin tone",
     "emoji": "🙆🏾‍♂",
     "hexcodes": [
@@ -1568,8 +1568,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: dark skin tone",
     "emoji": "🙆🏿‍♂️",
     "hexcodes": [
@@ -1584,8 +1584,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man gesturing OK: dark skin tone",
     "emoji": "🙆🏿‍♂",
     "hexcodes": [
@@ -1599,8 +1599,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK",
     "emoji": "🙆‍♀️",
     "hexcodes": [
@@ -1614,8 +1614,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK",
     "emoji": "🙆‍♀",
     "hexcodes": [
@@ -1628,8 +1628,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: light skin tone",
     "emoji": "🙆🏻‍♀️",
     "hexcodes": [
@@ -1644,8 +1644,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: light skin tone",
     "emoji": "🙆🏻‍♀",
     "hexcodes": [
@@ -1659,8 +1659,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium-light skin tone",
     "emoji": "🙆🏼‍♀️",
     "hexcodes": [
@@ -1675,8 +1675,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium-light skin tone",
     "emoji": "🙆🏼‍♀",
     "hexcodes": [
@@ -1690,8 +1690,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium skin tone",
     "emoji": "🙆🏽‍♀️",
     "hexcodes": [
@@ -1706,8 +1706,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium skin tone",
     "emoji": "🙆🏽‍♀",
     "hexcodes": [
@@ -1721,8 +1721,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium-dark skin tone",
     "emoji": "🙆🏾‍♀️",
     "hexcodes": [
@@ -1737,8 +1737,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: medium-dark skin tone",
     "emoji": "🙆🏾‍♀",
     "hexcodes": [
@@ -1752,8 +1752,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: dark skin tone",
     "emoji": "🙆🏿‍♀️",
     "hexcodes": [
@@ -1768,8 +1768,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman gesturing OK: dark skin tone",
     "emoji": "🙆🏿‍♀",
     "hexcodes": [
@@ -1783,8 +1783,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand",
     "emoji": "💁",
     "hexcodes": [
@@ -1795,8 +1795,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand: light skin tone",
     "emoji": "💁🏻",
     "hexcodes": [
@@ -1808,8 +1808,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand: medium-light skin tone",
     "emoji": "💁🏼",
     "hexcodes": [
@@ -1821,8 +1821,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand: medium skin tone",
     "emoji": "💁🏽",
     "hexcodes": [
@@ -1834,8 +1834,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand: medium-dark skin tone",
     "emoji": "💁🏾",
     "hexcodes": [
@@ -1847,8 +1847,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person tipping hand: dark skin tone",
     "emoji": "💁🏿",
     "hexcodes": [
@@ -1860,8 +1860,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand",
     "emoji": "💁‍♂️",
     "hexcodes": [
@@ -1875,8 +1875,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand",
     "emoji": "💁‍♂",
     "hexcodes": [
@@ -1889,8 +1889,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: light skin tone",
     "emoji": "💁🏻‍♂️",
     "hexcodes": [
@@ -1905,8 +1905,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: light skin tone",
     "emoji": "💁🏻‍♂",
     "hexcodes": [
@@ -1920,8 +1920,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium-light skin tone",
     "emoji": "💁🏼‍♂️",
     "hexcodes": [
@@ -1936,8 +1936,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium-light skin tone",
     "emoji": "💁🏼‍♂",
     "hexcodes": [
@@ -1951,8 +1951,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium skin tone",
     "emoji": "💁🏽‍♂️",
     "hexcodes": [
@@ -1967,8 +1967,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium skin tone",
     "emoji": "💁🏽‍♂",
     "hexcodes": [
@@ -1982,8 +1982,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium-dark skin tone",
     "emoji": "💁🏾‍♂️",
     "hexcodes": [
@@ -1998,8 +1998,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: medium-dark skin tone",
     "emoji": "💁🏾‍♂",
     "hexcodes": [
@@ -2013,8 +2013,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: dark skin tone",
     "emoji": "💁🏿‍♂️",
     "hexcodes": [
@@ -2029,8 +2029,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man tipping hand: dark skin tone",
     "emoji": "💁🏿‍♂",
     "hexcodes": [
@@ -2044,8 +2044,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand",
     "emoji": "💁‍♀️",
     "hexcodes": [
@@ -2059,8 +2059,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand",
     "emoji": "💁‍♀",
     "hexcodes": [
@@ -2073,8 +2073,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: light skin tone",
     "emoji": "💁🏻‍♀️",
     "hexcodes": [
@@ -2089,8 +2089,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: light skin tone",
     "emoji": "💁🏻‍♀",
     "hexcodes": [
@@ -2104,8 +2104,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium-light skin tone",
     "emoji": "💁🏼‍♀️",
     "hexcodes": [
@@ -2120,8 +2120,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium-light skin tone",
     "emoji": "💁🏼‍♀",
     "hexcodes": [
@@ -2135,8 +2135,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium skin tone",
     "emoji": "💁🏽‍♀️",
     "hexcodes": [
@@ -2151,8 +2151,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium skin tone",
     "emoji": "💁🏽‍♀",
     "hexcodes": [
@@ -2166,8 +2166,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium-dark skin tone",
     "emoji": "💁🏾‍♀️",
     "hexcodes": [
@@ -2182,8 +2182,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: medium-dark skin tone",
     "emoji": "💁🏾‍♀",
     "hexcodes": [
@@ -2197,8 +2197,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: dark skin tone",
     "emoji": "💁🏿‍♀️",
     "hexcodes": [
@@ -2213,8 +2213,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman tipping hand: dark skin tone",
     "emoji": "💁🏿‍♀",
     "hexcodes": [
@@ -2228,8 +2228,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand",
     "emoji": "🙋",
     "hexcodes": [
@@ -2240,8 +2240,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand: light skin tone",
     "emoji": "🙋🏻",
     "hexcodes": [
@@ -2253,8 +2253,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand: medium-light skin tone",
     "emoji": "🙋🏼",
     "hexcodes": [
@@ -2266,8 +2266,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand: medium skin tone",
     "emoji": "🙋🏽",
     "hexcodes": [
@@ -2279,8 +2279,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand: medium-dark skin tone",
     "emoji": "🙋🏾",
     "hexcodes": [
@@ -2292,8 +2292,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person raising hand: dark skin tone",
     "emoji": "🙋🏿",
     "hexcodes": [
@@ -2305,8 +2305,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand",
     "emoji": "🙋‍♂️",
     "hexcodes": [
@@ -2320,8 +2320,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand",
     "emoji": "🙋‍♂",
     "hexcodes": [
@@ -2334,8 +2334,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: light skin tone",
     "emoji": "🙋🏻‍♂️",
     "hexcodes": [
@@ -2350,8 +2350,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: light skin tone",
     "emoji": "🙋🏻‍♂",
     "hexcodes": [
@@ -2365,8 +2365,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium-light skin tone",
     "emoji": "🙋🏼‍♂️",
     "hexcodes": [
@@ -2381,8 +2381,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium-light skin tone",
     "emoji": "🙋🏼‍♂",
     "hexcodes": [
@@ -2396,8 +2396,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium skin tone",
     "emoji": "🙋🏽‍♂️",
     "hexcodes": [
@@ -2412,8 +2412,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium skin tone",
     "emoji": "🙋🏽‍♂",
     "hexcodes": [
@@ -2427,8 +2427,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium-dark skin tone",
     "emoji": "🙋🏾‍♂️",
     "hexcodes": [
@@ -2443,8 +2443,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: medium-dark skin tone",
     "emoji": "🙋🏾‍♂",
     "hexcodes": [
@@ -2458,8 +2458,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: dark skin tone",
     "emoji": "🙋🏿‍♂️",
     "hexcodes": [
@@ -2474,8 +2474,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man raising hand: dark skin tone",
     "emoji": "🙋🏿‍♂",
     "hexcodes": [
@@ -2489,8 +2489,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand",
     "emoji": "🙋‍♀️",
     "hexcodes": [
@@ -2504,8 +2504,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand",
     "emoji": "🙋‍♀",
     "hexcodes": [
@@ -2518,8 +2518,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: light skin tone",
     "emoji": "🙋🏻‍♀️",
     "hexcodes": [
@@ -2534,8 +2534,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: light skin tone",
     "emoji": "🙋🏻‍♀",
     "hexcodes": [
@@ -2549,8 +2549,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium-light skin tone",
     "emoji": "🙋🏼‍♀️",
     "hexcodes": [
@@ -2565,8 +2565,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium-light skin tone",
     "emoji": "🙋🏼‍♀",
     "hexcodes": [
@@ -2580,8 +2580,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium skin tone",
     "emoji": "🙋🏽‍♀️",
     "hexcodes": [
@@ -2596,8 +2596,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium skin tone",
     "emoji": "🙋🏽‍♀",
     "hexcodes": [
@@ -2611,8 +2611,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium-dark skin tone",
     "emoji": "🙋🏾‍♀️",
     "hexcodes": [
@@ -2627,8 +2627,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: medium-dark skin tone",
     "emoji": "🙋🏾‍♀",
     "hexcodes": [
@@ -2642,8 +2642,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: dark skin tone",
     "emoji": "🙋🏿‍♀️",
     "hexcodes": [
@@ -2658,8 +2658,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman raising hand: dark skin tone",
     "emoji": "🙋🏿‍♀",
     "hexcodes": [
@@ -2673,8 +2673,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person",
     "emoji": "🧏",
     "hexcodes": [
@@ -2685,8 +2685,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person: light skin tone",
     "emoji": "🧏🏻",
     "hexcodes": [
@@ -2698,8 +2698,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person: medium-light skin tone",
     "emoji": "🧏🏼",
     "hexcodes": [
@@ -2711,8 +2711,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person: medium skin tone",
     "emoji": "🧏🏽",
     "hexcodes": [
@@ -2724,8 +2724,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person: medium-dark skin tone",
     "emoji": "🧏🏾",
     "hexcodes": [
@@ -2737,8 +2737,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf person: dark skin tone",
     "emoji": "🧏🏿",
     "hexcodes": [
@@ -2750,8 +2750,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man",
     "emoji": "🧏‍♂️",
     "hexcodes": [
@@ -2765,8 +2765,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man",
     "emoji": "🧏‍♂",
     "hexcodes": [
@@ -2779,8 +2779,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: light skin tone",
     "emoji": "🧏🏻‍♂️",
     "hexcodes": [
@@ -2795,8 +2795,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: light skin tone",
     "emoji": "🧏🏻‍♂",
     "hexcodes": [
@@ -2810,8 +2810,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium-light skin tone",
     "emoji": "🧏🏼‍♂️",
     "hexcodes": [
@@ -2826,8 +2826,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium-light skin tone",
     "emoji": "🧏🏼‍♂",
     "hexcodes": [
@@ -2841,8 +2841,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium skin tone",
     "emoji": "🧏🏽‍♂️",
     "hexcodes": [
@@ -2857,8 +2857,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium skin tone",
     "emoji": "🧏🏽‍♂",
     "hexcodes": [
@@ -2872,8 +2872,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium-dark skin tone",
     "emoji": "🧏🏾‍♂️",
     "hexcodes": [
@@ -2888,8 +2888,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: medium-dark skin tone",
     "emoji": "🧏🏾‍♂",
     "hexcodes": [
@@ -2903,8 +2903,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: dark skin tone",
     "emoji": "🧏🏿‍♂️",
     "hexcodes": [
@@ -2919,8 +2919,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf man: dark skin tone",
     "emoji": "🧏🏿‍♂",
     "hexcodes": [
@@ -2934,8 +2934,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman",
     "emoji": "🧏‍♀️",
     "hexcodes": [
@@ -2949,8 +2949,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman",
     "emoji": "🧏‍♀",
     "hexcodes": [
@@ -2963,8 +2963,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: light skin tone",
     "emoji": "🧏🏻‍♀️",
     "hexcodes": [
@@ -2979,8 +2979,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: light skin tone",
     "emoji": "🧏🏻‍♀",
     "hexcodes": [
@@ -2994,8 +2994,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium-light skin tone",
     "emoji": "🧏🏼‍♀️",
     "hexcodes": [
@@ -3010,8 +3010,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium-light skin tone",
     "emoji": "🧏🏼‍♀",
     "hexcodes": [
@@ -3025,8 +3025,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium skin tone",
     "emoji": "🧏🏽‍♀️",
     "hexcodes": [
@@ -3041,8 +3041,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium skin tone",
     "emoji": "🧏🏽‍♀",
     "hexcodes": [
@@ -3056,8 +3056,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium-dark skin tone",
     "emoji": "🧏🏾‍♀️",
     "hexcodes": [
@@ -3072,8 +3072,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: medium-dark skin tone",
     "emoji": "🧏🏾‍♀",
     "hexcodes": [
@@ -3087,8 +3087,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: dark skin tone",
     "emoji": "🧏🏿‍♀️",
     "hexcodes": [
@@ -3103,8 +3103,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "deaf woman: dark skin tone",
     "emoji": "🧏🏿‍♀",
     "hexcodes": [
@@ -3118,8 +3118,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing",
     "emoji": "🙇",
     "hexcodes": [
@@ -3130,8 +3130,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing: light skin tone",
     "emoji": "🙇🏻",
     "hexcodes": [
@@ -3143,8 +3143,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing: medium-light skin tone",
     "emoji": "🙇🏼",
     "hexcodes": [
@@ -3156,8 +3156,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing: medium skin tone",
     "emoji": "🙇🏽",
     "hexcodes": [
@@ -3169,8 +3169,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing: medium-dark skin tone",
     "emoji": "🙇🏾",
     "hexcodes": [
@@ -3182,8 +3182,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bowing: dark skin tone",
     "emoji": "🙇🏿",
     "hexcodes": [
@@ -3195,8 +3195,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing",
     "emoji": "🙇‍♂️",
     "hexcodes": [
@@ -3210,8 +3210,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing",
     "emoji": "🙇‍♂",
     "hexcodes": [
@@ -3224,8 +3224,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: light skin tone",
     "emoji": "🙇🏻‍♂️",
     "hexcodes": [
@@ -3240,8 +3240,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: light skin tone",
     "emoji": "🙇🏻‍♂",
     "hexcodes": [
@@ -3255,8 +3255,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium-light skin tone",
     "emoji": "🙇🏼‍♂️",
     "hexcodes": [
@@ -3271,8 +3271,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium-light skin tone",
     "emoji": "🙇🏼‍♂",
     "hexcodes": [
@@ -3286,8 +3286,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium skin tone",
     "emoji": "🙇🏽‍♂️",
     "hexcodes": [
@@ -3302,8 +3302,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium skin tone",
     "emoji": "🙇🏽‍♂",
     "hexcodes": [
@@ -3317,8 +3317,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium-dark skin tone",
     "emoji": "🙇🏾‍♂️",
     "hexcodes": [
@@ -3333,8 +3333,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: medium-dark skin tone",
     "emoji": "🙇🏾‍♂",
     "hexcodes": [
@@ -3348,8 +3348,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: dark skin tone",
     "emoji": "🙇🏿‍♂️",
     "hexcodes": [
@@ -3364,8 +3364,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bowing: dark skin tone",
     "emoji": "🙇🏿‍♂",
     "hexcodes": [
@@ -3379,8 +3379,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing",
     "emoji": "🙇‍♀️",
     "hexcodes": [
@@ -3394,8 +3394,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing",
     "emoji": "🙇‍♀",
     "hexcodes": [
@@ -3408,8 +3408,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: light skin tone",
     "emoji": "🙇🏻‍♀️",
     "hexcodes": [
@@ -3424,8 +3424,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: light skin tone",
     "emoji": "🙇🏻‍♀",
     "hexcodes": [
@@ -3439,8 +3439,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium-light skin tone",
     "emoji": "🙇🏼‍♀️",
     "hexcodes": [
@@ -3455,8 +3455,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium-light skin tone",
     "emoji": "🙇🏼‍♀",
     "hexcodes": [
@@ -3470,8 +3470,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium skin tone",
     "emoji": "🙇🏽‍♀️",
     "hexcodes": [
@@ -3486,8 +3486,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium skin tone",
     "emoji": "🙇🏽‍♀",
     "hexcodes": [
@@ -3501,8 +3501,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium-dark skin tone",
     "emoji": "🙇🏾‍♀️",
     "hexcodes": [
@@ -3517,8 +3517,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: medium-dark skin tone",
     "emoji": "🙇🏾‍♀",
     "hexcodes": [
@@ -3532,8 +3532,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: dark skin tone",
     "emoji": "🙇🏿‍♀️",
     "hexcodes": [
@@ -3548,8 +3548,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bowing: dark skin tone",
     "emoji": "🙇🏿‍♀",
     "hexcodes": [
@@ -3563,8 +3563,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming",
     "emoji": "🤦",
     "hexcodes": [
@@ -3575,8 +3575,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming: light skin tone",
     "emoji": "🤦🏻",
     "hexcodes": [
@@ -3588,8 +3588,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming: medium-light skin tone",
     "emoji": "🤦🏼",
     "hexcodes": [
@@ -3601,8 +3601,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming: medium skin tone",
     "emoji": "🤦🏽",
     "hexcodes": [
@@ -3614,8 +3614,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming: medium-dark skin tone",
     "emoji": "🤦🏾",
     "hexcodes": [
@@ -3627,8 +3627,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person facepalming: dark skin tone",
     "emoji": "🤦🏿",
     "hexcodes": [
@@ -3640,8 +3640,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming",
     "emoji": "🤦‍♂️",
     "hexcodes": [
@@ -3655,8 +3655,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming",
     "emoji": "🤦‍♂",
     "hexcodes": [
@@ -3669,8 +3669,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: light skin tone",
     "emoji": "🤦🏻‍♂️",
     "hexcodes": [
@@ -3685,8 +3685,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: light skin tone",
     "emoji": "🤦🏻‍♂",
     "hexcodes": [
@@ -3700,8 +3700,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium-light skin tone",
     "emoji": "🤦🏼‍♂️",
     "hexcodes": [
@@ -3716,8 +3716,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium-light skin tone",
     "emoji": "🤦🏼‍♂",
     "hexcodes": [
@@ -3731,8 +3731,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium skin tone",
     "emoji": "🤦🏽‍♂️",
     "hexcodes": [
@@ -3747,8 +3747,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium skin tone",
     "emoji": "🤦🏽‍♂",
     "hexcodes": [
@@ -3762,8 +3762,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium-dark skin tone",
     "emoji": "🤦🏾‍♂️",
     "hexcodes": [
@@ -3778,8 +3778,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: medium-dark skin tone",
     "emoji": "🤦🏾‍♂",
     "hexcodes": [
@@ -3793,8 +3793,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: dark skin tone",
     "emoji": "🤦🏿‍♂️",
     "hexcodes": [
@@ -3809,8 +3809,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man facepalming: dark skin tone",
     "emoji": "🤦🏿‍♂",
     "hexcodes": [
@@ -3824,8 +3824,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming",
     "emoji": "🤦‍♀️",
     "hexcodes": [
@@ -3839,8 +3839,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming",
     "emoji": "🤦‍♀",
     "hexcodes": [
@@ -3853,8 +3853,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: light skin tone",
     "emoji": "🤦🏻‍♀️",
     "hexcodes": [
@@ -3869,8 +3869,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: light skin tone",
     "emoji": "🤦🏻‍♀",
     "hexcodes": [
@@ -3884,8 +3884,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium-light skin tone",
     "emoji": "🤦🏼‍♀️",
     "hexcodes": [
@@ -3900,8 +3900,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium-light skin tone",
     "emoji": "🤦🏼‍♀",
     "hexcodes": [
@@ -3915,8 +3915,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium skin tone",
     "emoji": "🤦🏽‍♀️",
     "hexcodes": [
@@ -3931,8 +3931,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium skin tone",
     "emoji": "🤦🏽‍♀",
     "hexcodes": [
@@ -3946,8 +3946,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium-dark skin tone",
     "emoji": "🤦🏾‍♀️",
     "hexcodes": [
@@ -3962,8 +3962,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: medium-dark skin tone",
     "emoji": "🤦🏾‍♀",
     "hexcodes": [
@@ -3977,8 +3977,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: dark skin tone",
     "emoji": "🤦🏿‍♀️",
     "hexcodes": [
@@ -3993,8 +3993,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman facepalming: dark skin tone",
     "emoji": "🤦🏿‍♀",
     "hexcodes": [
@@ -4008,8 +4008,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging",
     "emoji": "🤷",
     "hexcodes": [
@@ -4020,8 +4020,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging: light skin tone",
     "emoji": "🤷🏻",
     "hexcodes": [
@@ -4033,8 +4033,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging: medium-light skin tone",
     "emoji": "🤷🏼",
     "hexcodes": [
@@ -4046,8 +4046,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging: medium skin tone",
     "emoji": "🤷🏽",
     "hexcodes": [
@@ -4059,8 +4059,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging: medium-dark skin tone",
     "emoji": "🤷🏾",
     "hexcodes": [
@@ -4072,8 +4072,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person shrugging: dark skin tone",
     "emoji": "🤷🏿",
     "hexcodes": [
@@ -4085,8 +4085,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging",
     "emoji": "🤷‍♂️",
     "hexcodes": [
@@ -4100,8 +4100,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging",
     "emoji": "🤷‍♂",
     "hexcodes": [
@@ -4114,8 +4114,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: light skin tone",
     "emoji": "🤷🏻‍♂️",
     "hexcodes": [
@@ -4130,8 +4130,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: light skin tone",
     "emoji": "🤷🏻‍♂",
     "hexcodes": [
@@ -4145,8 +4145,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium-light skin tone",
     "emoji": "🤷🏼‍♂️",
     "hexcodes": [
@@ -4161,8 +4161,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium-light skin tone",
     "emoji": "🤷🏼‍♂",
     "hexcodes": [
@@ -4176,8 +4176,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium skin tone",
     "emoji": "🤷🏽‍♂️",
     "hexcodes": [
@@ -4192,8 +4192,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium skin tone",
     "emoji": "🤷🏽‍♂",
     "hexcodes": [
@@ -4207,8 +4207,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium-dark skin tone",
     "emoji": "🤷🏾‍♂️",
     "hexcodes": [
@@ -4223,8 +4223,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: medium-dark skin tone",
     "emoji": "🤷🏾‍♂",
     "hexcodes": [
@@ -4238,8 +4238,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: dark skin tone",
     "emoji": "🤷🏿‍♂️",
     "hexcodes": [
@@ -4254,8 +4254,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man shrugging: dark skin tone",
     "emoji": "🤷🏿‍♂",
     "hexcodes": [
@@ -4269,8 +4269,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging",
     "emoji": "🤷‍♀️",
     "hexcodes": [
@@ -4284,8 +4284,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging",
     "emoji": "🤷‍♀",
     "hexcodes": [
@@ -4298,8 +4298,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: light skin tone",
     "emoji": "🤷🏻‍♀️",
     "hexcodes": [
@@ -4314,8 +4314,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: light skin tone",
     "emoji": "🤷🏻‍♀",
     "hexcodes": [
@@ -4329,8 +4329,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium-light skin tone",
     "emoji": "🤷🏼‍♀️",
     "hexcodes": [
@@ -4345,8 +4345,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium-light skin tone",
     "emoji": "🤷🏼‍♀",
     "hexcodes": [
@@ -4360,8 +4360,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium skin tone",
     "emoji": "🤷🏽‍♀️",
     "hexcodes": [
@@ -4376,8 +4376,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium skin tone",
     "emoji": "🤷🏽‍♀",
     "hexcodes": [
@@ -4391,8 +4391,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium-dark skin tone",
     "emoji": "🤷🏾‍♀️",
     "hexcodes": [
@@ -4407,8 +4407,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: medium-dark skin tone",
     "emoji": "🤷🏾‍♀",
     "hexcodes": [
@@ -4422,8 +4422,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: dark skin tone",
     "emoji": "🤷🏿‍♀️",
     "hexcodes": [
@@ -4438,8 +4438,8 @@
     "group": "people-body",
     "subgroup": "person-gesture",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman shrugging: dark skin tone",
     "emoji": "🤷🏿‍♀",
     "hexcodes": [

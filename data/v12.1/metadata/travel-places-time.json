@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hourglass done",
     "emoji": "⌛",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hourglass not done",
     "emoji": "⏳",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "watch",
     "emoji": "⌚",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "alarm clock",
     "emoji": "⏰",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "stopwatch",
     "emoji": "⏱️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "stopwatch",
     "emoji": "⏱",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "timer clock",
     "emoji": "⏲️",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "timer clock",
     "emoji": "⏲",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "mantelpiece clock",
     "emoji": "🕰️",
     "hexcodes": [
@@ -114,8 +114,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "mantelpiece clock",
     "emoji": "🕰",
     "hexcodes": [
@@ -126,8 +126,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "twelve o’clock",
     "emoji": "🕛",
     "hexcodes": [
@@ -138,8 +138,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "twelve-thirty",
     "emoji": "🕧",
     "hexcodes": [
@@ -150,8 +150,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "one o’clock",
     "emoji": "🕐",
     "hexcodes": [
@@ -162,8 +162,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "one-thirty",
     "emoji": "🕜",
     "hexcodes": [
@@ -174,8 +174,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "two o’clock",
     "emoji": "🕑",
     "hexcodes": [
@@ -186,8 +186,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "two-thirty",
     "emoji": "🕝",
     "hexcodes": [
@@ -198,8 +198,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "three o’clock",
     "emoji": "🕒",
     "hexcodes": [
@@ -210,8 +210,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "three-thirty",
     "emoji": "🕞",
     "hexcodes": [
@@ -222,8 +222,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "four o’clock",
     "emoji": "🕓",
     "hexcodes": [
@@ -234,8 +234,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "four-thirty",
     "emoji": "🕟",
     "hexcodes": [
@@ -246,8 +246,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "five o’clock",
     "emoji": "🕔",
     "hexcodes": [
@@ -258,8 +258,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "five-thirty",
     "emoji": "🕠",
     "hexcodes": [
@@ -270,8 +270,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "six o’clock",
     "emoji": "🕕",
     "hexcodes": [
@@ -282,8 +282,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "six-thirty",
     "emoji": "🕡",
     "hexcodes": [
@@ -294,8 +294,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "seven o’clock",
     "emoji": "🕖",
     "hexcodes": [
@@ -306,8 +306,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "seven-thirty",
     "emoji": "🕢",
     "hexcodes": [
@@ -318,8 +318,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight o’clock",
     "emoji": "🕗",
     "hexcodes": [
@@ -330,8 +330,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight-thirty",
     "emoji": "🕣",
     "hexcodes": [
@@ -342,8 +342,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "nine o’clock",
     "emoji": "🕘",
     "hexcodes": [
@@ -354,8 +354,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "nine-thirty",
     "emoji": "🕤",
     "hexcodes": [
@@ -366,8 +366,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "ten o’clock",
     "emoji": "🕙",
     "hexcodes": [
@@ -378,8 +378,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "ten-thirty",
     "emoji": "🕥",
     "hexcodes": [
@@ -390,8 +390,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eleven o’clock",
     "emoji": "🕚",
     "hexcodes": [
@@ -402,8 +402,8 @@
     "group": "travel-places",
     "subgroup": "time",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eleven-thirty",
     "emoji": "🕦",
     "hexcodes": [

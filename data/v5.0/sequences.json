@@ -1,4699 +1,4699 @@
 [
   {
-    "hex": "0023-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0023-FE0F-20E3",
     "description": "keycap: \\x{23}",
     "gender": null
   },
   {
-    "hex": "002A-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "002A-FE0F-20E3",
     "description": "keycap: *",
     "gender": null
   },
   {
-    "hex": "0030-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0030-FE0F-20E3",
     "description": "keycap: 0",
     "gender": null
   },
   {
-    "hex": "0031-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0031-FE0F-20E3",
     "description": "keycap: 1",
     "gender": null
   },
   {
-    "hex": "0032-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0032-FE0F-20E3",
     "description": "keycap: 2",
     "gender": null
   },
   {
-    "hex": "0033-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0033-FE0F-20E3",
     "description": "keycap: 3",
     "gender": null
   },
   {
-    "hex": "0034-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0034-FE0F-20E3",
     "description": "keycap: 4",
     "gender": null
   },
   {
-    "hex": "0035-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0035-FE0F-20E3",
     "description": "keycap: 5",
     "gender": null
   },
   {
-    "hex": "0036-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0036-FE0F-20E3",
     "description": "keycap: 6",
     "gender": null
   },
   {
-    "hex": "0037-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0037-FE0F-20E3",
     "description": "keycap: 7",
     "gender": null
   },
   {
-    "hex": "0038-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0038-FE0F-20E3",
     "description": "keycap: 8",
     "gender": null
   },
   {
-    "hex": "0039-FE0F-20E3",
     "property": "Emoji_Keycap_Sequence",
+    "hex": "0039-FE0F-20E3",
     "description": "keycap: 9",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1E8",
     "description": "Ascension Island",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1E9",
     "description": "Andorra",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1EA",
     "description": "United Arab Emirates",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1EB",
     "description": "Afghanistan",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1EC",
     "description": "Antigua & Barbuda",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1EE",
     "description": "Anguilla",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F1",
     "description": "Albania",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F2",
     "description": "Armenia",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F4",
     "description": "Angola",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F6",
     "description": "Antarctica",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F7",
     "description": "Argentina",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F8",
     "description": "American Samoa",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1F9",
     "description": "Austria",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1FA",
     "description": "Australia",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1FC",
     "description": "Aruba",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1FD",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1FD",
     "description": "Åland Islands",
     "gender": null
   },
   {
-    "hex": "1F1E6-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E6-1F1FF",
     "description": "Azerbaijan",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1E6",
     "description": "Bosnia & Herzegovina",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1E7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1E7",
     "description": "Barbados",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1E9",
     "description": "Bangladesh",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1EA",
     "description": "Belgium",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1EB",
     "description": "Burkina Faso",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1EC",
     "description": "Bulgaria",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1ED",
     "description": "Bahrain",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1EE",
     "description": "Burundi",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1EF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1EF",
     "description": "Benin",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F1",
     "description": "St. Barthélemy",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F2",
     "description": "Bermuda",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F3",
     "description": "Brunei",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F4",
     "description": "Bolivia",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F6",
     "description": "Caribbean Netherlands",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F7",
     "description": "Brazil",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F8",
     "description": "Bahamas",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1F9",
     "description": "Bhutan",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1FB",
     "description": "Bouvet Island",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1FC",
     "description": "Botswana",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1FE",
     "description": "Belarus",
     "gender": null
   },
   {
-    "hex": "1F1E7-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E7-1F1FF",
     "description": "Belize",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1E6",
     "description": "Canada",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1E8",
     "description": "Cocos (Keeling) Islands",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1E9",
     "description": "Congo - Kinshasa",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1EB",
     "description": "Central African Republic",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1EC",
     "description": "Congo - Brazzaville",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1ED",
     "description": "Switzerland",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1EE",
     "description": "Côte d’Ivoire",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F0",
     "description": "Cook Islands",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F1",
     "description": "Chile",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F2",
     "description": "Cameroon",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F3",
     "description": "China",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F4",
     "description": "Colombia",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F5",
     "description": "Clipperton Island",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1F7",
     "description": "Costa Rica",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FA",
     "description": "Cuba",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FB",
     "description": "Cape Verde",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FC",
     "description": "Curaçao",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FD",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FD",
     "description": "Christmas Island",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FE",
     "description": "Cyprus",
     "gender": null
   },
   {
-    "hex": "1F1E8-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E8-1F1FF",
     "description": "Czechia",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1EA",
     "description": "Germany",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1EC",
     "description": "Diego Garcia",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1EF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1EF",
     "description": "Djibouti",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1F0",
     "description": "Denmark",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1F2",
     "description": "Dominica",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1F4",
     "description": "Dominican Republic",
     "gender": null
   },
   {
-    "hex": "1F1E9-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1E9-1F1FF",
     "description": "Algeria",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1E6",
     "description": "Ceuta & Melilla",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1E8",
     "description": "Ecuador",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1EA",
     "description": "Estonia",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1EC",
     "description": "Egypt",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1ED",
     "description": "Western Sahara",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1F7",
     "description": "Eritrea",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1F8",
     "description": "Spain",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1F9",
     "description": "Ethiopia",
     "gender": null
   },
   {
-    "hex": "1F1EA-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EA-1F1FA",
     "description": "European Union",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1EE",
     "description": "Finland",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1EF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1EF",
     "description": "Fiji",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1F0",
     "description": "Falkland Islands",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1F2",
     "description": "Micronesia",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1F4",
     "description": "Faroe Islands",
     "gender": null
   },
   {
-    "hex": "1F1EB-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EB-1F1F7",
     "description": "France",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1E6",
     "description": "Gabon",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1E7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1E7",
     "description": "United Kingdom",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1E9",
     "description": "Grenada",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1EA",
     "description": "Georgia",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1EB",
     "description": "French Guiana",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1EC",
     "description": "Guernsey",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1ED",
     "description": "Ghana",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1EE",
     "description": "Gibraltar",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F1",
     "description": "Greenland",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F2",
     "description": "Gambia",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F3",
     "description": "Guinea",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F5",
     "description": "Guadeloupe",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F6",
     "description": "Equatorial Guinea",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F7",
     "description": "Greece",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F8",
     "description": "South Georgia & South Sandwich Islands",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1F9",
     "description": "Guatemala",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1FA",
     "description": "Guam",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1FC",
     "description": "Guinea-Bissau",
     "gender": null
   },
   {
-    "hex": "1F1EC-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EC-1F1FE",
     "description": "Guyana",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1F0",
     "description": "Hong Kong SAR China",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1F2",
     "description": "Heard & McDonald Islands",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1F3",
     "description": "Honduras",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1F7",
     "description": "Croatia",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1F9",
     "description": "Haiti",
     "gender": null
   },
   {
-    "hex": "1F1ED-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1ED-1F1FA",
     "description": "Hungary",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1E8",
     "description": "Canary Islands",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1E9",
     "description": "Indonesia",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1EA",
     "description": "Ireland",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F1",
     "description": "Israel",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F2",
     "description": "Isle of Man",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F3",
     "description": "India",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F4",
     "description": "British Indian Ocean Territory",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F6",
     "description": "Iraq",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F7",
     "description": "Iran",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F8",
     "description": "Iceland",
     "gender": null
   },
   {
-    "hex": "1F1EE-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EE-1F1F9",
     "description": "Italy",
     "gender": null
   },
   {
-    "hex": "1F1EF-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EF-1F1EA",
     "description": "Jersey",
     "gender": null
   },
   {
-    "hex": "1F1EF-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EF-1F1F2",
     "description": "Jamaica",
     "gender": null
   },
   {
-    "hex": "1F1EF-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EF-1F1F4",
     "description": "Jordan",
     "gender": null
   },
   {
-    "hex": "1F1EF-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1EF-1F1F5",
     "description": "Japan",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1EA",
     "description": "Kenya",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1EC",
     "description": "Kyrgyzstan",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1ED",
     "description": "Cambodia",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1EE",
     "description": "Kiribati",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1F2",
     "description": "Comoros",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1F3",
     "description": "St. Kitts & Nevis",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1F5",
     "description": "North Korea",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1F7",
     "description": "South Korea",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1FC",
     "description": "Kuwait",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1FE",
     "description": "Cayman Islands",
     "gender": null
   },
   {
-    "hex": "1F1F0-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F0-1F1FF",
     "description": "Kazakhstan",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1E6",
     "description": "Laos",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1E7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1E7",
     "description": "Lebanon",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1E8",
     "description": "St. Lucia",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1EE",
     "description": "Liechtenstein",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1F0",
     "description": "Sri Lanka",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1F7",
     "description": "Liberia",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1F8",
     "description": "Lesotho",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1F9",
     "description": "Lithuania",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1FA",
     "description": "Luxembourg",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1FB",
     "description": "Latvia",
     "gender": null
   },
   {
-    "hex": "1F1F1-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F1-1F1FE",
     "description": "Libya",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1E6",
     "description": "Morocco",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1E8",
     "description": "Monaco",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1E9",
     "description": "Moldova",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1EA",
     "description": "Montenegro",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1EB",
     "description": "St. Martin",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1EC",
     "description": "Madagascar",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1ED",
     "description": "Marshall Islands",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F0",
     "description": "Macedonia",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F1",
     "description": "Mali",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F2",
     "description": "Myanmar (Burma)",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F3",
     "description": "Mongolia",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F4",
     "description": "Macau SAR China",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F5",
     "description": "Northern Mariana Islands",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F6",
     "description": "Martinique",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F7",
     "description": "Mauritania",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F8",
     "description": "Montserrat",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1F9",
     "description": "Malta",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FA",
     "description": "Mauritius",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FB",
     "description": "Maldives",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FC",
     "description": "Malawi",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FD",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FD",
     "description": "Mexico",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FE",
     "description": "Malaysia",
     "gender": null
   },
   {
-    "hex": "1F1F2-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F2-1F1FF",
     "description": "Mozambique",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1E6",
     "description": "Namibia",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1E8",
     "description": "New Caledonia",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1EA",
     "description": "Niger",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1EB",
     "description": "Norfolk Island",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1EC",
     "description": "Nigeria",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1EE",
     "description": "Nicaragua",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1F1",
     "description": "Netherlands",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1F4",
     "description": "Norway",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1F5",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1F5",
     "description": "Nepal",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1F7",
     "description": "Nauru",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1FA",
     "description": "Niue",
     "gender": null
   },
   {
-    "hex": "1F1F3-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F3-1F1FF",
     "description": "New Zealand",
     "gender": null
   },
   {
-    "hex": "1F1F4-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F4-1F1F2",
     "description": "Oman",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1E6",
     "description": "Panama",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1EA",
     "description": "Peru",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1EB",
     "description": "French Polynesia",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1EC",
     "description": "Papua New Guinea",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1ED",
     "description": "Philippines",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F0",
     "description": "Pakistan",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F1",
     "description": "Poland",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F2",
     "description": "St. Pierre & Miquelon",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F3",
     "description": "Pitcairn Islands",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F7",
     "description": "Puerto Rico",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F8",
     "description": "Palestinian Territories",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1F9",
     "description": "Portugal",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1FC",
     "description": "Palau",
     "gender": null
   },
   {
-    "hex": "1F1F5-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F5-1F1FE",
     "description": "Paraguay",
     "gender": null
   },
   {
-    "hex": "1F1F6-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F6-1F1E6",
     "description": "Qatar",
     "gender": null
   },
   {
-    "hex": "1F1F7-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F7-1F1EA",
     "description": "Réunion",
     "gender": null
   },
   {
-    "hex": "1F1F7-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F7-1F1F4",
     "description": "Romania",
     "gender": null
   },
   {
-    "hex": "1F1F7-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F7-1F1F8",
     "description": "Serbia",
     "gender": null
   },
   {
-    "hex": "1F1F7-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F7-1F1FA",
     "description": "Russia",
     "gender": null
   },
   {
-    "hex": "1F1F7-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F7-1F1FC",
     "description": "Rwanda",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1E6",
     "description": "Saudi Arabia",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1E7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1E7",
     "description": "Solomon Islands",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1E8",
     "description": "Seychelles",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1E9",
     "description": "Sudan",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1EA",
     "description": "Sweden",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1EC",
     "description": "Singapore",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1ED",
     "description": "St. Helena",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1EE",
     "description": "Slovenia",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1EF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1EF",
     "description": "Svalbard & Jan Mayen",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F0",
     "description": "Slovakia",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F1",
     "description": "Sierra Leone",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F2",
     "description": "San Marino",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F3",
     "description": "Senegal",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F4",
     "description": "Somalia",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F7",
     "description": "Suriname",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F8",
     "description": "South Sudan",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1F9",
     "description": "São Tomé & Príncipe",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1FB",
     "description": "El Salvador",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1FD",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1FD",
     "description": "Sint Maarten",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1FE",
     "description": "Syria",
     "gender": null
   },
   {
-    "hex": "1F1F8-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F8-1F1FF",
     "description": "Swaziland",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1E6",
     "description": "Tristan da Cunha",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1E8",
     "description": "Turks & Caicos Islands",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1E9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1E9",
     "description": "Chad",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1EB",
     "description": "French Southern Territories",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1EC",
     "description": "Togo",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1ED",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1ED",
     "description": "Thailand",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1EF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1EF",
     "description": "Tajikistan",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F0",
     "description": "Tokelau",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F1",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F1",
     "description": "Timor-Leste",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F2",
     "description": "Turkmenistan",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F3",
     "description": "Tunisia",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F4",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F4",
     "description": "Tonga",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F7",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F7",
     "description": "Turkey",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1F9",
     "description": "Trinidad & Tobago",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1FB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1FB",
     "description": "Tuvalu",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1FC",
     "description": "Taiwan",
     "gender": null
   },
   {
-    "hex": "1F1F9-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1F9-1F1FF",
     "description": "Tanzania",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1E6",
     "description": "Ukraine",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1EC",
     "description": "Uganda",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1F2",
     "description": "U.S. Outlying Islands",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1F3",
     "description": "United Nations",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1F8",
     "description": "United States",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1FE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1FE",
     "description": "Uruguay",
     "gender": null
   },
   {
-    "hex": "1F1FA-1F1FF",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FA-1F1FF",
     "description": "Uzbekistan",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1E6",
     "description": "Vatican City",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1E8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1E8",
     "description": "St. Vincent & Grenadines",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1EA",
     "description": "Venezuela",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1EC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1EC",
     "description": "British Virgin Islands",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1EE",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1EE",
     "description": "U.S. Virgin Islands",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1F3",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1F3",
     "description": "Vietnam",
     "gender": null
   },
   {
-    "hex": "1F1FB-1F1FA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FB-1F1FA",
     "description": "Vanuatu",
     "gender": null
   },
   {
-    "hex": "1F1FC-1F1EB",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FC-1F1EB",
     "description": "Wallis & Futuna",
     "gender": null
   },
   {
-    "hex": "1F1FC-1F1F8",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FC-1F1F8",
     "description": "Samoa",
     "gender": null
   },
   {
-    "hex": "1F1FD-1F1F0",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FD-1F1F0",
     "description": "Kosovo",
     "gender": null
   },
   {
-    "hex": "1F1FE-1F1EA",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FE-1F1EA",
     "description": "Yemen",
     "gender": null
   },
   {
-    "hex": "1F1FE-1F1F9",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FE-1F1F9",
     "description": "Mayotte",
     "gender": null
   },
   {
-    "hex": "1F1FF-1F1E6",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FF-1F1E6",
     "description": "South Africa",
     "gender": null
   },
   {
-    "hex": "1F1FF-1F1F2",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FF-1F1F2",
     "description": "Zambia",
     "gender": null
   },
   {
-    "hex": "1F1FF-1F1FC",
     "property": "Emoji_Flag_Sequence",
+    "hex": "1F1FF-1F1FC",
     "description": "Zimbabwe",
     "gender": null
   },
   {
-    "hex": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
     "property": "Emoji_Tag_Sequence",
+    "hex": "1F3F4-E0067-E0062-E0065-E006E-E0067-E007F",
     "description": "England",
     "gender": null
   },
   {
-    "hex": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
     "property": "Emoji_Tag_Sequence",
+    "hex": "1F3F4-E0067-E0062-E0073-E0063-E0074-E007F",
     "description": "Scotland",
     "gender": null
   },
   {
-    "hex": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F",
     "property": "Emoji_Tag_Sequence",
+    "hex": "1F3F4-E0067-E0062-E0077-E006C-E0073-E007F",
     "description": "Wales",
     "gender": null
   },
   {
-    "hex": "261D-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "261D-1F3FB",
     "description": "index pointing up: light skin tone",
     "gender": null
   },
   {
-    "hex": "261D-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "261D-1F3FC",
     "description": "index pointing up: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "261D-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "261D-1F3FD",
     "description": "index pointing up: medium skin tone",
     "gender": null
   },
   {
-    "hex": "261D-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "261D-1F3FE",
     "description": "index pointing up: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "261D-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "261D-1F3FF",
     "description": "index pointing up: dark skin tone",
     "gender": null
   },
   {
-    "hex": "26F9-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "26F9-1F3FB",
     "description": "person bouncing ball: light skin tone",
     "gender": null
   },
   {
-    "hex": "26F9-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "26F9-1F3FC",
     "description": "person bouncing ball: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "26F9-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "26F9-1F3FD",
     "description": "person bouncing ball: medium skin tone",
     "gender": null
   },
   {
-    "hex": "26F9-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "26F9-1F3FE",
     "description": "person bouncing ball: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "26F9-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "26F9-1F3FF",
     "description": "person bouncing ball: dark skin tone",
     "gender": null
   },
   {
-    "hex": "270A-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270A-1F3FB",
     "description": "raised fist: light skin tone",
     "gender": null
   },
   {
-    "hex": "270A-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270A-1F3FC",
     "description": "raised fist: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "270A-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270A-1F3FD",
     "description": "raised fist: medium skin tone",
     "gender": null
   },
   {
-    "hex": "270A-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270A-1F3FE",
     "description": "raised fist: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "270A-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270A-1F3FF",
     "description": "raised fist: dark skin tone",
     "gender": null
   },
   {
-    "hex": "270B-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270B-1F3FB",
     "description": "raised hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "270B-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270B-1F3FC",
     "description": "raised hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "270B-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270B-1F3FD",
     "description": "raised hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "270B-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270B-1F3FE",
     "description": "raised hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "270B-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270B-1F3FF",
     "description": "raised hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "270C-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270C-1F3FB",
     "description": "victory hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "270C-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270C-1F3FC",
     "description": "victory hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "270C-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270C-1F3FD",
     "description": "victory hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "270C-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270C-1F3FE",
     "description": "victory hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "270C-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270C-1F3FF",
     "description": "victory hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "270D-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270D-1F3FB",
     "description": "writing hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "270D-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270D-1F3FC",
     "description": "writing hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "270D-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270D-1F3FD",
     "description": "writing hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "270D-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270D-1F3FE",
     "description": "writing hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "270D-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "270D-1F3FF",
     "description": "writing hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F385-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F385-1F3FB",
     "description": "Santa Claus: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F385-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F385-1F3FC",
     "description": "Santa Claus: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F385-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F385-1F3FD",
     "description": "Santa Claus: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F385-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F385-1F3FE",
     "description": "Santa Claus: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F385-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F385-1F3FF",
     "description": "Santa Claus: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C2-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C2-1F3FB",
     "description": "snowboarder: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C2-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C2-1F3FC",
     "description": "snowboarder: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C2-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C2-1F3FD",
     "description": "snowboarder: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C2-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C2-1F3FE",
     "description": "snowboarder: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C2-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C2-1F3FF",
     "description": "snowboarder: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C3-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C3-1F3FB",
     "description": "person running: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C3-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C3-1F3FC",
     "description": "person running: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C3-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C3-1F3FD",
     "description": "person running: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C3-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C3-1F3FE",
     "description": "person running: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C3-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C3-1F3FF",
     "description": "person running: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C4-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C4-1F3FB",
     "description": "person surfing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C4-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C4-1F3FC",
     "description": "person surfing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C4-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C4-1F3FD",
     "description": "person surfing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C4-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C4-1F3FE",
     "description": "person surfing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C4-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C4-1F3FF",
     "description": "person surfing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C7-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C7-1F3FB",
     "description": "horse racing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C7-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C7-1F3FC",
     "description": "horse racing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C7-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C7-1F3FD",
     "description": "horse racing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C7-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C7-1F3FE",
     "description": "horse racing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3C7-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3C7-1F3FF",
     "description": "horse racing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CA-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CA-1F3FB",
     "description": "person swimming: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CA-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CA-1F3FC",
     "description": "person swimming: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CA-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CA-1F3FD",
     "description": "person swimming: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CA-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CA-1F3FE",
     "description": "person swimming: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CA-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CA-1F3FF",
     "description": "person swimming: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CB-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CB-1F3FB",
     "description": "person lifting weights: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CB-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CB-1F3FC",
     "description": "person lifting weights: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CB-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CB-1F3FD",
     "description": "person lifting weights: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CB-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CB-1F3FE",
     "description": "person lifting weights: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CB-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CB-1F3FF",
     "description": "person lifting weights: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CC-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CC-1F3FB",
     "description": "person golfing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CC-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CC-1F3FC",
     "description": "person golfing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CC-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CC-1F3FD",
     "description": "person golfing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CC-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CC-1F3FE",
     "description": "person golfing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F3CC-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F3CC-1F3FF",
     "description": "person golfing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F442-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F442-1F3FB",
     "description": "ear: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F442-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F442-1F3FC",
     "description": "ear: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F442-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F442-1F3FD",
     "description": "ear: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F442-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F442-1F3FE",
     "description": "ear: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F442-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F442-1F3FF",
     "description": "ear: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F443-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F443-1F3FB",
     "description": "nose: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F443-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F443-1F3FC",
     "description": "nose: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F443-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F443-1F3FD",
     "description": "nose: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F443-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F443-1F3FE",
     "description": "nose: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F443-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F443-1F3FF",
     "description": "nose: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F446-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F446-1F3FB",
     "description": "backhand index pointing up: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F446-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F446-1F3FC",
     "description": "backhand index pointing up: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F446-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F446-1F3FD",
     "description": "backhand index pointing up: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F446-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F446-1F3FE",
     "description": "backhand index pointing up: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F446-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F446-1F3FF",
     "description": "backhand index pointing up: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F447-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F447-1F3FB",
     "description": "backhand index pointing down: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F447-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F447-1F3FC",
     "description": "backhand index pointing down: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F447-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F447-1F3FD",
     "description": "backhand index pointing down: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F447-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F447-1F3FE",
     "description": "backhand index pointing down: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F447-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F447-1F3FF",
     "description": "backhand index pointing down: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F448-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F448-1F3FB",
     "description": "backhand index pointing left: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F448-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F448-1F3FC",
     "description": "backhand index pointing left: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F448-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F448-1F3FD",
     "description": "backhand index pointing left: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F448-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F448-1F3FE",
     "description": "backhand index pointing left: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F448-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F448-1F3FF",
     "description": "backhand index pointing left: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F449-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F449-1F3FB",
     "description": "backhand index pointing right: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F449-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F449-1F3FC",
     "description": "backhand index pointing right: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F449-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F449-1F3FD",
     "description": "backhand index pointing right: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F449-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F449-1F3FE",
     "description": "backhand index pointing right: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F449-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F449-1F3FF",
     "description": "backhand index pointing right: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44A-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44A-1F3FB",
     "description": "oncoming fist: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44A-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44A-1F3FC",
     "description": "oncoming fist: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44A-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44A-1F3FD",
     "description": "oncoming fist: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44A-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44A-1F3FE",
     "description": "oncoming fist: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44A-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44A-1F3FF",
     "description": "oncoming fist: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44B-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44B-1F3FB",
     "description": "waving hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44B-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44B-1F3FC",
     "description": "waving hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44B-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44B-1F3FD",
     "description": "waving hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44B-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44B-1F3FE",
     "description": "waving hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44B-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44B-1F3FF",
     "description": "waving hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44C-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44C-1F3FB",
     "description": "OK hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44C-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44C-1F3FC",
     "description": "OK hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44C-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44C-1F3FD",
     "description": "OK hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44C-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44C-1F3FE",
     "description": "OK hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44C-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44C-1F3FF",
     "description": "OK hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44D-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44D-1F3FB",
     "description": "thumbs up: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44D-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44D-1F3FC",
     "description": "thumbs up: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44D-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44D-1F3FD",
     "description": "thumbs up: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44D-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44D-1F3FE",
     "description": "thumbs up: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44D-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44D-1F3FF",
     "description": "thumbs up: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44E-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44E-1F3FB",
     "description": "thumbs down: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44E-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44E-1F3FC",
     "description": "thumbs down: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44E-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44E-1F3FD",
     "description": "thumbs down: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44E-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44E-1F3FE",
     "description": "thumbs down: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44E-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44E-1F3FF",
     "description": "thumbs down: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44F-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44F-1F3FB",
     "description": "clapping hands: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44F-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44F-1F3FC",
     "description": "clapping hands: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F44F-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44F-1F3FD",
     "description": "clapping hands: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F44F-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44F-1F3FE",
     "description": "clapping hands: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F44F-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F44F-1F3FF",
     "description": "clapping hands: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F450-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F450-1F3FB",
     "description": "open hands: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F450-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F450-1F3FC",
     "description": "open hands: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F450-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F450-1F3FD",
     "description": "open hands: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F450-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F450-1F3FE",
     "description": "open hands: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F450-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F450-1F3FF",
     "description": "open hands: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F466-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F466-1F3FB",
     "description": "boy: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F466-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F466-1F3FC",
     "description": "boy: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F466-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F466-1F3FD",
     "description": "boy: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F466-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F466-1F3FE",
     "description": "boy: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F466-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F466-1F3FF",
     "description": "boy: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F467-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F467-1F3FB",
     "description": "girl: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F467-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F467-1F3FC",
     "description": "girl: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F467-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F467-1F3FD",
     "description": "girl: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F467-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F467-1F3FE",
     "description": "girl: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F467-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F467-1F3FF",
     "description": "girl: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F468-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F468-1F3FB",
     "description": "man: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F468-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F468-1F3FC",
     "description": "man: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F468-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F468-1F3FD",
     "description": "man: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F468-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F468-1F3FE",
     "description": "man: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F468-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F468-1F3FF",
     "description": "man: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F469-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F469-1F3FB",
     "description": "woman: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F469-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F469-1F3FC",
     "description": "woman: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F469-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F469-1F3FD",
     "description": "woman: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F469-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F469-1F3FE",
     "description": "woman: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F469-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F469-1F3FF",
     "description": "woman: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F46E-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F46E-1F3FB",
     "description": "police officer: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F46E-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F46E-1F3FC",
     "description": "police officer: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F46E-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F46E-1F3FD",
     "description": "police officer: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F46E-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F46E-1F3FE",
     "description": "police officer: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F46E-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F46E-1F3FF",
     "description": "police officer: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F470-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F470-1F3FB",
     "description": "bride with veil: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F470-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F470-1F3FC",
     "description": "bride with veil: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F470-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F470-1F3FD",
     "description": "bride with veil: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F470-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F470-1F3FE",
     "description": "bride with veil: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F470-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F470-1F3FF",
     "description": "bride with veil: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F471-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F471-1F3FB",
     "description": "blond-haired person: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F471-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F471-1F3FC",
     "description": "blond-haired person: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F471-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F471-1F3FD",
     "description": "blond-haired person: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F471-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F471-1F3FE",
     "description": "blond-haired person: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F471-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F471-1F3FF",
     "description": "blond-haired person: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F472-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F472-1F3FB",
     "description": "man with Chinese cap: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F472-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F472-1F3FC",
     "description": "man with Chinese cap: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F472-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F472-1F3FD",
     "description": "man with Chinese cap: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F472-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F472-1F3FE",
     "description": "man with Chinese cap: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F472-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F472-1F3FF",
     "description": "man with Chinese cap: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F473-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F473-1F3FB",
     "description": "person wearing turban: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F473-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F473-1F3FC",
     "description": "person wearing turban: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F473-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F473-1F3FD",
     "description": "person wearing turban: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F473-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F473-1F3FE",
     "description": "person wearing turban: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F473-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F473-1F3FF",
     "description": "person wearing turban: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F474-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F474-1F3FB",
     "description": "old man: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F474-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F474-1F3FC",
     "description": "old man: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F474-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F474-1F3FD",
     "description": "old man: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F474-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F474-1F3FE",
     "description": "old man: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F474-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F474-1F3FF",
     "description": "old man: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F475-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F475-1F3FB",
     "description": "old woman: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F475-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F475-1F3FC",
     "description": "old woman: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F475-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F475-1F3FD",
     "description": "old woman: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F475-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F475-1F3FE",
     "description": "old woman: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F475-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F475-1F3FF",
     "description": "old woman: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F476-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F476-1F3FB",
     "description": "baby: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F476-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F476-1F3FC",
     "description": "baby: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F476-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F476-1F3FD",
     "description": "baby: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F476-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F476-1F3FE",
     "description": "baby: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F476-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F476-1F3FF",
     "description": "baby: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F477-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F477-1F3FB",
     "description": "construction worker: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F477-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F477-1F3FC",
     "description": "construction worker: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F477-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F477-1F3FD",
     "description": "construction worker: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F477-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F477-1F3FE",
     "description": "construction worker: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F477-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F477-1F3FF",
     "description": "construction worker: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F478-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F478-1F3FB",
     "description": "princess: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F478-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F478-1F3FC",
     "description": "princess: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F478-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F478-1F3FD",
     "description": "princess: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F478-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F478-1F3FE",
     "description": "princess: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F478-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F478-1F3FF",
     "description": "princess: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F47C-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F47C-1F3FB",
     "description": "baby angel: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F47C-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F47C-1F3FC",
     "description": "baby angel: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F47C-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F47C-1F3FD",
     "description": "baby angel: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F47C-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F47C-1F3FE",
     "description": "baby angel: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F47C-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F47C-1F3FF",
     "description": "baby angel: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F481-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F481-1F3FB",
     "description": "person tipping hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F481-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F481-1F3FC",
     "description": "person tipping hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F481-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F481-1F3FD",
     "description": "person tipping hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F481-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F481-1F3FE",
     "description": "person tipping hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F481-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F481-1F3FF",
     "description": "person tipping hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F482-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F482-1F3FB",
     "description": "guard: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F482-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F482-1F3FC",
     "description": "guard: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F482-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F482-1F3FD",
     "description": "guard: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F482-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F482-1F3FE",
     "description": "guard: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F482-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F482-1F3FF",
     "description": "guard: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F483-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F483-1F3FB",
     "description": "woman dancing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F483-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F483-1F3FC",
     "description": "woman dancing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F483-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F483-1F3FD",
     "description": "woman dancing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F483-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F483-1F3FE",
     "description": "woman dancing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F483-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F483-1F3FF",
     "description": "woman dancing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F485-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F485-1F3FB",
     "description": "nail polish: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F485-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F485-1F3FC",
     "description": "nail polish: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F485-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F485-1F3FD",
     "description": "nail polish: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F485-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F485-1F3FE",
     "description": "nail polish: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F485-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F485-1F3FF",
     "description": "nail polish: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F486-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F486-1F3FB",
     "description": "person getting massage: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F486-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F486-1F3FC",
     "description": "person getting massage: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F486-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F486-1F3FD",
     "description": "person getting massage: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F486-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F486-1F3FE",
     "description": "person getting massage: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F486-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F486-1F3FF",
     "description": "person getting massage: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F487-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F487-1F3FB",
     "description": "person getting haircut: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F487-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F487-1F3FC",
     "description": "person getting haircut: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F487-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F487-1F3FD",
     "description": "person getting haircut: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F487-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F487-1F3FE",
     "description": "person getting haircut: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F487-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F487-1F3FF",
     "description": "person getting haircut: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F4AA-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F4AA-1F3FB",
     "description": "flexed biceps: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F4AA-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F4AA-1F3FC",
     "description": "flexed biceps: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F4AA-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F4AA-1F3FD",
     "description": "flexed biceps: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F4AA-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F4AA-1F3FE",
     "description": "flexed biceps: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F4AA-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F4AA-1F3FF",
     "description": "flexed biceps: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F574-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F574-1F3FB",
     "description": "man in suit levitating: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F574-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F574-1F3FC",
     "description": "man in suit levitating: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F574-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F574-1F3FD",
     "description": "man in suit levitating: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F574-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F574-1F3FE",
     "description": "man in suit levitating: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F574-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F574-1F3FF",
     "description": "man in suit levitating: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F575-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F575-1F3FB",
     "description": "detective: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F575-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F575-1F3FC",
     "description": "detective: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F575-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F575-1F3FD",
     "description": "detective: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F575-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F575-1F3FE",
     "description": "detective: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F575-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F575-1F3FF",
     "description": "detective: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F57A-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F57A-1F3FB",
     "description": "man dancing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F57A-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F57A-1F3FC",
     "description": "man dancing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F57A-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F57A-1F3FD",
     "description": "man dancing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F57A-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F57A-1F3FE",
     "description": "man dancing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F57A-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F57A-1F3FF",
     "description": "man dancing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F590-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F590-1F3FB",
     "description": "hand with fingers splayed: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F590-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F590-1F3FC",
     "description": "hand with fingers splayed: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F590-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F590-1F3FD",
     "description": "hand with fingers splayed: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F590-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F590-1F3FE",
     "description": "hand with fingers splayed: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F590-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F590-1F3FF",
     "description": "hand with fingers splayed: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F595-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F595-1F3FB",
     "description": "middle finger: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F595-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F595-1F3FC",
     "description": "middle finger: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F595-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F595-1F3FD",
     "description": "middle finger: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F595-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F595-1F3FE",
     "description": "middle finger: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F595-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F595-1F3FF",
     "description": "middle finger: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F596-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F596-1F3FB",
     "description": "vulcan salute: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F596-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F596-1F3FC",
     "description": "vulcan salute: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F596-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F596-1F3FD",
     "description": "vulcan salute: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F596-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F596-1F3FE",
     "description": "vulcan salute: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F596-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F596-1F3FF",
     "description": "vulcan salute: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F645-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F645-1F3FB",
     "description": "person gesturing NO: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F645-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F645-1F3FC",
     "description": "person gesturing NO: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F645-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F645-1F3FD",
     "description": "person gesturing NO: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F645-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F645-1F3FE",
     "description": "person gesturing NO: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F645-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F645-1F3FF",
     "description": "person gesturing NO: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F646-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F646-1F3FB",
     "description": "person gesturing OK: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F646-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F646-1F3FC",
     "description": "person gesturing OK: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F646-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F646-1F3FD",
     "description": "person gesturing OK: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F646-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F646-1F3FE",
     "description": "person gesturing OK: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F646-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F646-1F3FF",
     "description": "person gesturing OK: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F647-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F647-1F3FB",
     "description": "person bowing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F647-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F647-1F3FC",
     "description": "person bowing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F647-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F647-1F3FD",
     "description": "person bowing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F647-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F647-1F3FE",
     "description": "person bowing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F647-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F647-1F3FF",
     "description": "person bowing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64B-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64B-1F3FB",
     "description": "person raising hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64B-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64B-1F3FC",
     "description": "person raising hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64B-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64B-1F3FD",
     "description": "person raising hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F64B-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64B-1F3FE",
     "description": "person raising hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64B-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64B-1F3FF",
     "description": "person raising hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64C-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64C-1F3FB",
     "description": "raising hands: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64C-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64C-1F3FC",
     "description": "raising hands: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64C-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64C-1F3FD",
     "description": "raising hands: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F64C-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64C-1F3FE",
     "description": "raising hands: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64C-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64C-1F3FF",
     "description": "raising hands: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64D-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64D-1F3FB",
     "description": "person frowning: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64D-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64D-1F3FC",
     "description": "person frowning: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64D-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64D-1F3FD",
     "description": "person frowning: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F64D-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64D-1F3FE",
     "description": "person frowning: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64D-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64D-1F3FF",
     "description": "person frowning: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64E-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64E-1F3FB",
     "description": "person pouting: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64E-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64E-1F3FC",
     "description": "person pouting: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64E-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64E-1F3FD",
     "description": "person pouting: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F64E-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64E-1F3FE",
     "description": "person pouting: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64E-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64E-1F3FF",
     "description": "person pouting: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64F-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64F-1F3FB",
     "description": "folded hands: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64F-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64F-1F3FC",
     "description": "folded hands: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F64F-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64F-1F3FD",
     "description": "folded hands: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F64F-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64F-1F3FE",
     "description": "folded hands: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F64F-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F64F-1F3FF",
     "description": "folded hands: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6A3-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6A3-1F3FB",
     "description": "person rowing boat: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6A3-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6A3-1F3FC",
     "description": "person rowing boat: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6A3-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6A3-1F3FD",
     "description": "person rowing boat: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6A3-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6A3-1F3FE",
     "description": "person rowing boat: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6A3-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6A3-1F3FF",
     "description": "person rowing boat: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B4-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B4-1F3FB",
     "description": "person biking: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B4-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B4-1F3FC",
     "description": "person biking: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B4-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B4-1F3FD",
     "description": "person biking: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B4-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B4-1F3FE",
     "description": "person biking: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B4-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B4-1F3FF",
     "description": "person biking: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B5-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B5-1F3FB",
     "description": "person mountain biking: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B5-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B5-1F3FC",
     "description": "person mountain biking: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B5-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B5-1F3FD",
     "description": "person mountain biking: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B5-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B5-1F3FE",
     "description": "person mountain biking: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B5-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B5-1F3FF",
     "description": "person mountain biking: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B6-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B6-1F3FB",
     "description": "person walking: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B6-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B6-1F3FC",
     "description": "person walking: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B6-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B6-1F3FD",
     "description": "person walking: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B6-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B6-1F3FE",
     "description": "person walking: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6B6-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6B6-1F3FF",
     "description": "person walking: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6C0-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6C0-1F3FB",
     "description": "person taking bath: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6C0-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6C0-1F3FC",
     "description": "person taking bath: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6C0-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6C0-1F3FD",
     "description": "person taking bath: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6C0-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6C0-1F3FE",
     "description": "person taking bath: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6C0-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6C0-1F3FF",
     "description": "person taking bath: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6CC-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6CC-1F3FB",
     "description": "person in bed: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6CC-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6CC-1F3FC",
     "description": "person in bed: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F6CC-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6CC-1F3FD",
     "description": "person in bed: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F6CC-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6CC-1F3FE",
     "description": "person in bed: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F6CC-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F6CC-1F3FF",
     "description": "person in bed: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F918-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F918-1F3FB",
     "description": "sign of the horns: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F918-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F918-1F3FC",
     "description": "sign of the horns: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F918-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F918-1F3FD",
     "description": "sign of the horns: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F918-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F918-1F3FE",
     "description": "sign of the horns: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F918-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F918-1F3FF",
     "description": "sign of the horns: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F919-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F919-1F3FB",
     "description": "call me hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F919-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F919-1F3FC",
     "description": "call me hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F919-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F919-1F3FD",
     "description": "call me hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F919-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F919-1F3FE",
     "description": "call me hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F919-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F919-1F3FF",
     "description": "call me hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91A-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91A-1F3FB",
     "description": "raised back of hand: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91A-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91A-1F3FC",
     "description": "raised back of hand: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91A-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91A-1F3FD",
     "description": "raised back of hand: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F91A-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91A-1F3FE",
     "description": "raised back of hand: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91A-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91A-1F3FF",
     "description": "raised back of hand: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91B-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91B-1F3FB",
     "description": "left-facing fist: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91B-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91B-1F3FC",
     "description": "left-facing fist: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91B-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91B-1F3FD",
     "description": "left-facing fist: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F91B-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91B-1F3FE",
     "description": "left-facing fist: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91B-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91B-1F3FF",
     "description": "left-facing fist: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91C-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91C-1F3FB",
     "description": "right-facing fist: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91C-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91C-1F3FC",
     "description": "right-facing fist: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91C-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91C-1F3FD",
     "description": "right-facing fist: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F91C-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91C-1F3FE",
     "description": "right-facing fist: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91C-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91C-1F3FF",
     "description": "right-facing fist: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91E-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91E-1F3FB",
     "description": "crossed fingers: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91E-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91E-1F3FC",
     "description": "crossed fingers: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91E-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91E-1F3FD",
     "description": "crossed fingers: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F91E-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91E-1F3FE",
     "description": "crossed fingers: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91E-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91E-1F3FF",
     "description": "crossed fingers: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91F-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91F-1F3FB",
     "description": "love-you gesture: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91F-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91F-1F3FC",
     "description": "love-you gesture: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F91F-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91F-1F3FD",
     "description": "love-you gesture: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F91F-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91F-1F3FE",
     "description": "love-you gesture: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F91F-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F91F-1F3FF",
     "description": "love-you gesture: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F926-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F926-1F3FB",
     "description": "person facepalming: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F926-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F926-1F3FC",
     "description": "person facepalming: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F926-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F926-1F3FD",
     "description": "person facepalming: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F926-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F926-1F3FE",
     "description": "person facepalming: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F926-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F926-1F3FF",
     "description": "person facepalming: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F930-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F930-1F3FB",
     "description": "pregnant woman: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F930-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F930-1F3FC",
     "description": "pregnant woman: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F930-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F930-1F3FD",
     "description": "pregnant woman: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F930-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F930-1F3FE",
     "description": "pregnant woman: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F930-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F930-1F3FF",
     "description": "pregnant woman: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F931-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F931-1F3FB",
     "description": "breast-feeding: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F931-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F931-1F3FC",
     "description": "breast-feeding: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F931-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F931-1F3FD",
     "description": "breast-feeding: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F931-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F931-1F3FE",
     "description": "breast-feeding: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F931-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F931-1F3FF",
     "description": "breast-feeding: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F932-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F932-1F3FB",
     "description": "palms up together: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F932-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F932-1F3FC",
     "description": "palms up together: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F932-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F932-1F3FD",
     "description": "palms up together: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F932-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F932-1F3FE",
     "description": "palms up together: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F932-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F932-1F3FF",
     "description": "palms up together: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F933-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F933-1F3FB",
     "description": "selfie: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F933-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F933-1F3FC",
     "description": "selfie: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F933-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F933-1F3FD",
     "description": "selfie: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F933-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F933-1F3FE",
     "description": "selfie: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F933-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F933-1F3FF",
     "description": "selfie: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F934-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F934-1F3FB",
     "description": "prince: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F934-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F934-1F3FC",
     "description": "prince: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F934-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F934-1F3FD",
     "description": "prince: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F934-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F934-1F3FE",
     "description": "prince: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F934-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F934-1F3FF",
     "description": "prince: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F935-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F935-1F3FB",
     "description": "man in tuxedo: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F935-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F935-1F3FC",
     "description": "man in tuxedo: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F935-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F935-1F3FD",
     "description": "man in tuxedo: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F935-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F935-1F3FE",
     "description": "man in tuxedo: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F935-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F935-1F3FF",
     "description": "man in tuxedo: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F936-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F936-1F3FB",
     "description": "Mrs. Claus: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F936-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F936-1F3FC",
     "description": "Mrs. Claus: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F936-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F936-1F3FD",
     "description": "Mrs. Claus: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F936-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F936-1F3FE",
     "description": "Mrs. Claus: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F936-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F936-1F3FF",
     "description": "Mrs. Claus: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F937-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F937-1F3FB",
     "description": "person shrugging: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F937-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F937-1F3FC",
     "description": "person shrugging: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F937-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F937-1F3FD",
     "description": "person shrugging: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F937-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F937-1F3FE",
     "description": "person shrugging: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F937-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F937-1F3FF",
     "description": "person shrugging: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F938-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F938-1F3FB",
     "description": "person cartwheeling: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F938-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F938-1F3FC",
     "description": "person cartwheeling: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F938-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F938-1F3FD",
     "description": "person cartwheeling: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F938-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F938-1F3FE",
     "description": "person cartwheeling: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F938-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F938-1F3FF",
     "description": "person cartwheeling: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F939-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F939-1F3FB",
     "description": "person juggling: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F939-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F939-1F3FC",
     "description": "person juggling: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F939-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F939-1F3FD",
     "description": "person juggling: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F939-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F939-1F3FE",
     "description": "person juggling: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F939-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F939-1F3FF",
     "description": "person juggling: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F93D-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93D-1F3FB",
     "description": "person playing water polo: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F93D-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93D-1F3FC",
     "description": "person playing water polo: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F93D-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93D-1F3FD",
     "description": "person playing water polo: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F93D-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93D-1F3FE",
     "description": "person playing water polo: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F93D-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93D-1F3FF",
     "description": "person playing water polo: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F93E-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93E-1F3FB",
     "description": "person playing handball: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F93E-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93E-1F3FC",
     "description": "person playing handball: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F93E-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93E-1F3FD",
     "description": "person playing handball: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F93E-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93E-1F3FE",
     "description": "person playing handball: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F93E-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F93E-1F3FF",
     "description": "person playing handball: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D1-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D1-1F3FB",
     "description": "adult: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D1-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D1-1F3FC",
     "description": "adult: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D1-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D1-1F3FD",
     "description": "adult: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D1-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D1-1F3FE",
     "description": "adult: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D1-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D1-1F3FF",
     "description": "adult: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D2-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D2-1F3FB",
     "description": "child: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D2-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D2-1F3FC",
     "description": "child: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D2-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D2-1F3FD",
     "description": "child: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D2-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D2-1F3FE",
     "description": "child: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D2-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D2-1F3FF",
     "description": "child: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D3-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D3-1F3FB",
     "description": "older adult: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D3-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D3-1F3FC",
     "description": "older adult: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D3-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D3-1F3FD",
     "description": "older adult: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D3-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D3-1F3FE",
     "description": "older adult: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D3-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D3-1F3FF",
     "description": "older adult: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D4-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D4-1F3FB",
     "description": "bearded person: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D4-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D4-1F3FC",
     "description": "bearded person: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D4-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D4-1F3FD",
     "description": "bearded person: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D4-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D4-1F3FE",
     "description": "bearded person: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D4-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D4-1F3FF",
     "description": "bearded person: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D5-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D5-1F3FB",
     "description": "woman with headscarf: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D5-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D5-1F3FC",
     "description": "woman with headscarf: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D5-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D5-1F3FD",
     "description": "woman with headscarf: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D5-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D5-1F3FE",
     "description": "woman with headscarf: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D5-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D5-1F3FF",
     "description": "woman with headscarf: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D6-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D6-1F3FB",
     "description": "person in steamy room: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D6-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D6-1F3FC",
     "description": "person in steamy room: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D6-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D6-1F3FD",
     "description": "person in steamy room: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D6-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D6-1F3FE",
     "description": "person in steamy room: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D6-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D6-1F3FF",
     "description": "person in steamy room: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D7-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D7-1F3FB",
     "description": "person climbing: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D7-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D7-1F3FC",
     "description": "person climbing: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D7-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D7-1F3FD",
     "description": "person climbing: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D7-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D7-1F3FE",
     "description": "person climbing: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D7-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D7-1F3FF",
     "description": "person climbing: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D8-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D8-1F3FB",
     "description": "person in lotus position: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D8-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D8-1F3FC",
     "description": "person in lotus position: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D8-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D8-1F3FD",
     "description": "person in lotus position: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D8-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D8-1F3FE",
     "description": "person in lotus position: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D8-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D8-1F3FF",
     "description": "person in lotus position: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D9-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D9-1F3FB",
     "description": "mage: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D9-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D9-1F3FC",
     "description": "mage: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D9-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D9-1F3FD",
     "description": "mage: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D9-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D9-1F3FE",
     "description": "mage: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9D9-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9D9-1F3FF",
     "description": "mage: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DA-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DA-1F3FB",
     "description": "fairy: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DA-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DA-1F3FC",
     "description": "fairy: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DA-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DA-1F3FD",
     "description": "fairy: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DA-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DA-1F3FE",
     "description": "fairy: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DA-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DA-1F3FF",
     "description": "fairy: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DB-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DB-1F3FB",
     "description": "vampire: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DB-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DB-1F3FC",
     "description": "vampire: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DB-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DB-1F3FD",
     "description": "vampire: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DB-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DB-1F3FE",
     "description": "vampire: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DB-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DB-1F3FF",
     "description": "vampire: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DC-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DC-1F3FB",
     "description": "merperson: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DC-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DC-1F3FC",
     "description": "merperson: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DC-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DC-1F3FD",
     "description": "merperson: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DC-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DC-1F3FE",
     "description": "merperson: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DC-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DC-1F3FF",
     "description": "merperson: dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DD-1F3FB",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DD-1F3FB",
     "description": "elf: light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DD-1F3FC",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DD-1F3FC",
     "description": "elf: medium-light skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DD-1F3FD",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DD-1F3FD",
     "description": "elf: medium skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DD-1F3FE",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DD-1F3FE",
     "description": "elf: medium-dark skin tone",
     "gender": null
   },
   {
-    "hex": "1F9DD-1F3FF",
     "property": "Emoji_Modifier_Sequence",
+    "hex": "1F9DD-1F3FF",
     "description": "elf: dark skin tone",
     "gender": null
   }

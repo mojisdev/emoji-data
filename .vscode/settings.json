@@ -8,6 +8,12 @@
         "data/*/groups.json"
       ],
       "url": "https://api.mojis.dev/data-schemas/groups.json"
+    },
+    {
+      "fileMatch": [
+        "data/metadata/*.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/metadata.json"
     }
   ]
 }

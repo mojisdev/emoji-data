@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "medical",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "syringe",
     "emoji": "💉",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "medical",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "drop of blood",
     "emoji": "🩸",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "medical",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "pill",
     "emoji": "💊",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "objects",
     "subgroup": "medical",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "adhesive bandage",
     "emoji": "🩹",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "objects",
     "subgroup": "medical",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "stethoscope",
     "emoji": "🩺",
     "hexcodes": [

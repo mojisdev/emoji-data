@@ -3,8 +3,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "chequered",
     "emoji": "🏁",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "triangular",
     "emoji": "🚩",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "crossed",
     "emoji": "🎌",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "black",
     "emoji": "🏴",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "white",
     "emoji": "🏳️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "white",
     "emoji": "🏳",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "rainbow",
     "emoji": "🏳️‍🌈",
     "hexcodes": [
@@ -91,8 +91,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "rainbow",
     "emoji": "🏳‍🌈",
     "hexcodes": [

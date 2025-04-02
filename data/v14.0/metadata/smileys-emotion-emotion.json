@@ -3,8 +3,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "heart exclamation",
     "emoji": "❣",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "red heart",
     "emoji": "❤",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "kiss mark",
     "emoji": "💋",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "love letter",
     "emoji": "💌",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "heart with arrow",
     "emoji": "💘",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "heart with ribbon",
     "emoji": "💝",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "sparkling heart",
     "emoji": "💖",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "growing heart",
     "emoji": "💗",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "beating heart",
     "emoji": "💓",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "revolving hearts",
     "emoji": "💞",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "two hearts",
     "emoji": "💕",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "heart decoration",
     "emoji": "💟",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "heart exclamation",
     "emoji": "❣️",
     "hexcodes": [
@@ -160,8 +160,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "broken heart",
     "emoji": "💔",
     "hexcodes": [
@@ -172,8 +172,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.1",
     "unicodeVersion": "13.1",
+    "emojiVersion": "13.1",
     "description": "heart on fire",
     "emoji": "❤️‍🔥",
     "hexcodes": [
@@ -187,8 +187,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "13.1",
     "unicodeVersion": "13.1",
+    "emojiVersion": "13.1",
     "description": "heart on fire",
     "emoji": "❤‍🔥",
     "hexcodes": [
@@ -201,8 +201,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.1",
     "unicodeVersion": "13.1",
+    "emojiVersion": "13.1",
     "description": "mending heart",
     "emoji": "❤️‍🩹",
     "hexcodes": [
@@ -216,8 +216,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "13.1",
     "unicodeVersion": "13.1",
+    "emojiVersion": "13.1",
     "description": "mending heart",
     "emoji": "❤‍🩹",
     "hexcodes": [
@@ -230,8 +230,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "red heart",
     "emoji": "❤️",
     "hexcodes": [
@@ -243,8 +243,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "orange heart",
     "emoji": "🧡",
     "hexcodes": [
@@ -255,8 +255,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "yellow heart",
     "emoji": "💛",
     "hexcodes": [
@@ -267,8 +267,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "green heart",
     "emoji": "💚",
     "hexcodes": [
@@ -279,8 +279,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "blue heart",
     "emoji": "💙",
     "hexcodes": [
@@ -291,8 +291,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "purple heart",
     "emoji": "💜",
     "hexcodes": [
@@ -303,8 +303,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "brown heart",
     "emoji": "🤎",
     "hexcodes": [
@@ -315,8 +315,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "black heart",
     "emoji": "🖤",
     "hexcodes": [
@@ -327,8 +327,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "white heart",
     "emoji": "🤍",
     "hexcodes": [
@@ -339,8 +339,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "hundred points",
     "emoji": "💯",
     "hexcodes": [
@@ -351,8 +351,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "anger symbol",
     "emoji": "💢",
     "hexcodes": [
@@ -363,8 +363,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "collision",
     "emoji": "💥",
     "hexcodes": [
@@ -375,8 +375,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dizzy",
     "emoji": "💫",
     "hexcodes": [
@@ -387,8 +387,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "sweat droplets",
     "emoji": "💦",
     "hexcodes": [
@@ -399,8 +399,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dashing away",
     "emoji": "💨",
     "hexcodes": [
@@ -411,8 +411,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "hole",
     "emoji": "🕳️",
     "hexcodes": [
@@ -424,8 +424,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "hole",
     "emoji": "🕳",
     "hexcodes": [
@@ -436,8 +436,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bomb",
     "emoji": "💣",
     "hexcodes": [
@@ -448,8 +448,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "speech balloon",
     "emoji": "💬",
     "hexcodes": [
@@ -460,8 +460,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁️‍🗨️",
     "hexcodes": [
@@ -476,8 +476,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁‍🗨️",
     "hexcodes": [
@@ -491,8 +491,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁️‍🗨",
     "hexcodes": [
@@ -506,8 +506,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁‍🗨",
     "hexcodes": [
@@ -520,8 +520,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "left speech bubble",
     "emoji": "🗨️",
     "hexcodes": [
@@ -533,8 +533,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "left speech bubble",
     "emoji": "🗨",
     "hexcodes": [
@@ -545,8 +545,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "right anger bubble",
     "emoji": "🗯️",
     "hexcodes": [
@@ -558,8 +558,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "right anger bubble",
     "emoji": "🗯",
     "hexcodes": [
@@ -570,8 +570,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thought balloon",
     "emoji": "💭",
     "hexcodes": [
@@ -582,8 +582,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "zzz",
     "emoji": "💤",
     "hexcodes": [

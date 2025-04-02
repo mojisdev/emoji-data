@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↔ left-right arrow",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↕ up-down arrow",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↖ up-left arrow",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↗ up-right arrow",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↘ down-right arrow",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↙ down-left arrow",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⤴ right arrow curving up",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⤵ right arrow curving down",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬆️ up arrow",
     "hexcodes": [
@@ -112,8 +112,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬆ up arrow",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↗️ up-right arrow",
     "hexcodes": [
@@ -137,8 +137,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "➡️ right arrow",
     "hexcodes": [
@@ -150,8 +150,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "➡ right arrow",
     "hexcodes": [
@@ -162,8 +162,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↘️ down-right arrow",
     "hexcodes": [
@@ -175,8 +175,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬇️ down arrow",
     "hexcodes": [
@@ -188,8 +188,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬇ down arrow",
     "hexcodes": [
@@ -200,8 +200,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↙️ down-left arrow",
     "hexcodes": [
@@ -213,8 +213,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬅️ left arrow",
     "hexcodes": [
@@ -226,8 +226,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⬅ left arrow",
     "hexcodes": [
@@ -238,8 +238,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↖️ up-left arrow",
     "hexcodes": [
@@ -251,8 +251,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↕️ up-down arrow",
     "hexcodes": [
@@ -264,8 +264,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↔️ left-right arrow",
     "hexcodes": [
@@ -277,8 +277,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↩️ right arrow curving left",
     "hexcodes": [
@@ -290,8 +290,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↩ right arrow curving left",
     "hexcodes": [
@@ -302,8 +302,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↪️ left arrow curving right",
     "hexcodes": [
@@ -315,8 +315,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "unqualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "↪ left arrow curving right",
     "hexcodes": [
@@ -327,8 +327,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⤴️ right arrow curving up",
     "hexcodes": [
@@ -340,8 +340,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⤵️ right arrow curving down",
     "hexcodes": [
@@ -353,8 +353,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔃 clockwise vertical arrows",
     "hexcodes": [
@@ -365,8 +365,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔄 counterclockwise arrows button",
     "hexcodes": [
@@ -377,8 +377,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔙 BACK arrow",
     "hexcodes": [
@@ -389,8 +389,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔚 END arrow",
     "hexcodes": [
@@ -401,8 +401,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔛 ON! arrow",
     "hexcodes": [
@@ -413,8 +413,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔜 SOON arrow",
     "hexcodes": [
@@ -425,8 +425,8 @@
     "group": "symbols",
     "subgroup": "arrow",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔝 TOP arrow",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "crocodile",
     "emoji": "🐊",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "turtle",
     "emoji": "🐢",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "lizard",
     "emoji": "🦎",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "snake",
     "emoji": "🐍",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dragon face",
     "emoji": "🐲",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "dragon",
     "emoji": "🐉",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "sauropod",
     "emoji": "🦕",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "animals-nature",
     "subgroup": "animal-reptile",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "T-Rex",
     "emoji": "🦖",
     "hexcodes": [

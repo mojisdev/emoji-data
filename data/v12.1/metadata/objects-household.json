@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "door",
     "emoji": "🚪",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "bed",
     "emoji": "🛏️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "bed",
     "emoji": "🛏",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "couch and lamp",
     "emoji": "🛋️",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "couch and lamp",
     "emoji": "🛋",
     "hexcodes": [
@@ -65,8 +65,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "chair",
     "emoji": "🪑",
     "hexcodes": [
@@ -77,8 +77,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "toilet",
     "emoji": "🚽",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "shower",
     "emoji": "🚿",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "bathtub",
     "emoji": "🛁",
     "hexcodes": [
@@ -113,8 +113,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "razor",
     "emoji": "🪒",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "lotion bottle",
     "emoji": "🧴",
     "hexcodes": [
@@ -137,8 +137,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "safety pin",
     "emoji": "🧷",
     "hexcodes": [
@@ -149,8 +149,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "broom",
     "emoji": "🧹",
     "hexcodes": [
@@ -161,8 +161,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "basket",
     "emoji": "🧺",
     "hexcodes": [
@@ -173,8 +173,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "roll of paper",
     "emoji": "🧻",
     "hexcodes": [
@@ -185,8 +185,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "soap",
     "emoji": "🧼",
     "hexcodes": [
@@ -197,8 +197,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "sponge",
     "emoji": "🧽",
     "hexcodes": [
@@ -209,8 +209,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "fire extinguisher",
     "emoji": "🧯",
     "hexcodes": [
@@ -221,8 +221,8 @@
     "group": "objects",
     "subgroup": "household",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "shopping cart",
     "emoji": "🛒",
     "hexcodes": [

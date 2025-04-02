@@ -3,8 +3,8 @@
     "group": "component",
     "subgroup": "skin-tone",
     "qualifier": "component",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "light skin tone",
     "emoji": "🏻",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "component",
     "subgroup": "skin-tone",
     "qualifier": "component",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "medium-light skin tone",
     "emoji": "🏼",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "component",
     "subgroup": "skin-tone",
     "qualifier": "component",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "medium skin tone",
     "emoji": "🏽",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "component",
     "subgroup": "skin-tone",
     "qualifier": "component",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "medium-dark skin tone",
     "emoji": "🏾",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "component",
     "subgroup": "skin-tone",
     "qualifier": "component",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "dark skin tone",
     "emoji": "🏿",
     "hexcodes": [

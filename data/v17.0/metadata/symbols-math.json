@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "multiply",
     "emoji": "✖",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "plus",
     "emoji": "➕",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "minus",
     "emoji": "➖",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "divide",
     "emoji": "➗",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "multiply",
     "emoji": "✖️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "14.0",
     "unicodeVersion": "14.0",
+    "emojiVersion": "14.0",
     "description": "heavy equals sign",
     "emoji": "🟰",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "infinity",
     "emoji": "♾️",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "symbols",
     "subgroup": "math",
     "qualifier": "unqualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "infinity",
     "emoji": "♾",
     "hexcodes": [

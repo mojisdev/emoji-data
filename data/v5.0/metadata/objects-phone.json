@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "mobile",
     "emoji": "📱",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "mobile",
     "emoji": "📲",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "telephone",
     "emoji": "☎️",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "telephone",
     "emoji": "☎",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "telephone",
     "emoji": "📞",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "pager",
     "emoji": "📟",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "fax",
     "emoji": "📠",
     "hexcodes": [

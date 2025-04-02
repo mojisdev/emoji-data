@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "speaking head",
     "emoji": "🗣️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "speaking head",
     "emoji": "🗣",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bust in silhouette",
     "emoji": "👤",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "busts in silhouette",
     "emoji": "👥",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "people hugging",
     "emoji": "🫂",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "family",
     "emoji": "👪",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "15.1",
     "unicodeVersion": "15.1",
+    "emojiVersion": "15.1",
     "description": "family: adult, adult, child",
     "emoji": "🧑‍🧑‍🧒",
     "hexcodes": [
@@ -92,8 +92,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "15.1",
     "unicodeVersion": "15.1",
+    "emojiVersion": "15.1",
     "description": "family: adult, adult, child, child",
     "emoji": "🧑‍🧑‍🧒‍🧒",
     "hexcodes": [
@@ -110,8 +110,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "15.1",
     "unicodeVersion": "15.1",
+    "emojiVersion": "15.1",
     "description": "family: adult, child",
     "emoji": "🧑‍🧒",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "15.1",
     "unicodeVersion": "15.1",
+    "emojiVersion": "15.1",
     "description": "family: adult, child, child",
     "emoji": "🧑‍🧒‍🧒",
     "hexcodes": [
@@ -140,8 +140,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "footprints",
     "emoji": "👣",
     "hexcodes": [
@@ -152,8 +152,8 @@
     "group": "people-body",
     "subgroup": "person-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "16.0",
     "unicodeVersion": "16.0",
+    "emojiVersion": "16.0",
     "description": "fingerprint",
     "emoji": "🫆",
     "hexcodes": [

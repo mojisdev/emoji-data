@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "writing hand",
     "emoji": "✍️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "writing hand",
     "emoji": "✍",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "writing hand: light skin tone",
     "emoji": "✍🏻",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "writing hand: medium-light skin tone",
     "emoji": "✍🏼",
     "hexcodes": [
@@ -54,8 +54,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "writing hand: medium skin tone",
     "emoji": "✍🏽",
     "hexcodes": [
@@ -67,8 +67,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "writing hand: medium-dark skin tone",
     "emoji": "✍🏾",
     "hexcodes": [
@@ -80,8 +80,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "writing hand: dark skin tone",
     "emoji": "✍🏿",
     "hexcodes": [
@@ -93,8 +93,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "nail polish",
     "emoji": "💅",
     "hexcodes": [
@@ -105,8 +105,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "nail polish: light skin tone",
     "emoji": "💅🏻",
     "hexcodes": [
@@ -118,8 +118,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "nail polish: medium-light skin tone",
     "emoji": "💅🏼",
     "hexcodes": [
@@ -131,8 +131,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "nail polish: medium skin tone",
     "emoji": "💅🏽",
     "hexcodes": [
@@ -144,8 +144,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "nail polish: medium-dark skin tone",
     "emoji": "💅🏾",
     "hexcodes": [
@@ -157,8 +157,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "nail polish: dark skin tone",
     "emoji": "💅🏿",
     "hexcodes": [
@@ -170,8 +170,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie",
     "emoji": "🤳",
     "hexcodes": [
@@ -182,8 +182,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie: light skin tone",
     "emoji": "🤳🏻",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie: medium-light skin tone",
     "emoji": "🤳🏼",
     "hexcodes": [
@@ -208,8 +208,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie: medium skin tone",
     "emoji": "🤳🏽",
     "hexcodes": [
@@ -221,8 +221,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie: medium-dark skin tone",
     "emoji": "🤳🏾",
     "hexcodes": [
@@ -234,8 +234,8 @@
     "group": "people-body",
     "subgroup": "hand-prop",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "selfie: dark skin tone",
     "emoji": "🤳🏿",
     "hexcodes": [

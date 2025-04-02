@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "exclamation question mark",
     "emoji": "⁉",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "trade mark",
     "emoji": "™",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "check box with check",
     "emoji": "☑",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "medical symbol",
     "emoji": "⚕",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "check mark button",
     "emoji": "✅",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "check mark",
     "emoji": "✔",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "multiplication sign",
     "emoji": "✖",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight-spoked asterisk",
     "emoji": "✳",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight-pointed star",
     "emoji": "✴",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sparkle",
     "emoji": "❇",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "question mark",
     "emoji": "❓",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "white question mark",
     "emoji": "❔",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "white exclamation mark",
     "emoji": "❕",
     "hexcodes": [
@@ -159,8 +159,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "exclamation mark",
     "emoji": "❗",
     "hexcodes": [
@@ -171,8 +171,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "plus sign",
     "emoji": "➕",
     "hexcodes": [
@@ -183,8 +183,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "minus sign",
     "emoji": "➖",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "division sign",
     "emoji": "➗",
     "hexcodes": [
@@ -207,8 +207,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "wavy dash",
     "emoji": "〰",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "medical symbol",
     "emoji": "⚕️",
     "hexcodes": [
@@ -232,8 +232,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "infinity",
     "emoji": "♾️",
     "hexcodes": [
@@ -245,8 +245,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "infinity",
     "emoji": "♾",
     "hexcodes": [
@@ -257,8 +257,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "recycling symbol",
     "emoji": "♻️",
     "hexcodes": [
@@ -270,8 +270,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "recycling symbol",
     "emoji": "♻",
     "hexcodes": [
@@ -282,8 +282,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fleur-de-lis",
     "emoji": "⚜️",
     "hexcodes": [
@@ -295,8 +295,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fleur-de-lis",
     "emoji": "⚜",
     "hexcodes": [
@@ -307,8 +307,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "trident emblem",
     "emoji": "🔱",
     "hexcodes": [
@@ -319,8 +319,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "name badge",
     "emoji": "📛",
     "hexcodes": [
@@ -331,8 +331,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "Japanese symbol for beginner",
     "emoji": "🔰",
     "hexcodes": [
@@ -343,8 +343,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hollow red circle",
     "emoji": "⭕",
     "hexcodes": [
@@ -355,8 +355,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "check box with check",
     "emoji": "☑️",
     "hexcodes": [
@@ -368,8 +368,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "check mark",
     "emoji": "✔️",
     "hexcodes": [
@@ -381,8 +381,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "multiplication sign",
     "emoji": "✖️",
     "hexcodes": [
@@ -394,8 +394,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cross mark",
     "emoji": "❌",
     "hexcodes": [
@@ -406,8 +406,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cross mark button",
     "emoji": "❎",
     "hexcodes": [
@@ -418,8 +418,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "curly loop",
     "emoji": "➰",
     "hexcodes": [
@@ -430,8 +430,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "double curly loop",
     "emoji": "➿",
     "hexcodes": [
@@ -442,8 +442,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "part alternation mark",
     "emoji": "〽️",
     "hexcodes": [
@@ -455,8 +455,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "part alternation mark",
     "emoji": "〽",
     "hexcodes": [
@@ -467,8 +467,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight-spoked asterisk",
     "emoji": "✳️",
     "hexcodes": [
@@ -480,8 +480,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eight-pointed star",
     "emoji": "✴️",
     "hexcodes": [
@@ -493,8 +493,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sparkle",
     "emoji": "❇️",
     "hexcodes": [
@@ -506,8 +506,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "double exclamation mark",
     "emoji": "‼️",
     "hexcodes": [
@@ -519,8 +519,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "double exclamation mark",
     "emoji": "‼",
     "hexcodes": [
@@ -531,8 +531,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "exclamation question mark",
     "emoji": "⁉️",
     "hexcodes": [
@@ -544,8 +544,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "wavy dash",
     "emoji": "〰️",
     "hexcodes": [
@@ -557,8 +557,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "copyright",
     "emoji": "©️",
     "hexcodes": [
@@ -570,8 +570,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "copyright",
     "emoji": "©",
     "hexcodes": [
@@ -582,8 +582,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "registered",
     "emoji": "®️",
     "hexcodes": [
@@ -595,8 +595,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "registered",
     "emoji": "®",
     "hexcodes": [
@@ -607,8 +607,8 @@
     "group": "symbols",
     "subgroup": "other-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "trade mark",
     "emoji": "™️",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "kiss mark",
     "emoji": "💋",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "hundred points",
     "emoji": "💯",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "anger symbol",
     "emoji": "💢",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "collision",
     "emoji": "💥",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dizzy",
     "emoji": "💫",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "sweat droplets",
     "emoji": "💦",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dashing away",
     "emoji": "💨",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "hole",
     "emoji": "🕳️",
     "hexcodes": [
@@ -100,8 +100,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "hole",
     "emoji": "🕳",
     "hexcodes": [
@@ -112,8 +112,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "speech balloon",
     "emoji": "💬",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁️‍🗨️",
     "hexcodes": [
@@ -140,8 +140,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁‍🗨️",
     "hexcodes": [
@@ -155,8 +155,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁️‍🗨",
     "hexcodes": [
@@ -170,8 +170,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "eye in speech bubble",
     "emoji": "👁‍🗨",
     "hexcodes": [
@@ -184,8 +184,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "left speech bubble",
     "emoji": "🗨️",
     "hexcodes": [
@@ -197,8 +197,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "left speech bubble",
     "emoji": "🗨",
     "hexcodes": [
@@ -209,8 +209,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "right anger bubble",
     "emoji": "🗯️",
     "hexcodes": [
@@ -222,8 +222,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "right anger bubble",
     "emoji": "🗯",
     "hexcodes": [
@@ -234,8 +234,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thought balloon",
     "emoji": "💭",
     "hexcodes": [
@@ -246,8 +246,8 @@
     "group": "smileys-emotion",
     "subgroup": "emotion",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "ZZZ",
     "emoji": "💤",
     "hexcodes": [

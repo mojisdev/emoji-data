@@ -3,8 +3,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bread",
     "emoji": "🍞",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "croissant",
     "emoji": "🥐",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "baguette bread",
     "emoji": "🥖",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "flatbread",
     "emoji": "🫓",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "pretzel",
     "emoji": "🥨",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "bagel",
     "emoji": "🥯",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pancakes",
     "emoji": "🥞",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "waffle",
     "emoji": "🧇",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "cheese wedge",
     "emoji": "🧀",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "meat on bone",
     "emoji": "🍖",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "poultry leg",
     "emoji": "🍗",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "cut of meat",
     "emoji": "🥩",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "bacon",
     "emoji": "🥓",
     "hexcodes": [
@@ -159,8 +159,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "hamburger",
     "emoji": "🍔",
     "hexcodes": [
@@ -171,8 +171,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "french fries",
     "emoji": "🍟",
     "hexcodes": [
@@ -183,8 +183,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "pizza",
     "emoji": "🍕",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "hot dog",
     "emoji": "🌭",
     "hexcodes": [
@@ -207,8 +207,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "sandwich",
     "emoji": "🥪",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "taco",
     "emoji": "🌮",
     "hexcodes": [
@@ -231,8 +231,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "burrito",
     "emoji": "🌯",
     "hexcodes": [
@@ -243,8 +243,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "tamale",
     "emoji": "🫔",
     "hexcodes": [
@@ -255,8 +255,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "stuffed flatbread",
     "emoji": "🥙",
     "hexcodes": [
@@ -267,8 +267,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "falafel",
     "emoji": "🧆",
     "hexcodes": [
@@ -279,8 +279,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "egg",
     "emoji": "🥚",
     "hexcodes": [
@@ -291,8 +291,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "cooking",
     "emoji": "🍳",
     "hexcodes": [
@@ -303,8 +303,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "shallow pan of food",
     "emoji": "🥘",
     "hexcodes": [
@@ -315,8 +315,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "pot of food",
     "emoji": "🍲",
     "hexcodes": [
@@ -327,8 +327,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "fondue",
     "emoji": "🫕",
     "hexcodes": [
@@ -339,8 +339,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "bowl with spoon",
     "emoji": "🥣",
     "hexcodes": [
@@ -351,8 +351,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "green salad",
     "emoji": "🥗",
     "hexcodes": [
@@ -363,8 +363,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "popcorn",
     "emoji": "🍿",
     "hexcodes": [
@@ -375,8 +375,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "butter",
     "emoji": "🧈",
     "hexcodes": [
@@ -387,8 +387,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "salt",
     "emoji": "🧂",
     "hexcodes": [
@@ -399,8 +399,8 @@
     "group": "food-drink",
     "subgroup": "food-prepared",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "canned food",
     "emoji": "🥫",
     "hexcodes": [

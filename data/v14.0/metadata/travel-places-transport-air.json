@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "airplane",
     "emoji": "✈",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "airplane",
     "emoji": "✈️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "small airplane",
     "emoji": "🛩️",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "small airplane",
     "emoji": "🛩",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "airplane departure",
     "emoji": "🛫",
     "hexcodes": [
@@ -65,8 +65,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "airplane arrival",
     "emoji": "🛬",
     "hexcodes": [
@@ -77,8 +77,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "parachute",
     "emoji": "🪂",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "seat",
     "emoji": "💺",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "helicopter",
     "emoji": "🚁",
     "hexcodes": [
@@ -113,8 +113,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "suspension railway",
     "emoji": "🚟",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "mountain cableway",
     "emoji": "🚠",
     "hexcodes": [
@@ -137,8 +137,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "aerial tramway",
     "emoji": "🚡",
     "hexcodes": [
@@ -149,8 +149,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "satellite",
     "emoji": "🛰️",
     "hexcodes": [
@@ -162,8 +162,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "satellite",
     "emoji": "🛰",
     "hexcodes": [
@@ -174,8 +174,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "rocket",
     "emoji": "🚀",
     "hexcodes": [
@@ -186,8 +186,8 @@
     "group": "travel-places",
     "subgroup": "transport-air",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "flying saucer",
     "emoji": "🛸",
     "hexcodes": [

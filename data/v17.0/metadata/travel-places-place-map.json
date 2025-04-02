@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "globe showing Europe-Africa",
     "emoji": "🌍",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "globe showing Americas",
     "emoji": "🌎",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "globe showing Asia-Australia",
     "emoji": "🌏",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "globe with meridians",
     "emoji": "🌐",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "world map",
     "emoji": "🗺️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "world map",
     "emoji": "🗺",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "map of Japan",
     "emoji": "🗾",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "travel-places",
     "subgroup": "place-map",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "compass",
     "emoji": "🧭",
     "hexcodes": [

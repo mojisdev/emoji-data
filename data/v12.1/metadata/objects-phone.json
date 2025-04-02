@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "mobile phone",
     "emoji": "📱",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "mobile phone with arrow",
     "emoji": "📲",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "telephone",
     "emoji": "☎️",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "telephone",
     "emoji": "☎",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "telephone receiver",
     "emoji": "📞",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "pager",
     "emoji": "📟",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "phone",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fax machine",
     "emoji": "📠",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔀 shuffle tracks button",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔁 repeat button",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔂 repeat single button",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "▶️ play button",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "▶ play button",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏩ fast-forward button",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏭️ next track button",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏭ next track button",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏯️ play or pause button",
     "hexcodes": [
@@ -114,8 +114,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏯ play or pause button",
     "hexcodes": [
@@ -126,8 +126,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "◀️ reverse button",
     "hexcodes": [
@@ -139,8 +139,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "◀ reverse button",
     "hexcodes": [
@@ -151,8 +151,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏪ fast reverse button",
     "hexcodes": [
@@ -163,8 +163,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏮️ last track button",
     "hexcodes": [
@@ -176,8 +176,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏮ last track button",
     "hexcodes": [
@@ -188,8 +188,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔼 upwards button",
     "hexcodes": [
@@ -200,8 +200,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏫ fast up button",
     "hexcodes": [
@@ -212,8 +212,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔽 downwards button",
     "hexcodes": [
@@ -224,8 +224,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏬ fast down button",
     "hexcodes": [
@@ -236,8 +236,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏸️ pause button",
     "hexcodes": [
@@ -249,8 +249,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏸ pause button",
     "hexcodes": [
@@ -261,8 +261,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏹️ stop button",
     "hexcodes": [
@@ -274,8 +274,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏹ stop button",
     "hexcodes": [
@@ -286,8 +286,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏺️ record button",
     "hexcodes": [
@@ -299,8 +299,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏺ record button",
     "hexcodes": [
@@ -311,8 +311,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏏️ eject button",
     "hexcodes": [
@@ -324,8 +324,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "⏏ eject button",
     "hexcodes": [
@@ -336,8 +336,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🎦 cinema",
     "hexcodes": [
@@ -348,8 +348,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔅 dim button",
     "hexcodes": [
@@ -360,8 +360,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔆 bright button",
     "hexcodes": [
@@ -372,8 +372,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "📶 antenna bars",
     "hexcodes": [
@@ -384,8 +384,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "📳 vibration mode",
     "hexcodes": [
@@ -396,8 +396,8 @@
     "group": "symbols",
     "subgroup": "av-symbol",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "📴 mobile phone off",
     "hexcodes": [

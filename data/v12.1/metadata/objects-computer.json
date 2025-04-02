@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "keyboard",
     "emoji": "⌨",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "battery",
     "emoji": "🔋",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "electric plug",
     "emoji": "🔌",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "laptop",
     "emoji": "💻",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "desktop computer",
     "emoji": "🖥️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "desktop computer",
     "emoji": "🖥",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "printer",
     "emoji": "🖨️",
     "hexcodes": [
@@ -89,8 +89,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "printer",
     "emoji": "🖨",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "keyboard",
     "emoji": "⌨️",
     "hexcodes": [
@@ -114,8 +114,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "computer mouse",
     "emoji": "🖱️",
     "hexcodes": [
@@ -127,8 +127,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "computer mouse",
     "emoji": "🖱",
     "hexcodes": [
@@ -139,8 +139,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "trackball",
     "emoji": "🖲️",
     "hexcodes": [
@@ -152,8 +152,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "trackball",
     "emoji": "🖲",
     "hexcodes": [
@@ -164,8 +164,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "computer disk",
     "emoji": "💽",
     "hexcodes": [
@@ -176,8 +176,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "floppy disk",
     "emoji": "💾",
     "hexcodes": [
@@ -188,8 +188,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "optical disk",
     "emoji": "💿",
     "hexcodes": [
@@ -200,8 +200,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "dvd",
     "emoji": "📀",
     "hexcodes": [
@@ -212,8 +212,8 @@
     "group": "objects",
     "subgroup": "computer",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "abacus",
     "emoji": "🧮",
     "hexcodes": [

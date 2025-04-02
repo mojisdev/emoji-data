@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker",
     "emoji": "🧑‍⚕️",
     "hexcodes": [
@@ -18,8 +18,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker",
     "emoji": "🧑‍⚕",
     "hexcodes": [
@@ -32,8 +32,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: light skin tone",
     "emoji": "🧑🏻‍⚕️",
     "hexcodes": [
@@ -48,8 +48,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: light skin tone",
     "emoji": "🧑🏻‍⚕",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium-light skin tone",
     "emoji": "🧑🏼‍⚕️",
     "hexcodes": [
@@ -79,8 +79,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium-light skin tone",
     "emoji": "🧑🏼‍⚕",
     "hexcodes": [
@@ -94,8 +94,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium skin tone",
     "emoji": "🧑🏽‍⚕️",
     "hexcodes": [
@@ -110,8 +110,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium skin tone",
     "emoji": "🧑🏽‍⚕",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium-dark skin tone",
     "emoji": "🧑🏾‍⚕️",
     "hexcodes": [
@@ -141,8 +141,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: medium-dark skin tone",
     "emoji": "🧑🏾‍⚕",
     "hexcodes": [
@@ -156,8 +156,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: dark skin tone",
     "emoji": "🧑🏿‍⚕️",
     "hexcodes": [
@@ -172,8 +172,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "health worker: dark skin tone",
     "emoji": "🧑🏿‍⚕",
     "hexcodes": [
@@ -187,8 +187,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker",
     "emoji": "👨‍⚕️",
     "hexcodes": [
@@ -202,8 +202,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker",
     "emoji": "👨‍⚕",
     "hexcodes": [
@@ -216,8 +216,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: light skin tone",
     "emoji": "👨🏻‍⚕️",
     "hexcodes": [
@@ -232,8 +232,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: light skin tone",
     "emoji": "👨🏻‍⚕",
     "hexcodes": [
@@ -247,8 +247,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium-light skin tone",
     "emoji": "👨🏼‍⚕️",
     "hexcodes": [
@@ -263,8 +263,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium-light skin tone",
     "emoji": "👨🏼‍⚕",
     "hexcodes": [
@@ -278,8 +278,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium skin tone",
     "emoji": "👨🏽‍⚕️",
     "hexcodes": [
@@ -294,8 +294,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium skin tone",
     "emoji": "👨🏽‍⚕",
     "hexcodes": [
@@ -309,8 +309,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium-dark skin tone",
     "emoji": "👨🏾‍⚕️",
     "hexcodes": [
@@ -325,8 +325,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: medium-dark skin tone",
     "emoji": "👨🏾‍⚕",
     "hexcodes": [
@@ -340,8 +340,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: dark skin tone",
     "emoji": "👨🏿‍⚕️",
     "hexcodes": [
@@ -356,8 +356,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man health worker: dark skin tone",
     "emoji": "👨🏿‍⚕",
     "hexcodes": [
@@ -371,8 +371,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker",
     "emoji": "👩‍⚕️",
     "hexcodes": [
@@ -386,8 +386,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker",
     "emoji": "👩‍⚕",
     "hexcodes": [
@@ -400,8 +400,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: light skin tone",
     "emoji": "👩🏻‍⚕️",
     "hexcodes": [
@@ -416,8 +416,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: light skin tone",
     "emoji": "👩🏻‍⚕",
     "hexcodes": [
@@ -431,8 +431,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium-light skin tone",
     "emoji": "👩🏼‍⚕️",
     "hexcodes": [
@@ -447,8 +447,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium-light skin tone",
     "emoji": "👩🏼‍⚕",
     "hexcodes": [
@@ -462,8 +462,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium skin tone",
     "emoji": "👩🏽‍⚕️",
     "hexcodes": [
@@ -478,8 +478,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium skin tone",
     "emoji": "👩🏽‍⚕",
     "hexcodes": [
@@ -493,8 +493,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium-dark skin tone",
     "emoji": "👩🏾‍⚕️",
     "hexcodes": [
@@ -509,8 +509,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: medium-dark skin tone",
     "emoji": "👩🏾‍⚕",
     "hexcodes": [
@@ -524,8 +524,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: dark skin tone",
     "emoji": "👩🏿‍⚕️",
     "hexcodes": [
@@ -540,8 +540,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman health worker: dark skin tone",
     "emoji": "👩🏿‍⚕",
     "hexcodes": [
@@ -555,8 +555,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student",
     "emoji": "🧑‍🎓",
     "hexcodes": [
@@ -569,8 +569,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student: light skin tone",
     "emoji": "🧑🏻‍🎓",
     "hexcodes": [
@@ -584,8 +584,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student: medium-light skin tone",
     "emoji": "🧑🏼‍🎓",
     "hexcodes": [
@@ -599,8 +599,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student: medium skin tone",
     "emoji": "🧑🏽‍🎓",
     "hexcodes": [
@@ -614,8 +614,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student: medium-dark skin tone",
     "emoji": "🧑🏾‍🎓",
     "hexcodes": [
@@ -629,8 +629,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "student: dark skin tone",
     "emoji": "🧑🏿‍🎓",
     "hexcodes": [
@@ -644,8 +644,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student",
     "emoji": "👨‍🎓",
     "hexcodes": [
@@ -658,8 +658,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student: light skin tone",
     "emoji": "👨🏻‍🎓",
     "hexcodes": [
@@ -673,8 +673,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student: medium-light skin tone",
     "emoji": "👨🏼‍🎓",
     "hexcodes": [
@@ -688,8 +688,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student: medium skin tone",
     "emoji": "👨🏽‍🎓",
     "hexcodes": [
@@ -703,8 +703,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student: medium-dark skin tone",
     "emoji": "👨🏾‍🎓",
     "hexcodes": [
@@ -718,8 +718,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man student: dark skin tone",
     "emoji": "👨🏿‍🎓",
     "hexcodes": [
@@ -733,8 +733,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student",
     "emoji": "👩‍🎓",
     "hexcodes": [
@@ -747,8 +747,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student: light skin tone",
     "emoji": "👩🏻‍🎓",
     "hexcodes": [
@@ -762,8 +762,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student: medium-light skin tone",
     "emoji": "👩🏼‍🎓",
     "hexcodes": [
@@ -777,8 +777,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student: medium skin tone",
     "emoji": "👩🏽‍🎓",
     "hexcodes": [
@@ -792,8 +792,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student: medium-dark skin tone",
     "emoji": "👩🏾‍🎓",
     "hexcodes": [
@@ -807,8 +807,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman student: dark skin tone",
     "emoji": "👩🏿‍🎓",
     "hexcodes": [
@@ -822,8 +822,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher",
     "emoji": "🧑‍🏫",
     "hexcodes": [
@@ -836,8 +836,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher: light skin tone",
     "emoji": "🧑🏻‍🏫",
     "hexcodes": [
@@ -851,8 +851,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher: medium-light skin tone",
     "emoji": "🧑🏼‍🏫",
     "hexcodes": [
@@ -866,8 +866,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher: medium skin tone",
     "emoji": "🧑🏽‍🏫",
     "hexcodes": [
@@ -881,8 +881,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher: medium-dark skin tone",
     "emoji": "🧑🏾‍🏫",
     "hexcodes": [
@@ -896,8 +896,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "teacher: dark skin tone",
     "emoji": "🧑🏿‍🏫",
     "hexcodes": [
@@ -911,8 +911,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher",
     "emoji": "👨‍🏫",
     "hexcodes": [
@@ -925,8 +925,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher: light skin tone",
     "emoji": "👨🏻‍🏫",
     "hexcodes": [
@@ -940,8 +940,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher: medium-light skin tone",
     "emoji": "👨🏼‍🏫",
     "hexcodes": [
@@ -955,8 +955,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher: medium skin tone",
     "emoji": "👨🏽‍🏫",
     "hexcodes": [
@@ -970,8 +970,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher: medium-dark skin tone",
     "emoji": "👨🏾‍🏫",
     "hexcodes": [
@@ -985,8 +985,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man teacher: dark skin tone",
     "emoji": "👨🏿‍🏫",
     "hexcodes": [
@@ -1000,8 +1000,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher",
     "emoji": "👩‍🏫",
     "hexcodes": [
@@ -1014,8 +1014,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher: light skin tone",
     "emoji": "👩🏻‍🏫",
     "hexcodes": [
@@ -1029,8 +1029,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher: medium-light skin tone",
     "emoji": "👩🏼‍🏫",
     "hexcodes": [
@@ -1044,8 +1044,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher: medium skin tone",
     "emoji": "👩🏽‍🏫",
     "hexcodes": [
@@ -1059,8 +1059,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher: medium-dark skin tone",
     "emoji": "👩🏾‍🏫",
     "hexcodes": [
@@ -1074,8 +1074,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman teacher: dark skin tone",
     "emoji": "👩🏿‍🏫",
     "hexcodes": [
@@ -1089,8 +1089,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge",
     "emoji": "🧑‍⚖️",
     "hexcodes": [
@@ -1104,8 +1104,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge",
     "emoji": "🧑‍⚖",
     "hexcodes": [
@@ -1118,8 +1118,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: light skin tone",
     "emoji": "🧑🏻‍⚖️",
     "hexcodes": [
@@ -1134,8 +1134,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: light skin tone",
     "emoji": "🧑🏻‍⚖",
     "hexcodes": [
@@ -1149,8 +1149,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium-light skin tone",
     "emoji": "🧑🏼‍⚖️",
     "hexcodes": [
@@ -1165,8 +1165,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium-light skin tone",
     "emoji": "🧑🏼‍⚖",
     "hexcodes": [
@@ -1180,8 +1180,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium skin tone",
     "emoji": "🧑🏽‍⚖️",
     "hexcodes": [
@@ -1196,8 +1196,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium skin tone",
     "emoji": "🧑🏽‍⚖",
     "hexcodes": [
@@ -1211,8 +1211,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium-dark skin tone",
     "emoji": "🧑🏾‍⚖️",
     "hexcodes": [
@@ -1227,8 +1227,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: medium-dark skin tone",
     "emoji": "🧑🏾‍⚖",
     "hexcodes": [
@@ -1242,8 +1242,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: dark skin tone",
     "emoji": "🧑🏿‍⚖️",
     "hexcodes": [
@@ -1258,8 +1258,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "judge: dark skin tone",
     "emoji": "🧑🏿‍⚖",
     "hexcodes": [
@@ -1273,8 +1273,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge",
     "emoji": "👨‍⚖️",
     "hexcodes": [
@@ -1288,8 +1288,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge",
     "emoji": "👨‍⚖",
     "hexcodes": [
@@ -1302,8 +1302,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: light skin tone",
     "emoji": "👨🏻‍⚖️",
     "hexcodes": [
@@ -1318,8 +1318,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: light skin tone",
     "emoji": "👨🏻‍⚖",
     "hexcodes": [
@@ -1333,8 +1333,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium-light skin tone",
     "emoji": "👨🏼‍⚖️",
     "hexcodes": [
@@ -1349,8 +1349,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium-light skin tone",
     "emoji": "👨🏼‍⚖",
     "hexcodes": [
@@ -1364,8 +1364,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium skin tone",
     "emoji": "👨🏽‍⚖️",
     "hexcodes": [
@@ -1380,8 +1380,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium skin tone",
     "emoji": "👨🏽‍⚖",
     "hexcodes": [
@@ -1395,8 +1395,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium-dark skin tone",
     "emoji": "👨🏾‍⚖️",
     "hexcodes": [
@@ -1411,8 +1411,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: medium-dark skin tone",
     "emoji": "👨🏾‍⚖",
     "hexcodes": [
@@ -1426,8 +1426,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: dark skin tone",
     "emoji": "👨🏿‍⚖️",
     "hexcodes": [
@@ -1442,8 +1442,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man judge: dark skin tone",
     "emoji": "👨🏿‍⚖",
     "hexcodes": [
@@ -1457,8 +1457,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge",
     "emoji": "👩‍⚖️",
     "hexcodes": [
@@ -1472,8 +1472,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge",
     "emoji": "👩‍⚖",
     "hexcodes": [
@@ -1486,8 +1486,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: light skin tone",
     "emoji": "👩🏻‍⚖️",
     "hexcodes": [
@@ -1502,8 +1502,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: light skin tone",
     "emoji": "👩🏻‍⚖",
     "hexcodes": [
@@ -1517,8 +1517,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium-light skin tone",
     "emoji": "👩🏼‍⚖️",
     "hexcodes": [
@@ -1533,8 +1533,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium-light skin tone",
     "emoji": "👩🏼‍⚖",
     "hexcodes": [
@@ -1548,8 +1548,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium skin tone",
     "emoji": "👩🏽‍⚖️",
     "hexcodes": [
@@ -1564,8 +1564,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium skin tone",
     "emoji": "👩🏽‍⚖",
     "hexcodes": [
@@ -1579,8 +1579,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium-dark skin tone",
     "emoji": "👩🏾‍⚖️",
     "hexcodes": [
@@ -1595,8 +1595,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: medium-dark skin tone",
     "emoji": "👩🏾‍⚖",
     "hexcodes": [
@@ -1610,8 +1610,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: dark skin tone",
     "emoji": "👩🏿‍⚖️",
     "hexcodes": [
@@ -1626,8 +1626,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman judge: dark skin tone",
     "emoji": "👩🏿‍⚖",
     "hexcodes": [
@@ -1641,8 +1641,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer",
     "emoji": "🧑‍🌾",
     "hexcodes": [
@@ -1655,8 +1655,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer: light skin tone",
     "emoji": "🧑🏻‍🌾",
     "hexcodes": [
@@ -1670,8 +1670,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer: medium-light skin tone",
     "emoji": "🧑🏼‍🌾",
     "hexcodes": [
@@ -1685,8 +1685,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer: medium skin tone",
     "emoji": "🧑🏽‍🌾",
     "hexcodes": [
@@ -1700,8 +1700,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer: medium-dark skin tone",
     "emoji": "🧑🏾‍🌾",
     "hexcodes": [
@@ -1715,8 +1715,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "farmer: dark skin tone",
     "emoji": "🧑🏿‍🌾",
     "hexcodes": [
@@ -1730,8 +1730,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer",
     "emoji": "👨‍🌾",
     "hexcodes": [
@@ -1744,8 +1744,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer: light skin tone",
     "emoji": "👨🏻‍🌾",
     "hexcodes": [
@@ -1759,8 +1759,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer: medium-light skin tone",
     "emoji": "👨🏼‍🌾",
     "hexcodes": [
@@ -1774,8 +1774,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer: medium skin tone",
     "emoji": "👨🏽‍🌾",
     "hexcodes": [
@@ -1789,8 +1789,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer: medium-dark skin tone",
     "emoji": "👨🏾‍🌾",
     "hexcodes": [
@@ -1804,8 +1804,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man farmer: dark skin tone",
     "emoji": "👨🏿‍🌾",
     "hexcodes": [
@@ -1819,8 +1819,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer",
     "emoji": "👩‍🌾",
     "hexcodes": [
@@ -1833,8 +1833,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer: light skin tone",
     "emoji": "👩🏻‍🌾",
     "hexcodes": [
@@ -1848,8 +1848,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer: medium-light skin tone",
     "emoji": "👩🏼‍🌾",
     "hexcodes": [
@@ -1863,8 +1863,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer: medium skin tone",
     "emoji": "👩🏽‍🌾",
     "hexcodes": [
@@ -1878,8 +1878,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer: medium-dark skin tone",
     "emoji": "👩🏾‍🌾",
     "hexcodes": [
@@ -1893,8 +1893,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman farmer: dark skin tone",
     "emoji": "👩🏿‍🌾",
     "hexcodes": [
@@ -1908,8 +1908,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook",
     "emoji": "🧑‍🍳",
     "hexcodes": [
@@ -1922,8 +1922,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook: light skin tone",
     "emoji": "🧑🏻‍🍳",
     "hexcodes": [
@@ -1937,8 +1937,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook: medium-light skin tone",
     "emoji": "🧑🏼‍🍳",
     "hexcodes": [
@@ -1952,8 +1952,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook: medium skin tone",
     "emoji": "🧑🏽‍🍳",
     "hexcodes": [
@@ -1967,8 +1967,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook: medium-dark skin tone",
     "emoji": "🧑🏾‍🍳",
     "hexcodes": [
@@ -1982,8 +1982,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "cook: dark skin tone",
     "emoji": "🧑🏿‍🍳",
     "hexcodes": [
@@ -1997,8 +1997,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook",
     "emoji": "👨‍🍳",
     "hexcodes": [
@@ -2011,8 +2011,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook: light skin tone",
     "emoji": "👨🏻‍🍳",
     "hexcodes": [
@@ -2026,8 +2026,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook: medium-light skin tone",
     "emoji": "👨🏼‍🍳",
     "hexcodes": [
@@ -2041,8 +2041,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook: medium skin tone",
     "emoji": "👨🏽‍🍳",
     "hexcodes": [
@@ -2056,8 +2056,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook: medium-dark skin tone",
     "emoji": "👨🏾‍🍳",
     "hexcodes": [
@@ -2071,8 +2071,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cook: dark skin tone",
     "emoji": "👨🏿‍🍳",
     "hexcodes": [
@@ -2086,8 +2086,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook",
     "emoji": "👩‍🍳",
     "hexcodes": [
@@ -2100,8 +2100,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook: light skin tone",
     "emoji": "👩🏻‍🍳",
     "hexcodes": [
@@ -2115,8 +2115,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook: medium-light skin tone",
     "emoji": "👩🏼‍🍳",
     "hexcodes": [
@@ -2130,8 +2130,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook: medium skin tone",
     "emoji": "👩🏽‍🍳",
     "hexcodes": [
@@ -2145,8 +2145,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook: medium-dark skin tone",
     "emoji": "👩🏾‍🍳",
     "hexcodes": [
@@ -2160,8 +2160,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cook: dark skin tone",
     "emoji": "👩🏿‍🍳",
     "hexcodes": [
@@ -2175,8 +2175,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic",
     "emoji": "🧑‍🔧",
     "hexcodes": [
@@ -2189,8 +2189,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic: light skin tone",
     "emoji": "🧑🏻‍🔧",
     "hexcodes": [
@@ -2204,8 +2204,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic: medium-light skin tone",
     "emoji": "🧑🏼‍🔧",
     "hexcodes": [
@@ -2219,8 +2219,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic: medium skin tone",
     "emoji": "🧑🏽‍🔧",
     "hexcodes": [
@@ -2234,8 +2234,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic: medium-dark skin tone",
     "emoji": "🧑🏾‍🔧",
     "hexcodes": [
@@ -2249,8 +2249,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "mechanic: dark skin tone",
     "emoji": "🧑🏿‍🔧",
     "hexcodes": [
@@ -2264,8 +2264,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic",
     "emoji": "👨‍🔧",
     "hexcodes": [
@@ -2278,8 +2278,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic: light skin tone",
     "emoji": "👨🏻‍🔧",
     "hexcodes": [
@@ -2293,8 +2293,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic: medium-light skin tone",
     "emoji": "👨🏼‍🔧",
     "hexcodes": [
@@ -2308,8 +2308,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic: medium skin tone",
     "emoji": "👨🏽‍🔧",
     "hexcodes": [
@@ -2323,8 +2323,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic: medium-dark skin tone",
     "emoji": "👨🏾‍🔧",
     "hexcodes": [
@@ -2338,8 +2338,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mechanic: dark skin tone",
     "emoji": "👨🏿‍🔧",
     "hexcodes": [
@@ -2353,8 +2353,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic",
     "emoji": "👩‍🔧",
     "hexcodes": [
@@ -2367,8 +2367,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic: light skin tone",
     "emoji": "👩🏻‍🔧",
     "hexcodes": [
@@ -2382,8 +2382,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic: medium-light skin tone",
     "emoji": "👩🏼‍🔧",
     "hexcodes": [
@@ -2397,8 +2397,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic: medium skin tone",
     "emoji": "👩🏽‍🔧",
     "hexcodes": [
@@ -2412,8 +2412,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic: medium-dark skin tone",
     "emoji": "👩🏾‍🔧",
     "hexcodes": [
@@ -2427,8 +2427,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mechanic: dark skin tone",
     "emoji": "👩🏿‍🔧",
     "hexcodes": [
@@ -2442,8 +2442,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker",
     "emoji": "🧑‍🏭",
     "hexcodes": [
@@ -2456,8 +2456,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker: light skin tone",
     "emoji": "🧑🏻‍🏭",
     "hexcodes": [
@@ -2471,8 +2471,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker: medium-light skin tone",
     "emoji": "🧑🏼‍🏭",
     "hexcodes": [
@@ -2486,8 +2486,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker: medium skin tone",
     "emoji": "🧑🏽‍🏭",
     "hexcodes": [
@@ -2501,8 +2501,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker: medium-dark skin tone",
     "emoji": "🧑🏾‍🏭",
     "hexcodes": [
@@ -2516,8 +2516,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "factory worker: dark skin tone",
     "emoji": "🧑🏿‍🏭",
     "hexcodes": [
@@ -2531,8 +2531,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker",
     "emoji": "👨‍🏭",
     "hexcodes": [
@@ -2545,8 +2545,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker: light skin tone",
     "emoji": "👨🏻‍🏭",
     "hexcodes": [
@@ -2560,8 +2560,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker: medium-light skin tone",
     "emoji": "👨🏼‍🏭",
     "hexcodes": [
@@ -2575,8 +2575,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker: medium skin tone",
     "emoji": "👨🏽‍🏭",
     "hexcodes": [
@@ -2590,8 +2590,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker: medium-dark skin tone",
     "emoji": "👨🏾‍🏭",
     "hexcodes": [
@@ -2605,8 +2605,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man factory worker: dark skin tone",
     "emoji": "👨🏿‍🏭",
     "hexcodes": [
@@ -2620,8 +2620,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker",
     "emoji": "👩‍🏭",
     "hexcodes": [
@@ -2634,8 +2634,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker: light skin tone",
     "emoji": "👩🏻‍🏭",
     "hexcodes": [
@@ -2649,8 +2649,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker: medium-light skin tone",
     "emoji": "👩🏼‍🏭",
     "hexcodes": [
@@ -2664,8 +2664,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker: medium skin tone",
     "emoji": "👩🏽‍🏭",
     "hexcodes": [
@@ -2679,8 +2679,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker: medium-dark skin tone",
     "emoji": "👩🏾‍🏭",
     "hexcodes": [
@@ -2694,8 +2694,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman factory worker: dark skin tone",
     "emoji": "👩🏿‍🏭",
     "hexcodes": [
@@ -2709,8 +2709,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker",
     "emoji": "🧑‍💼",
     "hexcodes": [
@@ -2723,8 +2723,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker: light skin tone",
     "emoji": "🧑🏻‍💼",
     "hexcodes": [
@@ -2738,8 +2738,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker: medium-light skin tone",
     "emoji": "🧑🏼‍💼",
     "hexcodes": [
@@ -2753,8 +2753,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker: medium skin tone",
     "emoji": "🧑🏽‍💼",
     "hexcodes": [
@@ -2768,8 +2768,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker: medium-dark skin tone",
     "emoji": "🧑🏾‍💼",
     "hexcodes": [
@@ -2783,8 +2783,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "office worker: dark skin tone",
     "emoji": "🧑🏿‍💼",
     "hexcodes": [
@@ -2798,8 +2798,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker",
     "emoji": "👨‍💼",
     "hexcodes": [
@@ -2812,8 +2812,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker: light skin tone",
     "emoji": "👨🏻‍💼",
     "hexcodes": [
@@ -2827,8 +2827,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker: medium-light skin tone",
     "emoji": "👨🏼‍💼",
     "hexcodes": [
@@ -2842,8 +2842,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker: medium skin tone",
     "emoji": "👨🏽‍💼",
     "hexcodes": [
@@ -2857,8 +2857,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker: medium-dark skin tone",
     "emoji": "👨🏾‍💼",
     "hexcodes": [
@@ -2872,8 +2872,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man office worker: dark skin tone",
     "emoji": "👨🏿‍💼",
     "hexcodes": [
@@ -2887,8 +2887,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker",
     "emoji": "👩‍💼",
     "hexcodes": [
@@ -2901,8 +2901,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker: light skin tone",
     "emoji": "👩🏻‍💼",
     "hexcodes": [
@@ -2916,8 +2916,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker: medium-light skin tone",
     "emoji": "👩🏼‍💼",
     "hexcodes": [
@@ -2931,8 +2931,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker: medium skin tone",
     "emoji": "👩🏽‍💼",
     "hexcodes": [
@@ -2946,8 +2946,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker: medium-dark skin tone",
     "emoji": "👩🏾‍💼",
     "hexcodes": [
@@ -2961,8 +2961,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman office worker: dark skin tone",
     "emoji": "👩🏿‍💼",
     "hexcodes": [
@@ -2976,8 +2976,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist",
     "emoji": "🧑‍🔬",
     "hexcodes": [
@@ -2990,8 +2990,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist: light skin tone",
     "emoji": "🧑🏻‍🔬",
     "hexcodes": [
@@ -3005,8 +3005,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist: medium-light skin tone",
     "emoji": "🧑🏼‍🔬",
     "hexcodes": [
@@ -3020,8 +3020,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist: medium skin tone",
     "emoji": "🧑🏽‍🔬",
     "hexcodes": [
@@ -3035,8 +3035,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist: medium-dark skin tone",
     "emoji": "🧑🏾‍🔬",
     "hexcodes": [
@@ -3050,8 +3050,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "scientist: dark skin tone",
     "emoji": "🧑🏿‍🔬",
     "hexcodes": [
@@ -3065,8 +3065,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist",
     "emoji": "👨‍🔬",
     "hexcodes": [
@@ -3079,8 +3079,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist: light skin tone",
     "emoji": "👨🏻‍🔬",
     "hexcodes": [
@@ -3094,8 +3094,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist: medium-light skin tone",
     "emoji": "👨🏼‍🔬",
     "hexcodes": [
@@ -3109,8 +3109,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist: medium skin tone",
     "emoji": "👨🏽‍🔬",
     "hexcodes": [
@@ -3124,8 +3124,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist: medium-dark skin tone",
     "emoji": "👨🏾‍🔬",
     "hexcodes": [
@@ -3139,8 +3139,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man scientist: dark skin tone",
     "emoji": "👨🏿‍🔬",
     "hexcodes": [
@@ -3154,8 +3154,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist",
     "emoji": "👩‍🔬",
     "hexcodes": [
@@ -3168,8 +3168,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist: light skin tone",
     "emoji": "👩🏻‍🔬",
     "hexcodes": [
@@ -3183,8 +3183,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist: medium-light skin tone",
     "emoji": "👩🏼‍🔬",
     "hexcodes": [
@@ -3198,8 +3198,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist: medium skin tone",
     "emoji": "👩🏽‍🔬",
     "hexcodes": [
@@ -3213,8 +3213,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist: medium-dark skin tone",
     "emoji": "👩🏾‍🔬",
     "hexcodes": [
@@ -3228,8 +3228,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman scientist: dark skin tone",
     "emoji": "👩🏿‍🔬",
     "hexcodes": [
@@ -3243,8 +3243,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist",
     "emoji": "🧑‍💻",
     "hexcodes": [
@@ -3257,8 +3257,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist: light skin tone",
     "emoji": "🧑🏻‍💻",
     "hexcodes": [
@@ -3272,8 +3272,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist: medium-light skin tone",
     "emoji": "🧑🏼‍💻",
     "hexcodes": [
@@ -3287,8 +3287,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist: medium skin tone",
     "emoji": "🧑🏽‍💻",
     "hexcodes": [
@@ -3302,8 +3302,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist: medium-dark skin tone",
     "emoji": "🧑🏾‍💻",
     "hexcodes": [
@@ -3317,8 +3317,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "technologist: dark skin tone",
     "emoji": "🧑🏿‍💻",
     "hexcodes": [
@@ -3332,8 +3332,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist",
     "emoji": "👨‍💻",
     "hexcodes": [
@@ -3346,8 +3346,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist: light skin tone",
     "emoji": "👨🏻‍💻",
     "hexcodes": [
@@ -3361,8 +3361,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist: medium-light skin tone",
     "emoji": "👨🏼‍💻",
     "hexcodes": [
@@ -3376,8 +3376,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist: medium skin tone",
     "emoji": "👨🏽‍💻",
     "hexcodes": [
@@ -3391,8 +3391,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist: medium-dark skin tone",
     "emoji": "👨🏾‍💻",
     "hexcodes": [
@@ -3406,8 +3406,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man technologist: dark skin tone",
     "emoji": "👨🏿‍💻",
     "hexcodes": [
@@ -3421,8 +3421,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist",
     "emoji": "👩‍💻",
     "hexcodes": [
@@ -3435,8 +3435,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist: light skin tone",
     "emoji": "👩🏻‍💻",
     "hexcodes": [
@@ -3450,8 +3450,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist: medium-light skin tone",
     "emoji": "👩🏼‍💻",
     "hexcodes": [
@@ -3465,8 +3465,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist: medium skin tone",
     "emoji": "👩🏽‍💻",
     "hexcodes": [
@@ -3480,8 +3480,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist: medium-dark skin tone",
     "emoji": "👩🏾‍💻",
     "hexcodes": [
@@ -3495,8 +3495,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman technologist: dark skin tone",
     "emoji": "👩🏿‍💻",
     "hexcodes": [
@@ -3510,8 +3510,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer",
     "emoji": "🧑‍🎤",
     "hexcodes": [
@@ -3524,8 +3524,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer: light skin tone",
     "emoji": "🧑🏻‍🎤",
     "hexcodes": [
@@ -3539,8 +3539,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer: medium-light skin tone",
     "emoji": "🧑🏼‍🎤",
     "hexcodes": [
@@ -3554,8 +3554,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer: medium skin tone",
     "emoji": "🧑🏽‍🎤",
     "hexcodes": [
@@ -3569,8 +3569,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer: medium-dark skin tone",
     "emoji": "🧑🏾‍🎤",
     "hexcodes": [
@@ -3584,8 +3584,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "singer: dark skin tone",
     "emoji": "🧑🏿‍🎤",
     "hexcodes": [
@@ -3599,8 +3599,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer",
     "emoji": "👨‍🎤",
     "hexcodes": [
@@ -3613,8 +3613,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer: light skin tone",
     "emoji": "👨🏻‍🎤",
     "hexcodes": [
@@ -3628,8 +3628,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer: medium-light skin tone",
     "emoji": "👨🏼‍🎤",
     "hexcodes": [
@@ -3643,8 +3643,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer: medium skin tone",
     "emoji": "👨🏽‍🎤",
     "hexcodes": [
@@ -3658,8 +3658,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer: medium-dark skin tone",
     "emoji": "👨🏾‍🎤",
     "hexcodes": [
@@ -3673,8 +3673,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man singer: dark skin tone",
     "emoji": "👨🏿‍🎤",
     "hexcodes": [
@@ -3688,8 +3688,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer",
     "emoji": "👩‍🎤",
     "hexcodes": [
@@ -3702,8 +3702,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer: light skin tone",
     "emoji": "👩🏻‍🎤",
     "hexcodes": [
@@ -3717,8 +3717,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer: medium-light skin tone",
     "emoji": "👩🏼‍🎤",
     "hexcodes": [
@@ -3732,8 +3732,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer: medium skin tone",
     "emoji": "👩🏽‍🎤",
     "hexcodes": [
@@ -3747,8 +3747,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer: medium-dark skin tone",
     "emoji": "👩🏾‍🎤",
     "hexcodes": [
@@ -3762,8 +3762,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman singer: dark skin tone",
     "emoji": "👩🏿‍🎤",
     "hexcodes": [
@@ -3777,8 +3777,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist",
     "emoji": "🧑‍🎨",
     "hexcodes": [
@@ -3791,8 +3791,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist: light skin tone",
     "emoji": "🧑🏻‍🎨",
     "hexcodes": [
@@ -3806,8 +3806,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist: medium-light skin tone",
     "emoji": "🧑🏼‍🎨",
     "hexcodes": [
@@ -3821,8 +3821,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist: medium skin tone",
     "emoji": "🧑🏽‍🎨",
     "hexcodes": [
@@ -3836,8 +3836,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist: medium-dark skin tone",
     "emoji": "🧑🏾‍🎨",
     "hexcodes": [
@@ -3851,8 +3851,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "artist: dark skin tone",
     "emoji": "🧑🏿‍🎨",
     "hexcodes": [
@@ -3866,8 +3866,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist",
     "emoji": "👨‍🎨",
     "hexcodes": [
@@ -3880,8 +3880,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist: light skin tone",
     "emoji": "👨🏻‍🎨",
     "hexcodes": [
@@ -3895,8 +3895,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist: medium-light skin tone",
     "emoji": "👨🏼‍🎨",
     "hexcodes": [
@@ -3910,8 +3910,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist: medium skin tone",
     "emoji": "👨🏽‍🎨",
     "hexcodes": [
@@ -3925,8 +3925,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist: medium-dark skin tone",
     "emoji": "👨🏾‍🎨",
     "hexcodes": [
@@ -3940,8 +3940,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man artist: dark skin tone",
     "emoji": "👨🏿‍🎨",
     "hexcodes": [
@@ -3955,8 +3955,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist",
     "emoji": "👩‍🎨",
     "hexcodes": [
@@ -3969,8 +3969,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist: light skin tone",
     "emoji": "👩🏻‍🎨",
     "hexcodes": [
@@ -3984,8 +3984,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist: medium-light skin tone",
     "emoji": "👩🏼‍🎨",
     "hexcodes": [
@@ -3999,8 +3999,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist: medium skin tone",
     "emoji": "👩🏽‍🎨",
     "hexcodes": [
@@ -4014,8 +4014,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist: medium-dark skin tone",
     "emoji": "👩🏾‍🎨",
     "hexcodes": [
@@ -4029,8 +4029,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman artist: dark skin tone",
     "emoji": "👩🏿‍🎨",
     "hexcodes": [
@@ -4044,8 +4044,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot",
     "emoji": "🧑‍✈️",
     "hexcodes": [
@@ -4059,8 +4059,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot",
     "emoji": "🧑‍✈",
     "hexcodes": [
@@ -4073,8 +4073,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: light skin tone",
     "emoji": "🧑🏻‍✈️",
     "hexcodes": [
@@ -4089,8 +4089,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: light skin tone",
     "emoji": "🧑🏻‍✈",
     "hexcodes": [
@@ -4104,8 +4104,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium-light skin tone",
     "emoji": "🧑🏼‍✈️",
     "hexcodes": [
@@ -4120,8 +4120,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium-light skin tone",
     "emoji": "🧑🏼‍✈",
     "hexcodes": [
@@ -4135,8 +4135,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium skin tone",
     "emoji": "🧑🏽‍✈️",
     "hexcodes": [
@@ -4151,8 +4151,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium skin tone",
     "emoji": "🧑🏽‍✈",
     "hexcodes": [
@@ -4166,8 +4166,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium-dark skin tone",
     "emoji": "🧑🏾‍✈️",
     "hexcodes": [
@@ -4182,8 +4182,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: medium-dark skin tone",
     "emoji": "🧑🏾‍✈",
     "hexcodes": [
@@ -4197,8 +4197,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: dark skin tone",
     "emoji": "🧑🏿‍✈️",
     "hexcodes": [
@@ -4213,8 +4213,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "pilot: dark skin tone",
     "emoji": "🧑🏿‍✈",
     "hexcodes": [
@@ -4228,8 +4228,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot",
     "emoji": "👨‍✈️",
     "hexcodes": [
@@ -4243,8 +4243,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot",
     "emoji": "👨‍✈",
     "hexcodes": [
@@ -4257,8 +4257,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: light skin tone",
     "emoji": "👨🏻‍✈️",
     "hexcodes": [
@@ -4273,8 +4273,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: light skin tone",
     "emoji": "👨🏻‍✈",
     "hexcodes": [
@@ -4288,8 +4288,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium-light skin tone",
     "emoji": "👨🏼‍✈️",
     "hexcodes": [
@@ -4304,8 +4304,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium-light skin tone",
     "emoji": "👨🏼‍✈",
     "hexcodes": [
@@ -4319,8 +4319,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium skin tone",
     "emoji": "👨🏽‍✈️",
     "hexcodes": [
@@ -4335,8 +4335,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium skin tone",
     "emoji": "👨🏽‍✈",
     "hexcodes": [
@@ -4350,8 +4350,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium-dark skin tone",
     "emoji": "👨🏾‍✈️",
     "hexcodes": [
@@ -4366,8 +4366,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: medium-dark skin tone",
     "emoji": "👨🏾‍✈",
     "hexcodes": [
@@ -4381,8 +4381,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: dark skin tone",
     "emoji": "👨🏿‍✈️",
     "hexcodes": [
@@ -4397,8 +4397,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man pilot: dark skin tone",
     "emoji": "👨🏿‍✈",
     "hexcodes": [
@@ -4412,8 +4412,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot",
     "emoji": "👩‍✈️",
     "hexcodes": [
@@ -4427,8 +4427,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot",
     "emoji": "👩‍✈",
     "hexcodes": [
@@ -4441,8 +4441,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: light skin tone",
     "emoji": "👩🏻‍✈️",
     "hexcodes": [
@@ -4457,8 +4457,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: light skin tone",
     "emoji": "👩🏻‍✈",
     "hexcodes": [
@@ -4472,8 +4472,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium-light skin tone",
     "emoji": "👩🏼‍✈️",
     "hexcodes": [
@@ -4488,8 +4488,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium-light skin tone",
     "emoji": "👩🏼‍✈",
     "hexcodes": [
@@ -4503,8 +4503,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium skin tone",
     "emoji": "👩🏽‍✈️",
     "hexcodes": [
@@ -4519,8 +4519,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium skin tone",
     "emoji": "👩🏽‍✈",
     "hexcodes": [
@@ -4534,8 +4534,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium-dark skin tone",
     "emoji": "👩🏾‍✈️",
     "hexcodes": [
@@ -4550,8 +4550,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: medium-dark skin tone",
     "emoji": "👩🏾‍✈",
     "hexcodes": [
@@ -4565,8 +4565,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: dark skin tone",
     "emoji": "👩🏿‍✈️",
     "hexcodes": [
@@ -4581,8 +4581,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman pilot: dark skin tone",
     "emoji": "👩🏿‍✈",
     "hexcodes": [
@@ -4596,8 +4596,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut",
     "emoji": "🧑‍🚀",
     "hexcodes": [
@@ -4610,8 +4610,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut: light skin tone",
     "emoji": "🧑🏻‍🚀",
     "hexcodes": [
@@ -4625,8 +4625,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut: medium-light skin tone",
     "emoji": "🧑🏼‍🚀",
     "hexcodes": [
@@ -4640,8 +4640,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut: medium skin tone",
     "emoji": "🧑🏽‍🚀",
     "hexcodes": [
@@ -4655,8 +4655,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut: medium-dark skin tone",
     "emoji": "🧑🏾‍🚀",
     "hexcodes": [
@@ -4670,8 +4670,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "astronaut: dark skin tone",
     "emoji": "🧑🏿‍🚀",
     "hexcodes": [
@@ -4685,8 +4685,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut",
     "emoji": "👨‍🚀",
     "hexcodes": [
@@ -4699,8 +4699,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut: light skin tone",
     "emoji": "👨🏻‍🚀",
     "hexcodes": [
@@ -4714,8 +4714,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut: medium-light skin tone",
     "emoji": "👨🏼‍🚀",
     "hexcodes": [
@@ -4729,8 +4729,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut: medium skin tone",
     "emoji": "👨🏽‍🚀",
     "hexcodes": [
@@ -4744,8 +4744,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut: medium-dark skin tone",
     "emoji": "👨🏾‍🚀",
     "hexcodes": [
@@ -4759,8 +4759,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man astronaut: dark skin tone",
     "emoji": "👨🏿‍🚀",
     "hexcodes": [
@@ -4774,8 +4774,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut",
     "emoji": "👩‍🚀",
     "hexcodes": [
@@ -4788,8 +4788,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut: light skin tone",
     "emoji": "👩🏻‍🚀",
     "hexcodes": [
@@ -4803,8 +4803,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut: medium-light skin tone",
     "emoji": "👩🏼‍🚀",
     "hexcodes": [
@@ -4818,8 +4818,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut: medium skin tone",
     "emoji": "👩🏽‍🚀",
     "hexcodes": [
@@ -4833,8 +4833,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut: medium-dark skin tone",
     "emoji": "👩🏾‍🚀",
     "hexcodes": [
@@ -4848,8 +4848,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman astronaut: dark skin tone",
     "emoji": "👩🏿‍🚀",
     "hexcodes": [
@@ -4863,8 +4863,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter",
     "emoji": "🧑‍🚒",
     "hexcodes": [
@@ -4877,8 +4877,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter: light skin tone",
     "emoji": "🧑🏻‍🚒",
     "hexcodes": [
@@ -4892,8 +4892,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter: medium-light skin tone",
     "emoji": "🧑🏼‍🚒",
     "hexcodes": [
@@ -4907,8 +4907,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter: medium skin tone",
     "emoji": "🧑🏽‍🚒",
     "hexcodes": [
@@ -4922,8 +4922,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter: medium-dark skin tone",
     "emoji": "🧑🏾‍🚒",
     "hexcodes": [
@@ -4937,8 +4937,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "firefighter: dark skin tone",
     "emoji": "🧑🏿‍🚒",
     "hexcodes": [
@@ -4952,8 +4952,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter",
     "emoji": "👨‍🚒",
     "hexcodes": [
@@ -4966,8 +4966,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter: light skin tone",
     "emoji": "👨🏻‍🚒",
     "hexcodes": [
@@ -4981,8 +4981,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter: medium-light skin tone",
     "emoji": "👨🏼‍🚒",
     "hexcodes": [
@@ -4996,8 +4996,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter: medium skin tone",
     "emoji": "👨🏽‍🚒",
     "hexcodes": [
@@ -5011,8 +5011,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter: medium-dark skin tone",
     "emoji": "👨🏾‍🚒",
     "hexcodes": [
@@ -5026,8 +5026,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man firefighter: dark skin tone",
     "emoji": "👨🏿‍🚒",
     "hexcodes": [
@@ -5041,8 +5041,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter",
     "emoji": "👩‍🚒",
     "hexcodes": [
@@ -5055,8 +5055,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter: light skin tone",
     "emoji": "👩🏻‍🚒",
     "hexcodes": [
@@ -5070,8 +5070,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter: medium-light skin tone",
     "emoji": "👩🏼‍🚒",
     "hexcodes": [
@@ -5085,8 +5085,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter: medium skin tone",
     "emoji": "👩🏽‍🚒",
     "hexcodes": [
@@ -5100,8 +5100,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter: medium-dark skin tone",
     "emoji": "👩🏾‍🚒",
     "hexcodes": [
@@ -5115,8 +5115,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman firefighter: dark skin tone",
     "emoji": "👩🏿‍🚒",
     "hexcodes": [
@@ -5130,8 +5130,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "police officer",
     "emoji": "👮",
     "hexcodes": [
@@ -5142,8 +5142,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "police officer: light skin tone",
     "emoji": "👮🏻",
     "hexcodes": [
@@ -5155,8 +5155,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "police officer: medium-light skin tone",
     "emoji": "👮🏼",
     "hexcodes": [
@@ -5168,8 +5168,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "police officer: medium skin tone",
     "emoji": "👮🏽",
     "hexcodes": [
@@ -5181,8 +5181,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "police officer: medium-dark skin tone",
     "emoji": "👮🏾",
     "hexcodes": [
@@ -5194,8 +5194,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "police officer: dark skin tone",
     "emoji": "👮🏿",
     "hexcodes": [
@@ -5207,8 +5207,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer",
     "emoji": "👮‍♂️",
     "hexcodes": [
@@ -5222,8 +5222,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer",
     "emoji": "👮‍♂",
     "hexcodes": [
@@ -5236,8 +5236,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: light skin tone",
     "emoji": "👮🏻‍♂️",
     "hexcodes": [
@@ -5252,8 +5252,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: light skin tone",
     "emoji": "👮🏻‍♂",
     "hexcodes": [
@@ -5267,8 +5267,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium-light skin tone",
     "emoji": "👮🏼‍♂️",
     "hexcodes": [
@@ -5283,8 +5283,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium-light skin tone",
     "emoji": "👮🏼‍♂",
     "hexcodes": [
@@ -5298,8 +5298,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium skin tone",
     "emoji": "👮🏽‍♂️",
     "hexcodes": [
@@ -5314,8 +5314,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium skin tone",
     "emoji": "👮🏽‍♂",
     "hexcodes": [
@@ -5329,8 +5329,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium-dark skin tone",
     "emoji": "👮🏾‍♂️",
     "hexcodes": [
@@ -5345,8 +5345,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: medium-dark skin tone",
     "emoji": "👮🏾‍♂",
     "hexcodes": [
@@ -5360,8 +5360,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: dark skin tone",
     "emoji": "👮🏿‍♂️",
     "hexcodes": [
@@ -5376,8 +5376,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man police officer: dark skin tone",
     "emoji": "👮🏿‍♂",
     "hexcodes": [
@@ -5391,8 +5391,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer",
     "emoji": "👮‍♀️",
     "hexcodes": [
@@ -5406,8 +5406,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer",
     "emoji": "👮‍♀",
     "hexcodes": [
@@ -5420,8 +5420,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: light skin tone",
     "emoji": "👮🏻‍♀️",
     "hexcodes": [
@@ -5436,8 +5436,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: light skin tone",
     "emoji": "👮🏻‍♀",
     "hexcodes": [
@@ -5451,8 +5451,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium-light skin tone",
     "emoji": "👮🏼‍♀️",
     "hexcodes": [
@@ -5467,8 +5467,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium-light skin tone",
     "emoji": "👮🏼‍♀",
     "hexcodes": [
@@ -5482,8 +5482,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium skin tone",
     "emoji": "👮🏽‍♀️",
     "hexcodes": [
@@ -5498,8 +5498,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium skin tone",
     "emoji": "👮🏽‍♀",
     "hexcodes": [
@@ -5513,8 +5513,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium-dark skin tone",
     "emoji": "👮🏾‍♀️",
     "hexcodes": [
@@ -5529,8 +5529,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: medium-dark skin tone",
     "emoji": "👮🏾‍♀",
     "hexcodes": [
@@ -5544,8 +5544,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: dark skin tone",
     "emoji": "👮🏿‍♀️",
     "hexcodes": [
@@ -5560,8 +5560,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman police officer: dark skin tone",
     "emoji": "👮🏿‍♀",
     "hexcodes": [
@@ -5575,8 +5575,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "detective",
     "emoji": "🕵️",
     "hexcodes": [
@@ -5588,8 +5588,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "detective",
     "emoji": "🕵",
     "hexcodes": [
@@ -5600,8 +5600,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "detective: light skin tone",
     "emoji": "🕵🏻",
     "hexcodes": [
@@ -5613,8 +5613,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "detective: medium-light skin tone",
     "emoji": "🕵🏼",
     "hexcodes": [
@@ -5626,8 +5626,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "detective: medium skin tone",
     "emoji": "🕵🏽",
     "hexcodes": [
@@ -5639,8 +5639,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "detective: medium-dark skin tone",
     "emoji": "🕵🏾",
     "hexcodes": [
@@ -5652,8 +5652,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "detective: dark skin tone",
     "emoji": "🕵🏿",
     "hexcodes": [
@@ -5665,8 +5665,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective",
     "emoji": "🕵️‍♂️",
     "hexcodes": [
@@ -5681,8 +5681,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective",
     "emoji": "🕵‍♂️",
     "hexcodes": [
@@ -5696,8 +5696,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective",
     "emoji": "🕵️‍♂",
     "hexcodes": [
@@ -5711,8 +5711,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective",
     "emoji": "🕵‍♂",
     "hexcodes": [
@@ -5725,8 +5725,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: light skin tone",
     "emoji": "🕵🏻‍♂️",
     "hexcodes": [
@@ -5741,8 +5741,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: light skin tone",
     "emoji": "🕵🏻‍♂",
     "hexcodes": [
@@ -5756,8 +5756,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium-light skin tone",
     "emoji": "🕵🏼‍♂️",
     "hexcodes": [
@@ -5772,8 +5772,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium-light skin tone",
     "emoji": "🕵🏼‍♂",
     "hexcodes": [
@@ -5787,8 +5787,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium skin tone",
     "emoji": "🕵🏽‍♂️",
     "hexcodes": [
@@ -5803,8 +5803,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium skin tone",
     "emoji": "🕵🏽‍♂",
     "hexcodes": [
@@ -5818,8 +5818,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium-dark skin tone",
     "emoji": "🕵🏾‍♂️",
     "hexcodes": [
@@ -5834,8 +5834,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: medium-dark skin tone",
     "emoji": "🕵🏾‍♂",
     "hexcodes": [
@@ -5849,8 +5849,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: dark skin tone",
     "emoji": "🕵🏿‍♂️",
     "hexcodes": [
@@ -5865,8 +5865,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man detective: dark skin tone",
     "emoji": "🕵🏿‍♂",
     "hexcodes": [
@@ -5880,8 +5880,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective",
     "emoji": "🕵️‍♀️",
     "hexcodes": [
@@ -5896,8 +5896,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective",
     "emoji": "🕵‍♀️",
     "hexcodes": [
@@ -5911,8 +5911,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective",
     "emoji": "🕵️‍♀",
     "hexcodes": [
@@ -5926,8 +5926,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective",
     "emoji": "🕵‍♀",
     "hexcodes": [
@@ -5940,8 +5940,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: light skin tone",
     "emoji": "🕵🏻‍♀️",
     "hexcodes": [
@@ -5956,8 +5956,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: light skin tone",
     "emoji": "🕵🏻‍♀",
     "hexcodes": [
@@ -5971,8 +5971,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium-light skin tone",
     "emoji": "🕵🏼‍♀️",
     "hexcodes": [
@@ -5987,8 +5987,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium-light skin tone",
     "emoji": "🕵🏼‍♀",
     "hexcodes": [
@@ -6002,8 +6002,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium skin tone",
     "emoji": "🕵🏽‍♀️",
     "hexcodes": [
@@ -6018,8 +6018,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium skin tone",
     "emoji": "🕵🏽‍♀",
     "hexcodes": [
@@ -6033,8 +6033,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium-dark skin tone",
     "emoji": "🕵🏾‍♀️",
     "hexcodes": [
@@ -6049,8 +6049,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: medium-dark skin tone",
     "emoji": "🕵🏾‍♀",
     "hexcodes": [
@@ -6064,8 +6064,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: dark skin tone",
     "emoji": "🕵🏿‍♀️",
     "hexcodes": [
@@ -6080,8 +6080,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman detective: dark skin tone",
     "emoji": "🕵🏿‍♀",
     "hexcodes": [
@@ -6095,8 +6095,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "guard",
     "emoji": "💂",
     "hexcodes": [
@@ -6107,8 +6107,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "guard: light skin tone",
     "emoji": "💂🏻",
     "hexcodes": [
@@ -6120,8 +6120,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "guard: medium-light skin tone",
     "emoji": "💂🏼",
     "hexcodes": [
@@ -6133,8 +6133,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "guard: medium skin tone",
     "emoji": "💂🏽",
     "hexcodes": [
@@ -6146,8 +6146,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "guard: medium-dark skin tone",
     "emoji": "💂🏾",
     "hexcodes": [
@@ -6159,8 +6159,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "guard: dark skin tone",
     "emoji": "💂🏿",
     "hexcodes": [
@@ -6172,8 +6172,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard",
     "emoji": "💂‍♂️",
     "hexcodes": [
@@ -6187,8 +6187,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard",
     "emoji": "💂‍♂",
     "hexcodes": [
@@ -6201,8 +6201,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: light skin tone",
     "emoji": "💂🏻‍♂️",
     "hexcodes": [
@@ -6217,8 +6217,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: light skin tone",
     "emoji": "💂🏻‍♂",
     "hexcodes": [
@@ -6232,8 +6232,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium-light skin tone",
     "emoji": "💂🏼‍♂️",
     "hexcodes": [
@@ -6248,8 +6248,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium-light skin tone",
     "emoji": "💂🏼‍♂",
     "hexcodes": [
@@ -6263,8 +6263,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium skin tone",
     "emoji": "💂🏽‍♂️",
     "hexcodes": [
@@ -6279,8 +6279,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium skin tone",
     "emoji": "💂🏽‍♂",
     "hexcodes": [
@@ -6294,8 +6294,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium-dark skin tone",
     "emoji": "💂🏾‍♂️",
     "hexcodes": [
@@ -6310,8 +6310,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: medium-dark skin tone",
     "emoji": "💂🏾‍♂",
     "hexcodes": [
@@ -6325,8 +6325,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: dark skin tone",
     "emoji": "💂🏿‍♂️",
     "hexcodes": [
@@ -6341,8 +6341,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man guard: dark skin tone",
     "emoji": "💂🏿‍♂",
     "hexcodes": [
@@ -6356,8 +6356,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard",
     "emoji": "💂‍♀️",
     "hexcodes": [
@@ -6371,8 +6371,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard",
     "emoji": "💂‍♀",
     "hexcodes": [
@@ -6385,8 +6385,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: light skin tone",
     "emoji": "💂🏻‍♀️",
     "hexcodes": [
@@ -6401,8 +6401,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: light skin tone",
     "emoji": "💂🏻‍♀",
     "hexcodes": [
@@ -6416,8 +6416,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium-light skin tone",
     "emoji": "💂🏼‍♀️",
     "hexcodes": [
@@ -6432,8 +6432,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium-light skin tone",
     "emoji": "💂🏼‍♀",
     "hexcodes": [
@@ -6447,8 +6447,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium skin tone",
     "emoji": "💂🏽‍♀️",
     "hexcodes": [
@@ -6463,8 +6463,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium skin tone",
     "emoji": "💂🏽‍♀",
     "hexcodes": [
@@ -6478,8 +6478,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium-dark skin tone",
     "emoji": "💂🏾‍♀️",
     "hexcodes": [
@@ -6494,8 +6494,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: medium-dark skin tone",
     "emoji": "💂🏾‍♀",
     "hexcodes": [
@@ -6509,8 +6509,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: dark skin tone",
     "emoji": "💂🏿‍♀️",
     "hexcodes": [
@@ -6525,8 +6525,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman guard: dark skin tone",
     "emoji": "💂🏿‍♀",
     "hexcodes": [
@@ -6540,8 +6540,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja",
     "emoji": "🥷",
     "hexcodes": [
@@ -6552,8 +6552,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja: light skin tone",
     "emoji": "🥷🏻",
     "hexcodes": [
@@ -6565,8 +6565,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja: medium-light skin tone",
     "emoji": "🥷🏼",
     "hexcodes": [
@@ -6578,8 +6578,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja: medium skin tone",
     "emoji": "🥷🏽",
     "hexcodes": [
@@ -6591,8 +6591,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja: medium-dark skin tone",
     "emoji": "🥷🏾",
     "hexcodes": [
@@ -6604,8 +6604,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "ninja: dark skin tone",
     "emoji": "🥷🏿",
     "hexcodes": [
@@ -6617,8 +6617,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "construction worker",
     "emoji": "👷",
     "hexcodes": [
@@ -6629,8 +6629,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "construction worker: light skin tone",
     "emoji": "👷🏻",
     "hexcodes": [
@@ -6642,8 +6642,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "construction worker: medium-light skin tone",
     "emoji": "👷🏼",
     "hexcodes": [
@@ -6655,8 +6655,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "construction worker: medium skin tone",
     "emoji": "👷🏽",
     "hexcodes": [
@@ -6668,8 +6668,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "construction worker: medium-dark skin tone",
     "emoji": "👷🏾",
     "hexcodes": [
@@ -6681,8 +6681,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "construction worker: dark skin tone",
     "emoji": "👷🏿",
     "hexcodes": [
@@ -6694,8 +6694,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker",
     "emoji": "👷‍♂️",
     "hexcodes": [
@@ -6709,8 +6709,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker",
     "emoji": "👷‍♂",
     "hexcodes": [
@@ -6723,8 +6723,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: light skin tone",
     "emoji": "👷🏻‍♂️",
     "hexcodes": [
@@ -6739,8 +6739,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: light skin tone",
     "emoji": "👷🏻‍♂",
     "hexcodes": [
@@ -6754,8 +6754,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium-light skin tone",
     "emoji": "👷🏼‍♂️",
     "hexcodes": [
@@ -6770,8 +6770,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium-light skin tone",
     "emoji": "👷🏼‍♂",
     "hexcodes": [
@@ -6785,8 +6785,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium skin tone",
     "emoji": "👷🏽‍♂️",
     "hexcodes": [
@@ -6801,8 +6801,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium skin tone",
     "emoji": "👷🏽‍♂",
     "hexcodes": [
@@ -6816,8 +6816,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium-dark skin tone",
     "emoji": "👷🏾‍♂️",
     "hexcodes": [
@@ -6832,8 +6832,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: medium-dark skin tone",
     "emoji": "👷🏾‍♂",
     "hexcodes": [
@@ -6847,8 +6847,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: dark skin tone",
     "emoji": "👷🏿‍♂️",
     "hexcodes": [
@@ -6863,8 +6863,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man construction worker: dark skin tone",
     "emoji": "👷🏿‍♂",
     "hexcodes": [
@@ -6878,8 +6878,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker",
     "emoji": "👷‍♀️",
     "hexcodes": [
@@ -6893,8 +6893,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker",
     "emoji": "👷‍♀",
     "hexcodes": [
@@ -6907,8 +6907,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: light skin tone",
     "emoji": "👷🏻‍♀️",
     "hexcodes": [
@@ -6923,8 +6923,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: light skin tone",
     "emoji": "👷🏻‍♀",
     "hexcodes": [
@@ -6938,8 +6938,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium-light skin tone",
     "emoji": "👷🏼‍♀️",
     "hexcodes": [
@@ -6954,8 +6954,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium-light skin tone",
     "emoji": "👷🏼‍♀",
     "hexcodes": [
@@ -6969,8 +6969,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium skin tone",
     "emoji": "👷🏽‍♀️",
     "hexcodes": [
@@ -6985,8 +6985,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium skin tone",
     "emoji": "👷🏽‍♀",
     "hexcodes": [
@@ -7000,8 +7000,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium-dark skin tone",
     "emoji": "👷🏾‍♀️",
     "hexcodes": [
@@ -7016,8 +7016,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: medium-dark skin tone",
     "emoji": "👷🏾‍♀",
     "hexcodes": [
@@ -7031,8 +7031,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: dark skin tone",
     "emoji": "👷🏿‍♀️",
     "hexcodes": [
@@ -7047,8 +7047,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman construction worker: dark skin tone",
     "emoji": "👷🏿‍♀",
     "hexcodes": [
@@ -7062,8 +7062,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince",
     "emoji": "🤴",
     "hexcodes": [
@@ -7074,8 +7074,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince: light skin tone",
     "emoji": "🤴🏻",
     "hexcodes": [
@@ -7087,8 +7087,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince: medium-light skin tone",
     "emoji": "🤴🏼",
     "hexcodes": [
@@ -7100,8 +7100,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince: medium skin tone",
     "emoji": "🤴🏽",
     "hexcodes": [
@@ -7113,8 +7113,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince: medium-dark skin tone",
     "emoji": "🤴🏾",
     "hexcodes": [
@@ -7126,8 +7126,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "prince: dark skin tone",
     "emoji": "🤴🏿",
     "hexcodes": [
@@ -7139,8 +7139,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "princess",
     "emoji": "👸",
     "hexcodes": [
@@ -7151,8 +7151,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "princess: light skin tone",
     "emoji": "👸🏻",
     "hexcodes": [
@@ -7164,8 +7164,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "princess: medium-light skin tone",
     "emoji": "👸🏼",
     "hexcodes": [
@@ -7177,8 +7177,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "princess: medium skin tone",
     "emoji": "👸🏽",
     "hexcodes": [
@@ -7190,8 +7190,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "princess: medium-dark skin tone",
     "emoji": "👸🏾",
     "hexcodes": [
@@ -7203,8 +7203,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "princess: dark skin tone",
     "emoji": "👸🏿",
     "hexcodes": [
@@ -7216,8 +7216,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "person wearing turban",
     "emoji": "👳",
     "hexcodes": [
@@ -7228,8 +7228,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person wearing turban: light skin tone",
     "emoji": "👳🏻",
     "hexcodes": [
@@ -7241,8 +7241,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person wearing turban: medium-light skin tone",
     "emoji": "👳🏼",
     "hexcodes": [
@@ -7254,8 +7254,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person wearing turban: medium skin tone",
     "emoji": "👳🏽",
     "hexcodes": [
@@ -7267,8 +7267,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person wearing turban: medium-dark skin tone",
     "emoji": "👳🏾",
     "hexcodes": [
@@ -7280,8 +7280,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person wearing turban: dark skin tone",
     "emoji": "👳🏿",
     "hexcodes": [
@@ -7293,8 +7293,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban",
     "emoji": "👳‍♂️",
     "hexcodes": [
@@ -7308,8 +7308,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban",
     "emoji": "👳‍♂",
     "hexcodes": [
@@ -7322,8 +7322,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: light skin tone",
     "emoji": "👳🏻‍♂️",
     "hexcodes": [
@@ -7338,8 +7338,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: light skin tone",
     "emoji": "👳🏻‍♂",
     "hexcodes": [
@@ -7353,8 +7353,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium-light skin tone",
     "emoji": "👳🏼‍♂️",
     "hexcodes": [
@@ -7369,8 +7369,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium-light skin tone",
     "emoji": "👳🏼‍♂",
     "hexcodes": [
@@ -7384,8 +7384,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium skin tone",
     "emoji": "👳🏽‍♂️",
     "hexcodes": [
@@ -7400,8 +7400,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium skin tone",
     "emoji": "👳🏽‍♂",
     "hexcodes": [
@@ -7415,8 +7415,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium-dark skin tone",
     "emoji": "👳🏾‍♂️",
     "hexcodes": [
@@ -7431,8 +7431,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: medium-dark skin tone",
     "emoji": "👳🏾‍♂",
     "hexcodes": [
@@ -7446,8 +7446,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: dark skin tone",
     "emoji": "👳🏿‍♂️",
     "hexcodes": [
@@ -7462,8 +7462,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man wearing turban: dark skin tone",
     "emoji": "👳🏿‍♂",
     "hexcodes": [
@@ -7477,8 +7477,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban",
     "emoji": "👳‍♀️",
     "hexcodes": [
@@ -7492,8 +7492,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban",
     "emoji": "👳‍♀",
     "hexcodes": [
@@ -7506,8 +7506,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: light skin tone",
     "emoji": "👳🏻‍♀️",
     "hexcodes": [
@@ -7522,8 +7522,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: light skin tone",
     "emoji": "👳🏻‍♀",
     "hexcodes": [
@@ -7537,8 +7537,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium-light skin tone",
     "emoji": "👳🏼‍♀️",
     "hexcodes": [
@@ -7553,8 +7553,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium-light skin tone",
     "emoji": "👳🏼‍♀",
     "hexcodes": [
@@ -7568,8 +7568,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium skin tone",
     "emoji": "👳🏽‍♀️",
     "hexcodes": [
@@ -7584,8 +7584,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium skin tone",
     "emoji": "👳🏽‍♀",
     "hexcodes": [
@@ -7599,8 +7599,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium-dark skin tone",
     "emoji": "👳🏾‍♀️",
     "hexcodes": [
@@ -7615,8 +7615,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: medium-dark skin tone",
     "emoji": "👳🏾‍♀",
     "hexcodes": [
@@ -7630,8 +7630,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: dark skin tone",
     "emoji": "👳🏿‍♀️",
     "hexcodes": [
@@ -7646,8 +7646,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman wearing turban: dark skin tone",
     "emoji": "👳🏿‍♀",
     "hexcodes": [
@@ -7661,8 +7661,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "person with skullcap",
     "emoji": "👲",
     "hexcodes": [
@@ -7673,8 +7673,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with skullcap: light skin tone",
     "emoji": "👲🏻",
     "hexcodes": [
@@ -7686,8 +7686,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with skullcap: medium-light skin tone",
     "emoji": "👲🏼",
     "hexcodes": [
@@ -7699,8 +7699,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with skullcap: medium skin tone",
     "emoji": "👲🏽",
     "hexcodes": [
@@ -7712,8 +7712,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with skullcap: medium-dark skin tone",
     "emoji": "👲🏾",
     "hexcodes": [
@@ -7725,8 +7725,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with skullcap: dark skin tone",
     "emoji": "👲🏿",
     "hexcodes": [
@@ -7738,8 +7738,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf",
     "emoji": "🧕",
     "hexcodes": [
@@ -7750,8 +7750,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf: light skin tone",
     "emoji": "🧕🏻",
     "hexcodes": [
@@ -7763,8 +7763,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf: medium-light skin tone",
     "emoji": "🧕🏼",
     "hexcodes": [
@@ -7776,8 +7776,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf: medium skin tone",
     "emoji": "🧕🏽",
     "hexcodes": [
@@ -7789,8 +7789,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf: medium-dark skin tone",
     "emoji": "🧕🏾",
     "hexcodes": [
@@ -7802,8 +7802,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "woman with headscarf: dark skin tone",
     "emoji": "🧕🏿",
     "hexcodes": [
@@ -7815,8 +7815,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo",
     "emoji": "🤵",
     "hexcodes": [
@@ -7827,8 +7827,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo: light skin tone",
     "emoji": "🤵🏻",
     "hexcodes": [
@@ -7840,8 +7840,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo: medium-light skin tone",
     "emoji": "🤵🏼",
     "hexcodes": [
@@ -7853,8 +7853,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo: medium skin tone",
     "emoji": "🤵🏽",
     "hexcodes": [
@@ -7866,8 +7866,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo: medium-dark skin tone",
     "emoji": "🤵🏾",
     "hexcodes": [
@@ -7879,8 +7879,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person in tuxedo: dark skin tone",
     "emoji": "🤵🏿",
     "hexcodes": [
@@ -7892,8 +7892,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo",
     "emoji": "🤵‍♂️",
     "hexcodes": [
@@ -7907,8 +7907,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo",
     "emoji": "🤵‍♂",
     "hexcodes": [
@@ -7921,8 +7921,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: light skin tone",
     "emoji": "🤵🏻‍♂️",
     "hexcodes": [
@@ -7937,8 +7937,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: light skin tone",
     "emoji": "🤵🏻‍♂",
     "hexcodes": [
@@ -7952,8 +7952,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium-light skin tone",
     "emoji": "🤵🏼‍♂️",
     "hexcodes": [
@@ -7968,8 +7968,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium-light skin tone",
     "emoji": "🤵🏼‍♂",
     "hexcodes": [
@@ -7983,8 +7983,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium skin tone",
     "emoji": "🤵🏽‍♂️",
     "hexcodes": [
@@ -7999,8 +7999,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium skin tone",
     "emoji": "🤵🏽‍♂",
     "hexcodes": [
@@ -8014,8 +8014,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium-dark skin tone",
     "emoji": "🤵🏾‍♂️",
     "hexcodes": [
@@ -8030,8 +8030,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: medium-dark skin tone",
     "emoji": "🤵🏾‍♂",
     "hexcodes": [
@@ -8045,8 +8045,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: dark skin tone",
     "emoji": "🤵🏿‍♂️",
     "hexcodes": [
@@ -8061,8 +8061,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man in tuxedo: dark skin tone",
     "emoji": "🤵🏿‍♂",
     "hexcodes": [
@@ -8076,8 +8076,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo",
     "emoji": "🤵‍♀️",
     "hexcodes": [
@@ -8091,8 +8091,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo",
     "emoji": "🤵‍♀",
     "hexcodes": [
@@ -8105,8 +8105,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: light skin tone",
     "emoji": "🤵🏻‍♀️",
     "hexcodes": [
@@ -8121,8 +8121,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: light skin tone",
     "emoji": "🤵🏻‍♀",
     "hexcodes": [
@@ -8136,8 +8136,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium-light skin tone",
     "emoji": "🤵🏼‍♀️",
     "hexcodes": [
@@ -8152,8 +8152,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium-light skin tone",
     "emoji": "🤵🏼‍♀",
     "hexcodes": [
@@ -8167,8 +8167,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium skin tone",
     "emoji": "🤵🏽‍♀️",
     "hexcodes": [
@@ -8183,8 +8183,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium skin tone",
     "emoji": "🤵🏽‍♀",
     "hexcodes": [
@@ -8198,8 +8198,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium-dark skin tone",
     "emoji": "🤵🏾‍♀️",
     "hexcodes": [
@@ -8214,8 +8214,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: medium-dark skin tone",
     "emoji": "🤵🏾‍♀",
     "hexcodes": [
@@ -8229,8 +8229,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: dark skin tone",
     "emoji": "🤵🏿‍♀️",
     "hexcodes": [
@@ -8245,8 +8245,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman in tuxedo: dark skin tone",
     "emoji": "🤵🏿‍♀",
     "hexcodes": [
@@ -8260,8 +8260,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "person with veil",
     "emoji": "👰",
     "hexcodes": [
@@ -8272,8 +8272,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with veil: light skin tone",
     "emoji": "👰🏻",
     "hexcodes": [
@@ -8285,8 +8285,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with veil: medium-light skin tone",
     "emoji": "👰🏼",
     "hexcodes": [
@@ -8298,8 +8298,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with veil: medium skin tone",
     "emoji": "👰🏽",
     "hexcodes": [
@@ -8311,8 +8311,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with veil: medium-dark skin tone",
     "emoji": "👰🏾",
     "hexcodes": [
@@ -8324,8 +8324,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person with veil: dark skin tone",
     "emoji": "👰🏿",
     "hexcodes": [
@@ -8337,8 +8337,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil",
     "emoji": "👰‍♂️",
     "hexcodes": [
@@ -8352,8 +8352,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil",
     "emoji": "👰‍♂",
     "hexcodes": [
@@ -8366,8 +8366,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: light skin tone",
     "emoji": "👰🏻‍♂️",
     "hexcodes": [
@@ -8382,8 +8382,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: light skin tone",
     "emoji": "👰🏻‍♂",
     "hexcodes": [
@@ -8397,8 +8397,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium-light skin tone",
     "emoji": "👰🏼‍♂️",
     "hexcodes": [
@@ -8413,8 +8413,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium-light skin tone",
     "emoji": "👰🏼‍♂",
     "hexcodes": [
@@ -8428,8 +8428,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium skin tone",
     "emoji": "👰🏽‍♂️",
     "hexcodes": [
@@ -8444,8 +8444,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium skin tone",
     "emoji": "👰🏽‍♂",
     "hexcodes": [
@@ -8459,8 +8459,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium-dark skin tone",
     "emoji": "👰🏾‍♂️",
     "hexcodes": [
@@ -8475,8 +8475,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: medium-dark skin tone",
     "emoji": "👰🏾‍♂",
     "hexcodes": [
@@ -8490,8 +8490,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: dark skin tone",
     "emoji": "👰🏿‍♂️",
     "hexcodes": [
@@ -8506,8 +8506,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man with veil: dark skin tone",
     "emoji": "👰🏿‍♂",
     "hexcodes": [
@@ -8521,8 +8521,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil",
     "emoji": "👰‍♀️",
     "hexcodes": [
@@ -8536,8 +8536,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil",
     "emoji": "👰‍♀",
     "hexcodes": [
@@ -8550,8 +8550,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: light skin tone",
     "emoji": "👰🏻‍♀️",
     "hexcodes": [
@@ -8566,8 +8566,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: light skin tone",
     "emoji": "👰🏻‍♀",
     "hexcodes": [
@@ -8581,8 +8581,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium-light skin tone",
     "emoji": "👰🏼‍♀️",
     "hexcodes": [
@@ -8597,8 +8597,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium-light skin tone",
     "emoji": "👰🏼‍♀",
     "hexcodes": [
@@ -8612,8 +8612,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium skin tone",
     "emoji": "👰🏽‍♀️",
     "hexcodes": [
@@ -8628,8 +8628,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium skin tone",
     "emoji": "👰🏽‍♀",
     "hexcodes": [
@@ -8643,8 +8643,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium-dark skin tone",
     "emoji": "👰🏾‍♀️",
     "hexcodes": [
@@ -8659,8 +8659,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: medium-dark skin tone",
     "emoji": "👰🏾‍♀",
     "hexcodes": [
@@ -8674,8 +8674,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: dark skin tone",
     "emoji": "👰🏿‍♀️",
     "hexcodes": [
@@ -8690,8 +8690,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman with veil: dark skin tone",
     "emoji": "👰🏿‍♀",
     "hexcodes": [
@@ -8705,8 +8705,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman",
     "emoji": "🤰",
     "hexcodes": [
@@ -8717,8 +8717,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman: light skin tone",
     "emoji": "🤰🏻",
     "hexcodes": [
@@ -8730,8 +8730,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman: medium-light skin tone",
     "emoji": "🤰🏼",
     "hexcodes": [
@@ -8743,8 +8743,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman: medium skin tone",
     "emoji": "🤰🏽",
     "hexcodes": [
@@ -8756,8 +8756,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman: medium-dark skin tone",
     "emoji": "🤰🏾",
     "hexcodes": [
@@ -8769,8 +8769,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "pregnant woman: dark skin tone",
     "emoji": "🤰🏿",
     "hexcodes": [
@@ -8782,8 +8782,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding",
     "emoji": "🤱",
     "hexcodes": [
@@ -8794,8 +8794,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding: light skin tone",
     "emoji": "🤱🏻",
     "hexcodes": [
@@ -8807,8 +8807,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding: medium-light skin tone",
     "emoji": "🤱🏼",
     "hexcodes": [
@@ -8820,8 +8820,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding: medium skin tone",
     "emoji": "🤱🏽",
     "hexcodes": [
@@ -8833,8 +8833,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding: medium-dark skin tone",
     "emoji": "🤱🏾",
     "hexcodes": [
@@ -8846,8 +8846,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "breast-feeding: dark skin tone",
     "emoji": "🤱🏿",
     "hexcodes": [
@@ -8859,8 +8859,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby",
     "emoji": "👩‍🍼",
     "hexcodes": [
@@ -8873,8 +8873,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby: light skin tone",
     "emoji": "👩🏻‍🍼",
     "hexcodes": [
@@ -8888,8 +8888,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby: medium-light skin tone",
     "emoji": "👩🏼‍🍼",
     "hexcodes": [
@@ -8903,8 +8903,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby: medium skin tone",
     "emoji": "👩🏽‍🍼",
     "hexcodes": [
@@ -8918,8 +8918,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby: medium-dark skin tone",
     "emoji": "👩🏾‍🍼",
     "hexcodes": [
@@ -8933,8 +8933,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "woman feeding baby: dark skin tone",
     "emoji": "👩🏿‍🍼",
     "hexcodes": [
@@ -8948,8 +8948,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby",
     "emoji": "👨‍🍼",
     "hexcodes": [
@@ -8962,8 +8962,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby: light skin tone",
     "emoji": "👨🏻‍🍼",
     "hexcodes": [
@@ -8977,8 +8977,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby: medium-light skin tone",
     "emoji": "👨🏼‍🍼",
     "hexcodes": [
@@ -8992,8 +8992,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby: medium skin tone",
     "emoji": "👨🏽‍🍼",
     "hexcodes": [
@@ -9007,8 +9007,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby: medium-dark skin tone",
     "emoji": "👨🏾‍🍼",
     "hexcodes": [
@@ -9022,8 +9022,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "man feeding baby: dark skin tone",
     "emoji": "👨🏿‍🍼",
     "hexcodes": [
@@ -9037,8 +9037,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby",
     "emoji": "🧑‍🍼",
     "hexcodes": [
@@ -9051,8 +9051,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby: light skin tone",
     "emoji": "🧑🏻‍🍼",
     "hexcodes": [
@@ -9066,8 +9066,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby: medium-light skin tone",
     "emoji": "🧑🏼‍🍼",
     "hexcodes": [
@@ -9081,8 +9081,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby: medium skin tone",
     "emoji": "🧑🏽‍🍼",
     "hexcodes": [
@@ -9096,8 +9096,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby: medium-dark skin tone",
     "emoji": "🧑🏾‍🍼",
     "hexcodes": [
@@ -9111,8 +9111,8 @@
     "group": "people-body",
     "subgroup": "person-role",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "person feeding baby: dark skin tone",
     "emoji": "🧑🏿‍🍼",
     "hexcodes": [

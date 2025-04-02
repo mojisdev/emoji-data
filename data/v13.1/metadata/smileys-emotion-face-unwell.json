@@ -3,8 +3,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "face with medical mask",
     "emoji": "😷",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "face with thermometer",
     "emoji": "🤒",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "face with head-bandage",
     "emoji": "🤕",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "nauseated face",
     "emoji": "🤢",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "face vomiting",
     "emoji": "🤮",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "sneezing face",
     "emoji": "🤧",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "hot face",
     "emoji": "🥵",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "cold face",
     "emoji": "🥶",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "woozy face",
     "emoji": "🥴",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "knocked-out face",
     "emoji": "😵",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.1",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.1",
     "description": "face with spiral eyes",
     "emoji": "😵‍💫",
     "hexcodes": [
@@ -137,8 +137,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-unwell",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "exploding head",
     "emoji": "🤯",
     "hexcodes": [

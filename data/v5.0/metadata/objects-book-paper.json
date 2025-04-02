@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "notebook",
     "emoji": "📔",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "closed",
     "emoji": "📕",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "open",
     "emoji": "📖",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "green",
     "emoji": "📗",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "blue",
     "emoji": "📘",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "orange",
     "emoji": "📙",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "books",
     "emoji": "📚",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "notebook",
     "emoji": "📓",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "ledger",
     "emoji": "📒",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "page",
     "emoji": "📃",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "scroll",
     "emoji": "📜",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "page",
     "emoji": "📄",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "newspaper",
     "emoji": "📰",
     "hexcodes": [
@@ -159,8 +159,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "rolled-up",
     "emoji": "🗞️",
     "hexcodes": [
@@ -172,8 +172,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "rolled-up",
     "emoji": "🗞",
     "hexcodes": [
@@ -184,8 +184,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bookmark",
     "emoji": "📑",
     "hexcodes": [
@@ -196,8 +196,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bookmark",
     "emoji": "🔖",
     "hexcodes": [
@@ -208,8 +208,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "label",
     "emoji": "🏷️",
     "hexcodes": [
@@ -221,8 +221,8 @@
     "group": "objects",
     "subgroup": "book-paper",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "label",
     "emoji": "🏷",
     "hexcodes": [

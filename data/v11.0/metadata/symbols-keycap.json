@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": null,
     "hexcodes": [
@@ -17,8 +17,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": null,
     "hexcodes": [
@@ -30,8 +30,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "*️⃣ keycap: *",
     "hexcodes": [
@@ -44,8 +44,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "*⃣ keycap: *",
     "hexcodes": [
@@ -57,8 +57,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "0️⃣ keycap: 0",
     "hexcodes": [
@@ -71,8 +71,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "0⃣ keycap: 0",
     "hexcodes": [
@@ -84,8 +84,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "1️⃣ keycap: 1",
     "hexcodes": [
@@ -98,8 +98,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "1⃣ keycap: 1",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "2️⃣ keycap: 2",
     "hexcodes": [
@@ -125,8 +125,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "2⃣ keycap: 2",
     "hexcodes": [
@@ -138,8 +138,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "3️⃣ keycap: 3",
     "hexcodes": [
@@ -152,8 +152,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "3⃣ keycap: 3",
     "hexcodes": [
@@ -165,8 +165,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "4️⃣ keycap: 4",
     "hexcodes": [
@@ -179,8 +179,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "4⃣ keycap: 4",
     "hexcodes": [
@@ -192,8 +192,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "5️⃣ keycap: 5",
     "hexcodes": [
@@ -206,8 +206,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "5⃣ keycap: 5",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "6️⃣ keycap: 6",
     "hexcodes": [
@@ -233,8 +233,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "6⃣ keycap: 6",
     "hexcodes": [
@@ -246,8 +246,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "7️⃣ keycap: 7",
     "hexcodes": [
@@ -260,8 +260,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "7⃣ keycap: 7",
     "hexcodes": [
@@ -273,8 +273,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "8️⃣ keycap: 8",
     "hexcodes": [
@@ -287,8 +287,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "8⃣ keycap: 8",
     "hexcodes": [
@@ -300,8 +300,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "9️⃣ keycap: 9",
     "hexcodes": [
@@ -314,8 +314,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "9⃣ keycap: 9",
     "hexcodes": [
@@ -327,8 +327,8 @@
     "group": "symbols",
     "subgroup": "keycap",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "",
     "emoji": "🔟 keycap: 10",
     "hexcodes": [

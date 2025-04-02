@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "thumbs up",
     "emoji": "👍",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs up: light skin tone",
     "emoji": "👍🏻",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs up: medium-light skin tone",
     "emoji": "👍🏼",
     "hexcodes": [
@@ -41,8 +41,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs up: medium skin tone",
     "emoji": "👍🏽",
     "hexcodes": [
@@ -54,8 +54,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs up: medium-dark skin tone",
     "emoji": "👍🏾",
     "hexcodes": [
@@ -67,8 +67,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs up: dark skin tone",
     "emoji": "👍🏿",
     "hexcodes": [
@@ -80,8 +80,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "thumbs down",
     "emoji": "👎",
     "hexcodes": [
@@ -92,8 +92,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs down: light skin tone",
     "emoji": "👎🏻",
     "hexcodes": [
@@ -105,8 +105,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs down: medium-light skin tone",
     "emoji": "👎🏼",
     "hexcodes": [
@@ -118,8 +118,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs down: medium skin tone",
     "emoji": "👎🏽",
     "hexcodes": [
@@ -131,8 +131,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs down: medium-dark skin tone",
     "emoji": "👎🏾",
     "hexcodes": [
@@ -144,8 +144,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "thumbs down: dark skin tone",
     "emoji": "👎🏿",
     "hexcodes": [
@@ -157,8 +157,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "raised fist",
     "emoji": "✊",
     "hexcodes": [
@@ -169,8 +169,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "raised fist: light skin tone",
     "emoji": "✊🏻",
     "hexcodes": [
@@ -182,8 +182,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "raised fist: medium-light skin tone",
     "emoji": "✊🏼",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "raised fist: medium skin tone",
     "emoji": "✊🏽",
     "hexcodes": [
@@ -208,8 +208,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "raised fist: medium-dark skin tone",
     "emoji": "✊🏾",
     "hexcodes": [
@@ -221,8 +221,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "raised fist: dark skin tone",
     "emoji": "✊🏿",
     "hexcodes": [
@@ -234,8 +234,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "oncoming fist",
     "emoji": "👊",
     "hexcodes": [
@@ -246,8 +246,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "oncoming fist: light skin tone",
     "emoji": "👊🏻",
     "hexcodes": [
@@ -259,8 +259,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "oncoming fist: medium-light skin tone",
     "emoji": "👊🏼",
     "hexcodes": [
@@ -272,8 +272,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "oncoming fist: medium skin tone",
     "emoji": "👊🏽",
     "hexcodes": [
@@ -285,8 +285,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "oncoming fist: medium-dark skin tone",
     "emoji": "👊🏾",
     "hexcodes": [
@@ -298,8 +298,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "oncoming fist: dark skin tone",
     "emoji": "👊🏿",
     "hexcodes": [
@@ -311,8 +311,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist",
     "emoji": "🤛",
     "hexcodes": [
@@ -323,8 +323,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist: light skin tone",
     "emoji": "🤛🏻",
     "hexcodes": [
@@ -336,8 +336,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist: medium-light skin tone",
     "emoji": "🤛🏼",
     "hexcodes": [
@@ -349,8 +349,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist: medium skin tone",
     "emoji": "🤛🏽",
     "hexcodes": [
@@ -362,8 +362,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist: medium-dark skin tone",
     "emoji": "🤛🏾",
     "hexcodes": [
@@ -375,8 +375,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "left-facing fist: dark skin tone",
     "emoji": "🤛🏿",
     "hexcodes": [
@@ -388,8 +388,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist",
     "emoji": "🤜",
     "hexcodes": [
@@ -400,8 +400,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist: light skin tone",
     "emoji": "🤜🏻",
     "hexcodes": [
@@ -413,8 +413,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist: medium-light skin tone",
     "emoji": "🤜🏼",
     "hexcodes": [
@@ -426,8 +426,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist: medium skin tone",
     "emoji": "🤜🏽",
     "hexcodes": [
@@ -439,8 +439,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist: medium-dark skin tone",
     "emoji": "🤜🏾",
     "hexcodes": [
@@ -452,8 +452,8 @@
     "group": "people-body",
     "subgroup": "hand-fingers-closed",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "right-facing fist: dark skin tone",
     "emoji": "🤜🏿",
     "hexcodes": [

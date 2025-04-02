@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "muted speaker",
     "emoji": "🔇",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "speaker low volume",
     "emoji": "🔈",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "speaker medium volume",
     "emoji": "🔉",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "speaker high volume",
     "emoji": "🔊",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "loudspeaker",
     "emoji": "📢",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "megaphone",
     "emoji": "📣",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "postal horn",
     "emoji": "📯",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bell",
     "emoji": "🔔",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "objects",
     "subgroup": "sound",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "bell with slash",
     "emoji": "🔕",
     "hexcodes": [

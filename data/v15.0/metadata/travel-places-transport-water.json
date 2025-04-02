@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "anchor",
     "emoji": "⚓",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "14.0",
     "unicodeVersion": "14.0",
+    "emojiVersion": "14.0",
     "description": "ring buoy",
     "emoji": "🛟",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "sailboat",
     "emoji": "⛵",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "canoe",
     "emoji": "🛶",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "speedboat",
     "emoji": "🚤",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "passenger ship",
     "emoji": "🛳️",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "passenger ship",
     "emoji": "🛳",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "ferry",
     "emoji": "⛴️",
     "hexcodes": [
@@ -101,8 +101,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "ferry",
     "emoji": "⛴",
     "hexcodes": [
@@ -113,8 +113,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "motor boat",
     "emoji": "🛥️",
     "hexcodes": [
@@ -126,8 +126,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "motor boat",
     "emoji": "🛥",
     "hexcodes": [
@@ -138,8 +138,8 @@
     "group": "travel-places",
     "subgroup": "transport-water",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "ship",
     "emoji": "🚢",
     "hexcodes": [

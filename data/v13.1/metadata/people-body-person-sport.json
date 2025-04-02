@@ -3,8 +3,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person fencing",
     "emoji": "🤺",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing",
     "emoji": "🏇",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing: light skin tone",
     "emoji": "🏇🏻",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing: medium-light skin tone",
     "emoji": "🏇🏼",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing: medium skin tone",
     "emoji": "🏇🏽",
     "hexcodes": [
@@ -66,8 +66,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing: medium-dark skin tone",
     "emoji": "🏇🏾",
     "hexcodes": [
@@ -79,8 +79,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "horse racing: dark skin tone",
     "emoji": "🏇🏿",
     "hexcodes": [
@@ -92,8 +92,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "skier",
     "emoji": "⛷️",
     "hexcodes": [
@@ -105,8 +105,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "skier",
     "emoji": "⛷",
     "hexcodes": [
@@ -117,8 +117,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "snowboarder",
     "emoji": "🏂",
     "hexcodes": [
@@ -129,8 +129,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "snowboarder: light skin tone",
     "emoji": "🏂🏻",
     "hexcodes": [
@@ -142,8 +142,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "snowboarder: medium-light skin tone",
     "emoji": "🏂🏼",
     "hexcodes": [
@@ -155,8 +155,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "snowboarder: medium skin tone",
     "emoji": "🏂🏽",
     "hexcodes": [
@@ -168,8 +168,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "snowboarder: medium-dark skin tone",
     "emoji": "🏂🏾",
     "hexcodes": [
@@ -181,8 +181,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "snowboarder: dark skin tone",
     "emoji": "🏂🏿",
     "hexcodes": [
@@ -194,8 +194,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person golfing",
     "emoji": "🏌️",
     "hexcodes": [
@@ -207,8 +207,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person golfing",
     "emoji": "🏌",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person golfing: light skin tone",
     "emoji": "🏌🏻",
     "hexcodes": [
@@ -232,8 +232,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person golfing: medium-light skin tone",
     "emoji": "🏌🏼",
     "hexcodes": [
@@ -245,8 +245,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person golfing: medium skin tone",
     "emoji": "🏌🏽",
     "hexcodes": [
@@ -258,8 +258,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person golfing: medium-dark skin tone",
     "emoji": "🏌🏾",
     "hexcodes": [
@@ -271,8 +271,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "person golfing: dark skin tone",
     "emoji": "🏌🏿",
     "hexcodes": [
@@ -284,8 +284,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing",
     "emoji": "🏌️‍♂️",
     "hexcodes": [
@@ -300,8 +300,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing",
     "emoji": "🏌‍♂️",
     "hexcodes": [
@@ -315,8 +315,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing",
     "emoji": "🏌️‍♂",
     "hexcodes": [
@@ -330,8 +330,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing",
     "emoji": "🏌‍♂",
     "hexcodes": [
@@ -344,8 +344,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: light skin tone",
     "emoji": "🏌🏻‍♂️",
     "hexcodes": [
@@ -360,8 +360,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: light skin tone",
     "emoji": "🏌🏻‍♂",
     "hexcodes": [
@@ -375,8 +375,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium-light skin tone",
     "emoji": "🏌🏼‍♂️",
     "hexcodes": [
@@ -391,8 +391,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium-light skin tone",
     "emoji": "🏌🏼‍♂",
     "hexcodes": [
@@ -406,8 +406,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium skin tone",
     "emoji": "🏌🏽‍♂️",
     "hexcodes": [
@@ -422,8 +422,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium skin tone",
     "emoji": "🏌🏽‍♂",
     "hexcodes": [
@@ -437,8 +437,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium-dark skin tone",
     "emoji": "🏌🏾‍♂️",
     "hexcodes": [
@@ -453,8 +453,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: medium-dark skin tone",
     "emoji": "🏌🏾‍♂",
     "hexcodes": [
@@ -468,8 +468,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: dark skin tone",
     "emoji": "🏌🏿‍♂️",
     "hexcodes": [
@@ -484,8 +484,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man golfing: dark skin tone",
     "emoji": "🏌🏿‍♂",
     "hexcodes": [
@@ -499,8 +499,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing",
     "emoji": "🏌️‍♀️",
     "hexcodes": [
@@ -515,8 +515,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing",
     "emoji": "🏌‍♀️",
     "hexcodes": [
@@ -530,8 +530,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing",
     "emoji": "🏌️‍♀",
     "hexcodes": [
@@ -545,8 +545,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing",
     "emoji": "🏌‍♀",
     "hexcodes": [
@@ -559,8 +559,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: light skin tone",
     "emoji": "🏌🏻‍♀️",
     "hexcodes": [
@@ -575,8 +575,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: light skin tone",
     "emoji": "🏌🏻‍♀",
     "hexcodes": [
@@ -590,8 +590,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium-light skin tone",
     "emoji": "🏌🏼‍♀️",
     "hexcodes": [
@@ -606,8 +606,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium-light skin tone",
     "emoji": "🏌🏼‍♀",
     "hexcodes": [
@@ -621,8 +621,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium skin tone",
     "emoji": "🏌🏽‍♀️",
     "hexcodes": [
@@ -637,8 +637,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium skin tone",
     "emoji": "🏌🏽‍♀",
     "hexcodes": [
@@ -652,8 +652,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium-dark skin tone",
     "emoji": "🏌🏾‍♀️",
     "hexcodes": [
@@ -668,8 +668,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: medium-dark skin tone",
     "emoji": "🏌🏾‍♀",
     "hexcodes": [
@@ -683,8 +683,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: dark skin tone",
     "emoji": "🏌🏿‍♀️",
     "hexcodes": [
@@ -699,8 +699,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman golfing: dark skin tone",
     "emoji": "🏌🏿‍♀",
     "hexcodes": [
@@ -714,8 +714,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "person surfing",
     "emoji": "🏄",
     "hexcodes": [
@@ -726,8 +726,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person surfing: light skin tone",
     "emoji": "🏄🏻",
     "hexcodes": [
@@ -739,8 +739,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person surfing: medium-light skin tone",
     "emoji": "🏄🏼",
     "hexcodes": [
@@ -752,8 +752,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person surfing: medium skin tone",
     "emoji": "🏄🏽",
     "hexcodes": [
@@ -765,8 +765,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person surfing: medium-dark skin tone",
     "emoji": "🏄🏾",
     "hexcodes": [
@@ -778,8 +778,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person surfing: dark skin tone",
     "emoji": "🏄🏿",
     "hexcodes": [
@@ -791,8 +791,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing",
     "emoji": "🏄‍♂️",
     "hexcodes": [
@@ -806,8 +806,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing",
     "emoji": "🏄‍♂",
     "hexcodes": [
@@ -820,8 +820,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: light skin tone",
     "emoji": "🏄🏻‍♂️",
     "hexcodes": [
@@ -836,8 +836,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: light skin tone",
     "emoji": "🏄🏻‍♂",
     "hexcodes": [
@@ -851,8 +851,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium-light skin tone",
     "emoji": "🏄🏼‍♂️",
     "hexcodes": [
@@ -867,8 +867,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium-light skin tone",
     "emoji": "🏄🏼‍♂",
     "hexcodes": [
@@ -882,8 +882,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium skin tone",
     "emoji": "🏄🏽‍♂️",
     "hexcodes": [
@@ -898,8 +898,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium skin tone",
     "emoji": "🏄🏽‍♂",
     "hexcodes": [
@@ -913,8 +913,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium-dark skin tone",
     "emoji": "🏄🏾‍♂️",
     "hexcodes": [
@@ -929,8 +929,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: medium-dark skin tone",
     "emoji": "🏄🏾‍♂",
     "hexcodes": [
@@ -944,8 +944,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: dark skin tone",
     "emoji": "🏄🏿‍♂️",
     "hexcodes": [
@@ -960,8 +960,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man surfing: dark skin tone",
     "emoji": "🏄🏿‍♂",
     "hexcodes": [
@@ -975,8 +975,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing",
     "emoji": "🏄‍♀️",
     "hexcodes": [
@@ -990,8 +990,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing",
     "emoji": "🏄‍♀",
     "hexcodes": [
@@ -1004,8 +1004,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: light skin tone",
     "emoji": "🏄🏻‍♀️",
     "hexcodes": [
@@ -1020,8 +1020,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: light skin tone",
     "emoji": "🏄🏻‍♀",
     "hexcodes": [
@@ -1035,8 +1035,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium-light skin tone",
     "emoji": "🏄🏼‍♀️",
     "hexcodes": [
@@ -1051,8 +1051,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium-light skin tone",
     "emoji": "🏄🏼‍♀",
     "hexcodes": [
@@ -1066,8 +1066,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium skin tone",
     "emoji": "🏄🏽‍♀️",
     "hexcodes": [
@@ -1082,8 +1082,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium skin tone",
     "emoji": "🏄🏽‍♀",
     "hexcodes": [
@@ -1097,8 +1097,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium-dark skin tone",
     "emoji": "🏄🏾‍♀️",
     "hexcodes": [
@@ -1113,8 +1113,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: medium-dark skin tone",
     "emoji": "🏄🏾‍♀",
     "hexcodes": [
@@ -1128,8 +1128,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: dark skin tone",
     "emoji": "🏄🏿‍♀️",
     "hexcodes": [
@@ -1144,8 +1144,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman surfing: dark skin tone",
     "emoji": "🏄🏿‍♀",
     "hexcodes": [
@@ -1159,8 +1159,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat",
     "emoji": "🚣",
     "hexcodes": [
@@ -1171,8 +1171,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat: light skin tone",
     "emoji": "🚣🏻",
     "hexcodes": [
@@ -1184,8 +1184,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat: medium-light skin tone",
     "emoji": "🚣🏼",
     "hexcodes": [
@@ -1197,8 +1197,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat: medium skin tone",
     "emoji": "🚣🏽",
     "hexcodes": [
@@ -1210,8 +1210,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat: medium-dark skin tone",
     "emoji": "🚣🏾",
     "hexcodes": [
@@ -1223,8 +1223,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person rowing boat: dark skin tone",
     "emoji": "🚣🏿",
     "hexcodes": [
@@ -1236,8 +1236,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat",
     "emoji": "🚣‍♂️",
     "hexcodes": [
@@ -1251,8 +1251,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat",
     "emoji": "🚣‍♂",
     "hexcodes": [
@@ -1265,8 +1265,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: light skin tone",
     "emoji": "🚣🏻‍♂️",
     "hexcodes": [
@@ -1281,8 +1281,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: light skin tone",
     "emoji": "🚣🏻‍♂",
     "hexcodes": [
@@ -1296,8 +1296,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium-light skin tone",
     "emoji": "🚣🏼‍♂️",
     "hexcodes": [
@@ -1312,8 +1312,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium-light skin tone",
     "emoji": "🚣🏼‍♂",
     "hexcodes": [
@@ -1327,8 +1327,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium skin tone",
     "emoji": "🚣🏽‍♂️",
     "hexcodes": [
@@ -1343,8 +1343,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium skin tone",
     "emoji": "🚣🏽‍♂",
     "hexcodes": [
@@ -1358,8 +1358,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium-dark skin tone",
     "emoji": "🚣🏾‍♂️",
     "hexcodes": [
@@ -1374,8 +1374,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: medium-dark skin tone",
     "emoji": "🚣🏾‍♂",
     "hexcodes": [
@@ -1389,8 +1389,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: dark skin tone",
     "emoji": "🚣🏿‍♂️",
     "hexcodes": [
@@ -1405,8 +1405,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man rowing boat: dark skin tone",
     "emoji": "🚣🏿‍♂",
     "hexcodes": [
@@ -1420,8 +1420,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat",
     "emoji": "🚣‍♀️",
     "hexcodes": [
@@ -1435,8 +1435,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat",
     "emoji": "🚣‍♀",
     "hexcodes": [
@@ -1449,8 +1449,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: light skin tone",
     "emoji": "🚣🏻‍♀️",
     "hexcodes": [
@@ -1465,8 +1465,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: light skin tone",
     "emoji": "🚣🏻‍♀",
     "hexcodes": [
@@ -1480,8 +1480,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium-light skin tone",
     "emoji": "🚣🏼‍♀️",
     "hexcodes": [
@@ -1496,8 +1496,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium-light skin tone",
     "emoji": "🚣🏼‍♀",
     "hexcodes": [
@@ -1511,8 +1511,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium skin tone",
     "emoji": "🚣🏽‍♀️",
     "hexcodes": [
@@ -1527,8 +1527,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium skin tone",
     "emoji": "🚣🏽‍♀",
     "hexcodes": [
@@ -1542,8 +1542,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium-dark skin tone",
     "emoji": "🚣🏾‍♀️",
     "hexcodes": [
@@ -1558,8 +1558,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: medium-dark skin tone",
     "emoji": "🚣🏾‍♀",
     "hexcodes": [
@@ -1573,8 +1573,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: dark skin tone",
     "emoji": "🚣🏿‍♀️",
     "hexcodes": [
@@ -1589,8 +1589,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman rowing boat: dark skin tone",
     "emoji": "🚣🏿‍♀",
     "hexcodes": [
@@ -1604,8 +1604,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "person swimming",
     "emoji": "🏊",
     "hexcodes": [
@@ -1616,8 +1616,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person swimming: light skin tone",
     "emoji": "🏊🏻",
     "hexcodes": [
@@ -1629,8 +1629,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person swimming: medium-light skin tone",
     "emoji": "🏊🏼",
     "hexcodes": [
@@ -1642,8 +1642,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person swimming: medium skin tone",
     "emoji": "🏊🏽",
     "hexcodes": [
@@ -1655,8 +1655,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person swimming: medium-dark skin tone",
     "emoji": "🏊🏾",
     "hexcodes": [
@@ -1668,8 +1668,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person swimming: dark skin tone",
     "emoji": "🏊🏿",
     "hexcodes": [
@@ -1681,8 +1681,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming",
     "emoji": "🏊‍♂️",
     "hexcodes": [
@@ -1696,8 +1696,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming",
     "emoji": "🏊‍♂",
     "hexcodes": [
@@ -1710,8 +1710,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: light skin tone",
     "emoji": "🏊🏻‍♂️",
     "hexcodes": [
@@ -1726,8 +1726,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: light skin tone",
     "emoji": "🏊🏻‍♂",
     "hexcodes": [
@@ -1741,8 +1741,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium-light skin tone",
     "emoji": "🏊🏼‍♂️",
     "hexcodes": [
@@ -1757,8 +1757,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium-light skin tone",
     "emoji": "🏊🏼‍♂",
     "hexcodes": [
@@ -1772,8 +1772,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium skin tone",
     "emoji": "🏊🏽‍♂️",
     "hexcodes": [
@@ -1788,8 +1788,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium skin tone",
     "emoji": "🏊🏽‍♂",
     "hexcodes": [
@@ -1803,8 +1803,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium-dark skin tone",
     "emoji": "🏊🏾‍♂️",
     "hexcodes": [
@@ -1819,8 +1819,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: medium-dark skin tone",
     "emoji": "🏊🏾‍♂",
     "hexcodes": [
@@ -1834,8 +1834,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: dark skin tone",
     "emoji": "🏊🏿‍♂️",
     "hexcodes": [
@@ -1850,8 +1850,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man swimming: dark skin tone",
     "emoji": "🏊🏿‍♂",
     "hexcodes": [
@@ -1865,8 +1865,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming",
     "emoji": "🏊‍♀️",
     "hexcodes": [
@@ -1880,8 +1880,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming",
     "emoji": "🏊‍♀",
     "hexcodes": [
@@ -1894,8 +1894,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: light skin tone",
     "emoji": "🏊🏻‍♀️",
     "hexcodes": [
@@ -1910,8 +1910,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: light skin tone",
     "emoji": "🏊🏻‍♀",
     "hexcodes": [
@@ -1925,8 +1925,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium-light skin tone",
     "emoji": "🏊🏼‍♀️",
     "hexcodes": [
@@ -1941,8 +1941,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium-light skin tone",
     "emoji": "🏊🏼‍♀",
     "hexcodes": [
@@ -1956,8 +1956,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium skin tone",
     "emoji": "🏊🏽‍♀️",
     "hexcodes": [
@@ -1972,8 +1972,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium skin tone",
     "emoji": "🏊🏽‍♀",
     "hexcodes": [
@@ -1987,8 +1987,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium-dark skin tone",
     "emoji": "🏊🏾‍♀️",
     "hexcodes": [
@@ -2003,8 +2003,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: medium-dark skin tone",
     "emoji": "🏊🏾‍♀",
     "hexcodes": [
@@ -2018,8 +2018,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: dark skin tone",
     "emoji": "🏊🏿‍♀️",
     "hexcodes": [
@@ -2034,8 +2034,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman swimming: dark skin tone",
     "emoji": "🏊🏿‍♀",
     "hexcodes": [
@@ -2049,8 +2049,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person bouncing ball",
     "emoji": "⛹️",
     "hexcodes": [
@@ -2062,8 +2062,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person bouncing ball",
     "emoji": "⛹",
     "hexcodes": [
@@ -2074,8 +2074,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bouncing ball: light skin tone",
     "emoji": "⛹🏻",
     "hexcodes": [
@@ -2087,8 +2087,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bouncing ball: medium-light skin tone",
     "emoji": "⛹🏼",
     "hexcodes": [
@@ -2100,8 +2100,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bouncing ball: medium skin tone",
     "emoji": "⛹🏽",
     "hexcodes": [
@@ -2113,8 +2113,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bouncing ball: medium-dark skin tone",
     "emoji": "⛹🏾",
     "hexcodes": [
@@ -2126,8 +2126,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person bouncing ball: dark skin tone",
     "emoji": "⛹🏿",
     "hexcodes": [
@@ -2139,8 +2139,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball",
     "emoji": "⛹️‍♂️",
     "hexcodes": [
@@ -2155,8 +2155,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball",
     "emoji": "⛹‍♂️",
     "hexcodes": [
@@ -2170,8 +2170,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball",
     "emoji": "⛹️‍♂",
     "hexcodes": [
@@ -2185,8 +2185,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball",
     "emoji": "⛹‍♂",
     "hexcodes": [
@@ -2199,8 +2199,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: light skin tone",
     "emoji": "⛹🏻‍♂️",
     "hexcodes": [
@@ -2215,8 +2215,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: light skin tone",
     "emoji": "⛹🏻‍♂",
     "hexcodes": [
@@ -2230,8 +2230,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium-light skin tone",
     "emoji": "⛹🏼‍♂️",
     "hexcodes": [
@@ -2246,8 +2246,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium-light skin tone",
     "emoji": "⛹🏼‍♂",
     "hexcodes": [
@@ -2261,8 +2261,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium skin tone",
     "emoji": "⛹🏽‍♂️",
     "hexcodes": [
@@ -2277,8 +2277,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium skin tone",
     "emoji": "⛹🏽‍♂",
     "hexcodes": [
@@ -2292,8 +2292,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium-dark skin tone",
     "emoji": "⛹🏾‍♂️",
     "hexcodes": [
@@ -2308,8 +2308,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: medium-dark skin tone",
     "emoji": "⛹🏾‍♂",
     "hexcodes": [
@@ -2323,8 +2323,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: dark skin tone",
     "emoji": "⛹🏿‍♂️",
     "hexcodes": [
@@ -2339,8 +2339,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man bouncing ball: dark skin tone",
     "emoji": "⛹🏿‍♂",
     "hexcodes": [
@@ -2354,8 +2354,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball",
     "emoji": "⛹️‍♀️",
     "hexcodes": [
@@ -2370,8 +2370,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball",
     "emoji": "⛹‍♀️",
     "hexcodes": [
@@ -2385,8 +2385,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball",
     "emoji": "⛹️‍♀",
     "hexcodes": [
@@ -2400,8 +2400,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball",
     "emoji": "⛹‍♀",
     "hexcodes": [
@@ -2414,8 +2414,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: light skin tone",
     "emoji": "⛹🏻‍♀️",
     "hexcodes": [
@@ -2430,8 +2430,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: light skin tone",
     "emoji": "⛹🏻‍♀",
     "hexcodes": [
@@ -2445,8 +2445,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium-light skin tone",
     "emoji": "⛹🏼‍♀️",
     "hexcodes": [
@@ -2461,8 +2461,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium-light skin tone",
     "emoji": "⛹🏼‍♀",
     "hexcodes": [
@@ -2476,8 +2476,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium skin tone",
     "emoji": "⛹🏽‍♀️",
     "hexcodes": [
@@ -2492,8 +2492,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium skin tone",
     "emoji": "⛹🏽‍♀",
     "hexcodes": [
@@ -2507,8 +2507,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium-dark skin tone",
     "emoji": "⛹🏾‍♀️",
     "hexcodes": [
@@ -2523,8 +2523,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: medium-dark skin tone",
     "emoji": "⛹🏾‍♀",
     "hexcodes": [
@@ -2538,8 +2538,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: dark skin tone",
     "emoji": "⛹🏿‍♀️",
     "hexcodes": [
@@ -2554,8 +2554,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman bouncing ball: dark skin tone",
     "emoji": "⛹🏿‍♀",
     "hexcodes": [
@@ -2569,8 +2569,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person lifting weights",
     "emoji": "🏋️",
     "hexcodes": [
@@ -2582,8 +2582,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "person lifting weights",
     "emoji": "🏋",
     "hexcodes": [
@@ -2594,8 +2594,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person lifting weights: light skin tone",
     "emoji": "🏋🏻",
     "hexcodes": [
@@ -2607,8 +2607,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person lifting weights: medium-light skin tone",
     "emoji": "🏋🏼",
     "hexcodes": [
@@ -2620,8 +2620,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person lifting weights: medium skin tone",
     "emoji": "🏋🏽",
     "hexcodes": [
@@ -2633,8 +2633,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person lifting weights: medium-dark skin tone",
     "emoji": "🏋🏾",
     "hexcodes": [
@@ -2646,8 +2646,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "person lifting weights: dark skin tone",
     "emoji": "🏋🏿",
     "hexcodes": [
@@ -2659,8 +2659,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights",
     "emoji": "🏋️‍♂️",
     "hexcodes": [
@@ -2675,8 +2675,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights",
     "emoji": "🏋‍♂️",
     "hexcodes": [
@@ -2690,8 +2690,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights",
     "emoji": "🏋️‍♂",
     "hexcodes": [
@@ -2705,8 +2705,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights",
     "emoji": "🏋‍♂",
     "hexcodes": [
@@ -2719,8 +2719,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: light skin tone",
     "emoji": "🏋🏻‍♂️",
     "hexcodes": [
@@ -2735,8 +2735,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: light skin tone",
     "emoji": "🏋🏻‍♂",
     "hexcodes": [
@@ -2750,8 +2750,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium-light skin tone",
     "emoji": "🏋🏼‍♂️",
     "hexcodes": [
@@ -2766,8 +2766,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium-light skin tone",
     "emoji": "🏋🏼‍♂",
     "hexcodes": [
@@ -2781,8 +2781,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium skin tone",
     "emoji": "🏋🏽‍♂️",
     "hexcodes": [
@@ -2797,8 +2797,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium skin tone",
     "emoji": "🏋🏽‍♂",
     "hexcodes": [
@@ -2812,8 +2812,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium-dark skin tone",
     "emoji": "🏋🏾‍♂️",
     "hexcodes": [
@@ -2828,8 +2828,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: medium-dark skin tone",
     "emoji": "🏋🏾‍♂",
     "hexcodes": [
@@ -2843,8 +2843,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: dark skin tone",
     "emoji": "🏋🏿‍♂️",
     "hexcodes": [
@@ -2859,8 +2859,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man lifting weights: dark skin tone",
     "emoji": "🏋🏿‍♂",
     "hexcodes": [
@@ -2874,8 +2874,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights",
     "emoji": "🏋️‍♀️",
     "hexcodes": [
@@ -2890,8 +2890,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights",
     "emoji": "🏋‍♀️",
     "hexcodes": [
@@ -2905,8 +2905,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights",
     "emoji": "🏋️‍♀",
     "hexcodes": [
@@ -2920,8 +2920,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights",
     "emoji": "🏋‍♀",
     "hexcodes": [
@@ -2934,8 +2934,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: light skin tone",
     "emoji": "🏋🏻‍♀️",
     "hexcodes": [
@@ -2950,8 +2950,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: light skin tone",
     "emoji": "🏋🏻‍♀",
     "hexcodes": [
@@ -2965,8 +2965,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium-light skin tone",
     "emoji": "🏋🏼‍♀️",
     "hexcodes": [
@@ -2981,8 +2981,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium-light skin tone",
     "emoji": "🏋🏼‍♀",
     "hexcodes": [
@@ -2996,8 +2996,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium skin tone",
     "emoji": "🏋🏽‍♀️",
     "hexcodes": [
@@ -3012,8 +3012,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium skin tone",
     "emoji": "🏋🏽‍♀",
     "hexcodes": [
@@ -3027,8 +3027,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium-dark skin tone",
     "emoji": "🏋🏾‍♀️",
     "hexcodes": [
@@ -3043,8 +3043,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: medium-dark skin tone",
     "emoji": "🏋🏾‍♀",
     "hexcodes": [
@@ -3058,8 +3058,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: dark skin tone",
     "emoji": "🏋🏿‍♀️",
     "hexcodes": [
@@ -3074,8 +3074,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman lifting weights: dark skin tone",
     "emoji": "🏋🏿‍♀",
     "hexcodes": [
@@ -3089,8 +3089,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking",
     "emoji": "🚴",
     "hexcodes": [
@@ -3101,8 +3101,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking: light skin tone",
     "emoji": "🚴🏻",
     "hexcodes": [
@@ -3114,8 +3114,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking: medium-light skin tone",
     "emoji": "🚴🏼",
     "hexcodes": [
@@ -3127,8 +3127,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking: medium skin tone",
     "emoji": "🚴🏽",
     "hexcodes": [
@@ -3140,8 +3140,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking: medium-dark skin tone",
     "emoji": "🚴🏾",
     "hexcodes": [
@@ -3153,8 +3153,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person biking: dark skin tone",
     "emoji": "🚴🏿",
     "hexcodes": [
@@ -3166,8 +3166,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking",
     "emoji": "🚴‍♂️",
     "hexcodes": [
@@ -3181,8 +3181,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking",
     "emoji": "🚴‍♂",
     "hexcodes": [
@@ -3195,8 +3195,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: light skin tone",
     "emoji": "🚴🏻‍♂️",
     "hexcodes": [
@@ -3211,8 +3211,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: light skin tone",
     "emoji": "🚴🏻‍♂",
     "hexcodes": [
@@ -3226,8 +3226,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium-light skin tone",
     "emoji": "🚴🏼‍♂️",
     "hexcodes": [
@@ -3242,8 +3242,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium-light skin tone",
     "emoji": "🚴🏼‍♂",
     "hexcodes": [
@@ -3257,8 +3257,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium skin tone",
     "emoji": "🚴🏽‍♂️",
     "hexcodes": [
@@ -3273,8 +3273,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium skin tone",
     "emoji": "🚴🏽‍♂",
     "hexcodes": [
@@ -3288,8 +3288,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium-dark skin tone",
     "emoji": "🚴🏾‍♂️",
     "hexcodes": [
@@ -3304,8 +3304,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: medium-dark skin tone",
     "emoji": "🚴🏾‍♂",
     "hexcodes": [
@@ -3319,8 +3319,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: dark skin tone",
     "emoji": "🚴🏿‍♂️",
     "hexcodes": [
@@ -3335,8 +3335,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man biking: dark skin tone",
     "emoji": "🚴🏿‍♂",
     "hexcodes": [
@@ -3350,8 +3350,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking",
     "emoji": "🚴‍♀️",
     "hexcodes": [
@@ -3365,8 +3365,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking",
     "emoji": "🚴‍♀",
     "hexcodes": [
@@ -3379,8 +3379,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: light skin tone",
     "emoji": "🚴🏻‍♀️",
     "hexcodes": [
@@ -3395,8 +3395,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: light skin tone",
     "emoji": "🚴🏻‍♀",
     "hexcodes": [
@@ -3410,8 +3410,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium-light skin tone",
     "emoji": "🚴🏼‍♀️",
     "hexcodes": [
@@ -3426,8 +3426,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium-light skin tone",
     "emoji": "🚴🏼‍♀",
     "hexcodes": [
@@ -3441,8 +3441,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium skin tone",
     "emoji": "🚴🏽‍♀️",
     "hexcodes": [
@@ -3457,8 +3457,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium skin tone",
     "emoji": "🚴🏽‍♀",
     "hexcodes": [
@@ -3472,8 +3472,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium-dark skin tone",
     "emoji": "🚴🏾‍♀️",
     "hexcodes": [
@@ -3488,8 +3488,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: medium-dark skin tone",
     "emoji": "🚴🏾‍♀",
     "hexcodes": [
@@ -3503,8 +3503,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: dark skin tone",
     "emoji": "🚴🏿‍♀️",
     "hexcodes": [
@@ -3519,8 +3519,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman biking: dark skin tone",
     "emoji": "🚴🏿‍♀",
     "hexcodes": [
@@ -3534,8 +3534,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking",
     "emoji": "🚵",
     "hexcodes": [
@@ -3546,8 +3546,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking: light skin tone",
     "emoji": "🚵🏻",
     "hexcodes": [
@@ -3559,8 +3559,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking: medium-light skin tone",
     "emoji": "🚵🏼",
     "hexcodes": [
@@ -3572,8 +3572,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking: medium skin tone",
     "emoji": "🚵🏽",
     "hexcodes": [
@@ -3585,8 +3585,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking: medium-dark skin tone",
     "emoji": "🚵🏾",
     "hexcodes": [
@@ -3598,8 +3598,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "person mountain biking: dark skin tone",
     "emoji": "🚵🏿",
     "hexcodes": [
@@ -3611,8 +3611,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking",
     "emoji": "🚵‍♂️",
     "hexcodes": [
@@ -3626,8 +3626,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking",
     "emoji": "🚵‍♂",
     "hexcodes": [
@@ -3640,8 +3640,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: light skin tone",
     "emoji": "🚵🏻‍♂️",
     "hexcodes": [
@@ -3656,8 +3656,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: light skin tone",
     "emoji": "🚵🏻‍♂",
     "hexcodes": [
@@ -3671,8 +3671,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium-light skin tone",
     "emoji": "🚵🏼‍♂️",
     "hexcodes": [
@@ -3687,8 +3687,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium-light skin tone",
     "emoji": "🚵🏼‍♂",
     "hexcodes": [
@@ -3702,8 +3702,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium skin tone",
     "emoji": "🚵🏽‍♂️",
     "hexcodes": [
@@ -3718,8 +3718,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium skin tone",
     "emoji": "🚵🏽‍♂",
     "hexcodes": [
@@ -3733,8 +3733,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium-dark skin tone",
     "emoji": "🚵🏾‍♂️",
     "hexcodes": [
@@ -3749,8 +3749,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: medium-dark skin tone",
     "emoji": "🚵🏾‍♂",
     "hexcodes": [
@@ -3764,8 +3764,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: dark skin tone",
     "emoji": "🚵🏿‍♂️",
     "hexcodes": [
@@ -3780,8 +3780,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man mountain biking: dark skin tone",
     "emoji": "🚵🏿‍♂",
     "hexcodes": [
@@ -3795,8 +3795,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking",
     "emoji": "🚵‍♀️",
     "hexcodes": [
@@ -3810,8 +3810,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking",
     "emoji": "🚵‍♀",
     "hexcodes": [
@@ -3824,8 +3824,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: light skin tone",
     "emoji": "🚵🏻‍♀️",
     "hexcodes": [
@@ -3840,8 +3840,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: light skin tone",
     "emoji": "🚵🏻‍♀",
     "hexcodes": [
@@ -3855,8 +3855,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium-light skin tone",
     "emoji": "🚵🏼‍♀️",
     "hexcodes": [
@@ -3871,8 +3871,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium-light skin tone",
     "emoji": "🚵🏼‍♀",
     "hexcodes": [
@@ -3886,8 +3886,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium skin tone",
     "emoji": "🚵🏽‍♀️",
     "hexcodes": [
@@ -3902,8 +3902,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium skin tone",
     "emoji": "🚵🏽‍♀",
     "hexcodes": [
@@ -3917,8 +3917,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium-dark skin tone",
     "emoji": "🚵🏾‍♀️",
     "hexcodes": [
@@ -3933,8 +3933,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: medium-dark skin tone",
     "emoji": "🚵🏾‍♀",
     "hexcodes": [
@@ -3948,8 +3948,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: dark skin tone",
     "emoji": "🚵🏿‍♀️",
     "hexcodes": [
@@ -3964,8 +3964,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman mountain biking: dark skin tone",
     "emoji": "🚵🏿‍♀",
     "hexcodes": [
@@ -3979,8 +3979,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling",
     "emoji": "🤸",
     "hexcodes": [
@@ -3991,8 +3991,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling: light skin tone",
     "emoji": "🤸🏻",
     "hexcodes": [
@@ -4004,8 +4004,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling: medium-light skin tone",
     "emoji": "🤸🏼",
     "hexcodes": [
@@ -4017,8 +4017,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling: medium skin tone",
     "emoji": "🤸🏽",
     "hexcodes": [
@@ -4030,8 +4030,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling: medium-dark skin tone",
     "emoji": "🤸🏾",
     "hexcodes": [
@@ -4043,8 +4043,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person cartwheeling: dark skin tone",
     "emoji": "🤸🏿",
     "hexcodes": [
@@ -4056,8 +4056,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling",
     "emoji": "🤸‍♂️",
     "hexcodes": [
@@ -4071,8 +4071,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling",
     "emoji": "🤸‍♂",
     "hexcodes": [
@@ -4085,8 +4085,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: light skin tone",
     "emoji": "🤸🏻‍♂️",
     "hexcodes": [
@@ -4101,8 +4101,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: light skin tone",
     "emoji": "🤸🏻‍♂",
     "hexcodes": [
@@ -4116,8 +4116,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium-light skin tone",
     "emoji": "🤸🏼‍♂️",
     "hexcodes": [
@@ -4132,8 +4132,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium-light skin tone",
     "emoji": "🤸🏼‍♂",
     "hexcodes": [
@@ -4147,8 +4147,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium skin tone",
     "emoji": "🤸🏽‍♂️",
     "hexcodes": [
@@ -4163,8 +4163,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium skin tone",
     "emoji": "🤸🏽‍♂",
     "hexcodes": [
@@ -4178,8 +4178,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium-dark skin tone",
     "emoji": "🤸🏾‍♂️",
     "hexcodes": [
@@ -4194,8 +4194,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: medium-dark skin tone",
     "emoji": "🤸🏾‍♂",
     "hexcodes": [
@@ -4209,8 +4209,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: dark skin tone",
     "emoji": "🤸🏿‍♂️",
     "hexcodes": [
@@ -4225,8 +4225,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man cartwheeling: dark skin tone",
     "emoji": "🤸🏿‍♂",
     "hexcodes": [
@@ -4240,8 +4240,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling",
     "emoji": "🤸‍♀️",
     "hexcodes": [
@@ -4255,8 +4255,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling",
     "emoji": "🤸‍♀",
     "hexcodes": [
@@ -4269,8 +4269,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: light skin tone",
     "emoji": "🤸🏻‍♀️",
     "hexcodes": [
@@ -4285,8 +4285,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: light skin tone",
     "emoji": "🤸🏻‍♀",
     "hexcodes": [
@@ -4300,8 +4300,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium-light skin tone",
     "emoji": "🤸🏼‍♀️",
     "hexcodes": [
@@ -4316,8 +4316,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium-light skin tone",
     "emoji": "🤸🏼‍♀",
     "hexcodes": [
@@ -4331,8 +4331,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium skin tone",
     "emoji": "🤸🏽‍♀️",
     "hexcodes": [
@@ -4347,8 +4347,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium skin tone",
     "emoji": "🤸🏽‍♀",
     "hexcodes": [
@@ -4362,8 +4362,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium-dark skin tone",
     "emoji": "🤸🏾‍♀️",
     "hexcodes": [
@@ -4378,8 +4378,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: medium-dark skin tone",
     "emoji": "🤸🏾‍♀",
     "hexcodes": [
@@ -4393,8 +4393,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: dark skin tone",
     "emoji": "🤸🏿‍♀️",
     "hexcodes": [
@@ -4409,8 +4409,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman cartwheeling: dark skin tone",
     "emoji": "🤸🏿‍♀",
     "hexcodes": [
@@ -4424,8 +4424,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "people wrestling",
     "emoji": "🤼",
     "hexcodes": [
@@ -4436,8 +4436,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "men wrestling",
     "emoji": "🤼‍♂️",
     "hexcodes": [
@@ -4451,8 +4451,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "men wrestling",
     "emoji": "🤼‍♂",
     "hexcodes": [
@@ -4465,8 +4465,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "women wrestling",
     "emoji": "🤼‍♀️",
     "hexcodes": [
@@ -4480,8 +4480,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "women wrestling",
     "emoji": "🤼‍♀",
     "hexcodes": [
@@ -4494,8 +4494,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo",
     "emoji": "🤽",
     "hexcodes": [
@@ -4506,8 +4506,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo: light skin tone",
     "emoji": "🤽🏻",
     "hexcodes": [
@@ -4519,8 +4519,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo: medium-light skin tone",
     "emoji": "🤽🏼",
     "hexcodes": [
@@ -4532,8 +4532,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo: medium skin tone",
     "emoji": "🤽🏽",
     "hexcodes": [
@@ -4545,8 +4545,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo: medium-dark skin tone",
     "emoji": "🤽🏾",
     "hexcodes": [
@@ -4558,8 +4558,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing water polo: dark skin tone",
     "emoji": "🤽🏿",
     "hexcodes": [
@@ -4571,8 +4571,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo",
     "emoji": "🤽‍♂️",
     "hexcodes": [
@@ -4586,8 +4586,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo",
     "emoji": "🤽‍♂",
     "hexcodes": [
@@ -4600,8 +4600,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: light skin tone",
     "emoji": "🤽🏻‍♂️",
     "hexcodes": [
@@ -4616,8 +4616,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: light skin tone",
     "emoji": "🤽🏻‍♂",
     "hexcodes": [
@@ -4631,8 +4631,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium-light skin tone",
     "emoji": "🤽🏼‍♂️",
     "hexcodes": [
@@ -4647,8 +4647,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium-light skin tone",
     "emoji": "🤽🏼‍♂",
     "hexcodes": [
@@ -4662,8 +4662,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium skin tone",
     "emoji": "🤽🏽‍♂️",
     "hexcodes": [
@@ -4678,8 +4678,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium skin tone",
     "emoji": "🤽🏽‍♂",
     "hexcodes": [
@@ -4693,8 +4693,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium-dark skin tone",
     "emoji": "🤽🏾‍♂️",
     "hexcodes": [
@@ -4709,8 +4709,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: medium-dark skin tone",
     "emoji": "🤽🏾‍♂",
     "hexcodes": [
@@ -4724,8 +4724,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: dark skin tone",
     "emoji": "🤽🏿‍♂️",
     "hexcodes": [
@@ -4740,8 +4740,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing water polo: dark skin tone",
     "emoji": "🤽🏿‍♂",
     "hexcodes": [
@@ -4755,8 +4755,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo",
     "emoji": "🤽‍♀️",
     "hexcodes": [
@@ -4770,8 +4770,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo",
     "emoji": "🤽‍♀",
     "hexcodes": [
@@ -4784,8 +4784,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: light skin tone",
     "emoji": "🤽🏻‍♀️",
     "hexcodes": [
@@ -4800,8 +4800,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: light skin tone",
     "emoji": "🤽🏻‍♀",
     "hexcodes": [
@@ -4815,8 +4815,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium-light skin tone",
     "emoji": "🤽🏼‍♀️",
     "hexcodes": [
@@ -4831,8 +4831,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium-light skin tone",
     "emoji": "🤽🏼‍♀",
     "hexcodes": [
@@ -4846,8 +4846,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium skin tone",
     "emoji": "🤽🏽‍♀️",
     "hexcodes": [
@@ -4862,8 +4862,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium skin tone",
     "emoji": "🤽🏽‍♀",
     "hexcodes": [
@@ -4877,8 +4877,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium-dark skin tone",
     "emoji": "🤽🏾‍♀️",
     "hexcodes": [
@@ -4893,8 +4893,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: medium-dark skin tone",
     "emoji": "🤽🏾‍♀",
     "hexcodes": [
@@ -4908,8 +4908,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: dark skin tone",
     "emoji": "🤽🏿‍♀️",
     "hexcodes": [
@@ -4924,8 +4924,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing water polo: dark skin tone",
     "emoji": "🤽🏿‍♀",
     "hexcodes": [
@@ -4939,8 +4939,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball",
     "emoji": "🤾",
     "hexcodes": [
@@ -4951,8 +4951,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball: light skin tone",
     "emoji": "🤾🏻",
     "hexcodes": [
@@ -4964,8 +4964,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball: medium-light skin tone",
     "emoji": "🤾🏼",
     "hexcodes": [
@@ -4977,8 +4977,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball: medium skin tone",
     "emoji": "🤾🏽",
     "hexcodes": [
@@ -4990,8 +4990,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball: medium-dark skin tone",
     "emoji": "🤾🏾",
     "hexcodes": [
@@ -5003,8 +5003,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person playing handball: dark skin tone",
     "emoji": "🤾🏿",
     "hexcodes": [
@@ -5016,8 +5016,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball",
     "emoji": "🤾‍♂️",
     "hexcodes": [
@@ -5031,8 +5031,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball",
     "emoji": "🤾‍♂",
     "hexcodes": [
@@ -5045,8 +5045,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: light skin tone",
     "emoji": "🤾🏻‍♂️",
     "hexcodes": [
@@ -5061,8 +5061,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: light skin tone",
     "emoji": "🤾🏻‍♂",
     "hexcodes": [
@@ -5076,8 +5076,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium-light skin tone",
     "emoji": "🤾🏼‍♂️",
     "hexcodes": [
@@ -5092,8 +5092,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium-light skin tone",
     "emoji": "🤾🏼‍♂",
     "hexcodes": [
@@ -5107,8 +5107,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium skin tone",
     "emoji": "🤾🏽‍♂️",
     "hexcodes": [
@@ -5123,8 +5123,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium skin tone",
     "emoji": "🤾🏽‍♂",
     "hexcodes": [
@@ -5138,8 +5138,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium-dark skin tone",
     "emoji": "🤾🏾‍♂️",
     "hexcodes": [
@@ -5154,8 +5154,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: medium-dark skin tone",
     "emoji": "🤾🏾‍♂",
     "hexcodes": [
@@ -5169,8 +5169,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: dark skin tone",
     "emoji": "🤾🏿‍♂️",
     "hexcodes": [
@@ -5185,8 +5185,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man playing handball: dark skin tone",
     "emoji": "🤾🏿‍♂",
     "hexcodes": [
@@ -5200,8 +5200,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball",
     "emoji": "🤾‍♀️",
     "hexcodes": [
@@ -5215,8 +5215,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball",
     "emoji": "🤾‍♀",
     "hexcodes": [
@@ -5229,8 +5229,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: light skin tone",
     "emoji": "🤾🏻‍♀️",
     "hexcodes": [
@@ -5245,8 +5245,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: light skin tone",
     "emoji": "🤾🏻‍♀",
     "hexcodes": [
@@ -5260,8 +5260,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium-light skin tone",
     "emoji": "🤾🏼‍♀️",
     "hexcodes": [
@@ -5276,8 +5276,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium-light skin tone",
     "emoji": "🤾🏼‍♀",
     "hexcodes": [
@@ -5291,8 +5291,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium skin tone",
     "emoji": "🤾🏽‍♀️",
     "hexcodes": [
@@ -5307,8 +5307,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium skin tone",
     "emoji": "🤾🏽‍♀",
     "hexcodes": [
@@ -5322,8 +5322,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium-dark skin tone",
     "emoji": "🤾🏾‍♀️",
     "hexcodes": [
@@ -5338,8 +5338,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: medium-dark skin tone",
     "emoji": "🤾🏾‍♀",
     "hexcodes": [
@@ -5353,8 +5353,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: dark skin tone",
     "emoji": "🤾🏿‍♀️",
     "hexcodes": [
@@ -5369,8 +5369,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman playing handball: dark skin tone",
     "emoji": "🤾🏿‍♀",
     "hexcodes": [
@@ -5384,8 +5384,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling",
     "emoji": "🤹",
     "hexcodes": [
@@ -5396,8 +5396,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling: light skin tone",
     "emoji": "🤹🏻",
     "hexcodes": [
@@ -5409,8 +5409,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling: medium-light skin tone",
     "emoji": "🤹🏼",
     "hexcodes": [
@@ -5422,8 +5422,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling: medium skin tone",
     "emoji": "🤹🏽",
     "hexcodes": [
@@ -5435,8 +5435,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling: medium-dark skin tone",
     "emoji": "🤹🏾",
     "hexcodes": [
@@ -5448,8 +5448,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "person juggling: dark skin tone",
     "emoji": "🤹🏿",
     "hexcodes": [
@@ -5461,8 +5461,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling",
     "emoji": "🤹‍♂️",
     "hexcodes": [
@@ -5476,8 +5476,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling",
     "emoji": "🤹‍♂",
     "hexcodes": [
@@ -5490,8 +5490,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: light skin tone",
     "emoji": "🤹🏻‍♂️",
     "hexcodes": [
@@ -5506,8 +5506,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: light skin tone",
     "emoji": "🤹🏻‍♂",
     "hexcodes": [
@@ -5521,8 +5521,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium-light skin tone",
     "emoji": "🤹🏼‍♂️",
     "hexcodes": [
@@ -5537,8 +5537,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium-light skin tone",
     "emoji": "🤹🏼‍♂",
     "hexcodes": [
@@ -5552,8 +5552,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium skin tone",
     "emoji": "🤹🏽‍♂️",
     "hexcodes": [
@@ -5568,8 +5568,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium skin tone",
     "emoji": "🤹🏽‍♂",
     "hexcodes": [
@@ -5583,8 +5583,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium-dark skin tone",
     "emoji": "🤹🏾‍♂️",
     "hexcodes": [
@@ -5599,8 +5599,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: medium-dark skin tone",
     "emoji": "🤹🏾‍♂",
     "hexcodes": [
@@ -5614,8 +5614,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: dark skin tone",
     "emoji": "🤹🏿‍♂️",
     "hexcodes": [
@@ -5630,8 +5630,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "man juggling: dark skin tone",
     "emoji": "🤹🏿‍♂",
     "hexcodes": [
@@ -5645,8 +5645,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling",
     "emoji": "🤹‍♀️",
     "hexcodes": [
@@ -5660,8 +5660,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling",
     "emoji": "🤹‍♀",
     "hexcodes": [
@@ -5674,8 +5674,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: light skin tone",
     "emoji": "🤹🏻‍♀️",
     "hexcodes": [
@@ -5690,8 +5690,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: light skin tone",
     "emoji": "🤹🏻‍♀",
     "hexcodes": [
@@ -5705,8 +5705,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium-light skin tone",
     "emoji": "🤹🏼‍♀️",
     "hexcodes": [
@@ -5721,8 +5721,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium-light skin tone",
     "emoji": "🤹🏼‍♀",
     "hexcodes": [
@@ -5736,8 +5736,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium skin tone",
     "emoji": "🤹🏽‍♀️",
     "hexcodes": [
@@ -5752,8 +5752,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium skin tone",
     "emoji": "🤹🏽‍♀",
     "hexcodes": [
@@ -5767,8 +5767,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium-dark skin tone",
     "emoji": "🤹🏾‍♀️",
     "hexcodes": [
@@ -5783,8 +5783,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: medium-dark skin tone",
     "emoji": "🤹🏾‍♀",
     "hexcodes": [
@@ -5798,8 +5798,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: dark skin tone",
     "emoji": "🤹🏿‍♀️",
     "hexcodes": [
@@ -5814,8 +5814,8 @@
     "group": "people-body",
     "subgroup": "person-sport",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "woman juggling: dark skin tone",
     "emoji": "🤹🏿‍♀",
     "hexcodes": [

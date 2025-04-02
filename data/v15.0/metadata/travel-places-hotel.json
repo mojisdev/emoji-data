@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "bellhop bell",
     "emoji": "🛎️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "bellhop bell",
     "emoji": "🛎",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "luggage",
     "emoji": "🧳",
     "hexcodes": [

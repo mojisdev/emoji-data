@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "exclamation question mark",
     "emoji": "⁉",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "red question mark",
     "emoji": "❓",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "white question mark",
     "emoji": "❔",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "white exclamation mark",
     "emoji": "❕",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "red exclamation mark",
     "emoji": "❗",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "wavy dash",
     "emoji": "〰",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "double exclamation mark",
     "emoji": "‼️",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "unqualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "double exclamation mark",
     "emoji": "‼",
     "hexcodes": [
@@ -100,8 +100,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "exclamation question mark",
     "emoji": "⁉️",
     "hexcodes": [
@@ -113,8 +113,8 @@
     "group": "symbols",
     "subgroup": "punctuation",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "wavy dash",
     "emoji": "〰️",
     "hexcodes": [

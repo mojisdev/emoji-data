@@ -3,8 +3,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "hot beverage",
     "emoji": "☕",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "baby bottle",
     "emoji": "🍼",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "glass of milk",
     "emoji": "🥛",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "teapot",
     "emoji": "🫖",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "teacup without handle",
     "emoji": "🍵",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "sake",
     "emoji": "🍶",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "bottle with popping cork",
     "emoji": "🍾",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "wine glass",
     "emoji": "🍷",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "cocktail glass",
     "emoji": "🍸",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "tropical drink",
     "emoji": "🍹",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "beer mug",
     "emoji": "🍺",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "clinking beer mugs",
     "emoji": "🍻",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "clinking glasses",
     "emoji": "🥂",
     "hexcodes": [
@@ -159,8 +159,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "3.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "3.0",
     "description": "tumbler glass",
     "emoji": "🥃",
     "hexcodes": [
@@ -171,8 +171,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "14.0",
     "unicodeVersion": "14.0",
+    "emojiVersion": "14.0",
     "description": "pouring liquid",
     "emoji": "🫗",
     "hexcodes": [
@@ -183,8 +183,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "cup with straw",
     "emoji": "🥤",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "bubble tea",
     "emoji": "🧋",
     "hexcodes": [
@@ -207,8 +207,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "beverage box",
     "emoji": "🧃",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "mate",
     "emoji": "🧉",
     "hexcodes": [
@@ -231,8 +231,8 @@
     "group": "food-drink",
     "subgroup": "drink",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "ice",
     "emoji": "🧊",
     "hexcodes": [

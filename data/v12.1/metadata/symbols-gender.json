@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "gender",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "female sign",
     "emoji": "♀",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "symbols",
     "subgroup": "gender",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "male sign",
     "emoji": "♂",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "symbols",
     "subgroup": "gender",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "female sign",
     "emoji": "♀️",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "symbols",
     "subgroup": "gender",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "male sign",
     "emoji": "♂️",
     "hexcodes": [

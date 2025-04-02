@@ -1875,6 +1875,7 @@
   "3398": "SQUARE KL",
   "3399": "SQUARE FM",
   "3400": "<CJK Ideograph Extension A, First>",
+  "100000": "<Plane 16 Private Use, First>",
   "0000": "<control>",
   "0001": "<control>",
   "0002": "<control>",
@@ -10615,5 +10616,8 @@
   "FFFA": "INTERLINEAR ANNOTATION SEPARATOR",
   "FFFB": "INTERLINEAR ANNOTATION TERMINATOR",
   "FFFC": "OBJECT REPLACEMENT CHARACTER",
-  "FFFD": "REPLACEMENT CHARACTER"
+  "FFFD": "REPLACEMENT CHARACTER",
+  "F0000": "<Plane 15 Private Use, First>",
+  "FFFFD": "<Plane 15 Private Use, Last>",
+  "10FFFD": "<Plane 16 Private Use, Last>"
 }

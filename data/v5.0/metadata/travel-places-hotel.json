@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bellhop",
     "emoji": "🛎️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bellhop",
     "emoji": "🛎",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "door",
     "emoji": "🚪",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bed",
     "emoji": "🛏️",
     "hexcodes": [
@@ -53,8 +53,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bed",
     "emoji": "🛏",
     "hexcodes": [
@@ -65,8 +65,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "couch",
     "emoji": "🛋️",
     "hexcodes": [
@@ -78,8 +78,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "non-fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "couch",
     "emoji": "🛋",
     "hexcodes": [
@@ -90,8 +90,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "toilet",
     "emoji": "🚽",
     "hexcodes": [
@@ -102,8 +102,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "shower",
     "emoji": "🚿",
     "hexcodes": [
@@ -114,8 +114,8 @@
     "group": "travel-places",
     "subgroup": "hotel",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "bathtub",
     "emoji": "🛁",
     "hexcodes": [

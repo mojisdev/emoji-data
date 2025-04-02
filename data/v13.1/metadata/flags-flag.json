@@ -3,8 +3,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "chequered flag",
     "emoji": "🏁",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "triangular flag",
     "emoji": "🚩",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "crossed flags",
     "emoji": "🎌",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "black flag",
     "emoji": "🏴",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "white flag",
     "emoji": "🏳️",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "white flag",
     "emoji": "🏳",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "rainbow flag",
     "emoji": "🏳️‍🌈",
     "hexcodes": [
@@ -91,8 +91,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "unqualified",
-    "emojiVersion": "4.0",
     "unicodeVersion": "9.0",
+    "emojiVersion": "4.0",
     "description": "rainbow flag",
     "emoji": "🏳‍🌈",
     "hexcodes": [
@@ -105,8 +105,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "transgender flag",
     "emoji": "🏳️‍⚧️",
     "hexcodes": [
@@ -121,8 +121,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "unqualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "transgender flag",
     "emoji": "🏳‍⚧️",
     "hexcodes": [
@@ -136,8 +136,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "unqualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "transgender flag",
     "emoji": "🏳️‍⚧",
     "hexcodes": [
@@ -151,8 +151,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "unqualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "transgender flag",
     "emoji": "🏳‍⚧",
     "hexcodes": [
@@ -165,8 +165,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "pirate flag",
     "emoji": "🏴‍☠️",
     "hexcodes": [
@@ -180,8 +180,8 @@
     "group": "flags",
     "subgroup": "flag",
     "qualifier": "minimally-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "pirate flag",
     "emoji": "🏴‍☠",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "flags",
     "subgroup": "subdivision-flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "England",
     "emoji": "🏴󠁧󠁢󠁥󠁮󠁧󠁿",
     "hexcodes": [
@@ -21,8 +21,8 @@
     "group": "flags",
     "subgroup": "subdivision-flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "Scotland",
     "emoji": "🏴󠁧󠁢󠁳󠁣󠁴󠁿",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "flags",
     "subgroup": "subdivision-flag",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "Wales",
     "emoji": "🏴󠁧󠁢󠁷󠁬󠁳󠁿",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun",
     "emoji": "☀",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud",
     "emoji": "☁",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "umbrella",
     "emoji": "☂",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "snowman",
     "emoji": "☃",
     "hexcodes": [
@@ -51,8 +51,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "comet",
     "emoji": "☄",
     "hexcodes": [
@@ -63,8 +63,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "umbrella with rain drops",
     "emoji": "☔",
     "hexcodes": [
@@ -75,8 +75,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "snowflake",
     "emoji": "❄",
     "hexcodes": [
@@ -87,8 +87,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "new moon",
     "emoji": "🌑",
     "hexcodes": [
@@ -99,8 +99,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "waxing crescent moon",
     "emoji": "🌒",
     "hexcodes": [
@@ -111,8 +111,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "first quarter moon",
     "emoji": "🌓",
     "hexcodes": [
@@ -123,8 +123,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "waxing gibbous moon",
     "emoji": "🌔",
     "hexcodes": [
@@ -135,8 +135,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "full moon",
     "emoji": "🌕",
     "hexcodes": [
@@ -147,8 +147,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "waning gibbous moon",
     "emoji": "🌖",
     "hexcodes": [
@@ -159,8 +159,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "last quarter moon",
     "emoji": "🌗",
     "hexcodes": [
@@ -171,8 +171,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "waning crescent moon",
     "emoji": "🌘",
     "hexcodes": [
@@ -183,8 +183,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "crescent moon",
     "emoji": "🌙",
     "hexcodes": [
@@ -195,8 +195,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "new moon face",
     "emoji": "🌚",
     "hexcodes": [
@@ -207,8 +207,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "first quarter moon face",
     "emoji": "🌛",
     "hexcodes": [
@@ -219,8 +219,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "last quarter moon face",
     "emoji": "🌜",
     "hexcodes": [
@@ -231,8 +231,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "thermometer",
     "emoji": "🌡️",
     "hexcodes": [
@@ -244,8 +244,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "thermometer",
     "emoji": "🌡",
     "hexcodes": [
@@ -256,8 +256,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun",
     "emoji": "☀️",
     "hexcodes": [
@@ -269,8 +269,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "full moon face",
     "emoji": "🌝",
     "hexcodes": [
@@ -281,8 +281,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun with face",
     "emoji": "🌞",
     "hexcodes": [
@@ -293,8 +293,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.1",
     "unicodeVersion": "12.1",
+    "emojiVersion": "12.1",
     "description": "ringed planet",
     "emoji": "🪐",
     "hexcodes": [
@@ -305,8 +305,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "star",
     "emoji": "⭐",
     "hexcodes": [
@@ -317,8 +317,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "glowing star",
     "emoji": "🌟",
     "hexcodes": [
@@ -329,8 +329,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "shooting star",
     "emoji": "🌠",
     "hexcodes": [
@@ -341,8 +341,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "milky way",
     "emoji": "🌌",
     "hexcodes": [
@@ -353,8 +353,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud",
     "emoji": "☁️",
     "hexcodes": [
@@ -366,8 +366,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind cloud",
     "emoji": "⛅",
     "hexcodes": [
@@ -378,8 +378,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with lightning and rain",
     "emoji": "⛈️",
     "hexcodes": [
@@ -391,8 +391,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with lightning and rain",
     "emoji": "⛈",
     "hexcodes": [
@@ -403,8 +403,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind small cloud",
     "emoji": "🌤️",
     "hexcodes": [
@@ -416,8 +416,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind small cloud",
     "emoji": "🌤",
     "hexcodes": [
@@ -428,8 +428,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind large cloud",
     "emoji": "🌥️",
     "hexcodes": [
@@ -441,8 +441,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind large cloud",
     "emoji": "🌥",
     "hexcodes": [
@@ -453,8 +453,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind rain cloud",
     "emoji": "🌦️",
     "hexcodes": [
@@ -466,8 +466,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "sun behind rain cloud",
     "emoji": "🌦",
     "hexcodes": [
@@ -478,8 +478,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with rain",
     "emoji": "🌧️",
     "hexcodes": [
@@ -491,8 +491,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with rain",
     "emoji": "🌧",
     "hexcodes": [
@@ -503,8 +503,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with snow",
     "emoji": "🌨️",
     "hexcodes": [
@@ -516,8 +516,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with snow",
     "emoji": "🌨",
     "hexcodes": [
@@ -528,8 +528,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with lightning",
     "emoji": "🌩️",
     "hexcodes": [
@@ -541,8 +541,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cloud with lightning",
     "emoji": "🌩",
     "hexcodes": [
@@ -553,8 +553,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "tornado",
     "emoji": "🌪️",
     "hexcodes": [
@@ -566,8 +566,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "tornado",
     "emoji": "🌪",
     "hexcodes": [
@@ -578,8 +578,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fog",
     "emoji": "🌫️",
     "hexcodes": [
@@ -591,8 +591,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fog",
     "emoji": "🌫",
     "hexcodes": [
@@ -603,8 +603,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "wind face",
     "emoji": "🌬️",
     "hexcodes": [
@@ -616,8 +616,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "wind face",
     "emoji": "🌬",
     "hexcodes": [
@@ -628,8 +628,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "cyclone",
     "emoji": "🌀",
     "hexcodes": [
@@ -640,8 +640,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "rainbow",
     "emoji": "🌈",
     "hexcodes": [
@@ -652,8 +652,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "closed umbrella",
     "emoji": "🌂",
     "hexcodes": [
@@ -664,8 +664,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "umbrella",
     "emoji": "☂️",
     "hexcodes": [
@@ -677,8 +677,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "umbrella on ground",
     "emoji": "⛱️",
     "hexcodes": [
@@ -690,8 +690,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "unqualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "umbrella on ground",
     "emoji": "⛱",
     "hexcodes": [
@@ -702,8 +702,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "high voltage",
     "emoji": "⚡",
     "hexcodes": [
@@ -714,8 +714,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "snowflake",
     "emoji": "❄️",
     "hexcodes": [
@@ -727,8 +727,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "snowman",
     "emoji": "☃️",
     "hexcodes": [
@@ -740,8 +740,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "snowman without snow",
     "emoji": "⛄",
     "hexcodes": [
@@ -752,8 +752,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "comet",
     "emoji": "☄️",
     "hexcodes": [
@@ -765,8 +765,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "fire",
     "emoji": "🔥",
     "hexcodes": [
@@ -777,8 +777,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "droplet",
     "emoji": "💧",
     "hexcodes": [
@@ -789,8 +789,8 @@
     "group": "travel-places",
     "subgroup": "sky-weather",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "water wave",
     "emoji": "🌊",
     "hexcodes": [

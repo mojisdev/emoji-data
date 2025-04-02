@@ -3,8 +3,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "glasses",
     "emoji": "👓",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "sunglasses",
     "emoji": "🕶️",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "sunglasses",
     "emoji": "🕶",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "goggles",
     "emoji": "🥽",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "lab coat",
     "emoji": "🥼",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "safety vest",
     "emoji": "🦺",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "necktie",
     "emoji": "👔",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "t-shirt",
     "emoji": "👕",
     "hexcodes": [
@@ -100,8 +100,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "jeans",
     "emoji": "👖",
     "hexcodes": [
@@ -112,8 +112,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "scarf",
     "emoji": "🧣",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "gloves",
     "emoji": "🧤",
     "hexcodes": [
@@ -136,8 +136,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "coat",
     "emoji": "🧥",
     "hexcodes": [
@@ -148,8 +148,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "socks",
     "emoji": "🧦",
     "hexcodes": [
@@ -160,8 +160,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "dress",
     "emoji": "👗",
     "hexcodes": [
@@ -172,8 +172,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "kimono",
     "emoji": "👘",
     "hexcodes": [
@@ -184,8 +184,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "sari",
     "emoji": "🥻",
     "hexcodes": [
@@ -196,8 +196,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "one-piece swimsuit",
     "emoji": "🩱",
     "hexcodes": [
@@ -208,8 +208,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "briefs",
     "emoji": "🩲",
     "hexcodes": [
@@ -220,8 +220,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "shorts",
     "emoji": "🩳",
     "hexcodes": [
@@ -232,8 +232,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "bikini",
     "emoji": "👙",
     "hexcodes": [
@@ -244,8 +244,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "woman’s clothes",
     "emoji": "👚",
     "hexcodes": [
@@ -256,8 +256,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "purse",
     "emoji": "👛",
     "hexcodes": [
@@ -268,8 +268,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "handbag",
     "emoji": "👜",
     "hexcodes": [
@@ -280,8 +280,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "clutch bag",
     "emoji": "👝",
     "hexcodes": [
@@ -292,8 +292,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "shopping bags",
     "emoji": "🛍️",
     "hexcodes": [
@@ -305,8 +305,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "shopping bags",
     "emoji": "🛍",
     "hexcodes": [
@@ -317,8 +317,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "backpack",
     "emoji": "🎒",
     "hexcodes": [
@@ -329,8 +329,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "thong sandal",
     "emoji": "🩴",
     "hexcodes": [
@@ -341,8 +341,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "man’s shoe",
     "emoji": "👞",
     "hexcodes": [
@@ -353,8 +353,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "running shoe",
     "emoji": "👟",
     "hexcodes": [
@@ -365,8 +365,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "hiking boot",
     "emoji": "🥾",
     "hexcodes": [
@@ -377,8 +377,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "11.0",
     "unicodeVersion": "11.0",
+    "emojiVersion": "11.0",
     "description": "flat shoe",
     "emoji": "🥿",
     "hexcodes": [
@@ -389,8 +389,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "high-heeled shoe",
     "emoji": "👠",
     "hexcodes": [
@@ -401,8 +401,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "woman’s sandal",
     "emoji": "👡",
     "hexcodes": [
@@ -413,8 +413,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "12.0",
     "unicodeVersion": "12.0",
+    "emojiVersion": "12.0",
     "description": "ballet shoes",
     "emoji": "🩰",
     "hexcodes": [
@@ -425,8 +425,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "woman’s boot",
     "emoji": "👢",
     "hexcodes": [
@@ -437,8 +437,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "crown",
     "emoji": "👑",
     "hexcodes": [
@@ -449,8 +449,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "woman’s hat",
     "emoji": "👒",
     "hexcodes": [
@@ -461,8 +461,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "top hat",
     "emoji": "🎩",
     "hexcodes": [
@@ -473,8 +473,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "graduation cap",
     "emoji": "🎓",
     "hexcodes": [
@@ -485,8 +485,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "billed cap",
     "emoji": "🧢",
     "hexcodes": [
@@ -497,8 +497,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "13.0",
     "unicodeVersion": "13.0",
+    "emojiVersion": "13.0",
     "description": "military helmet",
     "emoji": "🪖",
     "hexcodes": [
@@ -509,8 +509,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "rescue worker’s helmet",
     "emoji": "⛑️",
     "hexcodes": [
@@ -522,8 +522,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "unqualified",
-    "emojiVersion": "0.7",
     "unicodeVersion": "7.0",
+    "emojiVersion": "0.7",
     "description": "rescue worker’s helmet",
     "emoji": "⛑",
     "hexcodes": [
@@ -534,8 +534,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "1.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "1.0",
     "description": "prayer beads",
     "emoji": "📿",
     "hexcodes": [
@@ -546,8 +546,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "lipstick",
     "emoji": "💄",
     "hexcodes": [
@@ -558,8 +558,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "ring",
     "emoji": "💍",
     "hexcodes": [
@@ -570,8 +570,8 @@
     "group": "objects",
     "subgroup": "clothing",
     "qualifier": "fully-qualified",
-    "emojiVersion": "0.6",
     "unicodeVersion": "6.0",
+    "emojiVersion": "0.6",
     "description": "gem stone",
     "emoji": "💎",
     "hexcodes": [

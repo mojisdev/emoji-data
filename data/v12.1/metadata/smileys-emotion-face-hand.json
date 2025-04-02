@@ -3,8 +3,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-hand",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "hugging face",
     "emoji": "🤗",
     "hexcodes": [
@@ -15,8 +15,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-hand",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "face with hand over mouth",
     "emoji": "🤭",
     "hexcodes": [
@@ -27,8 +27,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-hand",
     "qualifier": "fully-qualified",
-    "emojiVersion": "5.0",
     "unicodeVersion": "10.0",
+    "emojiVersion": "5.0",
     "description": "shushing face",
     "emoji": "🤫",
     "hexcodes": [
@@ -39,8 +39,8 @@
     "group": "smileys-emotion",
     "subgroup": "face-hand",
     "qualifier": "fully-qualified",
-    "emojiVersion": "2.0",
     "unicodeVersion": "8.0",
+    "emojiVersion": "2.0",
     "description": "thinking face",
     "emoji": "🤔",
     "hexcodes": [

@@ -3,8 +3,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "warning",
     "emoji": "⚠️",
     "hexcodes": [
@@ -16,8 +16,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "children",
     "emoji": "🚸",
     "hexcodes": [
@@ -28,8 +28,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "⛔",
     "hexcodes": [
@@ -40,8 +40,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "prohibited",
     "emoji": "🚫",
     "hexcodes": [
@@ -52,8 +52,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "🚳",
     "hexcodes": [
@@ -64,8 +64,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "🚭",
     "hexcodes": [
@@ -76,8 +76,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "🚯",
     "hexcodes": [
@@ -88,8 +88,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "non-potable",
     "emoji": "🚱",
     "hexcodes": [
@@ -100,8 +100,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "🚷",
     "hexcodes": [
@@ -112,8 +112,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "📵",
     "hexcodes": [
@@ -124,8 +124,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "no",
     "emoji": "🔞",
     "hexcodes": [
@@ -136,8 +136,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "radioactive",
     "emoji": "☢️",
     "hexcodes": [
@@ -149,8 +149,8 @@
     "group": "symbols",
     "subgroup": "warning",
     "qualifier": "fully-qualified",
-    "emojiVersion": null,
     "unicodeVersion": null,
+    "emojiVersion": null,
     "description": "biohazard",
     "emoji": "☣️",
     "hexcodes": [
