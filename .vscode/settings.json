@@ -11,9 +11,9 @@
     },
     {
       "fileMatch": [
-        "data/metadata/*.json"
+        "data/*/metadata/*.json"
       ],
-      "url": "https://api.mojis.dev/data-schemas/metadata.json"
+      "url": "https://api.mojis.dev/data-schemas/emojis.json"
     }
   ]
 }
