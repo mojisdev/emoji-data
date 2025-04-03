@@ -37,18 +37,18 @@ jobs:
           node-version: lts/*
 
       - name: check latest release
-        run: pnpm dlx @mojis/cli@latest emoji-versions all --force --drafts --format json --output emojis.lock
+        run: pnpm dlx @mojis/cli@latest emoji-versions all --force --drafts --format json --output emoji-versions.json
 
-      - name: detect changes for `emojis.lock`
-        id: has-lock-changes
+      - name: detect changes for `emoji-versions.json`
+        id: has-version-changes
         run: |
-          # set has-lock-changes to true if emojis.lock has changes
-          if git diff --exit-code emojis.lock; then
-            echo "no changes detected in emojis.lock"
-            echo "has-lock-changes=false" >> $GITHUB_OUTPUT
+          # set has-version-changes to true if emoji-versions.json has changes
+          if git diff --exit-code emoji-versions.json; then
+            echo "no changes detected in emoji-versions.json"
+            echo "has-version-changes=false" >> $GITHUB_OUTPUT
           else
-            echo "changes detected in emojis.lock"
-            echo "has-lock-changes=true" >> $GITHUB_OUTPUT
+            echo "changes detected in emoji-versions.json"
+            echo "has-version-changes=true" >> $GITHUB_OUTPUT
           fi
 
       - name: check for conflicts
@@ -74,7 +74,7 @@ jobs:
 
       - name: create pull request
         uses: peter-evans/create-pull-request@dd2324fc52d5d43c699a5636bcf19fceaa70c284 # v7.0.7
-        if: ${{ github.event.inputs.dry-run != 'true' && (steps.has-lock-changes.outputs.has-lock-changes == 'true' || steps.check-conflicts.outputs.has-conflicts == 'true') }}
+        if: ${{ github.event.inputs.dry-run != 'true' && (steps.has-version-changes.outputs.has-version-changes == 'true' || steps.check-conflicts.outputs.has-conflicts == 'true') }}
         with:
           commit-message: "feat: new emoji release"
           title: "feat: new emoji release"
@@ -90,7 +90,7 @@ jobs:
 
             This is an automated PR to update the emoji releases.
           branch: new-emoji-version
-          add-paths: emojis.lock
+          add-paths: emoji-versions.json
           base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>

@@ -22,7 +22,7 @@ on:
       # this will limit the github actions a bit.
       - main
     paths:
-      - emojis.lock
+      - emoji-versions.json
       - data/**
 
 permissions: {}
@@ -57,11 +57,11 @@ jobs:
         run: |
           PREV_COMMIT=$(git rev-parse HEAD^)
 
-          git show $PREV_COMMIT:emojis.lock > previous_emojis.lock
+          git show $PREV_COMMIT:emoji-versions.json > previous_emoji-versions.json
 
           DIFF=$(jq -n \
-            --slurpfile before previous_emojis.lock \
-            --slurpfile after emojis.lock \
+            --slurpfile before previous_emoji-versions.json \
+            --slurpfile after emoji-versions.json \
             '($before[0].versions | map(.emoji_version) | map(tostring)) as $oldVersions |
              ($after[0].versions | map(.emoji_version) | map(tostring)) as $newVersions |
              $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[] |
@@ -107,7 +107,7 @@ jobs:
 
             This is an automated PR to update the emoji data.
           branch: update-emojis
-          add-paths: data/*,emojis.lock
+          add-paths: data/*,emoji-versions.json
           base: main
           committer: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
           author: github-actions[bot] <41898282+github-actions[bot]@users.noreply.github.com>
