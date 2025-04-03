@@ -62,8 +62,8 @@ jobs:
           DIFF=$(jq -n \
             --slurpfile before previous_emoji-versions.json \
             --slurpfile after emoji-versions.json \
-            '($before[0].versions | map(.emoji_version) | map(tostring)) as $oldVersions |
-             ($after[0].versions | map(.emoji_version) | map(tostring)) as $newVersions |
+            '($before[0] | map(.emoji_version) | map(tostring)) as $oldVersions |
+             ($after[0] | map(.emoji_version) | map(tostring)) as $newVersions |
              $newVersions | map(select(. as $v | $oldVersions | index($v) | not))[] |
              select(.)' | tr '\n' ' ')
 
