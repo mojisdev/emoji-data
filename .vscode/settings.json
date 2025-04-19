@@ -7,13 +7,37 @@
       "fileMatch": [
         "data/*/groups.json"
       ],
-      "url": "https://api.mojis.dev/data-schemas/groups.json"
+      "url": "https://api.mojis.dev/data-schemas/metadata/groups.json"
     },
     {
       "fileMatch": [
         "data/*/metadata/*.json"
       ],
-      "url": "https://api.mojis.dev/data-schemas/emojis.json"
+      "url": "https://api.mojis.dev/data-schemas/metadata/emojis.json"
+    },
+    {
+      "fileMatch": [
+        "data/*/sequences.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/sequences/sequences.json"
+    },
+    {
+      "fileMatch": [
+        "data/*/zwj-sequences.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/sequences/zwj.json"
+    },
+    {
+      "fileMatch": [
+        "data/*/variations.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/variations/variations.json"
+    },
+    {
+      "fileMatch": [
+        "data/*/unicode-names.json"
+      ],
+      "url": "https://api.mojis.dev/data-schemas/unicode-names/unicodeNames.json"
     }
   ]
 }
