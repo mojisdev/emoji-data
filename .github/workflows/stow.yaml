@@ -1,4 +1,4 @@
-name: stow emoji data
+name: Stow Emoji Data
 
 on:
   workflow_dispatch:

@@ -1,4 +1,4 @@
-name: build emoji data
+name: Build Emoji Data
 
 on:
   workflow_dispatch:

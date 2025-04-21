@@ -1,4 +1,4 @@
-name: detect new versions
+name: Detect New Versions
 
 on:
   workflow_dispatch:
